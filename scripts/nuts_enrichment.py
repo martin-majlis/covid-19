@@ -28,7 +28,7 @@ for line in reader:
             location = geolocator.geocode(line[COLUMN_NUTS3])
             if location:
                 extra = [location.latitude, location.longitude]
-            print(line[col] + " is not recognized location", file=sys.stderr)
+            print(line[col] + " location: " + str(extra), file=sys.stderr)
             time.sleep(1)
 
     writer.writerow(line + extra)
