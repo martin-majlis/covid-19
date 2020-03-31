@@ -4,7 +4,7 @@ It is using the same structure as [2019 Novel Coronavirus COVID-19 (2019-nCoV) D
 
 ## Modifications
 
-* `region` - with correctly filled `Province/State`, `Lat`, and `Long` columns
+* `nuts3` - with correctly filled `Province/State`, `Lat`, and `Long` columns
 * `age` - age of the person is used instead of Province/State
 * `sex` - sex of the person is used instead of Province/State
 * `sex_age` - sex and age of the person is used instead of Province/State

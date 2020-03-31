@@ -23,18 +23,17 @@ def download(url: str, name: str) -> IO:
     path = '/tmp/' + name
     if not os.path.exists(path) or os.path.getmtime(path) < time.time() - CACHE_LIFETIME:
         response = requests.get(url, allow_redirects=True)
+        print(f"Downloading {url} into {path}")
         with open(path, 'w') as fh:
             fh.write(response.text)
-
+    print(f"{url} => {path}")
     return open(path, 'r')
 
-# PROCESS NUTS DATA
-# https://onemocneni-aktualne.mzcr.cz/covid-19
 
-nuts_data = download(
-    url='https://raw.githubusercontent.com/martin-majlis/covid-19-data/master/support/nuts-enriched.csv',
-    name='nuts-enriched.csv',
-)
+def dt_format(d: date) -> str:
+    # they are not using 0 padding - d.strftime("%m/%d/%y") :/
+    return f"{d.month}/{d.day}/{d.year % 100}"
+
 
 COLUMN_CODE = 0
 COLUMN_LATITUDE = 5
@@ -101,8 +100,8 @@ for line in czech_reader:
 # https://onemocneni-aktualne.mzcr.cz/covid-19
 
 nuts_data = download(
-    url='https://raw.githubusercontent.com/martin-majlis/covid-19-data/master/support/nuts-enriched.csv',
-    name='nuts-enriched.csv',
+    url='https://raw.githubusercontent.com/martin-majlis/covid-19-data/master/data/support/nuts-enriched.csv',
+    name='martin-majlis__covid-19-data__nuts-enriched.csv',
 )
 
 COLUMN_CODE = 'Kod'
@@ -138,16 +137,20 @@ while d < date.today():
     DATES.append(d)
     d += timedelta(days=1)
 
+HEADER = COMMON_HEADERS + [dt_format(d) for d in DATES]
 
-def generate(
+def raw_path(name: str) -> str:
+    return 'data/CSSEGISandData-COVID-19/time_series/time_series_covid19_confirmed_' + name + '.csv'
+
+
+def transform_raw(
         name: str,
         data: Dict[str, Dict[date, int]],
         header: Callable[[str], Dict[str, str]]
 ):
-    path = 'time_series/time_series_' + name + '.csv'
+    path = raw_path(name)
     with open(path, 'w') as csvfile:
-        fieldnames = COMMON_HEADERS + [d.strftime("%m/%d/%y") for d in DATES]
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer = csv.DictWriter(csvfile, fieldnames=HEADER)
         writer.writeheader()
         for primary in sorted(data.keys()):
             values = data[primary]
@@ -155,15 +158,16 @@ def generate(
             s = 0
             for d in DATES:
                 s += values[d]
-                aggr[d.strftime("%m/%d/%y")] = s
+                aggr[dt_format(d)] = s
             writer.writerow({
                 **header(primary),
                 **aggr
             })
+    print(f"Raw transformation: {name} => {path}")
 
 
-generate(
-    name='by_region',
+transform_raw(
+    name='by_nut3',
     data=by_nuts3,
     header=lambda k: {
         'Province/State': nuts_mapping[k][COLUMN_NUTS3],
@@ -173,7 +177,7 @@ generate(
     },
 )
 
-generate(
+transform_raw(
     name='by_age',
     data=by_age,
     header=lambda k: {
@@ -184,7 +188,7 @@ generate(
     },
 )
 
-generate(
+transform_raw(
     name='by_sex',
     data=by_sex,
     header=lambda k: {
@@ -195,7 +199,7 @@ generate(
     },
 )
 
-generate(
+transform_raw(
     name='by_sex_age',
     data=by_sex_age,
     header=lambda k: {
@@ -203,5 +207,86 @@ generate(
         'Country/Region': 'Czechia',
         'Lat': '',
         'Long': '',
+    },
+)
+
+cssegi_data = download(
+    url='https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv',
+    name='CSSEGISandData__COVID-19__time_series_covid19_confirmed_global.csv',
+)
+
+cssegi_reader = csv.DictReader(cssegi_data)
+# skip header
+next(cssegi_reader)
+
+cssegi_records = [rec for rec in cssegi_reader]  # type: List[Dict[str, str]]
+
+
+def combine_covidtrends(
+        name: str,
+        data: Dict[str, Dict[date, int]],
+        modifier: Callable[[Dict[str, str]], Dict[str, str]]
+):
+    with open(raw_path(name)) as fh_raw:
+        raw_reader = csv.DictReader(fh_raw)
+
+        raw_data = [rec for rec in raw_reader]  # type: List[Dict[str, str]]
+
+        path = f'data/derived/covidtrends/time_series_covid19_confirmed_{name}_'
+        with open(path + 'just_czechia.csv', 'w') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=HEADER)
+            writer.writeheader()
+            for rec in raw_data:
+                writer.writerow(modifier(rec))
+
+        with open(path + 'combined.csv', 'w') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=HEADER)
+            writer.writeheader()
+            for rec in raw_data:
+                writer.writerow(modifier(rec))
+            for rec in data:
+                writer.writerow(rec)
+
+
+combine_covidtrends(
+    name='by_nut3',
+    data=cssegi_records,
+    modifier=lambda rec: rec,
+)
+
+
+combine_covidtrends(
+    name='by_age',
+    data=cssegi_records,
+    modifier=lambda rec: {
+        **rec,
+        **{
+            'Province/State': rec['Country/Region'],
+            'Country/Region': rec['Province/State'],
+        },
+    },
+)
+
+combine_covidtrends(
+    name='by_sex',
+    data=cssegi_records,
+    modifier=lambda rec: {
+        **rec,
+        **{
+            'Province/State': rec['Country/Region'],
+            'Country/Region': rec['Province/State'],
+        },
+    },
+)
+
+combine_covidtrends(
+    name='by_sex_age',
+    data=cssegi_records,
+    modifier=lambda rec: {
+        **rec,
+        **{
+            'Province/State': rec['Country/Region'],
+            'Country/Region': rec['Province/State'],
+        },
     },
 )

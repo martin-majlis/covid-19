@@ -11,4 +11,4 @@ nuts-enrichment:
 	cat $(F_NUTS_RAW) | $(PYTHON) ./scripts/nuts_enrichment.py | tee $(F_NUTS_ENRICHED)
 
 transform-CSSEGISandData-COVID:
-	$(PYTHON) ./scripts/transform-transform-CSSEGISandData-COVID.py
+	$(PYTHON) ./scripts/transform-CSSEGISandData-COVID-19.py
