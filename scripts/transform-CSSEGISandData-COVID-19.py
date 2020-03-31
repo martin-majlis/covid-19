@@ -265,7 +265,13 @@ def combine_covidtrends(
 combine_covidtrends(
     name='by_nut3',
     data=cssegi_records,
-    modifier=lambda rec: rec,
+    modifier=lambda rec: {
+        **rec,
+        **{
+            'Province/State': '_' + rec['Country/Region'],
+            'Country/Region': '_' + rec['Province/State'],
+        },
+    },
 )
 
 
@@ -275,8 +281,8 @@ combine_covidtrends(
     modifier=lambda rec: {
         **rec,
         **{
-            'Province/State': rec['Country/Region'],
-            'Country/Region': rec['Province/State'],
+            'Province/State': '_' + rec['Country/Region'],
+            'Country/Region': '_' + rec['Province/State'],
         },
     },
 )
@@ -287,8 +293,8 @@ combine_covidtrends(
     modifier=lambda rec: {
         **rec,
         **{
-            'Province/State': rec['Country/Region'],
-            'Country/Region': rec['Province/State'],
+            'Province/State': '_' + rec['Country/Region'],
+            'Country/Region': '_' + rec['Province/State'],
         },
     },
 )
@@ -299,8 +305,8 @@ combine_covidtrends(
     modifier=lambda rec: {
         **rec,
         **{
-            'Province/State': rec['Country/Region'],
-            'Country/Region': rec['Province/State'],
+            'Province/State': '_' + rec['Country/Region'],
+            'Country/Region': '_' + rec['Province/State'],
         },
     },
 )
