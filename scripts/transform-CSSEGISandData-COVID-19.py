@@ -138,6 +138,8 @@ while d < date.today():
     d += timedelta(days=1)
 
 HEADER = COMMON_HEADERS + [dt_format(d) for d in DATES]
+HEADER_ISO = COMMON_HEADERS + [d.isoformat() for d in DATES]
+
 
 def raw_path(name: str) -> str:
     return 'data/CSSEGISandData-COVID-19/time_series/time_series_covid19_confirmed_' + name + '.csv'
@@ -149,20 +151,32 @@ def transform_raw(
         header: Callable[[str], Dict[str, str]]
 ):
     path = raw_path(name)
-    with open(path, 'w') as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=HEADER)
-        writer.writeheader()
-        for primary in sorted(data.keys()):
-            values = data[primary]
-            aggr = defaultdict(int)
-            s = 0
-            for d in DATES:
-                s += values[d]
-                aggr[dt_format(d)] = s
-            writer.writerow({
-                **header(primary),
-                **aggr
-            })
+    with open(path, 'w') as csse_fh:
+        csse_writer = csv.DictWriter(csse_fh, fieldnames=HEADER)
+        csse_writer.writeheader()
+        with open(path.replace('.csv', '_iso.csv'), 'w') as iso_fh:
+            iso_writer = csv.DictWriter(iso_fh, fieldnames=HEADER_ISO)
+            iso_writer.writeheader()
+
+            for primary in sorted(data.keys()):
+                values = data[primary]
+                aggr = defaultdict(int)
+                s = 0
+                for d in DATES:
+                    s += values[d]
+                    aggr[d] = s
+                csse_writer.writerow({
+                    **header(primary),
+                    **{
+                        dt_format(d): v for d, v in aggr.items()
+                    }
+                })
+                iso_writer.writerow({
+                    **header(primary),
+                    **{
+                        d.isoformat(): v for d, v in aggr.items()
+                    }
+                })
     print(f"Raw transformation: {name} => {path}")
 
 
