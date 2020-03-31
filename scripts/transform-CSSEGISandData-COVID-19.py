@@ -248,13 +248,13 @@ def combine_covidtrends(
 
         path = f'data/derived/covidtrends/time_series_covid19_confirmed_{name}_'
         with open(path + 'just_czechia.csv', 'w') as csvfile:
-            writer = csv.DictWriter(csvfile, fieldnames=HEADER)
+            writer = csv.DictWriter(csvfile, fieldnames=HEADER, quoting=csv.QUOTE_ALL)
             writer.writeheader()
             for rec in raw_data:
                 writer.writerow(modifier(rec))
 
         with open(path + 'combined.csv', 'w') as csvfile:
-            writer = csv.DictWriter(csvfile, fieldnames=HEADER)
+            writer = csv.DictWriter(csvfile, fieldnames=HEADER, quoting=csv.QUOTE_ALL)
             writer.writeheader()
             for rec in raw_data:
                 writer.writerow(modifier(rec))
@@ -268,8 +268,8 @@ combine_covidtrends(
     modifier=lambda rec: {
         **rec,
         **{
-            'Province/State': '_' + rec['Country/Region'],
-            'Country/Region': '_' + rec['Province/State'],
+            'Province/State': ' ' + rec['Country/Region'],
+            'Country/Region': ' ' + rec['Province/State'],
         },
     },
 )
@@ -281,8 +281,8 @@ combine_covidtrends(
     modifier=lambda rec: {
         **rec,
         **{
-            'Province/State': '_' + rec['Country/Region'],
-            'Country/Region': '_' + rec['Province/State'],
+            'Province/State': ' ' + rec['Country/Region'],
+            'Country/Region': ' ' + rec['Province/State'],
         },
     },
 )
@@ -293,8 +293,8 @@ combine_covidtrends(
     modifier=lambda rec: {
         **rec,
         **{
-            'Province/State': '_' + rec['Country/Region'],
-            'Country/Region': '_' + rec['Province/State'],
+            'Province/State': ' ' + rec['Country/Region'],
+            'Country/Region': ' ' + rec['Province/State'],
         },
     },
 )
@@ -305,8 +305,8 @@ combine_covidtrends(
     modifier=lambda rec: {
         **rec,
         **{
-            'Province/State': '_' + rec['Country/Region'],
-            'Country/Region': '_' + rec['Province/State'],
+            'Province/State': ' ' + rec['Country/Region'],
+            'Country/Region': ' ' + rec['Province/State'],
         },
     },
 )
