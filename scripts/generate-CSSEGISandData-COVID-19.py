@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+# This scripts converts data from https://onemocneni-aktualne.mzcr.cz/covid-19 to the format
+# used by https://github.com/CSSEGISandData/COVID-19
+
 import csv
 import os
 import time
