@@ -42,7 +42,7 @@ sort: sort-onemocneni-aktualne.mzcr.cz_covid-19
 
 sort-onemocneni-aktualne.mzcr.cz_covid-19:
 	head -n1 $(DIR_MZCR)osoby.csv > $(DIR_MZCR)osoby-sorted.csv
-	tail -n +2 $(DIR_MZCR)osoby.csv | sort -k4,4 -s -t, | sort -s -t, -k1,1 >> $(DIR_MZCR)osoby-sorted.csv
+	tail -n +2 $(DIR_MZCR)osoby.csv | sort >> $(DIR_MZCR)osoby-sorted.csv
 
 download-CSSEGI:
 	$(call download,$(API_CSSEGI)time_series_covid19_confirmed_global.csv,$(DIR_CSSEGI)time_series_covid19_confirmed_global.csv)
