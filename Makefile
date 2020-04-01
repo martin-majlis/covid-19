@@ -7,6 +7,11 @@ DIR_DATA_SUPPORT=$(DATA)/support/
 F_NUTS_RAW=$(DIR_DATA_SUPPORT)/nuts-raw.csv
 F_NUTS_ENRICHED=$(DIR_DATA_SUPPORT)/nuts-enriched.csv
 
+install: install-python-requirements
+
+install-python-requirements:
+	$(PYTHON) -m pip install -r scripts/requirements.txt
+
 
 nuts-enrichment:
 	cat $(F_NUTS_RAW) | $(PYTHON) ./scripts/nuts_enrichment.py | tee $(F_NUTS_ENRICHED)
@@ -19,7 +24,7 @@ transform-CSSEGISandData-COVID:
 
 transform: transform-CSSEGISandData-COVID
 
-updata-data:
+update-data:
 	$(GIT) pull && \
 	$(MAKE) download transform && \
 	$(GIT) commit -a -m "Update - $(shell date --rfc-3339=seconds -u)"
