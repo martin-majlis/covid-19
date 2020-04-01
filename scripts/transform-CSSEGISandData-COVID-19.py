@@ -4,30 +4,14 @@
 # used by https://github.com/CSSEGISandData/COVID-19
 
 import csv
-import os
-import time
 from collections import defaultdict
 from datetime import timedelta
 from typing import Callable
 from typing import Dict
-from typing import IO
 from datetime import date
 from typing import List
 
-import requests
-
-CACHE_LIFETIME = 3 * 3600
-
-
-def download(url: str, name: str) -> IO:
-    path = '/tmp/' + name
-    if not os.path.exists(path) or os.path.getmtime(path) < time.time() - CACHE_LIFETIME:
-        response = requests.get(url, allow_redirects=True)
-        print(f"Downloading {url} into {path}")
-        with open(path, 'w') as fh:
-            fh.write(response.text)
-    print(f"{url} => {path}")
-    return open(path, 'r')
+from scripts.utils import download
 
 
 def dt_format(d: date) -> str:
@@ -69,7 +53,7 @@ COLUMN_REGION = 3
 # get data for Czech Republic
 czech_data = download(
     url='https://onemocneni-aktualne.mzcr.cz/api/v1/covid-19/osoby.csv',
-    name='osoby.csv',
+    path='/tmp/osoby.csv',
 )
 
 # aggregate statistics
@@ -101,7 +85,7 @@ for line in czech_reader:
 
 nuts_data = download(
     url='https://raw.githubusercontent.com/martin-majlis/covid-19-data/master/data/support/nuts-enriched.csv',
-    name='martin-majlis__covid-19-data__nuts-enriched.csv',
+    path='/tmp/martin-majlis__covid-19-data__nuts-enriched.csv',
 )
 
 COLUMN_CODE = 'Kod'
@@ -226,7 +210,7 @@ transform_raw(
 
 cssegi_data = download(
     url='https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv',
-    name='CSSEGISandData__COVID-19__time_series_covid19_confirmed_global.csv',
+    path='/tmp/CSSEGISandData__COVID-19__time_series_covid19_confirmed_global.csv',
 )
 
 cssegi_reader = csv.DictReader(cssegi_data)

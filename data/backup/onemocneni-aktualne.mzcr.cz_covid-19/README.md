@@ -1,0 +1,1 @@
+Data from: https://onemocneni-aktualne.mzcr.cz/api/v1/covid-19
