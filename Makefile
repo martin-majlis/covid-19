@@ -55,6 +55,8 @@ transform-CSSEGISandData-COVID:
 transform: transform-CSSEGISandData-COVID
 
 update-data:
+	echo "BEGIN UPDATE - "`date` && \
 	$(GIT) pull && \
 	$(MAKE) download sort transform && \
-	$(GIT) commit -a -m "Automatic data update - $(shell date --rfc-3339=seconds -u)"
+	$(GIT) commit -a -m "Automatic data update - $(shell date --rfc-3339=seconds -u)" && \
+	echo "END UPDATE - "`date`
