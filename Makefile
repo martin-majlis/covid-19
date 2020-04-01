@@ -59,4 +59,5 @@ update-data:
 	$(GIT) pull && \
 	$(MAKE) download sort transform && \
 	$(GIT) commit -a -m "Automatic data update - $(shell date --rfc-3339=seconds -u)" && \
+	$(GIT) push && \
 	echo "END UPDATE - "`date`
