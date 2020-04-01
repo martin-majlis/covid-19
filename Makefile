@@ -11,6 +11,9 @@ F_NUTS_ENRICHED=$(DIR_DATA_SUPPORT)/nuts-enriched.csv
 DIR_MZCR=$(DIR_DATA_BACKUP)/onemocneni-aktualne.mzcr.cz_covid-19/
 API_MZCR=https://onemocneni-aktualne.mzcr.cz/api/v1/covid-19/
 
+DIR_CSSEGI=$(DIR_DATA_BACKUP)/CSSEGISandData_COVID-19/csse_covid_19_time_series/
+API_CSSEGI=https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/
+
 install: install-python-requirements
 
 download=$(PYTHON) -c "from scripts.utils import download; download('$1', '$2')"
@@ -23,7 +26,7 @@ nuts-enrichment:
 	cat $(F_NUTS_RAW) | $(PYTHON) ./scripts/nuts_enrichment.py | tee $(F_NUTS_ENRICHED)
 
 
-download: download-onemocneni-aktualne.mzcr.cz_covid-19
+download: download-onemocneni-aktualne.mzcr.cz_covid-19 download-CSSEGI
 
 download-onemocneni-aktualne.mzcr.cz_covid-19:
 	$(call download,$(API_MZCR)testy.csv,$(DIR_MZCR)test.csv)
@@ -35,7 +38,11 @@ download-onemocneni-aktualne.mzcr.cz_covid-19:
 	$(call download,$(API_MZCR)pomucky.csv,$(DIR_MZCR)pomucky.csv)
 	$(call download,$(API_MZCR)pomucky.json,$(DIR_MZCR)pomucky.json)
 
-http://google.cz => /tmp/google.cz
+download-CSSEGI:
+	$(call download,$(API_CSSEGI)time_series_covid19_confirmed_global.csv,$(DIR_CSSEGI)time_series_covid19_confirmed_global.csv)
+	$(call download,$(API_CSSEGI)time_series_covid19_deaths_global.csv,$(DIR_CSSEGI)time_series_covid19_deaths_global.csv)
+	$(call download,$(API_CSSEGI)time_series_covid19_recovered_global.csv,$(DIR_CSSEGI)time_series_covid19_recovered_global.csv)
+
 transform-CSSEGISandData-COVID:
 	$(PYTHON) ./scripts/transform-CSSEGISandData-COVID-19.py
 
