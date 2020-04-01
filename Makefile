@@ -56,5 +56,6 @@ transform: transform-CSSEGISandData-COVID
 
 update-data:
 	$(GIT) pull && \
+	find $(DIR_DATA) -type f -exec touch -d "1 day ago" {} \; && \
 	$(MAKE) download sort transform && \
 	$(GIT) commit -a -m "Automatic data update - $(shell date --rfc-3339=seconds -u)"
