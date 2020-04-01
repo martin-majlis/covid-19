@@ -16,7 +16,7 @@ API_CSSEGI=https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse
 
 install: install-python-requirements
 
-download=$(PYTHON) -c "from scripts.utils import download; download('$1', '$2')"
+download=$(PYTHON) -c "from scripts.utils import download; download('$1', '$2', 0)"
 
 install-python-requirements:
 	$(PYTHON) -m pip install -r scripts/requirements.txt
@@ -56,6 +56,5 @@ transform: transform-CSSEGISandData-COVID
 
 update-data:
 	$(GIT) pull && \
-	find $(DIR_DATA) -type f -exec touch -d "1 day ago" {} \; && \
 	$(MAKE) download sort transform && \
 	$(GIT) commit -a -m "Automatic data update - $(shell date --rfc-3339=seconds -u)"
