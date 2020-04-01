@@ -4,14 +4,27 @@
 # used by https://github.com/CSSEGISandData/COVID-19
 
 import csv
+import os
+import time
 from collections import defaultdict
 from datetime import timedelta
 from typing import Callable
 from typing import Dict
 from datetime import date
+from typing import IO
 from typing import List
 
-from scripts.utils import download
+import requests
+
+
+def download(url: str, path: str, cache_lifetime=3600) -> IO:
+    if not os.path.exists(path) or os.path.getmtime(path) < time.time() - cache_lifetime:
+        response = requests.get(url, allow_redirects=True)
+        print(f"Downloading {url} into {path}")
+        with open(path, 'w') as fh:
+            fh.write(response.text)
+    print(f"{url} => {path}")
+    return open(path, 'r')
 
 
 def dt_format(d: date) -> str:
