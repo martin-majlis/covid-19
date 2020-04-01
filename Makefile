@@ -38,6 +38,12 @@ download-onemocneni-aktualne.mzcr.cz_covid-19:
 	$(call download,$(API_MZCR)pomucky.csv,$(DIR_MZCR)pomucky.csv)
 	$(call download,$(API_MZCR)pomucky.json,$(DIR_MZCR)pomucky.json)
 
+sort: sort-onemocneni-aktualne.mzcr.cz_covid-19
+
+sort-onemocneni-aktualne.mzcr.cz_covid-19:
+	head -n1 $(DIR_MZCR)osoby.csv > $(DIR_MZCR)osoby-sorted.csv
+	tail -n +2 $(DIR_MZCR)osoby.csv | sort -k4,4 -s -t, | sort -s -t, -k1,1 >> $(DIR_MZCR)osoby-sorted.csv
+
 download-CSSEGI:
 	$(call download,$(API_CSSEGI)time_series_covid19_confirmed_global.csv,$(DIR_CSSEGI)time_series_covid19_confirmed_global.csv)
 	$(call download,$(API_CSSEGI)time_series_covid19_deaths_global.csv,$(DIR_CSSEGI)time_series_covid19_deaths_global.csv)
@@ -50,5 +56,5 @@ transform: transform-CSSEGISandData-COVID
 
 update-data:
 	$(GIT) pull && \
-	$(MAKE) download transform && \
+	$(MAKE) download sort transform && \
 	$(GIT) commit -a -m "Automatic data update - $(shell date --rfc-3339=seconds -u)"
