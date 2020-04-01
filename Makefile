@@ -44,4 +44,4 @@ transform: transform-CSSEGISandData-COVID
 update-data:
 	$(GIT) pull && \
 	$(MAKE) download transform && \
-	$(GIT) commit -a -m "Update - $(shell date --rfc-3339=seconds -u)"
+	$(GIT) commit -a -m "Automatic data update - $(shell date --rfc-3339=seconds -u)"
