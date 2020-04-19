@@ -44,6 +44,8 @@ def transform(root_dir: str, source_dir: str, target_dir: str) -> None:
                     if rec['pocet']:
                         stats[d.date()][rec['kraj']][rec['pomucka']] = int(rec['pocet'])
 
+    last_date = sorted(dates)[-1]
+
     previous = defaultdict(
         lambda: defaultdict(int)
     )  # type: Dict[str, Dict[str, int]]
@@ -64,11 +66,11 @@ def transform(root_dir: str, source_dir: str, target_dir: str) -> None:
 
     with open(f"{target_dir}/pomucky-dates.csv", mode="w") as fh:
         writer = csv.writer(fh)
-        writer.writerow(["pomucka", "kraj"] + [str(d) for d in sorted(dates)])
+        writer.writerow(["pomucka", "kraj", "celkem"] + [str(d) for d in sorted(dates)])
         for kraj in sorted(kraje):
             for pomucka in sorted(pomucky):
                 writer.writerow(
-                    [pomucka, kraj] +
+                    [pomucka, kraj, stats[last_date][kraj][pomucka]] +
                     [stats[d][kraj][pomucka] for d in sorted(dates)]
                 )
 
