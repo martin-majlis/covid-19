@@ -1,9 +1,11 @@
 PYTHON=python3.7
 GIT=git
 
-DIR_DATA=data
+DIR_ROOT=./
+DIR_DATA=$(DIR_ROOT)/data
 DIR_DATA_SUPPORT=$(DIR_DATA)/support/
 DIR_DATA_BACKUP=$(DIR_DATA)/backup/
+DIR_DATA_DERIVED=$(DIR_DATA)/derived/
 
 F_NUTS_RAW=$(DIR_DATA_SUPPORT)/nuts-raw.csv
 F_NUTS_ENRICHED=$(DIR_DATA_SUPPORT)/nuts-enriched.csv
@@ -13,6 +15,8 @@ API_MZCR=https://onemocneni-aktualne.mzcr.cz/api/v1/covid-19/
 
 DIR_CSSEGI=$(DIR_DATA_BACKUP)/CSSEGISandData_COVID-19/csse_covid_19_time_series/
 API_CSSEGI=https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/
+
+DIR_DERIVED_MZCR=$(DIR_DATA_DERIVED)/onemocneni-aktualne.mzcr.cz_covid-19/
 
 install: install-python-requirements
 
@@ -52,7 +56,10 @@ download-CSSEGI:
 transform-CSSEGISandData-COVID:
 	$(PYTHON) ./scripts/transform-CSSEGISandData-COVID-19.py
 
-transform: transform-CSSEGISandData-COVID
+transform-oa-mzcr-covid:
+	$(PYTHON) ./scripts/transform_oa_mzcr_covid.py $(DIR_ROOT) $(DIR_MZCR) $(DIR_DERIVED_MZCR)
+
+transform: transform-CSSEGISandData-COVID transform-oa-mzcr-covid
 
 update-data:
 	echo "BEGIN UPDATE - "`date` && \
