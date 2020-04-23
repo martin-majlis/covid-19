@@ -59,6 +59,9 @@ transform-CSSEGISandData-COVID:
 
 transform-oa-mzcr-covid:
 	$(PYTHON) ./scripts/transform_oa_mzcr_covid.py $(DIR_ROOT) $(DIR_MZCR) $(DIR_DERIVED_MZCR)
+	cat $(DIR_MZCR)covid-19.html | \
+	tr '\n' ' ' | \
+	sed -r 's/^\s+//g;s/(\[|\]|\}|\{)/\n\1\n/g;s/>/>\n/g;s/</\n</g;s/^\s+//g' > $(DIR_DERIVED_MZCR)covid-19.html
 
 transform: transform-CSSEGISandData-COVID transform-oa-mzcr-covid
 
