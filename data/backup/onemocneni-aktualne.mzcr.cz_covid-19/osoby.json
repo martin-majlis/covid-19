@@ -1,5 +1,5 @@
 {
-    "modified": "2020-05-13T07:15:18+02:00",
+    "modified": "2020-05-13T09:00:06+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -11,10 +11,10 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-08",
-            "Vek": "32",
+            "DatumHlaseni": "2020-04-04",
+            "Vek": "36",
             "Pohlavi": "M",
-            "KHS": "CZ042",
+            "KHS": "CZ041",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -75,26 +75,10 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-23",
-            "Vek": "87",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-16",
             "Vek": "35",
             "Pohlavi": "Z",
             "KHS": "CZ010",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-29",
-            "Vek": "28",
-            "Pohlavi": "Z",
-            "KHS": "CZ080",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -107,26 +91,18 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-09",
-            "Vek": "45",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
+            "DatumHlaseni": "2020-04-23",
+            "Vek": "87",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-10",
-            "Vek": "35",
+            "DatumHlaseni": "2020-04-09",
+            "Vek": "45",
             "Pohlavi": "M",
-            "KHS": "CZ032",
-            "Import": "1",
-            "ImportZemeCsuKod": "DE"
-        },
-        {
-            "DatumHlaseni": "2020-04-23",
-            "Vek": "65",
-            "Pohlavi": "M",
-            "KHS": "CZ032",
+            "KHS": "CZ042",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -147,6 +123,14 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-05-10",
+            "Vek": "35",
+            "Pohlavi": "M",
+            "KHS": "CZ032",
+            "Import": "1",
+            "ImportZemeCsuKod": "DE"
+        },
+        {
             "DatumHlaseni": "2020-04-05",
             "Vek": "56",
             "Pohlavi": "Z",
@@ -155,8 +139,40 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-23",
+            "Vek": "65",
+            "Pohlavi": "M",
+            "KHS": "CZ032",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-29",
+            "Vek": "28",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-31",
+            "Vek": "47",
+            "Pohlavi": "M",
+            "KHS": "CZ042",
+            "Import": "1",
+            "ImportZemeCsuKod": "IT"
+        },
+        {
             "DatumHlaseni": "2020-05-03",
             "Vek": "37",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-03",
+            "Vek": "60",
             "Pohlavi": "Z",
             "KHS": "CZ041",
             "Import": "0",
@@ -171,28 +187,12 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-03",
-            "Vek": "60",
+            "DatumHlaseni": "2020-04-29",
+            "Vek": "28",
             "Pohlavi": "Z",
-            "KHS": "CZ041",
+            "KHS": "CZ080",
             "Import": "0",
             "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-30",
-            "Vek": "35",
-            "Pohlavi": "M",
-            "KHS": "CZ041",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-31",
-            "Vek": "47",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
-            "Import": "1",
-            "ImportZemeCsuKod": "IT"
         },
         {
             "DatumHlaseni": "2020-05-08",
@@ -203,72 +203,8 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-21",
-            "Vek": "38",
-            "Pohlavi": "Z",
-            "KHS": "CZ020",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-07",
-            "Vek": "20",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-29",
-            "Vek": "28",
-            "Pohlavi": "Z",
-            "KHS": "CZ080",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-03",
-            "Vek": "37",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-06",
-            "Vek": "37",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-18",
-            "Vek": "28",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-23",
             "Vek": "89",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-26",
-            "Vek": "79",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-17",
-            "Vek": "48",
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "Import": "0",
@@ -283,18 +219,10 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-24",
-            "Vek": "39",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-06",
-            "Vek": "48",
+            "DatumHlaseni": "2020-03-21",
+            "Vek": "38",
             "Pohlavi": "Z",
-            "KHS": "CZ010",
+            "KHS": "CZ020",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -307,6 +235,30 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-30",
+            "Vek": "35",
+            "Pohlavi": "M",
+            "KHS": "CZ041",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-06",
+            "Vek": "48",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-06",
+            "Vek": "37",
+            "Pohlavi": "M",
+            "KHS": "CZ042",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-08",
             "Vek": "26",
             "Pohlavi": "M",
@@ -315,18 +267,34 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-28",
-            "Vek": "22",
+            "DatumHlaseni": "2020-03-26",
+            "Vek": "79",
             "Pohlavi": "M",
             "KHS": "CZ080",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-01",
-            "Vek": "56",
-            "Pohlavi": "Z",
-            "KHS": "CZ041",
+            "DatumHlaseni": "2020-03-18",
+            "Vek": "28",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-07",
+            "Vek": "20",
+            "Pohlavi": "M",
+            "KHS": "CZ042",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-03",
+            "Vek": "37",
+            "Pohlavi": "M",
+            "KHS": "CZ042",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -335,30 +303,6 @@
             "Vek": "56",
             "Pohlavi": "Z",
             "KHS": "CZ010",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-23",
-            "Vek": "36",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-05",
-            "Vek": "44",
-            "Pohlavi": "Z",
-            "KHS": "CZ032",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-07",
-            "Vek": "59",
-            "Pohlavi": "Z",
-            "KHS": "CZ064",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -379,10 +323,66 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-06",
-            "Vek": "31",
+            "DatumHlaseni": "2020-03-28",
+            "Vek": "24",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-17",
+            "Vek": "48",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-07",
+            "Vek": "59",
+            "Pohlavi": "Z",
+            "KHS": "CZ064",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-28",
+            "Vek": "22",
             "Pohlavi": "M",
-            "KHS": "CZ042",
+            "KHS": "CZ080",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-24",
+            "Vek": "39",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-01",
+            "Vek": "56",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-03",
+            "Vek": "89",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-22",
+            "Vek": "46",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -403,41 +403,17 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-22",
-            "Vek": "46",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-28",
-            "Vek": "24",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-28",
-            "Vek": "27",
-            "Pohlavi": "Z",
-            "KHS": "CZ080",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-24",
-            "Vek": "46",
+            "DatumHlaseni": "2020-05-05",
+            "Vek": "44",
             "Pohlavi": "Z",
             "KHS": "CZ032",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-17",
-            "Vek": "43",
-            "Pohlavi": "M",
+            "DatumHlaseni": "2020-04-23",
+            "Vek": "36",
+            "Pohlavi": "Z",
             "KHS": "CZ010",
             "Import": "0",
             "ImportZemeCsuKod": ""
@@ -451,18 +427,34 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-21",
+            "DatumHlaseni": "2020-04-24",
             "Vek": "46",
             "Pohlavi": "Z",
-            "KHS": "CZ041",
+            "KHS": "CZ032",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-03",
-            "Vek": "89",
+            "DatumHlaseni": "2020-04-06",
+            "Vek": "31",
+            "Pohlavi": "M",
+            "KHS": "CZ042",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-19",
+            "Vek": "19",
             "Pohlavi": "Z",
-            "KHS": "CZ080",
+            "KHS": "CZ053",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-03",
+            "Vek": "51",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -483,18 +475,10 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-19",
-            "Vek": "19",
-            "Pohlavi": "Z",
-            "KHS": "CZ053",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-23",
-            "Vek": "74",
+            "DatumHlaseni": "2020-04-24",
+            "Vek": "6",
             "Pohlavi": "M",
-            "KHS": "CZ010",
+            "KHS": "CZ020",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -515,34 +499,50 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-04",
-            "Vek": "30",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-03",
-            "Vek": "44",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-24",
-            "Vek": "6",
-            "Pohlavi": "M",
-            "KHS": "CZ020",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-02",
             "Vek": "24",
             "Pohlavi": "Z",
             "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-05",
+            "Vek": "61",
+            "Pohlavi": "M",
+            "KHS": "CZ032",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-17",
+            "Vek": "43",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-01",
+            "Vek": "37",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-21",
+            "Vek": "46",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-28",
+            "Vek": "27",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -555,10 +555,34 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-03",
-            "Vek": "51",
+            "DatumHlaseni": "2020-04-17",
+            "Vek": "41",
             "Pohlavi": "Z",
-            "KHS": "CZ042",
+            "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-30",
+            "Vek": "94",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-15",
+            "Vek": "37",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-23",
+            "Vek": "74",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -571,10 +595,50 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-15",
-            "Vek": "37",
-            "Pohlavi": "M",
+            "DatumHlaseni": "2020-04-03",
+            "Vek": "44",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-28",
+            "Vek": "72",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-06",
+            "Vek": "1",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-23",
+            "Vek": "86",
+            "Pohlavi": "Z",
             "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-04",
+            "Vek": "30",
+            "Pohlavi": "M",
+            "KHS": "CZ042",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-30",
+            "Vek": "49",
+            "Pohlavi": "M",
+            "KHS": "CZ042",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -595,56 +659,24 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-21",
-            "Vek": "46",
+            "DatumHlaseni": "2020-04-02",
+            "Vek": "56",
             "Pohlavi": "M",
-            "KHS": "CZ010",
+            "KHS": "CZ051",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-28",
-            "Vek": "72",
-            "Pohlavi": "Z",
+            "DatumHlaseni": "2020-04-10",
+            "Vek": "75",
+            "Pohlavi": "M",
             "KHS": "CZ042",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-05",
-            "Vek": "61",
-            "Pohlavi": "M",
-            "KHS": "CZ032",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-01",
-            "Vek": "37",
-            "Pohlavi": "Z",
-            "KHS": "CZ080",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
         {
             "DatumHlaseni": "2020-03-29",
             "Vek": "89",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-06",
-            "Vek": "1",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-17",
-            "Vek": "41",
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "Import": "0",
@@ -659,9 +691,9 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-30",
-            "Vek": "94",
-            "Pohlavi": "Z",
+            "DatumHlaseni": "2020-04-21",
+            "Vek": "46",
+            "Pohlavi": "M",
             "KHS": "CZ010",
             "Import": "0",
             "ImportZemeCsuKod": ""
@@ -683,10 +715,18 @@
             "ImportZemeCsuKod": "PT"
         },
         {
-            "DatumHlaseni": "2020-04-06",
-            "Vek": "63",
-            "Pohlavi": "Z",
+            "DatumHlaseni": "2020-03-07",
+            "Vek": "3",
+            "Pohlavi": "M",
             "KHS": "CZ010",
+            "Import": "1",
+            "ImportZemeCsuKod": "IT"
+        },
+        {
+            "DatumHlaseni": "2020-05-11",
+            "Vek": "11",
+            "Pohlavi": "M",
+            "KHS": "CZ042",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -699,8 +739,8 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-08",
-            "Vek": "38",
+            "DatumHlaseni": "2020-03-31",
+            "Vek": "41",
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "Import": "0",
@@ -715,34 +755,42 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-23",
-            "Vek": "86",
+            "DatumHlaseni": "2020-04-04",
+            "Vek": "47",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-13",
+            "Vek": "34",
+            "Pohlavi": "Z",
+            "KHS": "CZ020",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-29",
+            "Vek": "60",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-06",
+            "Vek": "63",
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-02",
-            "Vek": "56",
+            "DatumHlaseni": "2020-05-08",
+            "Vek": "80",
             "Pohlavi": "M",
-            "KHS": "CZ051",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-11",
-            "Vek": "11",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-30",
-            "Vek": "49",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
+            "KHS": "CZ064",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -755,22 +803,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-04",
-            "Vek": "47",
-            "Pohlavi": "M",
-            "KHS": "CZ041",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-22",
-            "Vek": "36",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-31",
             "Vek": "32",
             "Pohlavi": "M",
@@ -779,28 +811,20 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-30",
-            "Vek": "32",
-            "Pohlavi": "M",
-            "KHS": "CZ041",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-10",
-            "Vek": "75",
-            "Pohlavi": "M",
+            "Vek": "93",
+            "Pohlavi": "Z",
             "KHS": "CZ042",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-07",
-            "Vek": "3",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "Import": "1",
-            "ImportZemeCsuKod": "IT"
+            "DatumHlaseni": "2020-04-08",
+            "Vek": "85",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
         },
         {
             "DatumHlaseni": "2020-04-29",
@@ -811,8 +835,8 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-31",
-            "Vek": "41",
+            "DatumHlaseni": "2020-04-08",
+            "Vek": "38",
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "Import": "0",
@@ -827,104 +851,8 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-10",
-            "Vek": "93",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-29",
-            "Vek": "60",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-24",
-            "Vek": "34",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-08",
-            "Vek": "54",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-04",
-            "Vek": "47",
-            "Pohlavi": "Z",
-            "KHS": "CZ041",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-09",
-            "Vek": "19",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-11",
-            "Vek": "42",
-            "Pohlavi": "Z",
-            "KHS": "CZ020",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-13",
-            "Vek": "34",
-            "Pohlavi": "Z",
-            "KHS": "CZ020",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-24",
-            "Vek": "53",
-            "Pohlavi": "Z",
-            "KHS": "CZ041",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-08",
-            "Vek": "80",
-            "Pohlavi": "M",
-            "KHS": "CZ064",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-08",
-            "Vek": "46",
-            "Pohlavi": "M",
-            "KHS": "CZ020",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-07",
-            "Vek": "67",
-            "Pohlavi": "M",
-            "KHS": "CZ052",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-08",
-            "Vek": "85",
+            "DatumHlaseni": "2020-04-17",
+            "Vek": "40",
             "Pohlavi": "Z",
             "KHS": "CZ041",
             "Import": "0",
@@ -939,54 +867,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-30",
-            "Vek": "26",
-            "Pohlavi": "Z",
-            "KHS": "CZ080",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-17",
-            "Vek": "40",
-            "Pohlavi": "Z",
-            "KHS": "CZ041",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-06",
-            "Vek": "38",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-21",
-            "Vek": "57",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-04",
-            "Vek": "17",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-06",
-            "Vek": "0",
-            "Pohlavi": "M",
-            "KHS": "CZ032",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-02",
             "Vek": "6",
             "Pohlavi": "Z",
@@ -995,10 +875,18 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-31",
-            "Vek": "56",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
+            "DatumHlaseni": "2020-04-08",
+            "Vek": "46",
+            "Pohlavi": "M",
+            "KHS": "CZ020",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-24",
+            "Vek": "34",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -1007,30 +895,6 @@
             "Vek": "44",
             "Pohlavi": "Z",
             "KHS": "CZ042",
-            "Import": "1",
-            "ImportZemeCsuKod": "AT"
-        },
-        {
-            "DatumHlaseni": "2020-04-10",
-            "Vek": "88",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-06",
-            "Vek": "52",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-13",
-            "Vek": "49",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
             "Import": "1",
             "ImportZemeCsuKod": "AT"
         },
@@ -1044,25 +908,97 @@
         },
         {
             "DatumHlaseni": "2020-04-04",
-            "Vek": "62",
+            "Vek": "47",
             "Pohlavi": "M",
             "KHS": "CZ041",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-08",
-            "Vek": "66",
+            "DatumHlaseni": "2020-03-31",
+            "Vek": "56",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-22",
+            "Vek": "36",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-30",
+            "Vek": "32",
+            "Pohlavi": "M",
+            "KHS": "CZ041",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-13",
+            "Vek": "49",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "Import": "1",
+            "ImportZemeCsuKod": "AT"
+        },
+        {
+            "DatumHlaseni": "2020-04-06",
+            "Vek": "38",
             "Pohlavi": "M",
             "KHS": "CZ042",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-24",
-            "Vek": "5",
+            "DatumHlaseni": "2020-04-30",
+            "Vek": "26",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-09",
+            "Vek": "19",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-24",
+            "Vek": "53",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-06",
+            "Vek": "52",
             "Pohlavi": "M",
-            "KHS": "CZ010",
+            "KHS": "CZ042",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-07",
+            "Vek": "67",
+            "Pohlavi": "M",
+            "KHS": "CZ052",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-04",
+            "Vek": "62",
+            "Pohlavi": "M",
+            "KHS": "CZ041",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -1083,14 +1019,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-26",
-            "Vek": "12",
-            "Pohlavi": "M",
-            "KHS": "CZ064",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-20",
             "Vek": "47",
             "Pohlavi": "Z",
@@ -1107,6 +1035,14 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-08",
+            "Vek": "54",
+            "Pohlavi": "M",
+            "KHS": "CZ042",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-14",
             "Vek": "41",
             "Pohlavi": "Z",
@@ -1115,10 +1051,82 @@
             "ImportZemeCsuKod": "AT"
         },
         {
+            "DatumHlaseni": "2020-04-04",
+            "Vek": "17",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-11",
+            "Vek": "42",
+            "Pohlavi": "Z",
+            "KHS": "CZ020",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-24",
+            "Vek": "5",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-07",
             "Vek": "45",
             "Pohlavi": "Z",
             "KHS": "CZ042",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-21",
+            "Vek": "57",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-06",
+            "Vek": "0",
+            "Pohlavi": "M",
+            "KHS": "CZ032",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-10",
+            "Vek": "88",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-08",
+            "Vek": "66",
+            "Pohlavi": "M",
+            "KHS": "CZ042",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-26",
+            "Vek": "12",
+            "Pohlavi": "M",
+            "KHS": "CZ064",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-04",
+            "Vek": "55",
+            "Pohlavi": "Z",
+            "KHS": "CZ071",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -1139,10 +1147,10 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-04",
-            "Vek": "55",
-            "Pohlavi": "Z",
-            "KHS": "CZ071",
+            "DatumHlaseni": "2020-04-23",
+            "Vek": "69",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -1156,9 +1164,25 @@
         },
         {
             "DatumHlaseni": "2020-04-23",
-            "Vek": "69",
-            "Pohlavi": "M",
+            "Vek": "83",
+            "Pohlavi": "Z",
             "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-07",
+            "Vek": "43",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-03",
+            "Vek": "83",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -1179,34 +1203,18 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-03",
-            "Vek": "49",
-            "Pohlavi": "Z",
-            "KHS": "CZ041",
-            "Import": "1",
-            "ImportZemeCsuKod": "DE"
-        },
-        {
-            "DatumHlaseni": "2020-04-23",
-            "Vek": "83",
-            "Pohlavi": "Z",
+            "DatumHlaseni": "2020-04-20",
+            "Vek": "33",
+            "Pohlavi": "M",
             "KHS": "CZ010",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-03",
-            "Vek": "83",
-            "Pohlavi": "Z",
-            "KHS": "CZ041",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-07",
-            "Vek": "43",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
+            "DatumHlaseni": "2020-04-30",
+            "Vek": "66",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -1235,10 +1243,10 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-20",
-            "Vek": "33",
+            "DatumHlaseni": "2020-04-10",
+            "Vek": "72",
             "Pohlavi": "M",
-            "KHS": "CZ010",
+            "KHS": "CZ042",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -1251,20 +1259,12 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-30",
-            "Vek": "66",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-10",
-            "Vek": "72",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
+            "DatumHlaseni": "2020-04-03",
+            "Vek": "49",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "Import": "1",
+            "ImportZemeCsuKod": "DE"
         },
         {
             "DatumHlaseni": "2020-04-29",
@@ -4851,14 +4851,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-01",
-            "Vek": "46",
-            "Pohlavi": "Z",
-            "KHS": "CZ051",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-03",
             "Vek": "68",
             "Pohlavi": "Z",
@@ -4967,6 +4959,14 @@
             "Vek": "29",
             "Pohlavi": "Z",
             "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-01",
+            "Vek": "46",
+            "Pohlavi": "Z",
+            "KHS": "CZ051",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -7551,6 +7551,14 @@
             "Vek": "75",
             "Pohlavi": "M",
             "KHS": "CZ071",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-09",
+            "Vek": "51",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -16739,6 +16747,14 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-29",
+            "Vek": "66",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-17",
             "Vek": "76",
             "Pohlavi": "M",
@@ -16775,14 +16791,6 @@
             "Vek": "28",
             "Pohlavi": "Z",
             "KHS": "CZ010",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-29",
-            "Vek": "66",
-            "Pohlavi": "Z",
-            "KHS": "CZ080",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -16971,6 +16979,14 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-08",
+            "Vek": "64",
+            "Pohlavi": "M",
+            "KHS": "CZ051",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-20",
             "Vek": "48",
             "Pohlavi": "M",
@@ -16999,14 +17015,6 @@
             "Vek": "36",
             "Pohlavi": "M",
             "KHS": "CZ041",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-08",
-            "Vek": "64",
-            "Pohlavi": "M",
-            "KHS": "CZ051",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -17348,14 +17356,6 @@
         },
         {
             "DatumHlaseni": "2020-03-23",
-            "Vek": "29",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-23",
             "Vek": "58",
             "Pohlavi": "M",
             "KHS": "CZ010",
@@ -17381,6 +17381,14 @@
         {
             "DatumHlaseni": "2020-03-25",
             "Vek": "57",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-23",
+            "Vek": "29",
             "Pohlavi": "M",
             "KHS": "CZ080",
             "Import": "0",
@@ -22603,14 +22611,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-18",
-            "Vek": "37",
-            "Pohlavi": "Z",
-            "KHS": "CZ072",
-            "Import": "1",
-            "ImportZemeCsuKod": "AT"
-        },
-        {
             "DatumHlaseni": "2020-04-15",
             "Vek": "47",
             "Pohlavi": "M",
@@ -22649,6 +22649,14 @@
             "KHS": "CZ020",
             "Import": "0",
             "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-18",
+            "Vek": "37",
+            "Pohlavi": "Z",
+            "KHS": "CZ072",
+            "Import": "1",
+            "ImportZemeCsuKod": "AT"
         },
         {
             "DatumHlaseni": "2020-03-22",
@@ -26731,14 +26739,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-06",
-            "Vek": "58",
-            "Pohlavi": "Z",
-            "KHS": "CZ032",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-27",
             "Vek": "61",
             "Pohlavi": "M",
@@ -26775,6 +26775,14 @@
             "Vek": "46",
             "Pohlavi": "Z",
             "KHS": "CZ020",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-06",
+            "Vek": "58",
+            "Pohlavi": "Z",
+            "KHS": "CZ032",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -41436,14 +41444,6 @@
         },
         {
             "DatumHlaseni": "2020-04-04",
-            "Vek": "39",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-04",
             "Vek": "52",
             "Pohlavi": "Z",
             "KHS": "CZ020",
@@ -41477,6 +41477,14 @@
         {
             "DatumHlaseni": "2020-03-25",
             "Vek": "38",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-04",
+            "Vek": "39",
             "Pohlavi": "M",
             "KHS": "CZ010",
             "Import": "0",
@@ -43427,14 +43435,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-21",
-            "Vek": "62",
-            "Pohlavi": "Z",
-            "KHS": "CZ020",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-02",
             "Vek": "79",
             "Pohlavi": "M",
@@ -43471,6 +43471,14 @@
             "Vek": "59",
             "Pohlavi": "Z",
             "KHS": "CZ080",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-21",
+            "Vek": "62",
+            "Pohlavi": "Z",
+            "KHS": "CZ020",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -44147,14 +44155,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-14",
-            "Vek": "28",
-            "Pohlavi": "M",
-            "KHS": "CZ071",
-            "Import": "1",
-            "ImportZemeCsuKod": "GR"
-        },
-        {
             "DatumHlaseni": "2020-03-23",
             "Vek": "57",
             "Pohlavi": "M",
@@ -44183,14 +44183,6 @@
             "Vek": "9",
             "Pohlavi": "Z",
             "KHS": "CZ032",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-28",
-            "Vek": "82",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -44233,6 +44225,22 @@
             "KHS": "CZ042",
             "Import": "1",
             "ImportZemeCsuKod": "LK"
+        },
+        {
+            "DatumHlaseni": "2020-03-14",
+            "Vek": "28",
+            "Pohlavi": "M",
+            "KHS": "CZ071",
+            "Import": "1",
+            "ImportZemeCsuKod": "GR"
+        },
+        {
+            "DatumHlaseni": "2020-04-28",
+            "Vek": "82",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
         },
         {
             "DatumHlaseni": "2020-03-18",
@@ -51499,14 +51507,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-06",
-            "Vek": "24",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-29",
             "Vek": "63",
             "Pohlavi": "M",
@@ -51585,6 +51585,14 @@
             "KHS": "CZ080",
             "Import": "1",
             "ImportZemeCsuKod": "TR"
+        },
+        {
+            "DatumHlaseni": "2020-04-06",
+            "Vek": "24",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
         },
         {
             "DatumHlaseni": "2020-03-29",
@@ -52051,6 +52059,14 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-03-19",
+            "Vek": "44",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-06",
             "Vek": "51",
             "Pohlavi": "M",
@@ -52085,14 +52101,6 @@
         {
             "DatumHlaseni": "2020-04-02",
             "Vek": "37",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-19",
-            "Vek": "44",
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "Import": "0",
@@ -52307,6 +52315,14 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-02",
+            "Vek": "53",
+            "Pohlavi": "M",
+            "KHS": "CZ071",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-15",
             "Vek": "66",
             "Pohlavi": "M",
@@ -52367,14 +52383,6 @@
             "Vek": "74",
             "Pohlavi": "M",
             "KHS": "CZ041",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-02",
-            "Vek": "53",
-            "Pohlavi": "M",
-            "KHS": "CZ071",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -60763,6 +60771,14 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-11",
+            "Vek": "11",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-10",
             "Vek": "62",
             "Pohlavi": "Z",
@@ -60799,14 +60815,6 @@
             "Vek": "31",
             "Pohlavi": "M",
             "KHS": "CZ064",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-11",
-            "Vek": "11",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -63697,6 +63705,14 @@
             "KHS": "CZ020",
             "Import": "1",
             "ImportZemeCsuKod": "GB"
+        },
+        {
+            "DatumHlaseni": "2020-05-12",
+            "Vek": "66",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
         },
         {
             "DatumHlaseni": "2020-03-13",
