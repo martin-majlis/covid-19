@@ -15,6 +15,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-03-31,Hlavní město Praha,Rychlotesty,19000,19000
 2020-03-31,Hlavní město Praha,Tampóny,3800,3800
 2020-03-31,Hlavní město Praha,Teploměry,0,0
+2020-03-31,Hlavní město Praha,Termokamery,0,0
 2020-03-31,Hlavní město Praha,Štíty,2292,2292
 2020-03-31,Jihomoravský kraj,Brýle,1840,1840
 2020-03-31,Jihomoravský kraj,Dezinfekce (l),7240,7240
@@ -32,6 +33,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-03-31,Jihomoravský kraj,Rychlotesty,3000,3000
 2020-03-31,Jihomoravský kraj,Tampóny,300,300
 2020-03-31,Jihomoravský kraj,Teploměry,0,0
+2020-03-31,Jihomoravský kraj,Termokamery,0,0
 2020-03-31,Jihomoravský kraj,Štíty,1774,1774
 2020-03-31,Jihočeský kraj,Brýle,916,916
 2020-03-31,Jihočeský kraj,Dezinfekce (l),1155,1155
@@ -49,6 +51,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-03-31,Jihočeský kraj,Rychlotesty,3000,3000
 2020-03-31,Jihočeský kraj,Tampóny,300,300
 2020-03-31,Jihočeský kraj,Teploměry,0,0
+2020-03-31,Jihočeský kraj,Termokamery,0,0
 2020-03-31,Jihočeský kraj,Štíty,486,486
 2020-03-31,Karlovarský kraj,Brýle,60,60
 2020-03-31,Karlovarský kraj,Dezinfekce (l),1155,1155
@@ -66,6 +69,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-03-31,Karlovarský kraj,Rychlotesty,3000,3000
 2020-03-31,Karlovarský kraj,Tampóny,2300,2300
 2020-03-31,Karlovarský kraj,Teploměry,0,0
+2020-03-31,Karlovarský kraj,Termokamery,0,0
 2020-03-31,Karlovarský kraj,Štíty,60,60
 2020-03-31,Kraj Vysočina,Brýle,350,350
 2020-03-31,Kraj Vysočina,Dezinfekce (l),970,970
@@ -83,6 +87,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-03-31,Kraj Vysočina,Rychlotesty,3000,3000
 2020-03-31,Kraj Vysočina,Tampóny,600,600
 2020-03-31,Kraj Vysočina,Teploměry,0,0
+2020-03-31,Kraj Vysočina,Termokamery,0,0
 2020-03-31,Kraj Vysočina,Štíty,90,90
 2020-03-31,Královéhradecký kraj,Brýle,990,990
 2020-03-31,Královéhradecký kraj,Dezinfekce (l),870,870
@@ -100,6 +105,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-03-31,Královéhradecký kraj,Rychlotesty,3000,3000
 2020-03-31,Královéhradecký kraj,Tampóny,300,300
 2020-03-31,Královéhradecký kraj,Teploměry,0,0
+2020-03-31,Královéhradecký kraj,Termokamery,0,0
 2020-03-31,Královéhradecký kraj,Štíty,335,335
 2020-03-31,Liberecký kraj,Brýle,290,290
 2020-03-31,Liberecký kraj,Dezinfekce (l),980,980
@@ -117,6 +123,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-03-31,Liberecký kraj,Rychlotesty,3000,3000
 2020-03-31,Liberecký kraj,Tampóny,300,300
 2020-03-31,Liberecký kraj,Teploměry,0,0
+2020-03-31,Liberecký kraj,Termokamery,0,0
 2020-03-31,Liberecký kraj,Štíty,75,75
 2020-03-31,Moravskoslezský kraj,Brýle,1992,1992
 2020-03-31,Moravskoslezský kraj,Dezinfekce (l),2615,2615
@@ -134,6 +141,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-03-31,Moravskoslezský kraj,Rychlotesty,6000,6000
 2020-03-31,Moravskoslezský kraj,Tampóny,2300,2300
 2020-03-31,Moravskoslezský kraj,Teploměry,0,0
+2020-03-31,Moravskoslezský kraj,Termokamery,0,0
 2020-03-31,Moravskoslezský kraj,Štíty,89,89
 2020-03-31,Olomoucký kraj,Brýle,1635,1635
 2020-03-31,Olomoucký kraj,Dezinfekce (l),2555,2555
@@ -151,6 +159,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-03-31,Olomoucký kraj,Rychlotesty,29000,29000
 2020-03-31,Olomoucký kraj,Tampóny,600,600
 2020-03-31,Olomoucký kraj,Teploměry,0,0
+2020-03-31,Olomoucký kraj,Termokamery,0,0
 2020-03-31,Olomoucký kraj,Štíty,985,985
 2020-03-31,Pardubický kraj,Brýle,900,900
 2020-03-31,Pardubický kraj,Dezinfekce (l),615,615
@@ -168,6 +177,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-03-31,Pardubický kraj,Rychlotesty,3000,3000
 2020-03-31,Pardubický kraj,Tampóny,300,300
 2020-03-31,Pardubický kraj,Teploměry,0,0
+2020-03-31,Pardubický kraj,Termokamery,0,0
 2020-03-31,Pardubický kraj,Štíty,570,570
 2020-03-31,Plzeňský kraj,Brýle,904,904
 2020-03-31,Plzeňský kraj,Dezinfekce (l),5185,5185
@@ -185,6 +195,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-03-31,Plzeňský kraj,Rychlotesty,3000,3000
 2020-03-31,Plzeňský kraj,Tampóny,300,300
 2020-03-31,Plzeňský kraj,Teploměry,0,0
+2020-03-31,Plzeňský kraj,Termokamery,0,0
 2020-03-31,Plzeňský kraj,Štíty,232,232
 2020-03-31,Středočeský kraj,Brýle,380,380
 2020-03-31,Středočeský kraj,Dezinfekce (l),625,625
@@ -202,6 +213,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-03-31,Středočeský kraj,Rychlotesty,12000,12000
 2020-03-31,Středočeský kraj,Tampóny,200,200
 2020-03-31,Středočeský kraj,Teploměry,0,0
+2020-03-31,Středočeský kraj,Termokamery,0,0
 2020-03-31,Středočeský kraj,Štíty,57,57
 2020-03-31,Zlínský kraj,Brýle,660,660
 2020-03-31,Zlínský kraj,Dezinfekce (l),730,730
@@ -219,6 +231,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-03-31,Zlínský kraj,Rychlotesty,2000,2000
 2020-03-31,Zlínský kraj,Tampóny,300,300
 2020-03-31,Zlínský kraj,Teploměry,0,0
+2020-03-31,Zlínský kraj,Termokamery,0,0
 2020-03-31,Zlínský kraj,Štíty,410,410
 2020-03-31,Ústecký kraj,Brýle,820,820
 2020-03-31,Ústecký kraj,Dezinfekce (l),1715,1715
@@ -236,6 +249,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-03-31,Ústecký kraj,Rychlotesty,3000,3000
 2020-03-31,Ústecký kraj,Tampóny,400,400
 2020-03-31,Ústecký kraj,Teploměry,0,0
+2020-03-31,Ústecký kraj,Termokamery,0,0
 2020-03-31,Ústecký kraj,Štíty,1040,1040
 2020-04-01,Hlavní město Praha,Brýle,4241,110
 2020-04-01,Hlavní město Praha,Dezinfekce (l),8235,150
@@ -253,6 +267,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-01,Hlavní město Praha,Rychlotesty,19000,0
 2020-04-01,Hlavní město Praha,Tampóny,5000,1200
 2020-04-01,Hlavní město Praha,Teploměry,0,0
+2020-04-01,Hlavní město Praha,Termokamery,0,0
 2020-04-01,Hlavní město Praha,Štíty,3112,820
 2020-04-01,Jihomoravský kraj,Brýle,1840,0
 2020-04-01,Jihomoravský kraj,Dezinfekce (l),7240,0
@@ -270,6 +285,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-01,Jihomoravský kraj,Rychlotesty,3000,0
 2020-04-01,Jihomoravský kraj,Tampóny,300,0
 2020-04-01,Jihomoravský kraj,Teploměry,0,0
+2020-04-01,Jihomoravský kraj,Termokamery,0,0
 2020-04-01,Jihomoravský kraj,Štíty,1774,0
 2020-04-01,Jihočeský kraj,Brýle,916,0
 2020-04-01,Jihočeský kraj,Dezinfekce (l),1225,70
@@ -287,6 +303,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-01,Jihočeský kraj,Rychlotesty,3000,0
 2020-04-01,Jihočeský kraj,Tampóny,300,0
 2020-04-01,Jihočeský kraj,Teploměry,0,0
+2020-04-01,Jihočeský kraj,Termokamery,0,0
 2020-04-01,Jihočeský kraj,Štíty,486,0
 2020-04-01,Karlovarský kraj,Brýle,60,0
 2020-04-01,Karlovarský kraj,Dezinfekce (l),1185,30
@@ -304,6 +321,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-01,Karlovarský kraj,Rychlotesty,3000,0
 2020-04-01,Karlovarský kraj,Tampóny,2300,0
 2020-04-01,Karlovarský kraj,Teploměry,0,0
+2020-04-01,Karlovarský kraj,Termokamery,0,0
 2020-04-01,Karlovarský kraj,Štíty,60,0
 2020-04-01,Kraj Vysočina,Brýle,350,0
 2020-04-01,Kraj Vysočina,Dezinfekce (l),1015,45
@@ -321,6 +339,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-01,Kraj Vysočina,Rychlotesty,3000,0
 2020-04-01,Kraj Vysočina,Tampóny,2600,2000
 2020-04-01,Kraj Vysočina,Teploměry,0,0
+2020-04-01,Kraj Vysočina,Termokamery,0,0
 2020-04-01,Kraj Vysočina,Štíty,90,0
 2020-04-01,Královéhradecký kraj,Brýle,990,0
 2020-04-01,Královéhradecký kraj,Dezinfekce (l),925,55
@@ -338,6 +357,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-01,Královéhradecký kraj,Rychlotesty,3000,0
 2020-04-01,Královéhradecký kraj,Tampóny,300,0
 2020-04-01,Královéhradecký kraj,Teploměry,0,0
+2020-04-01,Královéhradecký kraj,Termokamery,0,0
 2020-04-01,Královéhradecký kraj,Štíty,335,0
 2020-04-01,Liberecký kraj,Brýle,290,0
 2020-04-01,Liberecký kraj,Dezinfekce (l),1020,40
@@ -355,6 +375,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-01,Liberecký kraj,Rychlotesty,3000,0
 2020-04-01,Liberecký kraj,Tampóny,300,0
 2020-04-01,Liberecký kraj,Teploměry,0,0
+2020-04-01,Liberecký kraj,Termokamery,0,0
 2020-04-01,Liberecký kraj,Štíty,75,0
 2020-04-01,Moravskoslezský kraj,Brýle,1992,0
 2020-04-01,Moravskoslezský kraj,Dezinfekce (l),2725,110
@@ -372,6 +393,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-01,Moravskoslezský kraj,Rychlotesty,6000,0
 2020-04-01,Moravskoslezský kraj,Tampóny,2900,600
 2020-04-01,Moravskoslezský kraj,Teploměry,0,0
+2020-04-01,Moravskoslezský kraj,Termokamery,0,0
 2020-04-01,Moravskoslezský kraj,Štíty,89,0
 2020-04-01,Olomoucký kraj,Brýle,1635,0
 2020-04-01,Olomoucký kraj,Dezinfekce (l),2625,70
@@ -389,6 +411,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-01,Olomoucký kraj,Rychlotesty,29000,0
 2020-04-01,Olomoucký kraj,Tampóny,1200,600
 2020-04-01,Olomoucký kraj,Teploměry,0,0
+2020-04-01,Olomoucký kraj,Termokamery,0,0
 2020-04-01,Olomoucký kraj,Štíty,985,0
 2020-04-01,Pardubický kraj,Brýle,900,0
 2020-04-01,Pardubický kraj,Dezinfekce (l),720,105
@@ -406,6 +429,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-01,Pardubický kraj,Rychlotesty,3000,0
 2020-04-01,Pardubický kraj,Tampóny,300,0
 2020-04-01,Pardubický kraj,Teploměry,0,0
+2020-04-01,Pardubický kraj,Termokamery,0,0
 2020-04-01,Pardubický kraj,Štíty,570,0
 2020-04-01,Plzeňský kraj,Brýle,904,0
 2020-04-01,Plzeňský kraj,Dezinfekce (l),5315,130
@@ -423,6 +447,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-01,Plzeňský kraj,Rychlotesty,3000,0
 2020-04-01,Plzeňský kraj,Tampóny,300,0
 2020-04-01,Plzeňský kraj,Teploměry,0,0
+2020-04-01,Plzeňský kraj,Termokamery,0,0
 2020-04-01,Plzeňský kraj,Štíty,232,0
 2020-04-01,Středočeský kraj,Brýle,380,0
 2020-04-01,Středočeský kraj,Dezinfekce (l),705,80
@@ -440,6 +465,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-01,Středočeský kraj,Rychlotesty,12000,0
 2020-04-01,Středočeský kraj,Tampóny,200,0
 2020-04-01,Středočeský kraj,Teploměry,0,0
+2020-04-01,Středočeský kraj,Termokamery,0,0
 2020-04-01,Středočeský kraj,Štíty,57,0
 2020-04-01,Zlínský kraj,Brýle,660,0
 2020-04-01,Zlínský kraj,Dezinfekce (l),730,0
@@ -457,6 +483,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-01,Zlínský kraj,Rychlotesty,2000,0
 2020-04-01,Zlínský kraj,Tampóny,300,0
 2020-04-01,Zlínský kraj,Teploměry,0,0
+2020-04-01,Zlínský kraj,Termokamery,0,0
 2020-04-01,Zlínský kraj,Štíty,410,0
 2020-04-01,Ústecký kraj,Brýle,820,0
 2020-04-01,Ústecký kraj,Dezinfekce (l),1770,55
@@ -474,6 +501,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-01,Ústecký kraj,Rychlotesty,3000,0
 2020-04-01,Ústecký kraj,Tampóny,400,0
 2020-04-01,Ústecký kraj,Teploměry,0,0
+2020-04-01,Ústecký kraj,Termokamery,0,0
 2020-04-01,Ústecký kraj,Štíty,1040,0
 2020-04-03,Hlavní město Praha,Brýle,4466,225
 2020-04-03,Hlavní město Praha,Dezinfekce (l),8235,0
@@ -491,6 +519,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-03,Hlavní město Praha,Rychlotesty,19000,0
 2020-04-03,Hlavní město Praha,Tampóny,5000,0
 2020-04-03,Hlavní město Praha,Teploměry,0,0
+2020-04-03,Hlavní město Praha,Termokamery,0,0
 2020-04-03,Hlavní město Praha,Štíty,3727,615
 2020-04-03,Jihomoravský kraj,Brýle,1945,105
 2020-04-03,Jihomoravský kraj,Dezinfekce (l),7360,120
@@ -508,6 +537,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-03,Jihomoravský kraj,Rychlotesty,3000,0
 2020-04-03,Jihomoravský kraj,Tampóny,300,0
 2020-04-03,Jihomoravský kraj,Teploměry,0,0
+2020-04-03,Jihomoravský kraj,Termokamery,0,0
 2020-04-03,Jihomoravský kraj,Štíty,2524,750
 2020-04-03,Jihočeský kraj,Brýle,916,0
 2020-04-03,Jihočeský kraj,Dezinfekce (l),1225,0
@@ -525,6 +555,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-03,Jihočeský kraj,Rychlotesty,3000,0
 2020-04-03,Jihočeský kraj,Tampóny,300,0
 2020-04-03,Jihočeský kraj,Teploměry,0,0
+2020-04-03,Jihočeský kraj,Termokamery,0,0
 2020-04-03,Jihočeský kraj,Štíty,586,100
 2020-04-03,Karlovarský kraj,Brýle,60,0
 2020-04-03,Karlovarský kraj,Dezinfekce (l),1185,0
@@ -542,6 +573,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-03,Karlovarský kraj,Rychlotesty,6000,3000
 2020-04-03,Karlovarský kraj,Tampóny,2300,0
 2020-04-03,Karlovarský kraj,Teploměry,0,0
+2020-04-03,Karlovarský kraj,Termokamery,0,0
 2020-04-03,Karlovarský kraj,Štíty,60,0
 2020-04-03,Kraj Vysočina,Brýle,350,0
 2020-04-03,Kraj Vysočina,Dezinfekce (l),1015,0
@@ -559,6 +591,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-03,Kraj Vysočina,Rychlotesty,3000,0
 2020-04-03,Kraj Vysočina,Tampóny,2600,0
 2020-04-03,Kraj Vysočina,Teploměry,0,0
+2020-04-03,Kraj Vysočina,Termokamery,0,0
 2020-04-03,Kraj Vysočina,Štíty,90,0
 2020-04-03,Královéhradecký kraj,Brýle,990,0
 2020-04-03,Královéhradecký kraj,Dezinfekce (l),925,0
@@ -576,6 +609,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-03,Královéhradecký kraj,Rychlotesty,3000,0
 2020-04-03,Královéhradecký kraj,Tampóny,300,0
 2020-04-03,Královéhradecký kraj,Teploměry,0,0
+2020-04-03,Královéhradecký kraj,Termokamery,0,0
 2020-04-03,Královéhradecký kraj,Štíty,335,0
 2020-04-03,Liberecký kraj,Brýle,290,0
 2020-04-03,Liberecký kraj,Dezinfekce (l),1020,0
@@ -593,6 +627,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-03,Liberecký kraj,Rychlotesty,3000,0
 2020-04-03,Liberecký kraj,Tampóny,300,0
 2020-04-03,Liberecký kraj,Teploměry,0,0
+2020-04-03,Liberecký kraj,Termokamery,0,0
 2020-04-03,Liberecký kraj,Štíty,225,150
 2020-04-03,Moravskoslezský kraj,Brýle,1992,0
 2020-04-03,Moravskoslezský kraj,Dezinfekce (l),2725,0
@@ -610,6 +645,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-03,Moravskoslezský kraj,Rychlotesty,6000,0
 2020-04-03,Moravskoslezský kraj,Tampóny,2900,0
 2020-04-03,Moravskoslezský kraj,Teploměry,0,0
+2020-04-03,Moravskoslezský kraj,Termokamery,0,0
 2020-04-03,Moravskoslezský kraj,Štíty,889,800
 2020-04-03,Olomoucký kraj,Brýle,1635,0
 2020-04-03,Olomoucký kraj,Dezinfekce (l),2625,0
@@ -627,6 +663,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-03,Olomoucký kraj,Rychlotesty,29000,0
 2020-04-03,Olomoucký kraj,Tampóny,1200,0
 2020-04-03,Olomoucký kraj,Teploměry,0,0
+2020-04-03,Olomoucký kraj,Termokamery,0,0
 2020-04-03,Olomoucký kraj,Štíty,1235,250
 2020-04-03,Pardubický kraj,Brýle,960,60
 2020-04-03,Pardubický kraj,Dezinfekce (l),665,-55
@@ -644,6 +681,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-03,Pardubický kraj,Rychlotesty,3000,0
 2020-04-03,Pardubický kraj,Tampóny,300,0
 2020-04-03,Pardubický kraj,Teploměry,0,0
+2020-04-03,Pardubický kraj,Termokamery,0,0
 2020-04-03,Pardubický kraj,Štíty,1080,510
 2020-04-03,Plzeňský kraj,Brýle,924,20
 2020-04-03,Plzeňský kraj,Dezinfekce (l),5240,-75
@@ -661,6 +699,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-03,Plzeňský kraj,Rychlotesty,3000,0
 2020-04-03,Plzeňský kraj,Tampóny,300,0
 2020-04-03,Plzeňský kraj,Teploměry,0,0
+2020-04-03,Plzeňský kraj,Termokamery,0,0
 2020-04-03,Plzeňský kraj,Štíty,332,100
 2020-04-03,Středočeský kraj,Brýle,380,0
 2020-04-03,Středočeský kraj,Dezinfekce (l),755,50
@@ -678,6 +717,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-03,Středočeský kraj,Rychlotesty,12000,0
 2020-04-03,Středočeský kraj,Tampóny,200,0
 2020-04-03,Středočeský kraj,Teploměry,0,0
+2020-04-03,Středočeský kraj,Termokamery,0,0
 2020-04-03,Středočeský kraj,Štíty,57,0
 2020-04-03,Zlínský kraj,Brýle,660,0
 2020-04-03,Zlínský kraj,Dezinfekce (l),785,55
@@ -695,6 +735,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-03,Zlínský kraj,Rychlotesty,2000,0
 2020-04-03,Zlínský kraj,Tampóny,300,0
 2020-04-03,Zlínský kraj,Teploměry,0,0
+2020-04-03,Zlínský kraj,Termokamery,0,0
 2020-04-03,Zlínský kraj,Štíty,410,0
 2020-04-03,Ústecký kraj,Brýle,820,0
 2020-04-03,Ústecký kraj,Dezinfekce (l),1795,25
@@ -712,6 +753,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-03,Ústecký kraj,Rychlotesty,3000,0
 2020-04-03,Ústecký kraj,Tampóny,400,0
 2020-04-03,Ústecký kraj,Teploměry,0,0
+2020-04-03,Ústecký kraj,Termokamery,0,0
 2020-04-03,Ústecký kraj,Štíty,1040,0
 2020-04-04,Hlavní město Praha,Brýle,4466,0
 2020-04-04,Hlavní město Praha,Dezinfekce (l),8235,0
@@ -729,6 +771,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-04,Hlavní město Praha,Rychlotesty,19000,0
 2020-04-04,Hlavní město Praha,Tampóny,5000,0
 2020-04-04,Hlavní město Praha,Teploměry,0,0
+2020-04-04,Hlavní město Praha,Termokamery,0,0
 2020-04-04,Hlavní město Praha,Štíty,3727,0
 2020-04-04,Jihomoravský kraj,Brýle,1945,0
 2020-04-04,Jihomoravský kraj,Dezinfekce (l),7360,0
@@ -746,6 +789,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-04,Jihomoravský kraj,Rychlotesty,3000,0
 2020-04-04,Jihomoravský kraj,Tampóny,300,0
 2020-04-04,Jihomoravský kraj,Teploměry,0,0
+2020-04-04,Jihomoravský kraj,Termokamery,0,0
 2020-04-04,Jihomoravský kraj,Štíty,2524,0
 2020-04-04,Jihočeský kraj,Brýle,916,0
 2020-04-04,Jihočeský kraj,Dezinfekce (l),1225,0
@@ -763,6 +807,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-04,Jihočeský kraj,Rychlotesty,3000,0
 2020-04-04,Jihočeský kraj,Tampóny,300,0
 2020-04-04,Jihočeský kraj,Teploměry,0,0
+2020-04-04,Jihočeský kraj,Termokamery,0,0
 2020-04-04,Jihočeský kraj,Štíty,586,0
 2020-04-04,Karlovarský kraj,Brýle,60,0
 2020-04-04,Karlovarský kraj,Dezinfekce (l),1185,0
@@ -780,6 +825,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-04,Karlovarský kraj,Rychlotesty,6000,0
 2020-04-04,Karlovarský kraj,Tampóny,2300,0
 2020-04-04,Karlovarský kraj,Teploměry,0,0
+2020-04-04,Karlovarský kraj,Termokamery,0,0
 2020-04-04,Karlovarský kraj,Štíty,60,0
 2020-04-04,Kraj Vysočina,Brýle,350,0
 2020-04-04,Kraj Vysočina,Dezinfekce (l),1015,0
@@ -797,6 +843,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-04,Kraj Vysočina,Rychlotesty,3000,0
 2020-04-04,Kraj Vysočina,Tampóny,2600,0
 2020-04-04,Kraj Vysočina,Teploměry,0,0
+2020-04-04,Kraj Vysočina,Termokamery,0,0
 2020-04-04,Kraj Vysočina,Štíty,90,0
 2020-04-04,Královéhradecký kraj,Brýle,990,0
 2020-04-04,Královéhradecký kraj,Dezinfekce (l),925,0
@@ -814,6 +861,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-04,Královéhradecký kraj,Rychlotesty,3000,0
 2020-04-04,Královéhradecký kraj,Tampóny,300,0
 2020-04-04,Královéhradecký kraj,Teploměry,0,0
+2020-04-04,Královéhradecký kraj,Termokamery,0,0
 2020-04-04,Královéhradecký kraj,Štíty,335,0
 2020-04-04,Liberecký kraj,Brýle,290,0
 2020-04-04,Liberecký kraj,Dezinfekce (l),1020,0
@@ -831,6 +879,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-04,Liberecký kraj,Rychlotesty,3000,0
 2020-04-04,Liberecký kraj,Tampóny,300,0
 2020-04-04,Liberecký kraj,Teploměry,0,0
+2020-04-04,Liberecký kraj,Termokamery,0,0
 2020-04-04,Liberecký kraj,Štíty,225,0
 2020-04-04,Moravskoslezský kraj,Brýle,1992,0
 2020-04-04,Moravskoslezský kraj,Dezinfekce (l),2725,0
@@ -848,6 +897,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-04,Moravskoslezský kraj,Rychlotesty,6000,0
 2020-04-04,Moravskoslezský kraj,Tampóny,2900,0
 2020-04-04,Moravskoslezský kraj,Teploměry,0,0
+2020-04-04,Moravskoslezský kraj,Termokamery,0,0
 2020-04-04,Moravskoslezský kraj,Štíty,889,0
 2020-04-04,Olomoucký kraj,Brýle,1635,0
 2020-04-04,Olomoucký kraj,Dezinfekce (l),2625,0
@@ -865,6 +915,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-04,Olomoucký kraj,Rychlotesty,29000,0
 2020-04-04,Olomoucký kraj,Tampóny,1200,0
 2020-04-04,Olomoucký kraj,Teploměry,0,0
+2020-04-04,Olomoucký kraj,Termokamery,0,0
 2020-04-04,Olomoucký kraj,Štíty,1235,0
 2020-04-04,Pardubický kraj,Brýle,960,0
 2020-04-04,Pardubický kraj,Dezinfekce (l),665,0
@@ -882,6 +933,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-04,Pardubický kraj,Rychlotesty,3000,0
 2020-04-04,Pardubický kraj,Tampóny,300,0
 2020-04-04,Pardubický kraj,Teploměry,0,0
+2020-04-04,Pardubický kraj,Termokamery,0,0
 2020-04-04,Pardubický kraj,Štíty,1080,0
 2020-04-04,Plzeňský kraj,Brýle,924,0
 2020-04-04,Plzeňský kraj,Dezinfekce (l),5240,0
@@ -899,6 +951,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-04,Plzeňský kraj,Rychlotesty,3000,0
 2020-04-04,Plzeňský kraj,Tampóny,300,0
 2020-04-04,Plzeňský kraj,Teploměry,0,0
+2020-04-04,Plzeňský kraj,Termokamery,0,0
 2020-04-04,Plzeňský kraj,Štíty,332,0
 2020-04-04,Středočeský kraj,Brýle,380,0
 2020-04-04,Středočeský kraj,Dezinfekce (l),755,0
@@ -916,6 +969,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-04,Středočeský kraj,Rychlotesty,12000,0
 2020-04-04,Středočeský kraj,Tampóny,200,0
 2020-04-04,Středočeský kraj,Teploměry,0,0
+2020-04-04,Středočeský kraj,Termokamery,0,0
 2020-04-04,Středočeský kraj,Štíty,57,0
 2020-04-04,Zlínský kraj,Brýle,660,0
 2020-04-04,Zlínský kraj,Dezinfekce (l),785,0
@@ -933,6 +987,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-04,Zlínský kraj,Rychlotesty,2000,0
 2020-04-04,Zlínský kraj,Tampóny,300,0
 2020-04-04,Zlínský kraj,Teploměry,0,0
+2020-04-04,Zlínský kraj,Termokamery,0,0
 2020-04-04,Zlínský kraj,Štíty,410,0
 2020-04-04,Ústecký kraj,Brýle,820,0
 2020-04-04,Ústecký kraj,Dezinfekce (l),1795,0
@@ -950,6 +1005,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-04,Ústecký kraj,Rychlotesty,3000,0
 2020-04-04,Ústecký kraj,Tampóny,400,0
 2020-04-04,Ústecký kraj,Teploměry,0,0
+2020-04-04,Ústecký kraj,Termokamery,0,0
 2020-04-04,Ústecký kraj,Štíty,1040,0
 2020-04-06,Hlavní město Praha,Brýle,4466,0
 2020-04-06,Hlavní město Praha,Dezinfekce (l),8235,0
@@ -967,6 +1023,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-06,Hlavní město Praha,Rychlotesty,19350,350
 2020-04-06,Hlavní město Praha,Tampóny,5000,0
 2020-04-06,Hlavní město Praha,Teploměry,0,0
+2020-04-06,Hlavní město Praha,Termokamery,0,0
 2020-04-06,Hlavní město Praha,Štíty,3827,100
 2020-04-06,Jihomoravský kraj,Brýle,1945,0
 2020-04-06,Jihomoravský kraj,Dezinfekce (l),7360,0
@@ -984,6 +1041,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-06,Jihomoravský kraj,Rychlotesty,3000,0
 2020-04-06,Jihomoravský kraj,Tampóny,300,0
 2020-04-06,Jihomoravský kraj,Teploměry,0,0
+2020-04-06,Jihomoravský kraj,Termokamery,0,0
 2020-04-06,Jihomoravský kraj,Štíty,2524,0
 2020-04-06,Jihočeský kraj,Brýle,916,0
 2020-04-06,Jihočeský kraj,Dezinfekce (l),1225,0
@@ -1001,6 +1059,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-06,Jihočeský kraj,Rychlotesty,3000,0
 2020-04-06,Jihočeský kraj,Tampóny,300,0
 2020-04-06,Jihočeský kraj,Teploměry,0,0
+2020-04-06,Jihočeský kraj,Termokamery,0,0
 2020-04-06,Jihočeský kraj,Štíty,586,0
 2020-04-06,Karlovarský kraj,Brýle,60,0
 2020-04-06,Karlovarský kraj,Dezinfekce (l),1185,0
@@ -1018,6 +1077,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-06,Karlovarský kraj,Rychlotesty,6000,0
 2020-04-06,Karlovarský kraj,Tampóny,2300,0
 2020-04-06,Karlovarský kraj,Teploměry,0,0
+2020-04-06,Karlovarský kraj,Termokamery,0,0
 2020-04-06,Karlovarský kraj,Štíty,60,0
 2020-04-06,Kraj Vysočina,Brýle,350,0
 2020-04-06,Kraj Vysočina,Dezinfekce (l),1015,0
@@ -1035,6 +1095,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-06,Kraj Vysočina,Rychlotesty,3000,0
 2020-04-06,Kraj Vysočina,Tampóny,2600,0
 2020-04-06,Kraj Vysočina,Teploměry,0,0
+2020-04-06,Kraj Vysočina,Termokamery,0,0
 2020-04-06,Kraj Vysočina,Štíty,90,0
 2020-04-06,Královéhradecký kraj,Brýle,990,0
 2020-04-06,Královéhradecký kraj,Dezinfekce (l),925,0
@@ -1052,6 +1113,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-06,Královéhradecký kraj,Rychlotesty,3000,0
 2020-04-06,Královéhradecký kraj,Tampóny,300,0
 2020-04-06,Královéhradecký kraj,Teploměry,0,0
+2020-04-06,Královéhradecký kraj,Termokamery,0,0
 2020-04-06,Královéhradecký kraj,Štíty,335,0
 2020-04-06,Liberecký kraj,Brýle,290,0
 2020-04-06,Liberecký kraj,Dezinfekce (l),1020,0
@@ -1069,6 +1131,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-06,Liberecký kraj,Rychlotesty,3000,0
 2020-04-06,Liberecký kraj,Tampóny,300,0
 2020-04-06,Liberecký kraj,Teploměry,0,0
+2020-04-06,Liberecký kraj,Termokamery,0,0
 2020-04-06,Liberecký kraj,Štíty,225,0
 2020-04-06,Moravskoslezský kraj,Brýle,1992,0
 2020-04-06,Moravskoslezský kraj,Dezinfekce (l),2725,0
@@ -1086,6 +1149,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-06,Moravskoslezský kraj,Rychlotesty,6000,0
 2020-04-06,Moravskoslezský kraj,Tampóny,2900,0
 2020-04-06,Moravskoslezský kraj,Teploměry,0,0
+2020-04-06,Moravskoslezský kraj,Termokamery,0,0
 2020-04-06,Moravskoslezský kraj,Štíty,889,0
 2020-04-06,Olomoucký kraj,Brýle,1635,0
 2020-04-06,Olomoucký kraj,Dezinfekce (l),2625,0
@@ -1103,6 +1167,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-06,Olomoucký kraj,Rychlotesty,29000,0
 2020-04-06,Olomoucký kraj,Tampóny,1200,0
 2020-04-06,Olomoucký kraj,Teploměry,0,0
+2020-04-06,Olomoucký kraj,Termokamery,0,0
 2020-04-06,Olomoucký kraj,Štíty,1235,0
 2020-04-06,Pardubický kraj,Brýle,960,0
 2020-04-06,Pardubický kraj,Dezinfekce (l),665,0
@@ -1120,6 +1185,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-06,Pardubický kraj,Rychlotesty,3000,0
 2020-04-06,Pardubický kraj,Tampóny,300,0
 2020-04-06,Pardubický kraj,Teploměry,0,0
+2020-04-06,Pardubický kraj,Termokamery,0,0
 2020-04-06,Pardubický kraj,Štíty,1080,0
 2020-04-06,Plzeňský kraj,Brýle,924,0
 2020-04-06,Plzeňský kraj,Dezinfekce (l),5240,0
@@ -1137,6 +1203,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-06,Plzeňský kraj,Rychlotesty,3000,0
 2020-04-06,Plzeňský kraj,Tampóny,300,0
 2020-04-06,Plzeňský kraj,Teploměry,0,0
+2020-04-06,Plzeňský kraj,Termokamery,0,0
 2020-04-06,Plzeňský kraj,Štíty,432,100
 2020-04-06,Středočeský kraj,Brýle,380,0
 2020-04-06,Středočeský kraj,Dezinfekce (l),755,0
@@ -1154,6 +1221,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-06,Středočeský kraj,Rychlotesty,12000,0
 2020-04-06,Středočeský kraj,Tampóny,200,0
 2020-04-06,Středočeský kraj,Teploměry,0,0
+2020-04-06,Středočeský kraj,Termokamery,0,0
 2020-04-06,Středočeský kraj,Štíty,57,0
 2020-04-06,Zlínský kraj,Brýle,660,0
 2020-04-06,Zlínský kraj,Dezinfekce (l),785,0
@@ -1171,6 +1239,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-06,Zlínský kraj,Rychlotesty,2000,0
 2020-04-06,Zlínský kraj,Tampóny,300,0
 2020-04-06,Zlínský kraj,Teploměry,0,0
+2020-04-06,Zlínský kraj,Termokamery,0,0
 2020-04-06,Zlínský kraj,Štíty,410,0
 2020-04-06,Ústecký kraj,Brýle,820,0
 2020-04-06,Ústecký kraj,Dezinfekce (l),1795,0
@@ -1188,6 +1257,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-06,Ústecký kraj,Rychlotesty,3000,0
 2020-04-06,Ústecký kraj,Tampóny,400,0
 2020-04-06,Ústecký kraj,Teploměry,0,0
+2020-04-06,Ústecký kraj,Termokamery,0,0
 2020-04-06,Ústecký kraj,Štíty,1040,0
 2020-04-07,Hlavní město Praha,Brýle,4466,0
 2020-04-07,Hlavní město Praha,Dezinfekce (l),8235,0
@@ -1205,6 +1275,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-07,Hlavní město Praha,Rychlotesty,19350,0
 2020-04-07,Hlavní město Praha,Tampóny,5000,0
 2020-04-07,Hlavní město Praha,Teploměry,0,0
+2020-04-07,Hlavní město Praha,Termokamery,0,0
 2020-04-07,Hlavní město Praha,Štíty,3827,0
 2020-04-07,Jihomoravský kraj,Brýle,1945,0
 2020-04-07,Jihomoravský kraj,Dezinfekce (l),7360,0
@@ -1222,6 +1293,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-07,Jihomoravský kraj,Rychlotesty,3000,0
 2020-04-07,Jihomoravský kraj,Tampóny,300,0
 2020-04-07,Jihomoravský kraj,Teploměry,0,0
+2020-04-07,Jihomoravský kraj,Termokamery,0,0
 2020-04-07,Jihomoravský kraj,Štíty,2524,0
 2020-04-07,Jihočeský kraj,Brýle,922,6
 2020-04-07,Jihočeský kraj,Dezinfekce (l),1225,0
@@ -1239,6 +1311,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-07,Jihočeský kraj,Rychlotesty,3000,0
 2020-04-07,Jihočeský kraj,Tampóny,300,0
 2020-04-07,Jihočeský kraj,Teploměry,0,0
+2020-04-07,Jihočeský kraj,Termokamery,0,0
 2020-04-07,Jihočeský kraj,Štíty,586,0
 2020-04-07,Karlovarský kraj,Brýle,60,0
 2020-04-07,Karlovarský kraj,Dezinfekce (l),1190,5
@@ -1256,6 +1329,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-07,Karlovarský kraj,Rychlotesty,6000,0
 2020-04-07,Karlovarský kraj,Tampóny,2300,0
 2020-04-07,Karlovarský kraj,Teploměry,0,0
+2020-04-07,Karlovarský kraj,Termokamery,0,0
 2020-04-07,Karlovarský kraj,Štíty,60,0
 2020-04-07,Kraj Vysočina,Brýle,350,0
 2020-04-07,Kraj Vysočina,Dezinfekce (l),1015,0
@@ -1273,6 +1347,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-07,Kraj Vysočina,Rychlotesty,3000,0
 2020-04-07,Kraj Vysočina,Tampóny,2600,0
 2020-04-07,Kraj Vysočina,Teploměry,0,0
+2020-04-07,Kraj Vysočina,Termokamery,0,0
 2020-04-07,Kraj Vysočina,Štíty,90,0
 2020-04-07,Královéhradecký kraj,Brýle,990,0
 2020-04-07,Královéhradecký kraj,Dezinfekce (l),2325,1400
@@ -1290,6 +1365,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-07,Královéhradecký kraj,Rychlotesty,3000,0
 2020-04-07,Královéhradecký kraj,Tampóny,300,0
 2020-04-07,Královéhradecký kraj,Teploměry,0,0
+2020-04-07,Královéhradecký kraj,Termokamery,0,0
 2020-04-07,Královéhradecký kraj,Štíty,335,0
 2020-04-07,Liberecký kraj,Brýle,290,0
 2020-04-07,Liberecký kraj,Dezinfekce (l),1020,0
@@ -1307,6 +1383,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-07,Liberecký kraj,Rychlotesty,3000,0
 2020-04-07,Liberecký kraj,Tampóny,300,0
 2020-04-07,Liberecký kraj,Teploměry,0,0
+2020-04-07,Liberecký kraj,Termokamery,0,0
 2020-04-07,Liberecký kraj,Štíty,225,0
 2020-04-07,Moravskoslezský kraj,Brýle,1992,0
 2020-04-07,Moravskoslezský kraj,Dezinfekce (l),2725,0
@@ -1324,6 +1401,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-07,Moravskoslezský kraj,Rychlotesty,6000,0
 2020-04-07,Moravskoslezský kraj,Tampóny,2900,0
 2020-04-07,Moravskoslezský kraj,Teploměry,0,0
+2020-04-07,Moravskoslezský kraj,Termokamery,0,0
 2020-04-07,Moravskoslezský kraj,Štíty,889,0
 2020-04-07,Olomoucký kraj,Brýle,1635,0
 2020-04-07,Olomoucký kraj,Dezinfekce (l),2625,0
@@ -1341,6 +1419,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-07,Olomoucký kraj,Rychlotesty,29000,0
 2020-04-07,Olomoucký kraj,Tampóny,1200,0
 2020-04-07,Olomoucký kraj,Teploměry,0,0
+2020-04-07,Olomoucký kraj,Termokamery,0,0
 2020-04-07,Olomoucký kraj,Štíty,1235,0
 2020-04-07,Pardubický kraj,Brýle,980,20
 2020-04-07,Pardubický kraj,Dezinfekce (l),665,0
@@ -1358,6 +1437,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-07,Pardubický kraj,Rychlotesty,3000,0
 2020-04-07,Pardubický kraj,Tampóny,300,0
 2020-04-07,Pardubický kraj,Teploměry,0,0
+2020-04-07,Pardubický kraj,Termokamery,0,0
 2020-04-07,Pardubický kraj,Štíty,1180,100
 2020-04-07,Plzeňský kraj,Brýle,924,0
 2020-04-07,Plzeňský kraj,Dezinfekce (l),5240,0
@@ -1375,6 +1455,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-07,Plzeňský kraj,Rychlotesty,3000,0
 2020-04-07,Plzeňský kraj,Tampóny,300,0
 2020-04-07,Plzeňský kraj,Teploměry,0,0
+2020-04-07,Plzeňský kraj,Termokamery,0,0
 2020-04-07,Plzeňský kraj,Štíty,432,0
 2020-04-07,Středočeský kraj,Brýle,380,0
 2020-04-07,Středočeský kraj,Dezinfekce (l),755,0
@@ -1392,6 +1473,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-07,Středočeský kraj,Rychlotesty,12000,0
 2020-04-07,Středočeský kraj,Tampóny,200,0
 2020-04-07,Středočeský kraj,Teploměry,0,0
+2020-04-07,Středočeský kraj,Termokamery,0,0
 2020-04-07,Středočeský kraj,Štíty,57,0
 2020-04-07,Zlínský kraj,Brýle,660,0
 2020-04-07,Zlínský kraj,Dezinfekce (l),825,40
@@ -1409,6 +1491,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-07,Zlínský kraj,Rychlotesty,2000,0
 2020-04-07,Zlínský kraj,Tampóny,300,0
 2020-04-07,Zlínský kraj,Teploměry,0,0
+2020-04-07,Zlínský kraj,Termokamery,0,0
 2020-04-07,Zlínský kraj,Štíty,410,0
 2020-04-07,Ústecký kraj,Brýle,820,0
 2020-04-07,Ústecký kraj,Dezinfekce (l),1815,20
@@ -1426,6 +1509,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-07,Ústecký kraj,Rychlotesty,3000,0
 2020-04-07,Ústecký kraj,Tampóny,400,0
 2020-04-07,Ústecký kraj,Teploměry,0,0
+2020-04-07,Ústecký kraj,Termokamery,0,0
 2020-04-07,Ústecký kraj,Štíty,1040,0
 2020-04-08,Hlavní město Praha,Brýle,4466,0
 2020-04-08,Hlavní město Praha,Dezinfekce (l),8235,0
@@ -1443,6 +1527,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-08,Hlavní město Praha,Rychlotesty,19550,200
 2020-04-08,Hlavní město Praha,Tampóny,5000,0
 2020-04-08,Hlavní město Praha,Teploměry,0,0
+2020-04-08,Hlavní město Praha,Termokamery,0,0
 2020-04-08,Hlavní město Praha,Štíty,3827,0
 2020-04-08,Jihomoravský kraj,Brýle,1945,0
 2020-04-08,Jihomoravský kraj,Dezinfekce (l),7360,0
@@ -1460,6 +1545,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-08,Jihomoravský kraj,Rychlotesty,3000,0
 2020-04-08,Jihomoravský kraj,Tampóny,300,0
 2020-04-08,Jihomoravský kraj,Teploměry,0,0
+2020-04-08,Jihomoravský kraj,Termokamery,0,0
 2020-04-08,Jihomoravský kraj,Štíty,2544,20
 2020-04-08,Jihočeský kraj,Brýle,922,0
 2020-04-08,Jihočeský kraj,Dezinfekce (l),1225,0
@@ -1477,6 +1563,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-08,Jihočeský kraj,Rychlotesty,3000,0
 2020-04-08,Jihočeský kraj,Tampóny,300,0
 2020-04-08,Jihočeský kraj,Teploměry,0,0
+2020-04-08,Jihočeský kraj,Termokamery,0,0
 2020-04-08,Jihočeský kraj,Štíty,586,0
 2020-04-08,Karlovarský kraj,Brýle,60,0
 2020-04-08,Karlovarský kraj,Dezinfekce (l),1190,0
@@ -1494,6 +1581,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-08,Karlovarský kraj,Rychlotesty,6000,0
 2020-04-08,Karlovarský kraj,Tampóny,2300,0
 2020-04-08,Karlovarský kraj,Teploměry,0,0
+2020-04-08,Karlovarský kraj,Termokamery,0,0
 2020-04-08,Karlovarský kraj,Štíty,60,0
 2020-04-08,Kraj Vysočina,Brýle,355,5
 2020-04-08,Kraj Vysočina,Dezinfekce (l),1015,0
@@ -1511,6 +1599,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-08,Kraj Vysočina,Rychlotesty,3000,0
 2020-04-08,Kraj Vysočina,Tampóny,2600,0
 2020-04-08,Kraj Vysočina,Teploměry,0,0
+2020-04-08,Kraj Vysočina,Termokamery,0,0
 2020-04-08,Kraj Vysočina,Štíty,95,5
 2020-04-08,Královéhradecký kraj,Brýle,990,0
 2020-04-08,Královéhradecký kraj,Dezinfekce (l),2325,0
@@ -1528,6 +1617,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-08,Královéhradecký kraj,Rychlotesty,3000,0
 2020-04-08,Královéhradecký kraj,Tampóny,300,0
 2020-04-08,Královéhradecký kraj,Teploměry,0,0
+2020-04-08,Královéhradecký kraj,Termokamery,0,0
 2020-04-08,Královéhradecký kraj,Štíty,335,0
 2020-04-08,Liberecký kraj,Brýle,290,0
 2020-04-08,Liberecký kraj,Dezinfekce (l),1020,0
@@ -1545,6 +1635,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-08,Liberecký kraj,Rychlotesty,3000,0
 2020-04-08,Liberecký kraj,Tampóny,300,0
 2020-04-08,Liberecký kraj,Teploměry,0,0
+2020-04-08,Liberecký kraj,Termokamery,0,0
 2020-04-08,Liberecký kraj,Štíty,225,0
 2020-04-08,Moravskoslezský kraj,Brýle,2012,20
 2020-04-08,Moravskoslezský kraj,Dezinfekce (l),2775,50
@@ -1562,6 +1653,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-08,Moravskoslezský kraj,Rychlotesty,6000,0
 2020-04-08,Moravskoslezský kraj,Tampóny,2900,0
 2020-04-08,Moravskoslezský kraj,Teploměry,0,0
+2020-04-08,Moravskoslezský kraj,Termokamery,0,0
 2020-04-08,Moravskoslezský kraj,Štíty,893,4
 2020-04-08,Olomoucký kraj,Brýle,1635,0
 2020-04-08,Olomoucký kraj,Dezinfekce (l),2625,0
@@ -1579,6 +1671,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-08,Olomoucký kraj,Rychlotesty,29000,0
 2020-04-08,Olomoucký kraj,Tampóny,1200,0
 2020-04-08,Olomoucký kraj,Teploměry,0,0
+2020-04-08,Olomoucký kraj,Termokamery,0,0
 2020-04-08,Olomoucký kraj,Štíty,1235,0
 2020-04-08,Pardubický kraj,Brýle,980,0
 2020-04-08,Pardubický kraj,Dezinfekce (l),665,0
@@ -1596,6 +1689,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-08,Pardubický kraj,Rychlotesty,3000,0
 2020-04-08,Pardubický kraj,Tampóny,300,0
 2020-04-08,Pardubický kraj,Teploměry,0,0
+2020-04-08,Pardubický kraj,Termokamery,0,0
 2020-04-08,Pardubický kraj,Štíty,1180,0
 2020-04-08,Plzeňský kraj,Brýle,924,0
 2020-04-08,Plzeňský kraj,Dezinfekce (l),5240,0
@@ -1613,6 +1707,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-08,Plzeňský kraj,Rychlotesty,3000,0
 2020-04-08,Plzeňský kraj,Tampóny,300,0
 2020-04-08,Plzeňský kraj,Teploměry,0,0
+2020-04-08,Plzeňský kraj,Termokamery,0,0
 2020-04-08,Plzeňský kraj,Štíty,432,0
 2020-04-08,Středočeský kraj,Brýle,380,0
 2020-04-08,Středočeský kraj,Dezinfekce (l),755,0
@@ -1630,6 +1725,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-08,Středočeský kraj,Rychlotesty,12000,0
 2020-04-08,Středočeský kraj,Tampóny,200,0
 2020-04-08,Středočeský kraj,Teploměry,0,0
+2020-04-08,Středočeský kraj,Termokamery,0,0
 2020-04-08,Středočeský kraj,Štíty,57,0
 2020-04-08,Zlínský kraj,Brýle,660,0
 2020-04-08,Zlínský kraj,Dezinfekce (l),825,0
@@ -1647,6 +1743,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-08,Zlínský kraj,Rychlotesty,2000,0
 2020-04-08,Zlínský kraj,Tampóny,300,0
 2020-04-08,Zlínský kraj,Teploměry,0,0
+2020-04-08,Zlínský kraj,Termokamery,0,0
 2020-04-08,Zlínský kraj,Štíty,410,0
 2020-04-08,Ústecký kraj,Brýle,820,0
 2020-04-08,Ústecký kraj,Dezinfekce (l),1815,0
@@ -1664,6 +1761,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-08,Ústecký kraj,Rychlotesty,3000,0
 2020-04-08,Ústecký kraj,Tampóny,400,0
 2020-04-08,Ústecký kraj,Teploměry,0,0
+2020-04-08,Ústecký kraj,Termokamery,0,0
 2020-04-08,Ústecký kraj,Štíty,1040,0
 2020-04-09,Hlavní město Praha,Brýle,4466,0
 2020-04-09,Hlavní město Praha,Dezinfekce (l),8415,180
@@ -1681,6 +1779,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-09,Hlavní město Praha,Rychlotesty,19550,0
 2020-04-09,Hlavní město Praha,Tampóny,5000,0
 2020-04-09,Hlavní město Praha,Teploměry,0,0
+2020-04-09,Hlavní město Praha,Termokamery,0,0
 2020-04-09,Hlavní město Praha,Štíty,4133,306
 2020-04-09,Jihomoravský kraj,Brýle,1945,0
 2020-04-09,Jihomoravský kraj,Dezinfekce (l),7360,0
@@ -1698,6 +1797,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-09,Jihomoravský kraj,Rychlotesty,3000,0
 2020-04-09,Jihomoravský kraj,Tampóny,300,0
 2020-04-09,Jihomoravský kraj,Teploměry,0,0
+2020-04-09,Jihomoravský kraj,Termokamery,0,0
 2020-04-09,Jihomoravský kraj,Štíty,2544,0
 2020-04-09,Jihočeský kraj,Brýle,922,0
 2020-04-09,Jihočeský kraj,Dezinfekce (l),1225,0
@@ -1715,6 +1815,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-09,Jihočeský kraj,Rychlotesty,3000,0
 2020-04-09,Jihočeský kraj,Tampóny,300,0
 2020-04-09,Jihočeský kraj,Teploměry,0,0
+2020-04-09,Jihočeský kraj,Termokamery,0,0
 2020-04-09,Jihočeský kraj,Štíty,586,0
 2020-04-09,Karlovarský kraj,Brýle,60,0
 2020-04-09,Karlovarský kraj,Dezinfekce (l),1190,0
@@ -1732,6 +1833,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-09,Karlovarský kraj,Rychlotesty,6000,0
 2020-04-09,Karlovarský kraj,Tampóny,2300,0
 2020-04-09,Karlovarský kraj,Teploměry,0,0
+2020-04-09,Karlovarský kraj,Termokamery,0,0
 2020-04-09,Karlovarský kraj,Štíty,60,0
 2020-04-09,Kraj Vysočina,Brýle,355,0
 2020-04-09,Kraj Vysočina,Dezinfekce (l),1015,0
@@ -1749,6 +1851,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-09,Kraj Vysočina,Rychlotesty,3000,0
 2020-04-09,Kraj Vysočina,Tampóny,2600,0
 2020-04-09,Kraj Vysočina,Teploměry,0,0
+2020-04-09,Kraj Vysočina,Termokamery,0,0
 2020-04-09,Kraj Vysočina,Štíty,95,0
 2020-04-09,Královéhradecký kraj,Brýle,990,0
 2020-04-09,Královéhradecký kraj,Dezinfekce (l),2325,0
@@ -1766,6 +1869,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-09,Královéhradecký kraj,Rychlotesty,3000,0
 2020-04-09,Královéhradecký kraj,Tampóny,300,0
 2020-04-09,Královéhradecký kraj,Teploměry,0,0
+2020-04-09,Královéhradecký kraj,Termokamery,0,0
 2020-04-09,Královéhradecký kraj,Štíty,335,0
 2020-04-09,Liberecký kraj,Brýle,290,0
 2020-04-09,Liberecký kraj,Dezinfekce (l),1020,0
@@ -1783,6 +1887,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-09,Liberecký kraj,Rychlotesty,3000,0
 2020-04-09,Liberecký kraj,Tampóny,300,0
 2020-04-09,Liberecký kraj,Teploměry,0,0
+2020-04-09,Liberecký kraj,Termokamery,0,0
 2020-04-09,Liberecký kraj,Štíty,225,0
 2020-04-09,Moravskoslezský kraj,Brýle,2012,0
 2020-04-09,Moravskoslezský kraj,Dezinfekce (l),2775,0
@@ -1800,6 +1905,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-09,Moravskoslezský kraj,Rychlotesty,6000,0
 2020-04-09,Moravskoslezský kraj,Tampóny,2900,0
 2020-04-09,Moravskoslezský kraj,Teploměry,0,0
+2020-04-09,Moravskoslezský kraj,Termokamery,0,0
 2020-04-09,Moravskoslezský kraj,Štíty,893,0
 2020-04-09,Olomoucký kraj,Brýle,1635,0
 2020-04-09,Olomoucký kraj,Dezinfekce (l),2625,0
@@ -1817,6 +1923,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-09,Olomoucký kraj,Rychlotesty,29000,0
 2020-04-09,Olomoucký kraj,Tampóny,1200,0
 2020-04-09,Olomoucký kraj,Teploměry,0,0
+2020-04-09,Olomoucký kraj,Termokamery,0,0
 2020-04-09,Olomoucký kraj,Štíty,1235,0
 2020-04-09,Pardubický kraj,Brýle,980,0
 2020-04-09,Pardubický kraj,Dezinfekce (l),665,0
@@ -1834,6 +1941,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-09,Pardubický kraj,Rychlotesty,3000,0
 2020-04-09,Pardubický kraj,Tampóny,300,0
 2020-04-09,Pardubický kraj,Teploměry,0,0
+2020-04-09,Pardubický kraj,Termokamery,0,0
 2020-04-09,Pardubický kraj,Štíty,1180,0
 2020-04-09,Plzeňský kraj,Brýle,924,0
 2020-04-09,Plzeňský kraj,Dezinfekce (l),5240,0
@@ -1851,6 +1959,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-09,Plzeňský kraj,Rychlotesty,3000,0
 2020-04-09,Plzeňský kraj,Tampóny,300,0
 2020-04-09,Plzeňský kraj,Teploměry,0,0
+2020-04-09,Plzeňský kraj,Termokamery,0,0
 2020-04-09,Plzeňský kraj,Štíty,432,0
 2020-04-09,Středočeský kraj,Brýle,380,0
 2020-04-09,Středočeský kraj,Dezinfekce (l),755,0
@@ -1868,6 +1977,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-09,Středočeský kraj,Rychlotesty,12000,0
 2020-04-09,Středočeský kraj,Tampóny,200,0
 2020-04-09,Středočeský kraj,Teploměry,0,0
+2020-04-09,Středočeský kraj,Termokamery,0,0
 2020-04-09,Středočeský kraj,Štíty,57,0
 2020-04-09,Zlínský kraj,Brýle,660,0
 2020-04-09,Zlínský kraj,Dezinfekce (l),825,0
@@ -1885,6 +1995,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-09,Zlínský kraj,Rychlotesty,2000,0
 2020-04-09,Zlínský kraj,Tampóny,300,0
 2020-04-09,Zlínský kraj,Teploměry,0,0
+2020-04-09,Zlínský kraj,Termokamery,0,0
 2020-04-09,Zlínský kraj,Štíty,410,0
 2020-04-09,Ústecký kraj,Brýle,820,0
 2020-04-09,Ústecký kraj,Dezinfekce (l),1815,0
@@ -1902,6 +2013,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-09,Ústecký kraj,Rychlotesty,3000,0
 2020-04-09,Ústecký kraj,Tampóny,400,0
 2020-04-09,Ústecký kraj,Teploměry,0,0
+2020-04-09,Ústecký kraj,Termokamery,0,0
 2020-04-09,Ústecký kraj,Štíty,1040,0
 2020-04-10,Hlavní město Praha,Brýle,4568,102
 2020-04-10,Hlavní město Praha,Dezinfekce (l),8634,219
@@ -1919,6 +2031,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-10,Hlavní město Praha,Rychlotesty,19695,145
 2020-04-10,Hlavní město Praha,Tampóny,5000,0
 2020-04-10,Hlavní město Praha,Teploměry,0,0
+2020-04-10,Hlavní město Praha,Termokamery,0,0
 2020-04-10,Hlavní město Praha,Štíty,4348,215
 2020-04-10,Jihomoravský kraj,Brýle,1945,0
 2020-04-10,Jihomoravský kraj,Dezinfekce (l),7360,0
@@ -1936,6 +2049,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-10,Jihomoravský kraj,Rychlotesty,3000,0
 2020-04-10,Jihomoravský kraj,Tampóny,300,0
 2020-04-10,Jihomoravský kraj,Teploměry,0,0
+2020-04-10,Jihomoravský kraj,Termokamery,0,0
 2020-04-10,Jihomoravský kraj,Štíty,2544,0
 2020-04-10,Jihočeský kraj,Brýle,922,0
 2020-04-10,Jihočeský kraj,Dezinfekce (l),1225,0
@@ -1953,6 +2067,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-10,Jihočeský kraj,Rychlotesty,3000,0
 2020-04-10,Jihočeský kraj,Tampóny,300,0
 2020-04-10,Jihočeský kraj,Teploměry,0,0
+2020-04-10,Jihočeský kraj,Termokamery,0,0
 2020-04-10,Jihočeský kraj,Štíty,586,0
 2020-04-10,Karlovarský kraj,Brýle,60,0
 2020-04-10,Karlovarský kraj,Dezinfekce (l),1190,0
@@ -1970,6 +2085,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-10,Karlovarský kraj,Rychlotesty,6000,0
 2020-04-10,Karlovarský kraj,Tampóny,2300,0
 2020-04-10,Karlovarský kraj,Teploměry,0,0
+2020-04-10,Karlovarský kraj,Termokamery,0,0
 2020-04-10,Karlovarský kraj,Štíty,60,0
 2020-04-10,Kraj Vysočina,Brýle,355,0
 2020-04-10,Kraj Vysočina,Dezinfekce (l),1015,0
@@ -1987,6 +2103,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-10,Kraj Vysočina,Rychlotesty,3000,0
 2020-04-10,Kraj Vysočina,Tampóny,2600,0
 2020-04-10,Kraj Vysočina,Teploměry,0,0
+2020-04-10,Kraj Vysočina,Termokamery,0,0
 2020-04-10,Kraj Vysočina,Štíty,95,0
 2020-04-10,Královéhradecký kraj,Brýle,990,0
 2020-04-10,Královéhradecký kraj,Dezinfekce (l),2325,0
@@ -2004,6 +2121,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-10,Královéhradecký kraj,Rychlotesty,3000,0
 2020-04-10,Královéhradecký kraj,Tampóny,300,0
 2020-04-10,Královéhradecký kraj,Teploměry,0,0
+2020-04-10,Královéhradecký kraj,Termokamery,0,0
 2020-04-10,Královéhradecký kraj,Štíty,335,0
 2020-04-10,Liberecký kraj,Brýle,290,0
 2020-04-10,Liberecký kraj,Dezinfekce (l),1020,0
@@ -2021,6 +2139,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-10,Liberecký kraj,Rychlotesty,3000,0
 2020-04-10,Liberecký kraj,Tampóny,300,0
 2020-04-10,Liberecký kraj,Teploměry,0,0
+2020-04-10,Liberecký kraj,Termokamery,0,0
 2020-04-10,Liberecký kraj,Štíty,225,0
 2020-04-10,Moravskoslezský kraj,Brýle,2012,0
 2020-04-10,Moravskoslezský kraj,Dezinfekce (l),2775,0
@@ -2038,6 +2157,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-10,Moravskoslezský kraj,Rychlotesty,6000,0
 2020-04-10,Moravskoslezský kraj,Tampóny,2900,0
 2020-04-10,Moravskoslezský kraj,Teploměry,0,0
+2020-04-10,Moravskoslezský kraj,Termokamery,0,0
 2020-04-10,Moravskoslezský kraj,Štíty,893,0
 2020-04-10,Olomoucký kraj,Brýle,1635,0
 2020-04-10,Olomoucký kraj,Dezinfekce (l),2625,0
@@ -2055,6 +2175,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-10,Olomoucký kraj,Rychlotesty,29000,0
 2020-04-10,Olomoucký kraj,Tampóny,1200,0
 2020-04-10,Olomoucký kraj,Teploměry,0,0
+2020-04-10,Olomoucký kraj,Termokamery,0,0
 2020-04-10,Olomoucký kraj,Štíty,1235,0
 2020-04-10,Pardubický kraj,Brýle,980,0
 2020-04-10,Pardubický kraj,Dezinfekce (l),665,0
@@ -2072,6 +2193,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-10,Pardubický kraj,Rychlotesty,3000,0
 2020-04-10,Pardubický kraj,Tampóny,300,0
 2020-04-10,Pardubický kraj,Teploměry,0,0
+2020-04-10,Pardubický kraj,Termokamery,0,0
 2020-04-10,Pardubický kraj,Štíty,1180,0
 2020-04-10,Plzeňský kraj,Brýle,924,0
 2020-04-10,Plzeňský kraj,Dezinfekce (l),5240,0
@@ -2089,6 +2211,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-10,Plzeňský kraj,Rychlotesty,3000,0
 2020-04-10,Plzeňský kraj,Tampóny,300,0
 2020-04-10,Plzeňský kraj,Teploměry,0,0
+2020-04-10,Plzeňský kraj,Termokamery,0,0
 2020-04-10,Plzeňský kraj,Štíty,432,0
 2020-04-10,Středočeský kraj,Brýle,380,0
 2020-04-10,Středočeský kraj,Dezinfekce (l),810,55
@@ -2106,6 +2229,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-10,Středočeský kraj,Rychlotesty,12000,0
 2020-04-10,Středočeský kraj,Tampóny,200,0
 2020-04-10,Středočeský kraj,Teploměry,0,0
+2020-04-10,Středočeský kraj,Termokamery,0,0
 2020-04-10,Středočeský kraj,Štíty,57,0
 2020-04-10,Zlínský kraj,Brýle,660,0
 2020-04-10,Zlínský kraj,Dezinfekce (l),825,0
@@ -2123,6 +2247,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-10,Zlínský kraj,Rychlotesty,2000,0
 2020-04-10,Zlínský kraj,Tampóny,300,0
 2020-04-10,Zlínský kraj,Teploměry,0,0
+2020-04-10,Zlínský kraj,Termokamery,0,0
 2020-04-10,Zlínský kraj,Štíty,410,0
 2020-04-10,Ústecký kraj,Brýle,820,0
 2020-04-10,Ústecký kraj,Dezinfekce (l),1815,0
@@ -2140,6 +2265,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-10,Ústecký kraj,Rychlotesty,3000,0
 2020-04-10,Ústecký kraj,Tampóny,400,0
 2020-04-10,Ústecký kraj,Teploměry,0,0
+2020-04-10,Ústecký kraj,Termokamery,0,0
 2020-04-10,Ústecký kraj,Štíty,1040,0
 2020-04-13,Hlavní město Praha,Brýle,4568,0
 2020-04-13,Hlavní město Praha,Dezinfekce (l),8634,0
@@ -2157,6 +2283,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-13,Hlavní město Praha,Rychlotesty,19695,0
 2020-04-13,Hlavní město Praha,Tampóny,5000,0
 2020-04-13,Hlavní město Praha,Teploměry,0,0
+2020-04-13,Hlavní město Praha,Termokamery,0,0
 2020-04-13,Hlavní město Praha,Štíty,4348,0
 2020-04-13,Jihomoravský kraj,Brýle,1945,0
 2020-04-13,Jihomoravský kraj,Dezinfekce (l),7360,0
@@ -2174,6 +2301,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-13,Jihomoravský kraj,Rychlotesty,3000,0
 2020-04-13,Jihomoravský kraj,Tampóny,300,0
 2020-04-13,Jihomoravský kraj,Teploměry,0,0
+2020-04-13,Jihomoravský kraj,Termokamery,0,0
 2020-04-13,Jihomoravský kraj,Štíty,2544,0
 2020-04-13,Jihočeský kraj,Brýle,922,0
 2020-04-13,Jihočeský kraj,Dezinfekce (l),1225,0
@@ -2191,6 +2319,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-13,Jihočeský kraj,Rychlotesty,3000,0
 2020-04-13,Jihočeský kraj,Tampóny,300,0
 2020-04-13,Jihočeský kraj,Teploměry,0,0
+2020-04-13,Jihočeský kraj,Termokamery,0,0
 2020-04-13,Jihočeský kraj,Štíty,586,0
 2020-04-13,Karlovarský kraj,Brýle,60,0
 2020-04-13,Karlovarský kraj,Dezinfekce (l),1190,0
@@ -2208,6 +2337,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-13,Karlovarský kraj,Rychlotesty,6000,0
 2020-04-13,Karlovarský kraj,Tampóny,2300,0
 2020-04-13,Karlovarský kraj,Teploměry,0,0
+2020-04-13,Karlovarský kraj,Termokamery,0,0
 2020-04-13,Karlovarský kraj,Štíty,60,0
 2020-04-13,Kraj Vysočina,Brýle,355,0
 2020-04-13,Kraj Vysočina,Dezinfekce (l),1015,0
@@ -2225,6 +2355,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-13,Kraj Vysočina,Rychlotesty,3000,0
 2020-04-13,Kraj Vysočina,Tampóny,2600,0
 2020-04-13,Kraj Vysočina,Teploměry,0,0
+2020-04-13,Kraj Vysočina,Termokamery,0,0
 2020-04-13,Kraj Vysočina,Štíty,95,0
 2020-04-13,Královéhradecký kraj,Brýle,990,0
 2020-04-13,Královéhradecký kraj,Dezinfekce (l),2325,0
@@ -2242,6 +2373,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-13,Královéhradecký kraj,Rychlotesty,3000,0
 2020-04-13,Královéhradecký kraj,Tampóny,300,0
 2020-04-13,Královéhradecký kraj,Teploměry,0,0
+2020-04-13,Královéhradecký kraj,Termokamery,0,0
 2020-04-13,Královéhradecký kraj,Štíty,335,0
 2020-04-13,Liberecký kraj,Brýle,290,0
 2020-04-13,Liberecký kraj,Dezinfekce (l),1020,0
@@ -2259,6 +2391,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-13,Liberecký kraj,Rychlotesty,3000,0
 2020-04-13,Liberecký kraj,Tampóny,300,0
 2020-04-13,Liberecký kraj,Teploměry,0,0
+2020-04-13,Liberecký kraj,Termokamery,0,0
 2020-04-13,Liberecký kraj,Štíty,225,0
 2020-04-13,Moravskoslezský kraj,Brýle,2012,0
 2020-04-13,Moravskoslezský kraj,Dezinfekce (l),2775,0
@@ -2276,6 +2409,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-13,Moravskoslezský kraj,Rychlotesty,6000,0
 2020-04-13,Moravskoslezský kraj,Tampóny,2900,0
 2020-04-13,Moravskoslezský kraj,Teploměry,0,0
+2020-04-13,Moravskoslezský kraj,Termokamery,0,0
 2020-04-13,Moravskoslezský kraj,Štíty,893,0
 2020-04-13,Olomoucký kraj,Brýle,1635,0
 2020-04-13,Olomoucký kraj,Dezinfekce (l),2625,0
@@ -2293,6 +2427,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-13,Olomoucký kraj,Rychlotesty,29000,0
 2020-04-13,Olomoucký kraj,Tampóny,1200,0
 2020-04-13,Olomoucký kraj,Teploměry,0,0
+2020-04-13,Olomoucký kraj,Termokamery,0,0
 2020-04-13,Olomoucký kraj,Štíty,1235,0
 2020-04-13,Pardubický kraj,Brýle,980,0
 2020-04-13,Pardubický kraj,Dezinfekce (l),665,0
@@ -2310,6 +2445,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-13,Pardubický kraj,Rychlotesty,3000,0
 2020-04-13,Pardubický kraj,Tampóny,300,0
 2020-04-13,Pardubický kraj,Teploměry,0,0
+2020-04-13,Pardubický kraj,Termokamery,0,0
 2020-04-13,Pardubický kraj,Štíty,1180,0
 2020-04-13,Plzeňský kraj,Brýle,924,0
 2020-04-13,Plzeňský kraj,Dezinfekce (l),5240,0
@@ -2327,6 +2463,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-13,Plzeňský kraj,Rychlotesty,3000,0
 2020-04-13,Plzeňský kraj,Tampóny,300,0
 2020-04-13,Plzeňský kraj,Teploměry,0,0
+2020-04-13,Plzeňský kraj,Termokamery,0,0
 2020-04-13,Plzeňský kraj,Štíty,432,0
 2020-04-13,Středočeský kraj,Brýle,380,0
 2020-04-13,Středočeský kraj,Dezinfekce (l),810,0
@@ -2344,6 +2481,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-13,Středočeský kraj,Rychlotesty,12000,0
 2020-04-13,Středočeský kraj,Tampóny,200,0
 2020-04-13,Středočeský kraj,Teploměry,0,0
+2020-04-13,Středočeský kraj,Termokamery,0,0
 2020-04-13,Středočeský kraj,Štíty,57,0
 2020-04-13,Zlínský kraj,Brýle,660,0
 2020-04-13,Zlínský kraj,Dezinfekce (l),825,0
@@ -2361,6 +2499,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-13,Zlínský kraj,Rychlotesty,2000,0
 2020-04-13,Zlínský kraj,Tampóny,300,0
 2020-04-13,Zlínský kraj,Teploměry,0,0
+2020-04-13,Zlínský kraj,Termokamery,0,0
 2020-04-13,Zlínský kraj,Štíty,410,0
 2020-04-13,Ústecký kraj,Brýle,820,0
 2020-04-13,Ústecký kraj,Dezinfekce (l),1815,0
@@ -2378,6 +2517,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-13,Ústecký kraj,Rychlotesty,3000,0
 2020-04-13,Ústecký kraj,Tampóny,400,0
 2020-04-13,Ústecký kraj,Teploměry,0,0
+2020-04-13,Ústecký kraj,Termokamery,0,0
 2020-04-13,Ústecký kraj,Štíty,1040,0
 2020-04-14,Hlavní město Praha,Brýle,4568,0
 2020-04-14,Hlavní město Praha,Dezinfekce (l),8634,0
@@ -2395,6 +2535,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-14,Hlavní město Praha,Rychlotesty,19695,0
 2020-04-14,Hlavní město Praha,Tampóny,5000,0
 2020-04-14,Hlavní město Praha,Teploměry,0,0
+2020-04-14,Hlavní město Praha,Termokamery,0,0
 2020-04-14,Hlavní město Praha,Štíty,4348,0
 2020-04-14,Jihomoravský kraj,Brýle,1945,0
 2020-04-14,Jihomoravský kraj,Dezinfekce (l),7360,0
@@ -2412,6 +2553,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-14,Jihomoravský kraj,Rychlotesty,3000,0
 2020-04-14,Jihomoravský kraj,Tampóny,300,0
 2020-04-14,Jihomoravský kraj,Teploměry,0,0
+2020-04-14,Jihomoravský kraj,Termokamery,0,0
 2020-04-14,Jihomoravský kraj,Štíty,2544,0
 2020-04-14,Jihočeský kraj,Brýle,922,0
 2020-04-14,Jihočeský kraj,Dezinfekce (l),1225,0
@@ -2429,6 +2571,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-14,Jihočeský kraj,Rychlotesty,3000,0
 2020-04-14,Jihočeský kraj,Tampóny,300,0
 2020-04-14,Jihočeský kraj,Teploměry,0,0
+2020-04-14,Jihočeský kraj,Termokamery,0,0
 2020-04-14,Jihočeský kraj,Štíty,586,0
 2020-04-14,Karlovarský kraj,Brýle,60,0
 2020-04-14,Karlovarský kraj,Dezinfekce (l),1190,0
@@ -2446,6 +2589,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-14,Karlovarský kraj,Rychlotesty,6000,0
 2020-04-14,Karlovarský kraj,Tampóny,2300,0
 2020-04-14,Karlovarský kraj,Teploměry,0,0
+2020-04-14,Karlovarský kraj,Termokamery,0,0
 2020-04-14,Karlovarský kraj,Štíty,60,0
 2020-04-14,Kraj Vysočina,Brýle,355,0
 2020-04-14,Kraj Vysočina,Dezinfekce (l),1015,0
@@ -2463,6 +2607,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-14,Kraj Vysočina,Rychlotesty,3000,0
 2020-04-14,Kraj Vysočina,Tampóny,2600,0
 2020-04-14,Kraj Vysočina,Teploměry,0,0
+2020-04-14,Kraj Vysočina,Termokamery,0,0
 2020-04-14,Kraj Vysočina,Štíty,95,0
 2020-04-14,Královéhradecký kraj,Brýle,990,0
 2020-04-14,Královéhradecký kraj,Dezinfekce (l),2325,0
@@ -2480,6 +2625,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-14,Královéhradecký kraj,Rychlotesty,3000,0
 2020-04-14,Královéhradecký kraj,Tampóny,300,0
 2020-04-14,Královéhradecký kraj,Teploměry,0,0
+2020-04-14,Královéhradecký kraj,Termokamery,0,0
 2020-04-14,Královéhradecký kraj,Štíty,335,0
 2020-04-14,Liberecký kraj,Brýle,290,0
 2020-04-14,Liberecký kraj,Dezinfekce (l),1020,0
@@ -2497,6 +2643,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-14,Liberecký kraj,Rychlotesty,3000,0
 2020-04-14,Liberecký kraj,Tampóny,300,0
 2020-04-14,Liberecký kraj,Teploměry,0,0
+2020-04-14,Liberecký kraj,Termokamery,0,0
 2020-04-14,Liberecký kraj,Štíty,225,0
 2020-04-14,Moravskoslezský kraj,Brýle,2012,0
 2020-04-14,Moravskoslezský kraj,Dezinfekce (l),2775,0
@@ -2514,6 +2661,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-14,Moravskoslezský kraj,Rychlotesty,6000,0
 2020-04-14,Moravskoslezský kraj,Tampóny,2900,0
 2020-04-14,Moravskoslezský kraj,Teploměry,0,0
+2020-04-14,Moravskoslezský kraj,Termokamery,0,0
 2020-04-14,Moravskoslezský kraj,Štíty,893,0
 2020-04-14,Olomoucký kraj,Brýle,1635,0
 2020-04-14,Olomoucký kraj,Dezinfekce (l),2625,0
@@ -2531,6 +2679,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-14,Olomoucký kraj,Rychlotesty,29000,0
 2020-04-14,Olomoucký kraj,Tampóny,1200,0
 2020-04-14,Olomoucký kraj,Teploměry,0,0
+2020-04-14,Olomoucký kraj,Termokamery,0,0
 2020-04-14,Olomoucký kraj,Štíty,1235,0
 2020-04-14,Pardubický kraj,Brýle,980,0
 2020-04-14,Pardubický kraj,Dezinfekce (l),665,0
@@ -2548,6 +2697,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-14,Pardubický kraj,Rychlotesty,3000,0
 2020-04-14,Pardubický kraj,Tampóny,300,0
 2020-04-14,Pardubický kraj,Teploměry,0,0
+2020-04-14,Pardubický kraj,Termokamery,0,0
 2020-04-14,Pardubický kraj,Štíty,1180,0
 2020-04-14,Plzeňský kraj,Brýle,924,0
 2020-04-14,Plzeňský kraj,Dezinfekce (l),5240,0
@@ -2565,6 +2715,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-14,Plzeňský kraj,Rychlotesty,3000,0
 2020-04-14,Plzeňský kraj,Tampóny,300,0
 2020-04-14,Plzeňský kraj,Teploměry,0,0
+2020-04-14,Plzeňský kraj,Termokamery,0,0
 2020-04-14,Plzeňský kraj,Štíty,432,0
 2020-04-14,Středočeský kraj,Brýle,380,0
 2020-04-14,Středočeský kraj,Dezinfekce (l),810,0
@@ -2582,6 +2733,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-14,Středočeský kraj,Rychlotesty,12000,0
 2020-04-14,Středočeský kraj,Tampóny,200,0
 2020-04-14,Středočeský kraj,Teploměry,0,0
+2020-04-14,Středočeský kraj,Termokamery,0,0
 2020-04-14,Středočeský kraj,Štíty,57,0
 2020-04-14,Zlínský kraj,Brýle,660,0
 2020-04-14,Zlínský kraj,Dezinfekce (l),825,0
@@ -2599,6 +2751,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-14,Zlínský kraj,Rychlotesty,2000,0
 2020-04-14,Zlínský kraj,Tampóny,300,0
 2020-04-14,Zlínský kraj,Teploměry,0,0
+2020-04-14,Zlínský kraj,Termokamery,0,0
 2020-04-14,Zlínský kraj,Štíty,410,0
 2020-04-14,Ústecký kraj,Brýle,820,0
 2020-04-14,Ústecký kraj,Dezinfekce (l),1815,0
@@ -2616,6 +2769,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-14,Ústecký kraj,Rychlotesty,3000,0
 2020-04-14,Ústecký kraj,Tampóny,400,0
 2020-04-14,Ústecký kraj,Teploměry,0,0
+2020-04-14,Ústecký kraj,Termokamery,0,0
 2020-04-14,Ústecký kraj,Štíty,1040,0
 2020-04-15,Hlavní město Praha,Brýle,5113,545
 2020-04-15,Hlavní město Praha,Dezinfekce (l),8694,60
@@ -2633,6 +2787,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-15,Hlavní město Praha,Rychlotesty,29826,10131
 2020-04-15,Hlavní město Praha,Tampóny,5000,0
 2020-04-15,Hlavní město Praha,Teploměry,0,0
+2020-04-15,Hlavní město Praha,Termokamery,0,0
 2020-04-15,Hlavní město Praha,Štíty,4903,555
 2020-04-15,Jihomoravský kraj,Brýle,1945,0
 2020-04-15,Jihomoravský kraj,Dezinfekce (l),7360,0
@@ -2650,6 +2805,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-15,Jihomoravský kraj,Rychlotesty,12724,9724
 2020-04-15,Jihomoravský kraj,Tampóny,300,0
 2020-04-15,Jihomoravský kraj,Teploměry,0,0
+2020-04-15,Jihomoravský kraj,Termokamery,0,0
 2020-04-15,Jihomoravský kraj,Štíty,2544,0
 2020-04-15,Jihočeský kraj,Brýle,922,0
 2020-04-15,Jihočeský kraj,Dezinfekce (l),1225,0
@@ -2667,6 +2823,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-15,Jihočeský kraj,Rychlotesty,8793,5793
 2020-04-15,Jihočeský kraj,Tampóny,300,0
 2020-04-15,Jihočeský kraj,Teploměry,0,0
+2020-04-15,Jihočeský kraj,Termokamery,0,0
 2020-04-15,Jihočeský kraj,Štíty,586,0
 2020-04-15,Karlovarský kraj,Brýle,60,0
 2020-04-15,Karlovarský kraj,Dezinfekce (l),1190,0
@@ -2684,6 +2841,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-15,Karlovarský kraj,Rychlotesty,8483,2483
 2020-04-15,Karlovarský kraj,Tampóny,2300,0
 2020-04-15,Karlovarský kraj,Teploměry,0,0
+2020-04-15,Karlovarský kraj,Termokamery,0,0
 2020-04-15,Karlovarský kraj,Štíty,60,0
 2020-04-15,Kraj Vysočina,Brýle,355,0
 2020-04-15,Kraj Vysočina,Dezinfekce (l),1015,0
@@ -2701,6 +2859,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-15,Kraj Vysočina,Rychlotesty,6393,3393
 2020-04-15,Kraj Vysočina,Tampóny,2600,0
 2020-04-15,Kraj Vysočina,Teploměry,0,0
+2020-04-15,Kraj Vysočina,Termokamery,0,0
 2020-04-15,Kraj Vysočina,Štíty,95,0
 2020-04-15,Královéhradecký kraj,Brýle,990,0
 2020-04-15,Královéhradecký kraj,Dezinfekce (l),2325,0
@@ -2718,6 +2877,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-15,Královéhradecký kraj,Rychlotesty,7469,4469
 2020-04-15,Královéhradecký kraj,Tampóny,300,0
 2020-04-15,Královéhradecký kraj,Teploměry,0,0
+2020-04-15,Královéhradecký kraj,Termokamery,0,0
 2020-04-15,Královéhradecký kraj,Štíty,335,0
 2020-04-15,Liberecký kraj,Brýle,290,0
 2020-04-15,Liberecký kraj,Dezinfekce (l),1020,0
@@ -2735,6 +2895,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-15,Liberecký kraj,Rychlotesty,6310,3310
 2020-04-15,Liberecký kraj,Tampóny,300,0
 2020-04-15,Liberecký kraj,Teploměry,0,0
+2020-04-15,Liberecký kraj,Termokamery,0,0
 2020-04-15,Liberecký kraj,Štíty,225,0
 2020-04-15,Moravskoslezský kraj,Brýle,2012,0
 2020-04-15,Moravskoslezský kraj,Dezinfekce (l),2775,0
@@ -2752,6 +2913,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-15,Moravskoslezský kraj,Rychlotesty,15103,9103
 2020-04-15,Moravskoslezský kraj,Tampóny,2900,0
 2020-04-15,Moravskoslezský kraj,Teploměry,0,0
+2020-04-15,Moravskoslezský kraj,Termokamery,0,0
 2020-04-15,Moravskoslezský kraj,Štíty,893,0
 2020-04-15,Olomoucký kraj,Brýle,1635,0
 2020-04-15,Olomoucký kraj,Dezinfekce (l),2625,0
@@ -2769,6 +2931,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-15,Olomoucký kraj,Rychlotesty,34586,5586
 2020-04-15,Olomoucký kraj,Tampóny,1200,0
 2020-04-15,Olomoucký kraj,Teploměry,0,0
+2020-04-15,Olomoucký kraj,Termokamery,0,0
 2020-04-15,Olomoucký kraj,Štíty,1235,0
 2020-04-15,Pardubický kraj,Brýle,980,0
 2020-04-15,Pardubický kraj,Dezinfekce (l),665,0
@@ -2786,6 +2949,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-15,Pardubický kraj,Rychlotesty,7138,4138
 2020-04-15,Pardubický kraj,Tampóny,300,0
 2020-04-15,Pardubický kraj,Teploměry,0,0
+2020-04-15,Pardubický kraj,Termokamery,0,0
 2020-04-15,Pardubický kraj,Štíty,1180,0
 2020-04-15,Plzeňský kraj,Brýle,924,0
 2020-04-15,Plzeňský kraj,Dezinfekce (l),5240,0
@@ -2803,6 +2967,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-15,Plzeňský kraj,Rychlotesty,7552,4552
 2020-04-15,Plzeňský kraj,Tampóny,300,0
 2020-04-15,Plzeňský kraj,Teploměry,0,0
+2020-04-15,Plzeňský kraj,Termokamery,0,0
 2020-04-15,Plzeňský kraj,Štíty,432,0
 2020-04-15,Středočeský kraj,Brýle,380,0
 2020-04-15,Středočeský kraj,Dezinfekce (l),810,0
@@ -2820,6 +2985,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-15,Středočeský kraj,Rychlotesty,22469,10469
 2020-04-15,Středočeský kraj,Tampóny,200,0
 2020-04-15,Středočeský kraj,Teploměry,0,0
+2020-04-15,Středočeský kraj,Termokamery,0,0
 2020-04-15,Středočeský kraj,Štíty,57,0
 2020-04-15,Zlínský kraj,Brýle,710,50
 2020-04-15,Zlínský kraj,Dezinfekce (l),825,0
@@ -2837,6 +3003,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-15,Zlínský kraj,Rychlotesty,6428,4428
 2020-04-15,Zlínský kraj,Tampóny,300,0
 2020-04-15,Zlínský kraj,Teploměry,0,0
+2020-04-15,Zlínský kraj,Termokamery,0,0
 2020-04-15,Zlínský kraj,Štíty,410,0
 2020-04-15,Ústecký kraj,Brýle,820,0
 2020-04-15,Ústecký kraj,Dezinfekce (l),1815,0
@@ -2854,6 +3021,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-15,Ústecký kraj,Rychlotesty,9621,6621
 2020-04-15,Ústecký kraj,Tampóny,400,0
 2020-04-15,Ústecký kraj,Teploměry,0,0
+2020-04-15,Ústecký kraj,Termokamery,0,0
 2020-04-15,Ústecký kraj,Štíty,1040,0
 2020-04-16,Hlavní město Praha,Brýle,5137,24
 2020-04-16,Hlavní město Praha,Dezinfekce (l),8694,0
@@ -2871,6 +3039,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-16,Hlavní město Praha,Rychlotesty,33006,3180
 2020-04-16,Hlavní město Praha,Tampóny,5000,0
 2020-04-16,Hlavní město Praha,Teploměry,0,0
+2020-04-16,Hlavní město Praha,Termokamery,0,0
 2020-04-16,Hlavní město Praha,Štíty,4903,0
 2020-04-16,Jihomoravský kraj,Brýle,1975,30
 2020-04-16,Jihomoravský kraj,Dezinfekce (l),7360,0
@@ -2888,6 +3057,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-16,Jihomoravský kraj,Rychlotesty,12724,0
 2020-04-16,Jihomoravský kraj,Tampóny,300,0
 2020-04-16,Jihomoravský kraj,Teploměry,0,0
+2020-04-16,Jihomoravský kraj,Termokamery,0,0
 2020-04-16,Jihomoravský kraj,Štíty,2614,70
 2020-04-16,Jihočeský kraj,Brýle,922,0
 2020-04-16,Jihočeský kraj,Dezinfekce (l),1225,0
@@ -2905,6 +3075,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-16,Jihočeský kraj,Rychlotesty,8793,0
 2020-04-16,Jihočeský kraj,Tampóny,300,0
 2020-04-16,Jihočeský kraj,Teploměry,0,0
+2020-04-16,Jihočeský kraj,Termokamery,0,0
 2020-04-16,Jihočeský kraj,Štíty,586,0
 2020-04-16,Karlovarský kraj,Brýle,60,0
 2020-04-16,Karlovarský kraj,Dezinfekce (l),1190,0
@@ -2922,6 +3093,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-16,Karlovarský kraj,Rychlotesty,8483,0
 2020-04-16,Karlovarský kraj,Tampóny,2300,0
 2020-04-16,Karlovarský kraj,Teploměry,0,0
+2020-04-16,Karlovarský kraj,Termokamery,0,0
 2020-04-16,Karlovarský kraj,Štíty,60,0
 2020-04-16,Kraj Vysočina,Brýle,355,0
 2020-04-16,Kraj Vysočina,Dezinfekce (l),1095,80
@@ -2939,6 +3111,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-16,Kraj Vysočina,Rychlotesty,6393,0
 2020-04-16,Kraj Vysočina,Tampóny,2600,0
 2020-04-16,Kraj Vysočina,Teploměry,0,0
+2020-04-16,Kraj Vysočina,Termokamery,0,0
 2020-04-16,Kraj Vysočina,Štíty,95,0
 2020-04-16,Královéhradecký kraj,Brýle,990,0
 2020-04-16,Královéhradecký kraj,Dezinfekce (l),2325,0
@@ -2956,6 +3129,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-16,Královéhradecký kraj,Rychlotesty,7469,0
 2020-04-16,Královéhradecký kraj,Tampóny,300,0
 2020-04-16,Královéhradecký kraj,Teploměry,0,0
+2020-04-16,Královéhradecký kraj,Termokamery,0,0
 2020-04-16,Královéhradecký kraj,Štíty,335,0
 2020-04-16,Liberecký kraj,Brýle,290,0
 2020-04-16,Liberecký kraj,Dezinfekce (l),1020,0
@@ -2973,6 +3147,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-16,Liberecký kraj,Rychlotesty,6310,0
 2020-04-16,Liberecký kraj,Tampóny,10300,10000
 2020-04-16,Liberecký kraj,Teploměry,0,0
+2020-04-16,Liberecký kraj,Termokamery,0,0
 2020-04-16,Liberecký kraj,Štíty,225,0
 2020-04-16,Moravskoslezský kraj,Brýle,2032,20
 2020-04-16,Moravskoslezský kraj,Dezinfekce (l),2778,3
@@ -2990,6 +3165,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-16,Moravskoslezský kraj,Rychlotesty,15103,0
 2020-04-16,Moravskoslezský kraj,Tampóny,4900,2000
 2020-04-16,Moravskoslezský kraj,Teploměry,0,0
+2020-04-16,Moravskoslezský kraj,Termokamery,0,0
 2020-04-16,Moravskoslezský kraj,Štíty,903,10
 2020-04-16,Olomoucký kraj,Brýle,1635,0
 2020-04-16,Olomoucký kraj,Dezinfekce (l),2625,0
@@ -3007,6 +3183,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-16,Olomoucký kraj,Rychlotesty,34586,0
 2020-04-16,Olomoucký kraj,Tampóny,1200,0
 2020-04-16,Olomoucký kraj,Teploměry,0,0
+2020-04-16,Olomoucký kraj,Termokamery,0,0
 2020-04-16,Olomoucký kraj,Štíty,1235,0
 2020-04-16,Pardubický kraj,Brýle,980,0
 2020-04-16,Pardubický kraj,Dezinfekce (l),665,0
@@ -3024,6 +3201,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-16,Pardubický kraj,Rychlotesty,7138,0
 2020-04-16,Pardubický kraj,Tampóny,300,0
 2020-04-16,Pardubický kraj,Teploměry,0,0
+2020-04-16,Pardubický kraj,Termokamery,0,0
 2020-04-16,Pardubický kraj,Štíty,1180,0
 2020-04-16,Plzeňský kraj,Brýle,924,0
 2020-04-16,Plzeňský kraj,Dezinfekce (l),5240,0
@@ -3041,6 +3219,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-16,Plzeňský kraj,Rychlotesty,7552,0
 2020-04-16,Plzeňský kraj,Tampóny,300,0
 2020-04-16,Plzeňský kraj,Teploměry,0,0
+2020-04-16,Plzeňský kraj,Termokamery,0,0
 2020-04-16,Plzeňský kraj,Štíty,432,0
 2020-04-16,Středočeský kraj,Brýle,380,0
 2020-04-16,Středočeský kraj,Dezinfekce (l),810,0
@@ -3058,6 +3237,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-16,Středočeský kraj,Rychlotesty,22469,0
 2020-04-16,Středočeský kraj,Tampóny,200,0
 2020-04-16,Středočeský kraj,Teploměry,0,0
+2020-04-16,Středočeský kraj,Termokamery,0,0
 2020-04-16,Středočeský kraj,Štíty,57,0
 2020-04-16,Zlínský kraj,Brýle,860,150
 2020-04-16,Zlínský kraj,Dezinfekce (l),865,40
@@ -3075,6 +3255,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-16,Zlínský kraj,Rychlotesty,6428,0
 2020-04-16,Zlínský kraj,Tampóny,300,0
 2020-04-16,Zlínský kraj,Teploměry,0,0
+2020-04-16,Zlínský kraj,Termokamery,0,0
 2020-04-16,Zlínský kraj,Štíty,410,0
 2020-04-16,Ústecký kraj,Brýle,1170,350
 2020-04-16,Ústecký kraj,Dezinfekce (l),1815,0
@@ -3092,6 +3273,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-16,Ústecký kraj,Rychlotesty,9621,0
 2020-04-16,Ústecký kraj,Tampóny,400,0
 2020-04-16,Ústecký kraj,Teploměry,0,0
+2020-04-16,Ústecký kraj,Termokamery,0,0
 2020-04-16,Ústecký kraj,Štíty,1490,450
 2020-04-17,Hlavní město Praha,Brýle,5143,6
 2020-04-17,Hlavní město Praha,Dezinfekce (l),8696,2
@@ -3109,6 +3291,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-17,Hlavní město Praha,Rychlotesty,36286,3280
 2020-04-17,Hlavní město Praha,Tampóny,5000,0
 2020-04-17,Hlavní město Praha,Teploměry,0,0
+2020-04-17,Hlavní město Praha,Termokamery,0,0
 2020-04-17,Hlavní město Praha,Štíty,4908,5
 2020-04-17,Jihomoravský kraj,Brýle,1975,0
 2020-04-17,Jihomoravský kraj,Dezinfekce (l),7360,0
@@ -3126,6 +3309,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-17,Jihomoravský kraj,Rychlotesty,12724,0
 2020-04-17,Jihomoravský kraj,Tampóny,300,0
 2020-04-17,Jihomoravský kraj,Teploměry,0,0
+2020-04-17,Jihomoravský kraj,Termokamery,0,0
 2020-04-17,Jihomoravský kraj,Štíty,2614,0
 2020-04-17,Jihočeský kraj,Brýle,928,6
 2020-04-17,Jihočeský kraj,Dezinfekce (l),1225,0
@@ -3143,6 +3327,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-17,Jihočeský kraj,Rychlotesty,8793,0
 2020-04-17,Jihočeský kraj,Tampóny,300,0
 2020-04-17,Jihočeský kraj,Teploměry,0,0
+2020-04-17,Jihočeský kraj,Termokamery,0,0
 2020-04-17,Jihočeský kraj,Štíty,586,0
 2020-04-17,Karlovarský kraj,Brýle,60,0
 2020-04-17,Karlovarský kraj,Dezinfekce (l),1205,15
@@ -3160,6 +3345,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-17,Karlovarský kraj,Rychlotesty,9483,1000
 2020-04-17,Karlovarský kraj,Tampóny,2300,0
 2020-04-17,Karlovarský kraj,Teploměry,0,0
+2020-04-17,Karlovarský kraj,Termokamery,0,0
 2020-04-17,Karlovarský kraj,Štíty,60,0
 2020-04-17,Kraj Vysočina,Brýle,355,0
 2020-04-17,Kraj Vysočina,Dezinfekce (l),1095,0
@@ -3177,6 +3363,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-17,Kraj Vysočina,Rychlotesty,6393,0
 2020-04-17,Kraj Vysočina,Tampóny,2600,0
 2020-04-17,Kraj Vysočina,Teploměry,0,0
+2020-04-17,Kraj Vysočina,Termokamery,0,0
 2020-04-17,Kraj Vysočina,Štíty,95,0
 2020-04-17,Královéhradecký kraj,Brýle,990,0
 2020-04-17,Královéhradecký kraj,Dezinfekce (l),2325,0
@@ -3194,6 +3381,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-17,Královéhradecký kraj,Rychlotesty,8469,1000
 2020-04-17,Královéhradecký kraj,Tampóny,300,0
 2020-04-17,Královéhradecký kraj,Teploměry,0,0
+2020-04-17,Královéhradecký kraj,Termokamery,0,0
 2020-04-17,Královéhradecký kraj,Štíty,335,0
 2020-04-17,Liberecký kraj,Brýle,290,0
 2020-04-17,Liberecký kraj,Dezinfekce (l),1020,0
@@ -3211,6 +3399,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-17,Liberecký kraj,Rychlotesty,7310,1000
 2020-04-17,Liberecký kraj,Tampóny,10300,0
 2020-04-17,Liberecký kraj,Teploměry,0,0
+2020-04-17,Liberecký kraj,Termokamery,0,0
 2020-04-17,Liberecký kraj,Štíty,245,20
 2020-04-17,Moravskoslezský kraj,Brýle,2032,0
 2020-04-17,Moravskoslezský kraj,Dezinfekce (l),2778,0
@@ -3228,6 +3417,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-17,Moravskoslezský kraj,Rychlotesty,15103,0
 2020-04-17,Moravskoslezský kraj,Tampóny,4900,0
 2020-04-17,Moravskoslezský kraj,Teploměry,0,0
+2020-04-17,Moravskoslezský kraj,Termokamery,0,0
 2020-04-17,Moravskoslezský kraj,Štíty,903,0
 2020-04-17,Olomoucký kraj,Brýle,1635,0
 2020-04-17,Olomoucký kraj,Dezinfekce (l),2625,0
@@ -3245,6 +3435,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-17,Olomoucký kraj,Rychlotesty,34586,0
 2020-04-17,Olomoucký kraj,Tampóny,1200,0
 2020-04-17,Olomoucký kraj,Teploměry,0,0
+2020-04-17,Olomoucký kraj,Termokamery,0,0
 2020-04-17,Olomoucký kraj,Štíty,1235,0
 2020-04-17,Pardubický kraj,Brýle,990,10
 2020-04-17,Pardubický kraj,Dezinfekce (l),665,0
@@ -3262,6 +3453,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-17,Pardubický kraj,Rychlotesty,8138,1000
 2020-04-17,Pardubický kraj,Tampóny,300,0
 2020-04-17,Pardubický kraj,Teploměry,0,0
+2020-04-17,Pardubický kraj,Termokamery,0,0
 2020-04-17,Pardubický kraj,Štíty,1330,150
 2020-04-17,Plzeňský kraj,Brýle,1154,230
 2020-04-17,Plzeňský kraj,Dezinfekce (l),5240,0
@@ -3279,6 +3471,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-17,Plzeňský kraj,Rychlotesty,8552,1000
 2020-04-17,Plzeňský kraj,Tampóny,2300,2000
 2020-04-17,Plzeňský kraj,Teploměry,0,0
+2020-04-17,Plzeňský kraj,Termokamery,0,0
 2020-04-17,Plzeňský kraj,Štíty,532,100
 2020-04-17,Středočeský kraj,Brýle,380,0
 2020-04-17,Středočeský kraj,Dezinfekce (l),810,0
@@ -3296,6 +3489,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-17,Středočeský kraj,Rychlotesty,22469,0
 2020-04-17,Středočeský kraj,Tampóny,200,0
 2020-04-17,Středočeský kraj,Teploměry,0,0
+2020-04-17,Středočeský kraj,Termokamery,0,0
 2020-04-17,Středočeský kraj,Štíty,57,0
 2020-04-17,Zlínský kraj,Brýle,860,0
 2020-04-17,Zlínský kraj,Dezinfekce (l),905,40
@@ -3313,6 +3507,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-17,Zlínský kraj,Rychlotesty,6428,0
 2020-04-17,Zlínský kraj,Tampóny,300,0
 2020-04-17,Zlínský kraj,Teploměry,0,0
+2020-04-17,Zlínský kraj,Termokamery,0,0
 2020-04-17,Zlínský kraj,Štíty,410,0
 2020-04-17,Ústecký kraj,Brýle,1225,55
 2020-04-17,Ústecký kraj,Dezinfekce (l),1815,0
@@ -3330,6 +3525,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-17,Ústecký kraj,Rychlotesty,10621,1000
 2020-04-17,Ústecký kraj,Tampóny,400,0
 2020-04-17,Ústecký kraj,Teploměry,0,0
+2020-04-17,Ústecký kraj,Termokamery,0,0
 2020-04-17,Ústecký kraj,Štíty,1560,70
 2020-04-18,Hlavní město Praha,Brýle,5344,201
 2020-04-18,Hlavní město Praha,Dezinfekce (l),9495,799
@@ -3347,6 +3543,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-18,Hlavní město Praha,Rychlotesty,36286,0
 2020-04-18,Hlavní město Praha,Tampóny,5000,0
 2020-04-18,Hlavní město Praha,Teploměry,0,0
+2020-04-18,Hlavní město Praha,Termokamery,0,0
 2020-04-18,Hlavní město Praha,Štíty,4908,0
 2020-04-18,Jihomoravský kraj,Brýle,1975,0
 2020-04-18,Jihomoravský kraj,Dezinfekce (l),7360,0
@@ -3364,6 +3561,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-18,Jihomoravský kraj,Rychlotesty,12724,0
 2020-04-18,Jihomoravský kraj,Tampóny,300,0
 2020-04-18,Jihomoravský kraj,Teploměry,0,0
+2020-04-18,Jihomoravský kraj,Termokamery,0,0
 2020-04-18,Jihomoravský kraj,Štíty,2614,0
 2020-04-18,Jihočeský kraj,Brýle,928,0
 2020-04-18,Jihočeský kraj,Dezinfekce (l),1225,0
@@ -3381,6 +3579,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-18,Jihočeský kraj,Rychlotesty,8793,0
 2020-04-18,Jihočeský kraj,Tampóny,300,0
 2020-04-18,Jihočeský kraj,Teploměry,0,0
+2020-04-18,Jihočeský kraj,Termokamery,0,0
 2020-04-18,Jihočeský kraj,Štíty,586,0
 2020-04-18,Karlovarský kraj,Brýle,60,0
 2020-04-18,Karlovarský kraj,Dezinfekce (l),1205,0
@@ -3398,6 +3597,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-18,Karlovarský kraj,Rychlotesty,9483,0
 2020-04-18,Karlovarský kraj,Tampóny,2300,0
 2020-04-18,Karlovarský kraj,Teploměry,0,0
+2020-04-18,Karlovarský kraj,Termokamery,0,0
 2020-04-18,Karlovarský kraj,Štíty,60,0
 2020-04-18,Kraj Vysočina,Brýle,355,0
 2020-04-18,Kraj Vysočina,Dezinfekce (l),1095,0
@@ -3415,6 +3615,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-18,Kraj Vysočina,Rychlotesty,6393,0
 2020-04-18,Kraj Vysočina,Tampóny,2600,0
 2020-04-18,Kraj Vysočina,Teploměry,0,0
+2020-04-18,Kraj Vysočina,Termokamery,0,0
 2020-04-18,Kraj Vysočina,Štíty,95,0
 2020-04-18,Královéhradecký kraj,Brýle,990,0
 2020-04-18,Královéhradecký kraj,Dezinfekce (l),2325,0
@@ -3432,6 +3633,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-18,Královéhradecký kraj,Rychlotesty,8469,0
 2020-04-18,Královéhradecký kraj,Tampóny,300,0
 2020-04-18,Královéhradecký kraj,Teploměry,0,0
+2020-04-18,Královéhradecký kraj,Termokamery,0,0
 2020-04-18,Královéhradecký kraj,Štíty,335,0
 2020-04-18,Liberecký kraj,Brýle,290,0
 2020-04-18,Liberecký kraj,Dezinfekce (l),1020,0
@@ -3449,6 +3651,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-18,Liberecký kraj,Rychlotesty,7310,0
 2020-04-18,Liberecký kraj,Tampóny,10300,0
 2020-04-18,Liberecký kraj,Teploměry,0,0
+2020-04-18,Liberecký kraj,Termokamery,0,0
 2020-04-18,Liberecký kraj,Štíty,245,0
 2020-04-18,Moravskoslezský kraj,Brýle,2032,0
 2020-04-18,Moravskoslezský kraj,Dezinfekce (l),2778,0
@@ -3466,6 +3669,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-18,Moravskoslezský kraj,Rychlotesty,15103,0
 2020-04-18,Moravskoslezský kraj,Tampóny,4900,0
 2020-04-18,Moravskoslezský kraj,Teploměry,0,0
+2020-04-18,Moravskoslezský kraj,Termokamery,0,0
 2020-04-18,Moravskoslezský kraj,Štíty,903,0
 2020-04-18,Olomoucký kraj,Brýle,1635,0
 2020-04-18,Olomoucký kraj,Dezinfekce (l),2625,0
@@ -3483,6 +3687,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-18,Olomoucký kraj,Rychlotesty,34586,0
 2020-04-18,Olomoucký kraj,Tampóny,1200,0
 2020-04-18,Olomoucký kraj,Teploměry,0,0
+2020-04-18,Olomoucký kraj,Termokamery,0,0
 2020-04-18,Olomoucký kraj,Štíty,1235,0
 2020-04-18,Pardubický kraj,Brýle,990,0
 2020-04-18,Pardubický kraj,Dezinfekce (l),665,0
@@ -3500,6 +3705,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-18,Pardubický kraj,Rychlotesty,8138,0
 2020-04-18,Pardubický kraj,Tampóny,300,0
 2020-04-18,Pardubický kraj,Teploměry,0,0
+2020-04-18,Pardubický kraj,Termokamery,0,0
 2020-04-18,Pardubický kraj,Štíty,1330,0
 2020-04-18,Plzeňský kraj,Brýle,1154,0
 2020-04-18,Plzeňský kraj,Dezinfekce (l),5240,0
@@ -3517,6 +3723,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-18,Plzeňský kraj,Rychlotesty,8552,0
 2020-04-18,Plzeňský kraj,Tampóny,2300,0
 2020-04-18,Plzeňský kraj,Teploměry,0,0
+2020-04-18,Plzeňský kraj,Termokamery,0,0
 2020-04-18,Plzeňský kraj,Štíty,532,0
 2020-04-18,Středočeský kraj,Brýle,435,55
 2020-04-18,Středočeský kraj,Dezinfekce (l),980,170
@@ -3534,6 +3741,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-18,Středočeský kraj,Rychlotesty,22469,0
 2020-04-18,Středočeský kraj,Tampóny,200,0
 2020-04-18,Středočeský kraj,Teploměry,0,0
+2020-04-18,Středočeský kraj,Termokamery,0,0
 2020-04-18,Středočeský kraj,Štíty,57,0
 2020-04-18,Zlínský kraj,Brýle,860,0
 2020-04-18,Zlínský kraj,Dezinfekce (l),905,0
@@ -3551,6 +3759,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-18,Zlínský kraj,Rychlotesty,6428,0
 2020-04-18,Zlínský kraj,Tampóny,300,0
 2020-04-18,Zlínský kraj,Teploměry,0,0
+2020-04-18,Zlínský kraj,Termokamery,0,0
 2020-04-18,Zlínský kraj,Štíty,410,0
 2020-04-18,Ústecký kraj,Brýle,1225,0
 2020-04-18,Ústecký kraj,Dezinfekce (l),1815,0
@@ -3568,6 +3777,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-18,Ústecký kraj,Rychlotesty,10621,0
 2020-04-18,Ústecký kraj,Tampóny,400,0
 2020-04-18,Ústecký kraj,Teploměry,0,0
+2020-04-18,Ústecký kraj,Termokamery,0,0
 2020-04-18,Ústecký kraj,Štíty,1560,0
 2020-04-19,Hlavní město Praha,Brýle,5344,0
 2020-04-19,Hlavní město Praha,Dezinfekce (l),9495,0
@@ -3585,6 +3795,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-19,Hlavní město Praha,Rychlotesty,36286,0
 2020-04-19,Hlavní město Praha,Tampóny,5000,0
 2020-04-19,Hlavní město Praha,Teploměry,0,0
+2020-04-19,Hlavní město Praha,Termokamery,0,0
 2020-04-19,Hlavní město Praha,Štíty,4908,0
 2020-04-19,Jihomoravský kraj,Brýle,1975,0
 2020-04-19,Jihomoravský kraj,Dezinfekce (l),7360,0
@@ -3602,6 +3813,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-19,Jihomoravský kraj,Rychlotesty,12724,0
 2020-04-19,Jihomoravský kraj,Tampóny,300,0
 2020-04-19,Jihomoravský kraj,Teploměry,0,0
+2020-04-19,Jihomoravský kraj,Termokamery,0,0
 2020-04-19,Jihomoravský kraj,Štíty,2614,0
 2020-04-19,Jihočeský kraj,Brýle,928,0
 2020-04-19,Jihočeský kraj,Dezinfekce (l),1225,0
@@ -3619,6 +3831,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-19,Jihočeský kraj,Rychlotesty,8793,0
 2020-04-19,Jihočeský kraj,Tampóny,300,0
 2020-04-19,Jihočeský kraj,Teploměry,0,0
+2020-04-19,Jihočeský kraj,Termokamery,0,0
 2020-04-19,Jihočeský kraj,Štíty,586,0
 2020-04-19,Karlovarský kraj,Brýle,60,0
 2020-04-19,Karlovarský kraj,Dezinfekce (l),1205,0
@@ -3636,6 +3849,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-19,Karlovarský kraj,Rychlotesty,9483,0
 2020-04-19,Karlovarský kraj,Tampóny,2300,0
 2020-04-19,Karlovarský kraj,Teploměry,0,0
+2020-04-19,Karlovarský kraj,Termokamery,0,0
 2020-04-19,Karlovarský kraj,Štíty,60,0
 2020-04-19,Kraj Vysočina,Brýle,355,0
 2020-04-19,Kraj Vysočina,Dezinfekce (l),1095,0
@@ -3653,6 +3867,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-19,Kraj Vysočina,Rychlotesty,6393,0
 2020-04-19,Kraj Vysočina,Tampóny,2600,0
 2020-04-19,Kraj Vysočina,Teploměry,0,0
+2020-04-19,Kraj Vysočina,Termokamery,0,0
 2020-04-19,Kraj Vysočina,Štíty,95,0
 2020-04-19,Královéhradecký kraj,Brýle,990,0
 2020-04-19,Královéhradecký kraj,Dezinfekce (l),2325,0
@@ -3670,6 +3885,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-19,Královéhradecký kraj,Rychlotesty,8469,0
 2020-04-19,Královéhradecký kraj,Tampóny,300,0
 2020-04-19,Královéhradecký kraj,Teploměry,0,0
+2020-04-19,Královéhradecký kraj,Termokamery,0,0
 2020-04-19,Královéhradecký kraj,Štíty,335,0
 2020-04-19,Liberecký kraj,Brýle,290,0
 2020-04-19,Liberecký kraj,Dezinfekce (l),1020,0
@@ -3687,6 +3903,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-19,Liberecký kraj,Rychlotesty,7310,0
 2020-04-19,Liberecký kraj,Tampóny,10300,0
 2020-04-19,Liberecký kraj,Teploměry,0,0
+2020-04-19,Liberecký kraj,Termokamery,0,0
 2020-04-19,Liberecký kraj,Štíty,245,0
 2020-04-19,Moravskoslezský kraj,Brýle,2032,0
 2020-04-19,Moravskoslezský kraj,Dezinfekce (l),2778,0
@@ -3704,6 +3921,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-19,Moravskoslezský kraj,Rychlotesty,15103,0
 2020-04-19,Moravskoslezský kraj,Tampóny,4900,0
 2020-04-19,Moravskoslezský kraj,Teploměry,0,0
+2020-04-19,Moravskoslezský kraj,Termokamery,0,0
 2020-04-19,Moravskoslezský kraj,Štíty,903,0
 2020-04-19,Olomoucký kraj,Brýle,1635,0
 2020-04-19,Olomoucký kraj,Dezinfekce (l),2625,0
@@ -3721,6 +3939,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-19,Olomoucký kraj,Rychlotesty,34586,0
 2020-04-19,Olomoucký kraj,Tampóny,1200,0
 2020-04-19,Olomoucký kraj,Teploměry,0,0
+2020-04-19,Olomoucký kraj,Termokamery,0,0
 2020-04-19,Olomoucký kraj,Štíty,1235,0
 2020-04-19,Pardubický kraj,Brýle,990,0
 2020-04-19,Pardubický kraj,Dezinfekce (l),665,0
@@ -3738,6 +3957,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-19,Pardubický kraj,Rychlotesty,8138,0
 2020-04-19,Pardubický kraj,Tampóny,300,0
 2020-04-19,Pardubický kraj,Teploměry,0,0
+2020-04-19,Pardubický kraj,Termokamery,0,0
 2020-04-19,Pardubický kraj,Štíty,1330,0
 2020-04-19,Plzeňský kraj,Brýle,1154,0
 2020-04-19,Plzeňský kraj,Dezinfekce (l),5240,0
@@ -3755,6 +3975,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-19,Plzeňský kraj,Rychlotesty,8552,0
 2020-04-19,Plzeňský kraj,Tampóny,2300,0
 2020-04-19,Plzeňský kraj,Teploměry,0,0
+2020-04-19,Plzeňský kraj,Termokamery,0,0
 2020-04-19,Plzeňský kraj,Štíty,532,0
 2020-04-19,Středočeský kraj,Brýle,435,0
 2020-04-19,Středočeský kraj,Dezinfekce (l),980,0
@@ -3772,6 +3993,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-19,Středočeský kraj,Rychlotesty,22469,0
 2020-04-19,Středočeský kraj,Tampóny,200,0
 2020-04-19,Středočeský kraj,Teploměry,0,0
+2020-04-19,Středočeský kraj,Termokamery,0,0
 2020-04-19,Středočeský kraj,Štíty,57,0
 2020-04-19,Zlínský kraj,Brýle,860,0
 2020-04-19,Zlínský kraj,Dezinfekce (l),905,0
@@ -3789,6 +4011,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-19,Zlínský kraj,Rychlotesty,6428,0
 2020-04-19,Zlínský kraj,Tampóny,300,0
 2020-04-19,Zlínský kraj,Teploměry,0,0
+2020-04-19,Zlínský kraj,Termokamery,0,0
 2020-04-19,Zlínský kraj,Štíty,410,0
 2020-04-19,Ústecký kraj,Brýle,1225,0
 2020-04-19,Ústecký kraj,Dezinfekce (l),1825,10
@@ -3806,6 +4029,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-19,Ústecký kraj,Rychlotesty,10621,0
 2020-04-19,Ústecký kraj,Tampóny,400,0
 2020-04-19,Ústecký kraj,Teploměry,0,0
+2020-04-19,Ústecký kraj,Termokamery,0,0
 2020-04-19,Ústecký kraj,Štíty,1560,0
 2020-04-20,Hlavní město Praha,Brýle,5344,0
 2020-04-20,Hlavní město Praha,Dezinfekce (l),9495,0
@@ -3823,6 +4047,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-20,Hlavní město Praha,Rychlotesty,36286,0
 2020-04-20,Hlavní město Praha,Tampóny,112966,107966
 2020-04-20,Hlavní město Praha,Teploměry,0,0
+2020-04-20,Hlavní město Praha,Termokamery,0,0
 2020-04-20,Hlavní město Praha,Štíty,4908,0
 2020-04-20,Jihomoravský kraj,Brýle,1975,0
 2020-04-20,Jihomoravský kraj,Dezinfekce (l),7360,0
@@ -3840,6 +4065,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-20,Jihomoravský kraj,Rychlotesty,12724,0
 2020-04-20,Jihomoravský kraj,Tampóny,53661,53361
 2020-04-20,Jihomoravský kraj,Teploměry,0,0
+2020-04-20,Jihomoravský kraj,Termokamery,0,0
 2020-04-20,Jihomoravský kraj,Štíty,2614,0
 2020-04-20,Jihočeský kraj,Brýle,928,0
 2020-04-20,Jihočeský kraj,Dezinfekce (l),1225,0
@@ -3857,6 +4083,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-20,Jihočeský kraj,Rychlotesty,8793,0
 2020-04-20,Jihočeský kraj,Tampóny,6669,6369
 2020-04-20,Jihočeský kraj,Teploměry,0,0
+2020-04-20,Jihočeský kraj,Termokamery,0,0
 2020-04-20,Jihočeský kraj,Štíty,586,0
 2020-04-20,Karlovarský kraj,Brýle,60,0
 2020-04-20,Karlovarský kraj,Dezinfekce (l),1205,0
@@ -3874,6 +4101,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-20,Karlovarský kraj,Rychlotesty,9483,0
 2020-04-20,Karlovarský kraj,Tampóny,4209,1909
 2020-04-20,Karlovarský kraj,Teploměry,0,0
+2020-04-20,Karlovarský kraj,Termokamery,0,0
 2020-04-20,Karlovarský kraj,Štíty,60,0
 2020-04-20,Kraj Vysočina,Brýle,355,0
 2020-04-20,Kraj Vysočina,Dezinfekce (l),1095,0
@@ -3891,6 +4119,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-20,Kraj Vysočina,Rychlotesty,6393,0
 2020-04-20,Kraj Vysočina,Tampóny,5600,3000
 2020-04-20,Kraj Vysočina,Teploměry,0,0
+2020-04-20,Kraj Vysočina,Termokamery,0,0
 2020-04-20,Kraj Vysočina,Štíty,95,0
 2020-04-20,Královéhradecký kraj,Brýle,990,0
 2020-04-20,Královéhradecký kraj,Dezinfekce (l),2325,0
@@ -3908,6 +4137,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-20,Královéhradecký kraj,Rychlotesty,8469,0
 2020-04-20,Královéhradecký kraj,Tampóny,27159,26859
 2020-04-20,Královéhradecký kraj,Teploměry,0,0
+2020-04-20,Královéhradecký kraj,Termokamery,0,0
 2020-04-20,Královéhradecký kraj,Štíty,335,0
 2020-04-20,Liberecký kraj,Brýle,290,0
 2020-04-20,Liberecký kraj,Dezinfekce (l),1020,0
@@ -3925,6 +4155,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-20,Liberecký kraj,Rychlotesty,7310,0
 2020-04-20,Liberecký kraj,Tampóny,6600,-3700
 2020-04-20,Liberecký kraj,Teploměry,0,0
+2020-04-20,Liberecký kraj,Termokamery,0,0
 2020-04-20,Liberecký kraj,Štíty,245,0
 2020-04-20,Moravskoslezský kraj,Brýle,2032,0
 2020-04-20,Moravskoslezský kraj,Dezinfekce (l),2778,0
@@ -3942,6 +4173,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-20,Moravskoslezský kraj,Rychlotesty,15103,0
 2020-04-20,Moravskoslezský kraj,Tampóny,19546,14646
 2020-04-20,Moravskoslezský kraj,Teploměry,0,0
+2020-04-20,Moravskoslezský kraj,Termokamery,0,0
 2020-04-20,Moravskoslezský kraj,Štíty,903,0
 2020-04-20,Olomoucký kraj,Brýle,1635,0
 2020-04-20,Olomoucký kraj,Dezinfekce (l),2625,0
@@ -3959,6 +4191,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-20,Olomoucký kraj,Rychlotesty,34586,0
 2020-04-20,Olomoucký kraj,Tampóny,12745,11545
 2020-04-20,Olomoucký kraj,Teploměry,0,0
+2020-04-20,Olomoucký kraj,Termokamery,0,0
 2020-04-20,Olomoucký kraj,Štíty,1235,0
 2020-04-20,Pardubický kraj,Brýle,990,0
 2020-04-20,Pardubický kraj,Dezinfekce (l),665,0
@@ -3976,6 +4209,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-20,Pardubický kraj,Rychlotesty,8138,0
 2020-04-20,Pardubický kraj,Tampóny,8732,8432
 2020-04-20,Pardubický kraj,Teploměry,0,0
+2020-04-20,Pardubický kraj,Termokamery,0,0
 2020-04-20,Pardubický kraj,Štíty,1330,0
 2020-04-20,Plzeňský kraj,Brýle,1154,0
 2020-04-20,Plzeňský kraj,Dezinfekce (l),5240,0
@@ -3993,6 +4227,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-20,Plzeňský kraj,Rychlotesty,8552,0
 2020-04-20,Plzeňský kraj,Tampóny,26035,23735
 2020-04-20,Plzeňský kraj,Teploměry,0,0
+2020-04-20,Plzeňský kraj,Termokamery,0,0
 2020-04-20,Plzeňský kraj,Štíty,532,0
 2020-04-20,Středočeský kraj,Brýle,435,0
 2020-04-20,Středočeský kraj,Dezinfekce (l),980,0
@@ -4010,6 +4245,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-20,Středočeský kraj,Rychlotesty,22469,0
 2020-04-20,Středočeský kraj,Tampóny,11410,11210
 2020-04-20,Středočeský kraj,Teploměry,0,0
+2020-04-20,Středočeský kraj,Termokamery,0,0
 2020-04-20,Středočeský kraj,Štíty,57,0
 2020-04-20,Zlínský kraj,Brýle,860,0
 2020-04-20,Zlínský kraj,Dezinfekce (l),905,0
@@ -4027,6 +4263,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-20,Zlínský kraj,Rychlotesty,6428,0
 2020-04-20,Zlínský kraj,Tampóny,6349,6049
 2020-04-20,Zlínský kraj,Teploměry,0,0
+2020-04-20,Zlínský kraj,Termokamery,0,0
 2020-04-20,Zlínský kraj,Štíty,410,0
 2020-04-20,Ústecký kraj,Brýle,1225,0
 2020-04-20,Ústecký kraj,Dezinfekce (l),1825,0
@@ -4044,6 +4281,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-20,Ústecký kraj,Rychlotesty,10621,0
 2020-04-20,Ústecký kraj,Tampóny,6734,6334
 2020-04-20,Ústecký kraj,Teploměry,0,0
+2020-04-20,Ústecký kraj,Termokamery,0,0
 2020-04-20,Ústecký kraj,Štíty,1560,0
 2020-04-23,Hlavní město Praha,Brýle,5564,220
 2020-04-23,Hlavní město Praha,Dezinfekce (l),10115,620
@@ -4061,6 +4299,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-23,Hlavní město Praha,Rychlotesty,69746,33460
 2020-04-23,Hlavní město Praha,Tampóny,0,-112966
 2020-04-23,Hlavní město Praha,Teploměry,0,0
+2020-04-23,Hlavní město Praha,Termokamery,0,0
 2020-04-23,Hlavní město Praha,Štíty,5483,575
 2020-04-23,Jihomoravský kraj,Brýle,2125,150
 2020-04-23,Jihomoravský kraj,Dezinfekce (l),7780,420
@@ -4078,6 +4317,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-23,Jihomoravský kraj,Rychlotesty,16934,4210
 2020-04-23,Jihomoravský kraj,Tampóny,0,-53661
 2020-04-23,Jihomoravský kraj,Teploměry,0,0
+2020-04-23,Jihomoravský kraj,Termokamery,0,0
 2020-04-23,Jihomoravský kraj,Štíty,2682,68
 2020-04-23,Jihočeský kraj,Brýle,1063,135
 2020-04-23,Jihočeský kraj,Dezinfekce (l),1445,220
@@ -4095,6 +4335,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-23,Jihočeský kraj,Rychlotesty,9793,1000
 2020-04-23,Jihočeský kraj,Tampóny,0,-6669
 2020-04-23,Jihočeský kraj,Teploměry,0,0
+2020-04-23,Jihočeský kraj,Termokamery,0,0
 2020-04-23,Jihočeský kraj,Štíty,586,0
 2020-04-23,Karlovarský kraj,Brýle,60,0
 2020-04-23,Karlovarský kraj,Dezinfekce (l),1205,0
@@ -4112,6 +4353,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-23,Karlovarský kraj,Rychlotesty,9483,0
 2020-04-23,Karlovarský kraj,Tampóny,0,-4209
 2020-04-23,Karlovarský kraj,Teploměry,0,0
+2020-04-23,Karlovarský kraj,Termokamery,0,0
 2020-04-23,Karlovarský kraj,Štíty,60,0
 2020-04-23,Kraj Vysočina,Brýle,380,25
 2020-04-23,Kraj Vysočina,Dezinfekce (l),1175,80
@@ -4129,6 +4371,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-23,Kraj Vysočina,Rychlotesty,7393,1000
 2020-04-23,Kraj Vysočina,Tampóny,0,-5600
 2020-04-23,Kraj Vysočina,Teploměry,0,0
+2020-04-23,Kraj Vysočina,Termokamery,0,0
 2020-04-23,Kraj Vysočina,Štíty,95,0
 2020-04-23,Královéhradecký kraj,Brýle,990,0
 2020-04-23,Královéhradecký kraj,Dezinfekce (l),2325,0
@@ -4146,6 +4389,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-23,Královéhradecký kraj,Rychlotesty,8469,0
 2020-04-23,Královéhradecký kraj,Tampóny,0,-27159
 2020-04-23,Královéhradecký kraj,Teploměry,0,0
+2020-04-23,Královéhradecký kraj,Termokamery,0,0
 2020-04-23,Královéhradecký kraj,Štíty,335,0
 2020-04-23,Liberecký kraj,Brýle,290,0
 2020-04-23,Liberecký kraj,Dezinfekce (l),1020,0
@@ -4163,6 +4407,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-23,Liberecký kraj,Rychlotesty,7310,0
 2020-04-23,Liberecký kraj,Tampóny,0,-6600
 2020-04-23,Liberecký kraj,Teploměry,0,0
+2020-04-23,Liberecký kraj,Termokamery,0,0
 2020-04-23,Liberecký kraj,Štíty,245,0
 2020-04-23,Moravskoslezský kraj,Brýle,3162,1130
 2020-04-23,Moravskoslezský kraj,Dezinfekce (l),3478,700
@@ -4180,6 +4425,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-23,Moravskoslezský kraj,Rychlotesty,16103,1000
 2020-04-23,Moravskoslezský kraj,Tampóny,0,-19546
 2020-04-23,Moravskoslezský kraj,Teploměry,0,0
+2020-04-23,Moravskoslezský kraj,Termokamery,0,0
 2020-04-23,Moravskoslezský kraj,Štíty,923,20
 2020-04-23,Olomoucký kraj,Brýle,1650,15
 2020-04-23,Olomoucký kraj,Dezinfekce (l),2665,40
@@ -4197,6 +4443,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-23,Olomoucký kraj,Rychlotesty,35586,1000
 2020-04-23,Olomoucký kraj,Tampóny,0,-12745
 2020-04-23,Olomoucký kraj,Teploměry,0,0
+2020-04-23,Olomoucký kraj,Termokamery,0,0
 2020-04-23,Olomoucký kraj,Štíty,1235,0
 2020-04-23,Pardubický kraj,Brýle,990,0
 2020-04-23,Pardubický kraj,Dezinfekce (l),665,0
@@ -4214,6 +4461,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-23,Pardubický kraj,Rychlotesty,8138,0
 2020-04-23,Pardubický kraj,Tampóny,0,-8732
 2020-04-23,Pardubický kraj,Teploměry,0,0
+2020-04-23,Pardubický kraj,Termokamery,0,0
 2020-04-23,Pardubický kraj,Štíty,1330,0
 2020-04-23,Plzeňský kraj,Brýle,1154,0
 2020-04-23,Plzeňský kraj,Dezinfekce (l),5240,0
@@ -4231,6 +4479,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-23,Plzeňský kraj,Rychlotesty,8552,0
 2020-04-23,Plzeňský kraj,Tampóny,0,-26035
 2020-04-23,Plzeňský kraj,Teploměry,0,0
+2020-04-23,Plzeňský kraj,Termokamery,0,0
 2020-04-23,Plzeňský kraj,Štíty,532,0
 2020-04-23,Středočeský kraj,Brýle,435,0
 2020-04-23,Středočeský kraj,Dezinfekce (l),980,0
@@ -4248,6 +4497,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-23,Středočeský kraj,Rychlotesty,22469,0
 2020-04-23,Středočeský kraj,Tampóny,0,-11410
 2020-04-23,Středočeský kraj,Teploměry,0,0
+2020-04-23,Středočeský kraj,Termokamery,0,0
 2020-04-23,Středočeský kraj,Štíty,57,0
 2020-04-23,Zlínský kraj,Brýle,1170,310
 2020-04-23,Zlínský kraj,Dezinfekce (l),985,80
@@ -4265,6 +4515,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-23,Zlínský kraj,Rychlotesty,7428,1000
 2020-04-23,Zlínský kraj,Tampóny,0,-6349
 2020-04-23,Zlínský kraj,Teploměry,0,0
+2020-04-23,Zlínský kraj,Termokamery,0,0
 2020-04-23,Zlínský kraj,Štíty,610,200
 2020-04-23,Ústecký kraj,Brýle,1225,0
 2020-04-23,Ústecký kraj,Dezinfekce (l),1825,0
@@ -4282,6 +4533,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-23,Ústecký kraj,Rychlotesty,10621,0
 2020-04-23,Ústecký kraj,Tampóny,0,-6734
 2020-04-23,Ústecký kraj,Teploměry,0,0
+2020-04-23,Ústecký kraj,Termokamery,0,0
 2020-04-23,Ústecký kraj,Štíty,1560,0
 2020-04-24,Hlavní město Praha,Brýle,5564,0
 2020-04-24,Hlavní město Praha,Dezinfekce (l),10115,0
@@ -4299,6 +4551,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-24,Hlavní město Praha,Rychlotesty,69746,0
 2020-04-24,Hlavní město Praha,Tampóny,0,0
 2020-04-24,Hlavní město Praha,Teploměry,0,0
+2020-04-24,Hlavní město Praha,Termokamery,0,0
 2020-04-24,Hlavní město Praha,Štíty,5483,0
 2020-04-24,Jihomoravský kraj,Brýle,2125,0
 2020-04-24,Jihomoravský kraj,Dezinfekce (l),7780,0
@@ -4316,6 +4569,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-24,Jihomoravský kraj,Rychlotesty,16934,0
 2020-04-24,Jihomoravský kraj,Tampóny,0,0
 2020-04-24,Jihomoravský kraj,Teploměry,0,0
+2020-04-24,Jihomoravský kraj,Termokamery,0,0
 2020-04-24,Jihomoravský kraj,Štíty,2682,0
 2020-04-24,Jihočeský kraj,Brýle,1063,0
 2020-04-24,Jihočeský kraj,Dezinfekce (l),1445,0
@@ -4333,6 +4587,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-24,Jihočeský kraj,Rychlotesty,9793,0
 2020-04-24,Jihočeský kraj,Tampóny,0,0
 2020-04-24,Jihočeský kraj,Teploměry,0,0
+2020-04-24,Jihočeský kraj,Termokamery,0,0
 2020-04-24,Jihočeský kraj,Štíty,586,0
 2020-04-24,Karlovarský kraj,Brýle,60,0
 2020-04-24,Karlovarský kraj,Dezinfekce (l),1205,0
@@ -4350,6 +4605,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-24,Karlovarský kraj,Rychlotesty,9483,0
 2020-04-24,Karlovarský kraj,Tampóny,0,0
 2020-04-24,Karlovarský kraj,Teploměry,0,0
+2020-04-24,Karlovarský kraj,Termokamery,0,0
 2020-04-24,Karlovarský kraj,Štíty,60,0
 2020-04-24,Kraj Vysočina,Brýle,380,0
 2020-04-24,Kraj Vysočina,Dezinfekce (l),1175,0
@@ -4367,6 +4623,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-24,Kraj Vysočina,Rychlotesty,7393,0
 2020-04-24,Kraj Vysočina,Tampóny,0,0
 2020-04-24,Kraj Vysočina,Teploměry,0,0
+2020-04-24,Kraj Vysočina,Termokamery,0,0
 2020-04-24,Kraj Vysočina,Štíty,95,0
 2020-04-24,Královéhradecký kraj,Brýle,990,0
 2020-04-24,Královéhradecký kraj,Dezinfekce (l),2325,0
@@ -4384,6 +4641,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-24,Královéhradecký kraj,Rychlotesty,8469,0
 2020-04-24,Královéhradecký kraj,Tampóny,0,0
 2020-04-24,Královéhradecký kraj,Teploměry,0,0
+2020-04-24,Královéhradecký kraj,Termokamery,0,0
 2020-04-24,Královéhradecký kraj,Štíty,335,0
 2020-04-24,Liberecký kraj,Brýle,290,0
 2020-04-24,Liberecký kraj,Dezinfekce (l),1020,0
@@ -4401,6 +4659,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-24,Liberecký kraj,Rychlotesty,7310,0
 2020-04-24,Liberecký kraj,Tampóny,0,0
 2020-04-24,Liberecký kraj,Teploměry,0,0
+2020-04-24,Liberecký kraj,Termokamery,0,0
 2020-04-24,Liberecký kraj,Štíty,245,0
 2020-04-24,Moravskoslezský kraj,Brýle,3162,0
 2020-04-24,Moravskoslezský kraj,Dezinfekce (l),3478,0
@@ -4418,6 +4677,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-24,Moravskoslezský kraj,Rychlotesty,16103,0
 2020-04-24,Moravskoslezský kraj,Tampóny,0,0
 2020-04-24,Moravskoslezský kraj,Teploměry,0,0
+2020-04-24,Moravskoslezský kraj,Termokamery,0,0
 2020-04-24,Moravskoslezský kraj,Štíty,923,0
 2020-04-24,Olomoucký kraj,Brýle,1650,0
 2020-04-24,Olomoucký kraj,Dezinfekce (l),2665,0
@@ -4435,6 +4695,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-24,Olomoucký kraj,Rychlotesty,35586,0
 2020-04-24,Olomoucký kraj,Tampóny,0,0
 2020-04-24,Olomoucký kraj,Teploměry,0,0
+2020-04-24,Olomoucký kraj,Termokamery,0,0
 2020-04-24,Olomoucký kraj,Štíty,1235,0
 2020-04-24,Pardubický kraj,Brýle,990,0
 2020-04-24,Pardubický kraj,Dezinfekce (l),665,0
@@ -4452,6 +4713,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-24,Pardubický kraj,Rychlotesty,8138,0
 2020-04-24,Pardubický kraj,Tampóny,0,0
 2020-04-24,Pardubický kraj,Teploměry,0,0
+2020-04-24,Pardubický kraj,Termokamery,0,0
 2020-04-24,Pardubický kraj,Štíty,1330,0
 2020-04-24,Plzeňský kraj,Brýle,1154,0
 2020-04-24,Plzeňský kraj,Dezinfekce (l),5240,0
@@ -4469,6 +4731,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-24,Plzeňský kraj,Rychlotesty,8552,0
 2020-04-24,Plzeňský kraj,Tampóny,0,0
 2020-04-24,Plzeňský kraj,Teploměry,0,0
+2020-04-24,Plzeňský kraj,Termokamery,0,0
 2020-04-24,Plzeňský kraj,Štíty,532,0
 2020-04-24,Středočeský kraj,Brýle,435,0
 2020-04-24,Středočeský kraj,Dezinfekce (l),980,0
@@ -4486,6 +4749,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-24,Středočeský kraj,Rychlotesty,22469,0
 2020-04-24,Středočeský kraj,Tampóny,0,0
 2020-04-24,Středočeský kraj,Teploměry,0,0
+2020-04-24,Středočeský kraj,Termokamery,0,0
 2020-04-24,Středočeský kraj,Štíty,57,0
 2020-04-24,Zlínský kraj,Brýle,1170,0
 2020-04-24,Zlínský kraj,Dezinfekce (l),985,0
@@ -4503,6 +4767,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-24,Zlínský kraj,Rychlotesty,7428,0
 2020-04-24,Zlínský kraj,Tampóny,0,0
 2020-04-24,Zlínský kraj,Teploměry,0,0
+2020-04-24,Zlínský kraj,Termokamery,0,0
 2020-04-24,Zlínský kraj,Štíty,610,0
 2020-04-24,Ústecký kraj,Brýle,1225,0
 2020-04-24,Ústecký kraj,Dezinfekce (l),1825,0
@@ -4520,6 +4785,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-24,Ústecký kraj,Rychlotesty,10621,0
 2020-04-24,Ústecký kraj,Tampóny,0,0
 2020-04-24,Ústecký kraj,Teploměry,0,0
+2020-04-24,Ústecký kraj,Termokamery,0,0
 2020-04-24,Ústecký kraj,Štíty,1560,0
 2020-04-25,Hlavní město Praha,Brýle,5564,0
 2020-04-25,Hlavní město Praha,Dezinfekce (l),10115,0
@@ -4537,6 +4803,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-25,Hlavní město Praha,Rychlotesty,69746,0
 2020-04-25,Hlavní město Praha,Tampóny,0,0
 2020-04-25,Hlavní město Praha,Teploměry,0,0
+2020-04-25,Hlavní město Praha,Termokamery,0,0
 2020-04-25,Hlavní město Praha,Štíty,5483,0
 2020-04-25,Jihomoravský kraj,Brýle,2125,0
 2020-04-25,Jihomoravský kraj,Dezinfekce (l),7780,0
@@ -4554,6 +4821,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-25,Jihomoravský kraj,Rychlotesty,16934,0
 2020-04-25,Jihomoravský kraj,Tampóny,0,0
 2020-04-25,Jihomoravský kraj,Teploměry,0,0
+2020-04-25,Jihomoravský kraj,Termokamery,0,0
 2020-04-25,Jihomoravský kraj,Štíty,2682,0
 2020-04-25,Jihočeský kraj,Brýle,1063,0
 2020-04-25,Jihočeský kraj,Dezinfekce (l),1445,0
@@ -4571,6 +4839,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-25,Jihočeský kraj,Rychlotesty,9793,0
 2020-04-25,Jihočeský kraj,Tampóny,0,0
 2020-04-25,Jihočeský kraj,Teploměry,0,0
+2020-04-25,Jihočeský kraj,Termokamery,0,0
 2020-04-25,Jihočeský kraj,Štíty,586,0
 2020-04-25,Karlovarský kraj,Brýle,60,0
 2020-04-25,Karlovarský kraj,Dezinfekce (l),1205,0
@@ -4588,6 +4857,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-25,Karlovarský kraj,Rychlotesty,9483,0
 2020-04-25,Karlovarský kraj,Tampóny,0,0
 2020-04-25,Karlovarský kraj,Teploměry,0,0
+2020-04-25,Karlovarský kraj,Termokamery,0,0
 2020-04-25,Karlovarský kraj,Štíty,60,0
 2020-04-25,Kraj Vysočina,Brýle,380,0
 2020-04-25,Kraj Vysočina,Dezinfekce (l),1175,0
@@ -4605,6 +4875,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-25,Kraj Vysočina,Rychlotesty,7393,0
 2020-04-25,Kraj Vysočina,Tampóny,0,0
 2020-04-25,Kraj Vysočina,Teploměry,0,0
+2020-04-25,Kraj Vysočina,Termokamery,0,0
 2020-04-25,Kraj Vysočina,Štíty,95,0
 2020-04-25,Královéhradecký kraj,Brýle,990,0
 2020-04-25,Královéhradecký kraj,Dezinfekce (l),2325,0
@@ -4622,6 +4893,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-25,Královéhradecký kraj,Rychlotesty,8469,0
 2020-04-25,Královéhradecký kraj,Tampóny,0,0
 2020-04-25,Královéhradecký kraj,Teploměry,0,0
+2020-04-25,Královéhradecký kraj,Termokamery,0,0
 2020-04-25,Královéhradecký kraj,Štíty,335,0
 2020-04-25,Liberecký kraj,Brýle,290,0
 2020-04-25,Liberecký kraj,Dezinfekce (l),1020,0
@@ -4639,6 +4911,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-25,Liberecký kraj,Rychlotesty,7310,0
 2020-04-25,Liberecký kraj,Tampóny,0,0
 2020-04-25,Liberecký kraj,Teploměry,0,0
+2020-04-25,Liberecký kraj,Termokamery,0,0
 2020-04-25,Liberecký kraj,Štíty,245,0
 2020-04-25,Moravskoslezský kraj,Brýle,3162,0
 2020-04-25,Moravskoslezský kraj,Dezinfekce (l),3478,0
@@ -4656,6 +4929,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-25,Moravskoslezský kraj,Rychlotesty,16103,0
 2020-04-25,Moravskoslezský kraj,Tampóny,0,0
 2020-04-25,Moravskoslezský kraj,Teploměry,0,0
+2020-04-25,Moravskoslezský kraj,Termokamery,0,0
 2020-04-25,Moravskoslezský kraj,Štíty,923,0
 2020-04-25,Olomoucký kraj,Brýle,1650,0
 2020-04-25,Olomoucký kraj,Dezinfekce (l),2665,0
@@ -4673,6 +4947,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-25,Olomoucký kraj,Rychlotesty,35586,0
 2020-04-25,Olomoucký kraj,Tampóny,0,0
 2020-04-25,Olomoucký kraj,Teploměry,0,0
+2020-04-25,Olomoucký kraj,Termokamery,0,0
 2020-04-25,Olomoucký kraj,Štíty,1235,0
 2020-04-25,Pardubický kraj,Brýle,990,0
 2020-04-25,Pardubický kraj,Dezinfekce (l),665,0
@@ -4690,6 +4965,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-25,Pardubický kraj,Rychlotesty,8138,0
 2020-04-25,Pardubický kraj,Tampóny,0,0
 2020-04-25,Pardubický kraj,Teploměry,0,0
+2020-04-25,Pardubický kraj,Termokamery,0,0
 2020-04-25,Pardubický kraj,Štíty,1330,0
 2020-04-25,Plzeňský kraj,Brýle,1154,0
 2020-04-25,Plzeňský kraj,Dezinfekce (l),5240,0
@@ -4707,6 +4983,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-25,Plzeňský kraj,Rychlotesty,8552,0
 2020-04-25,Plzeňský kraj,Tampóny,0,0
 2020-04-25,Plzeňský kraj,Teploměry,0,0
+2020-04-25,Plzeňský kraj,Termokamery,0,0
 2020-04-25,Plzeňský kraj,Štíty,532,0
 2020-04-25,Středočeský kraj,Brýle,435,0
 2020-04-25,Středočeský kraj,Dezinfekce (l),980,0
@@ -4724,6 +5001,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-25,Středočeský kraj,Rychlotesty,22469,0
 2020-04-25,Středočeský kraj,Tampóny,0,0
 2020-04-25,Středočeský kraj,Teploměry,0,0
+2020-04-25,Středočeský kraj,Termokamery,0,0
 2020-04-25,Středočeský kraj,Štíty,57,0
 2020-04-25,Zlínský kraj,Brýle,1170,0
 2020-04-25,Zlínský kraj,Dezinfekce (l),985,0
@@ -4741,6 +5019,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-25,Zlínský kraj,Rychlotesty,7428,0
 2020-04-25,Zlínský kraj,Tampóny,0,0
 2020-04-25,Zlínský kraj,Teploměry,0,0
+2020-04-25,Zlínský kraj,Termokamery,0,0
 2020-04-25,Zlínský kraj,Štíty,610,0
 2020-04-25,Ústecký kraj,Brýle,1225,0
 2020-04-25,Ústecký kraj,Dezinfekce (l),1825,0
@@ -4758,6 +5037,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-25,Ústecký kraj,Rychlotesty,10621,0
 2020-04-25,Ústecký kraj,Tampóny,0,0
 2020-04-25,Ústecký kraj,Teploměry,0,0
+2020-04-25,Ústecký kraj,Termokamery,0,0
 2020-04-25,Ústecký kraj,Štíty,1560,0
 2020-04-26,Hlavní město Praha,Brýle,5564,0
 2020-04-26,Hlavní město Praha,Dezinfekce (l),10115,0
@@ -4775,6 +5055,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-26,Hlavní město Praha,Rychlotesty,69746,0
 2020-04-26,Hlavní město Praha,Tampóny,0,0
 2020-04-26,Hlavní město Praha,Teploměry,0,0
+2020-04-26,Hlavní město Praha,Termokamery,0,0
 2020-04-26,Hlavní město Praha,Štíty,5483,0
 2020-04-26,Jihomoravský kraj,Brýle,2125,0
 2020-04-26,Jihomoravský kraj,Dezinfekce (l),7780,0
@@ -4792,6 +5073,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-26,Jihomoravský kraj,Rychlotesty,16934,0
 2020-04-26,Jihomoravský kraj,Tampóny,0,0
 2020-04-26,Jihomoravský kraj,Teploměry,0,0
+2020-04-26,Jihomoravský kraj,Termokamery,0,0
 2020-04-26,Jihomoravský kraj,Štíty,2682,0
 2020-04-26,Jihočeský kraj,Brýle,1063,0
 2020-04-26,Jihočeský kraj,Dezinfekce (l),1445,0
@@ -4809,6 +5091,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-26,Jihočeský kraj,Rychlotesty,9793,0
 2020-04-26,Jihočeský kraj,Tampóny,0,0
 2020-04-26,Jihočeský kraj,Teploměry,0,0
+2020-04-26,Jihočeský kraj,Termokamery,0,0
 2020-04-26,Jihočeský kraj,Štíty,586,0
 2020-04-26,Karlovarský kraj,Brýle,60,0
 2020-04-26,Karlovarský kraj,Dezinfekce (l),1205,0
@@ -4826,6 +5109,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-26,Karlovarský kraj,Rychlotesty,9483,0
 2020-04-26,Karlovarský kraj,Tampóny,0,0
 2020-04-26,Karlovarský kraj,Teploměry,0,0
+2020-04-26,Karlovarský kraj,Termokamery,0,0
 2020-04-26,Karlovarský kraj,Štíty,60,0
 2020-04-26,Kraj Vysočina,Brýle,380,0
 2020-04-26,Kraj Vysočina,Dezinfekce (l),1175,0
@@ -4843,6 +5127,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-26,Kraj Vysočina,Rychlotesty,7393,0
 2020-04-26,Kraj Vysočina,Tampóny,0,0
 2020-04-26,Kraj Vysočina,Teploměry,0,0
+2020-04-26,Kraj Vysočina,Termokamery,0,0
 2020-04-26,Kraj Vysočina,Štíty,95,0
 2020-04-26,Královéhradecký kraj,Brýle,990,0
 2020-04-26,Královéhradecký kraj,Dezinfekce (l),2325,0
@@ -4860,6 +5145,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-26,Královéhradecký kraj,Rychlotesty,8469,0
 2020-04-26,Královéhradecký kraj,Tampóny,0,0
 2020-04-26,Královéhradecký kraj,Teploměry,0,0
+2020-04-26,Královéhradecký kraj,Termokamery,0,0
 2020-04-26,Královéhradecký kraj,Štíty,335,0
 2020-04-26,Liberecký kraj,Brýle,290,0
 2020-04-26,Liberecký kraj,Dezinfekce (l),1020,0
@@ -4877,6 +5163,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-26,Liberecký kraj,Rychlotesty,7310,0
 2020-04-26,Liberecký kraj,Tampóny,0,0
 2020-04-26,Liberecký kraj,Teploměry,0,0
+2020-04-26,Liberecký kraj,Termokamery,0,0
 2020-04-26,Liberecký kraj,Štíty,245,0
 2020-04-26,Moravskoslezský kraj,Brýle,3162,0
 2020-04-26,Moravskoslezský kraj,Dezinfekce (l),3478,0
@@ -4894,6 +5181,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-26,Moravskoslezský kraj,Rychlotesty,16103,0
 2020-04-26,Moravskoslezský kraj,Tampóny,0,0
 2020-04-26,Moravskoslezský kraj,Teploměry,0,0
+2020-04-26,Moravskoslezský kraj,Termokamery,0,0
 2020-04-26,Moravskoslezský kraj,Štíty,923,0
 2020-04-26,Olomoucký kraj,Brýle,1650,0
 2020-04-26,Olomoucký kraj,Dezinfekce (l),2665,0
@@ -4911,6 +5199,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-26,Olomoucký kraj,Rychlotesty,35586,0
 2020-04-26,Olomoucký kraj,Tampóny,0,0
 2020-04-26,Olomoucký kraj,Teploměry,0,0
+2020-04-26,Olomoucký kraj,Termokamery,0,0
 2020-04-26,Olomoucký kraj,Štíty,1235,0
 2020-04-26,Pardubický kraj,Brýle,990,0
 2020-04-26,Pardubický kraj,Dezinfekce (l),665,0
@@ -4928,6 +5217,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-26,Pardubický kraj,Rychlotesty,8138,0
 2020-04-26,Pardubický kraj,Tampóny,0,0
 2020-04-26,Pardubický kraj,Teploměry,0,0
+2020-04-26,Pardubický kraj,Termokamery,0,0
 2020-04-26,Pardubický kraj,Štíty,1330,0
 2020-04-26,Plzeňský kraj,Brýle,1154,0
 2020-04-26,Plzeňský kraj,Dezinfekce (l),5240,0
@@ -4945,6 +5235,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-26,Plzeňský kraj,Rychlotesty,8552,0
 2020-04-26,Plzeňský kraj,Tampóny,0,0
 2020-04-26,Plzeňský kraj,Teploměry,0,0
+2020-04-26,Plzeňský kraj,Termokamery,0,0
 2020-04-26,Plzeňský kraj,Štíty,532,0
 2020-04-26,Středočeský kraj,Brýle,435,0
 2020-04-26,Středočeský kraj,Dezinfekce (l),980,0
@@ -4962,6 +5253,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-26,Středočeský kraj,Rychlotesty,22469,0
 2020-04-26,Středočeský kraj,Tampóny,0,0
 2020-04-26,Středočeský kraj,Teploměry,0,0
+2020-04-26,Středočeský kraj,Termokamery,0,0
 2020-04-26,Středočeský kraj,Štíty,57,0
 2020-04-26,Zlínský kraj,Brýle,1170,0
 2020-04-26,Zlínský kraj,Dezinfekce (l),985,0
@@ -4979,6 +5271,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-26,Zlínský kraj,Rychlotesty,7428,0
 2020-04-26,Zlínský kraj,Tampóny,0,0
 2020-04-26,Zlínský kraj,Teploměry,0,0
+2020-04-26,Zlínský kraj,Termokamery,0,0
 2020-04-26,Zlínský kraj,Štíty,610,0
 2020-04-26,Ústecký kraj,Brýle,1225,0
 2020-04-26,Ústecký kraj,Dezinfekce (l),1825,0
@@ -4996,6 +5289,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-26,Ústecký kraj,Rychlotesty,10621,0
 2020-04-26,Ústecký kraj,Tampóny,0,0
 2020-04-26,Ústecký kraj,Teploměry,0,0
+2020-04-26,Ústecký kraj,Termokamery,0,0
 2020-04-26,Ústecký kraj,Štíty,1560,0
 2020-04-27,Hlavní město Praha,Brýle,5609,45
 2020-04-27,Hlavní město Praha,Dezinfekce (l),10715,600
@@ -5013,6 +5307,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-27,Hlavní město Praha,Rychlotesty,81876,12130
 2020-04-27,Hlavní město Praha,Tampóny,0,0
 2020-04-27,Hlavní město Praha,Teploměry,0,0
+2020-04-27,Hlavní město Praha,Termokamery,0,0
 2020-04-27,Hlavní město Praha,Štíty,5703,220
 2020-04-27,Jihomoravský kraj,Brýle,2080,-45
 2020-04-27,Jihomoravský kraj,Dezinfekce (l),8080,300
@@ -5030,6 +5325,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-27,Jihomoravský kraj,Rychlotesty,32934,16000
 2020-04-27,Jihomoravský kraj,Tampóny,0,0
 2020-04-27,Jihomoravský kraj,Teploměry,0,0
+2020-04-27,Jihomoravský kraj,Termokamery,0,0
 2020-04-27,Jihomoravský kraj,Štíty,2692,10
 2020-04-27,Jihočeský kraj,Brýle,1063,0
 2020-04-27,Jihočeský kraj,Dezinfekce (l),1445,0
@@ -5047,6 +5343,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-27,Jihočeský kraj,Rychlotesty,9793,0
 2020-04-27,Jihočeský kraj,Tampóny,0,0
 2020-04-27,Jihočeský kraj,Teploměry,0,0
+2020-04-27,Jihočeský kraj,Termokamery,0,0
 2020-04-27,Jihočeský kraj,Štíty,586,0
 2020-04-27,Karlovarský kraj,Brýle,105,45
 2020-04-27,Karlovarský kraj,Dezinfekce (l),1290,85
@@ -5064,6 +5361,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-27,Karlovarský kraj,Rychlotesty,10483,1000
 2020-04-27,Karlovarský kraj,Tampóny,0,0
 2020-04-27,Karlovarský kraj,Teploměry,0,0
+2020-04-27,Karlovarský kraj,Termokamery,0,0
 2020-04-27,Karlovarský kraj,Štíty,60,0
 2020-04-27,Kraj Vysočina,Brýle,380,0
 2020-04-27,Kraj Vysočina,Dezinfekce (l),1175,0
@@ -5081,6 +5379,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-27,Kraj Vysočina,Rychlotesty,7393,0
 2020-04-27,Kraj Vysočina,Tampóny,0,0
 2020-04-27,Kraj Vysočina,Teploměry,0,0
+2020-04-27,Kraj Vysočina,Termokamery,0,0
 2020-04-27,Kraj Vysočina,Štíty,95,0
 2020-04-27,Královéhradecký kraj,Brýle,1020,30
 2020-04-27,Královéhradecký kraj,Dezinfekce (l),2385,60
@@ -5098,6 +5397,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-27,Královéhradecký kraj,Rychlotesty,8469,0
 2020-04-27,Královéhradecký kraj,Tampóny,0,0
 2020-04-27,Královéhradecký kraj,Teploměry,0,0
+2020-04-27,Královéhradecký kraj,Termokamery,0,0
 2020-04-27,Královéhradecký kraj,Štíty,335,0
 2020-04-27,Liberecký kraj,Brýle,335,45
 2020-04-27,Liberecký kraj,Dezinfekce (l),1200,180
@@ -5115,6 +5415,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-27,Liberecký kraj,Rychlotesty,7310,0
 2020-04-27,Liberecký kraj,Tampóny,0,0
 2020-04-27,Liberecký kraj,Teploměry,0,0
+2020-04-27,Liberecký kraj,Termokamery,0,0
 2020-04-27,Liberecký kraj,Štíty,245,0
 2020-04-27,Moravskoslezský kraj,Brýle,3142,-20
 2020-04-27,Moravskoslezský kraj,Dezinfekce (l),3475,-3
@@ -5132,6 +5433,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-27,Moravskoslezský kraj,Rychlotesty,16103,0
 2020-04-27,Moravskoslezský kraj,Tampóny,0,0
 2020-04-27,Moravskoslezský kraj,Teploměry,0,0
+2020-04-27,Moravskoslezský kraj,Termokamery,0,0
 2020-04-27,Moravskoslezský kraj,Štíty,913,-10
 2020-04-27,Olomoucký kraj,Brýle,1670,20
 2020-04-27,Olomoucký kraj,Dezinfekce (l),3265,600
@@ -5149,6 +5451,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-27,Olomoucký kraj,Rychlotesty,60586,25000
 2020-04-27,Olomoucký kraj,Tampóny,0,0
 2020-04-27,Olomoucký kraj,Teploměry,0,0
+2020-04-27,Olomoucký kraj,Termokamery,0,0
 2020-04-27,Olomoucký kraj,Štíty,1415,180
 2020-04-27,Pardubický kraj,Brýle,1075,85
 2020-04-27,Pardubický kraj,Dezinfekce (l),825,160
@@ -5166,6 +5469,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-27,Pardubický kraj,Rychlotesty,8138,0
 2020-04-27,Pardubický kraj,Tampóny,0,0
 2020-04-27,Pardubický kraj,Teploměry,0,0
+2020-04-27,Pardubický kraj,Termokamery,0,0
 2020-04-27,Pardubický kraj,Štíty,1330,0
 2020-04-27,Plzeňský kraj,Brýle,1264,110
 2020-04-27,Plzeňský kraj,Dezinfekce (l),6060,820
@@ -5183,6 +5487,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-27,Plzeňský kraj,Rychlotesty,8552,0
 2020-04-27,Plzeňský kraj,Tampóny,0,0
 2020-04-27,Plzeňský kraj,Teploměry,0,0
+2020-04-27,Plzeňský kraj,Termokamery,0,0
 2020-04-27,Plzeňský kraj,Štíty,532,0
 2020-04-27,Středočeský kraj,Brýle,435,0
 2020-04-27,Středočeský kraj,Dezinfekce (l),980,0
@@ -5200,6 +5505,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-27,Středočeský kraj,Rychlotesty,22469,0
 2020-04-27,Středočeský kraj,Tampóny,0,0
 2020-04-27,Středočeský kraj,Teploměry,0,0
+2020-04-27,Středočeský kraj,Termokamery,0,0
 2020-04-27,Středočeský kraj,Štíty,57,0
 2020-04-27,Zlínský kraj,Brýle,1120,-50
 2020-04-27,Zlínský kraj,Dezinfekce (l),945,-40
@@ -5217,6 +5523,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-27,Zlínský kraj,Rychlotesty,7428,0
 2020-04-27,Zlínský kraj,Tampóny,0,0
 2020-04-27,Zlínský kraj,Teploměry,0,0
+2020-04-27,Zlínský kraj,Termokamery,0,0
 2020-04-27,Zlínský kraj,Štíty,610,0
 2020-04-27,Ústecký kraj,Brýle,1305,80
 2020-04-27,Ústecký kraj,Dezinfekce (l),2075,250
@@ -5234,6 +5541,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-27,Ústecký kraj,Rychlotesty,13621,3000
 2020-04-27,Ústecký kraj,Tampóny,0,0
 2020-04-27,Ústecký kraj,Teploměry,0,0
+2020-04-27,Ústecký kraj,Termokamery,0,0
 2020-04-27,Ústecký kraj,Štíty,1605,45
 2020-04-28,Hlavní město Praha,Brýle,6854,1245
 2020-04-28,Hlavní město Praha,Dezinfekce (l),14375,3660
@@ -5251,6 +5559,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-28,Hlavní město Praha,Rychlotesty,100896,19020
 2020-04-28,Hlavní město Praha,Tampóny,0,0
 2020-04-28,Hlavní město Praha,Teploměry,0,0
+2020-04-28,Hlavní město Praha,Termokamery,0,0
 2020-04-28,Hlavní město Praha,Štíty,7474,1771
 2020-04-28,Jihomoravský kraj,Brýle,2080,0
 2020-04-28,Jihomoravský kraj,Dezinfekce (l),8080,0
@@ -5268,6 +5577,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-28,Jihomoravský kraj,Rychlotesty,32934,0
 2020-04-28,Jihomoravský kraj,Tampóny,0,0
 2020-04-28,Jihomoravský kraj,Teploměry,0,0
+2020-04-28,Jihomoravský kraj,Termokamery,0,0
 2020-04-28,Jihomoravský kraj,Štíty,2692,0
 2020-04-28,Jihočeský kraj,Brýle,1068,5
 2020-04-28,Jihočeský kraj,Dezinfekce (l),1445,0
@@ -5285,6 +5595,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-28,Jihočeský kraj,Rychlotesty,14793,5000
 2020-04-28,Jihočeský kraj,Tampóny,0,0
 2020-04-28,Jihočeský kraj,Teploměry,0,0
+2020-04-28,Jihočeský kraj,Termokamery,0,0
 2020-04-28,Jihočeský kraj,Štíty,586,0
 2020-04-28,Karlovarský kraj,Brýle,105,0
 2020-04-28,Karlovarský kraj,Dezinfekce (l),1290,0
@@ -5302,6 +5613,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-28,Karlovarský kraj,Rychlotesty,10483,0
 2020-04-28,Karlovarský kraj,Tampóny,0,0
 2020-04-28,Karlovarský kraj,Teploměry,0,0
+2020-04-28,Karlovarský kraj,Termokamery,0,0
 2020-04-28,Karlovarský kraj,Štíty,60,0
 2020-04-28,Kraj Vysočina,Brýle,380,0
 2020-04-28,Kraj Vysočina,Dezinfekce (l),1175,0
@@ -5319,6 +5631,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-28,Kraj Vysočina,Rychlotesty,7393,0
 2020-04-28,Kraj Vysočina,Tampóny,0,0
 2020-04-28,Kraj Vysočina,Teploměry,0,0
+2020-04-28,Kraj Vysočina,Termokamery,0,0
 2020-04-28,Kraj Vysočina,Štíty,95,0
 2020-04-28,Královéhradecký kraj,Brýle,1020,0
 2020-04-28,Královéhradecký kraj,Dezinfekce (l),2385,0
@@ -5336,6 +5649,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-28,Královéhradecký kraj,Rychlotesty,8469,0
 2020-04-28,Královéhradecký kraj,Tampóny,0,0
 2020-04-28,Královéhradecký kraj,Teploměry,0,0
+2020-04-28,Královéhradecký kraj,Termokamery,0,0
 2020-04-28,Královéhradecký kraj,Štíty,335,0
 2020-04-28,Liberecký kraj,Brýle,335,0
 2020-04-28,Liberecký kraj,Dezinfekce (l),1200,0
@@ -5353,6 +5667,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-28,Liberecký kraj,Rychlotesty,7310,0
 2020-04-28,Liberecký kraj,Tampóny,0,0
 2020-04-28,Liberecký kraj,Teploměry,0,0
+2020-04-28,Liberecký kraj,Termokamery,0,0
 2020-04-28,Liberecký kraj,Štíty,245,0
 2020-04-28,Moravskoslezský kraj,Brýle,3142,0
 2020-04-28,Moravskoslezský kraj,Dezinfekce (l),3475,0
@@ -5370,6 +5685,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-28,Moravskoslezský kraj,Rychlotesty,16103,0
 2020-04-28,Moravskoslezský kraj,Tampóny,0,0
 2020-04-28,Moravskoslezský kraj,Teploměry,0,0
+2020-04-28,Moravskoslezský kraj,Termokamery,0,0
 2020-04-28,Moravskoslezský kraj,Štíty,913,0
 2020-04-28,Olomoucký kraj,Brýle,1670,0
 2020-04-28,Olomoucký kraj,Dezinfekce (l),3265,0
@@ -5387,6 +5703,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-28,Olomoucký kraj,Rychlotesty,60586,0
 2020-04-28,Olomoucký kraj,Tampóny,0,0
 2020-04-28,Olomoucký kraj,Teploměry,0,0
+2020-04-28,Olomoucký kraj,Termokamery,0,0
 2020-04-28,Olomoucký kraj,Štíty,1415,0
 2020-04-28,Pardubický kraj,Brýle,1075,0
 2020-04-28,Pardubický kraj,Dezinfekce (l),825,0
@@ -5404,6 +5721,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-28,Pardubický kraj,Rychlotesty,8138,0
 2020-04-28,Pardubický kraj,Tampóny,0,0
 2020-04-28,Pardubický kraj,Teploměry,0,0
+2020-04-28,Pardubický kraj,Termokamery,0,0
 2020-04-28,Pardubický kraj,Štíty,1330,0
 2020-04-28,Plzeňský kraj,Brýle,1264,0
 2020-04-28,Plzeňský kraj,Dezinfekce (l),6060,0
@@ -5421,6 +5739,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-28,Plzeňský kraj,Rychlotesty,8552,0
 2020-04-28,Plzeňský kraj,Tampóny,0,0
 2020-04-28,Plzeňský kraj,Teploměry,0,0
+2020-04-28,Plzeňský kraj,Termokamery,0,0
 2020-04-28,Plzeňský kraj,Štíty,532,0
 2020-04-28,Středočeský kraj,Brýle,435,0
 2020-04-28,Středočeský kraj,Dezinfekce (l),1065,85
@@ -5438,6 +5757,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-28,Středočeský kraj,Rychlotesty,22569,100
 2020-04-28,Středočeský kraj,Tampóny,0,0
 2020-04-28,Středočeský kraj,Teploměry,0,0
+2020-04-28,Středočeský kraj,Termokamery,0,0
 2020-04-28,Středočeský kraj,Štíty,217,160
 2020-04-28,Zlínský kraj,Brýle,1120,0
 2020-04-28,Zlínský kraj,Dezinfekce (l),945,0
@@ -5455,6 +5775,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-28,Zlínský kraj,Rychlotesty,7428,0
 2020-04-28,Zlínský kraj,Tampóny,0,0
 2020-04-28,Zlínský kraj,Teploměry,0,0
+2020-04-28,Zlínský kraj,Termokamery,0,0
 2020-04-28,Zlínský kraj,Štíty,610,0
 2020-04-28,Ústecký kraj,Brýle,1305,0
 2020-04-28,Ústecký kraj,Dezinfekce (l),2075,0
@@ -5472,6 +5793,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-28,Ústecký kraj,Rychlotesty,13621,0
 2020-04-28,Ústecký kraj,Tampóny,0,0
 2020-04-28,Ústecký kraj,Teploměry,0,0
+2020-04-28,Ústecký kraj,Termokamery,0,0
 2020-04-28,Ústecký kraj,Štíty,1605,0
 2020-04-29,Hlavní město Praha,Brýle,6854,0
 2020-04-29,Hlavní město Praha,Dezinfekce (l),14375,0
@@ -5489,6 +5811,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-29,Hlavní město Praha,Rychlotesty,100896,0
 2020-04-29,Hlavní město Praha,Tampóny,0,0
 2020-04-29,Hlavní město Praha,Teploměry,0,0
+2020-04-29,Hlavní město Praha,Termokamery,0,0
 2020-04-29,Hlavní město Praha,Štíty,7474,0
 2020-04-29,Jihomoravský kraj,Brýle,2445,365
 2020-04-29,Jihomoravský kraj,Dezinfekce (l),9060,980
@@ -5506,6 +5829,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-29,Jihomoravský kraj,Rychlotesty,42184,9250
 2020-04-29,Jihomoravský kraj,Tampóny,0,0
 2020-04-29,Jihomoravský kraj,Teploměry,0,0
+2020-04-29,Jihomoravský kraj,Termokamery,0,0
 2020-04-29,Jihomoravský kraj,Štíty,2782,90
 2020-04-29,Jihočeský kraj,Brýle,1068,0
 2020-04-29,Jihočeský kraj,Dezinfekce (l),1445,0
@@ -5523,6 +5847,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-29,Jihočeský kraj,Rychlotesty,14793,0
 2020-04-29,Jihočeský kraj,Tampóny,0,0
 2020-04-29,Jihočeský kraj,Teploměry,0,0
+2020-04-29,Jihočeský kraj,Termokamery,0,0
 2020-04-29,Jihočeský kraj,Štíty,586,0
 2020-04-29,Karlovarský kraj,Brýle,105,0
 2020-04-29,Karlovarský kraj,Dezinfekce (l),1290,0
@@ -5540,6 +5865,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-29,Karlovarský kraj,Rychlotesty,10483,0
 2020-04-29,Karlovarský kraj,Tampóny,0,0
 2020-04-29,Karlovarský kraj,Teploměry,0,0
+2020-04-29,Karlovarský kraj,Termokamery,0,0
 2020-04-29,Karlovarský kraj,Štíty,60,0
 2020-04-29,Kraj Vysočina,Brýle,410,30
 2020-04-29,Kraj Vysočina,Dezinfekce (l),1175,0
@@ -5557,6 +5883,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-29,Kraj Vysočina,Rychlotesty,12393,5000
 2020-04-29,Kraj Vysočina,Tampóny,0,0
 2020-04-29,Kraj Vysočina,Teploměry,0,0
+2020-04-29,Kraj Vysočina,Termokamery,0,0
 2020-04-29,Kraj Vysočina,Štíty,105,10
 2020-04-29,Královéhradecký kraj,Brýle,1020,0
 2020-04-29,Královéhradecký kraj,Dezinfekce (l),2385,0
@@ -5574,6 +5901,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-29,Královéhradecký kraj,Rychlotesty,8469,0
 2020-04-29,Královéhradecký kraj,Tampóny,0,0
 2020-04-29,Královéhradecký kraj,Teploměry,0,0
+2020-04-29,Královéhradecký kraj,Termokamery,0,0
 2020-04-29,Královéhradecký kraj,Štíty,335,0
 2020-04-29,Liberecký kraj,Brýle,335,0
 2020-04-29,Liberecký kraj,Dezinfekce (l),1200,0
@@ -5591,6 +5919,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-29,Liberecký kraj,Rychlotesty,7310,0
 2020-04-29,Liberecký kraj,Tampóny,0,0
 2020-04-29,Liberecký kraj,Teploměry,0,0
+2020-04-29,Liberecký kraj,Termokamery,0,0
 2020-04-29,Liberecký kraj,Štíty,245,0
 2020-04-29,Moravskoslezský kraj,Brýle,3192,50
 2020-04-29,Moravskoslezský kraj,Dezinfekce (l),3975,500
@@ -5608,6 +5937,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-29,Moravskoslezský kraj,Rychlotesty,22113,6010
 2020-04-29,Moravskoslezský kraj,Tampóny,0,0
 2020-04-29,Moravskoslezský kraj,Teploměry,0,0
+2020-04-29,Moravskoslezský kraj,Termokamery,0,0
 2020-04-29,Moravskoslezský kraj,Štíty,1018,105
 2020-04-29,Olomoucký kraj,Brýle,1670,0
 2020-04-29,Olomoucký kraj,Dezinfekce (l),3265,0
@@ -5625,6 +5955,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-29,Olomoucký kraj,Rychlotesty,65586,5000
 2020-04-29,Olomoucký kraj,Tampóny,0,0
 2020-04-29,Olomoucký kraj,Teploměry,0,0
+2020-04-29,Olomoucký kraj,Termokamery,0,0
 2020-04-29,Olomoucký kraj,Štíty,1415,0
 2020-04-29,Pardubický kraj,Brýle,1075,0
 2020-04-29,Pardubický kraj,Dezinfekce (l),825,0
@@ -5642,6 +5973,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-29,Pardubický kraj,Rychlotesty,8138,0
 2020-04-29,Pardubický kraj,Tampóny,0,0
 2020-04-29,Pardubický kraj,Teploměry,0,0
+2020-04-29,Pardubický kraj,Termokamery,0,0
 2020-04-29,Pardubický kraj,Štíty,1330,0
 2020-04-29,Plzeňský kraj,Brýle,1264,0
 2020-04-29,Plzeňský kraj,Dezinfekce (l),6060,0
@@ -5659,6 +5991,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-29,Plzeňský kraj,Rychlotesty,8552,0
 2020-04-29,Plzeňský kraj,Tampóny,0,0
 2020-04-29,Plzeňský kraj,Teploměry,0,0
+2020-04-29,Plzeňský kraj,Termokamery,0,0
 2020-04-29,Plzeňský kraj,Štíty,532,0
 2020-04-29,Středočeský kraj,Brýle,435,0
 2020-04-29,Středočeský kraj,Dezinfekce (l),1065,0
@@ -5676,6 +6009,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-29,Středočeský kraj,Rychlotesty,22569,0
 2020-04-29,Středočeský kraj,Tampóny,0,0
 2020-04-29,Středočeský kraj,Teploměry,0,0
+2020-04-29,Středočeský kraj,Termokamery,0,0
 2020-04-29,Středočeský kraj,Štíty,217,0
 2020-04-29,Zlínský kraj,Brýle,1120,0
 2020-04-29,Zlínský kraj,Dezinfekce (l),1265,320
@@ -5693,6 +6027,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-29,Zlínský kraj,Rychlotesty,12428,5000
 2020-04-29,Zlínský kraj,Tampóny,0,0
 2020-04-29,Zlínský kraj,Teploměry,0,0
+2020-04-29,Zlínský kraj,Termokamery,0,0
 2020-04-29,Zlínský kraj,Štíty,610,0
 2020-04-29,Ústecký kraj,Brýle,1305,0
 2020-04-29,Ústecký kraj,Dezinfekce (l),2075,0
@@ -5710,6 +6045,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-04-29,Ústecký kraj,Rychlotesty,13621,0
 2020-04-29,Ústecký kraj,Tampóny,0,0
 2020-04-29,Ústecký kraj,Teploměry,0,0
+2020-04-29,Ústecký kraj,Termokamery,0,0
 2020-04-29,Ústecký kraj,Štíty,1605,0
 2020-05-05,Hlavní město Praha,Brýle,6854,0
 2020-05-05,Hlavní město Praha,Dezinfekce (l),14375,0
@@ -5727,6 +6063,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-05,Hlavní město Praha,Rychlotesty,100896,0
 2020-05-05,Hlavní město Praha,Tampóny,0,0
 2020-05-05,Hlavní město Praha,Teploměry,0,0
+2020-05-05,Hlavní město Praha,Termokamery,0,0
 2020-05-05,Hlavní město Praha,Štíty,7474,0
 2020-05-05,Jihomoravský kraj,Brýle,2445,0
 2020-05-05,Jihomoravský kraj,Dezinfekce (l),9060,0
@@ -5744,6 +6081,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-05,Jihomoravský kraj,Rychlotesty,42184,0
 2020-05-05,Jihomoravský kraj,Tampóny,0,0
 2020-05-05,Jihomoravský kraj,Teploměry,0,0
+2020-05-05,Jihomoravský kraj,Termokamery,0,0
 2020-05-05,Jihomoravský kraj,Štíty,2782,0
 2020-05-05,Jihočeský kraj,Brýle,1193,125
 2020-05-05,Jihočeský kraj,Dezinfekce (l),1445,0
@@ -5761,6 +6099,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-05,Jihočeský kraj,Rychlotesty,14843,50
 2020-05-05,Jihočeský kraj,Tampóny,0,0
 2020-05-05,Jihočeský kraj,Teploměry,0,0
+2020-05-05,Jihočeský kraj,Termokamery,0,0
 2020-05-05,Jihočeský kraj,Štíty,586,0
 2020-05-05,Karlovarský kraj,Brýle,105,0
 2020-05-05,Karlovarský kraj,Dezinfekce (l),1290,0
@@ -5778,6 +6117,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-05,Karlovarský kraj,Rychlotesty,14483,4000
 2020-05-05,Karlovarský kraj,Tampóny,0,0
 2020-05-05,Karlovarský kraj,Teploměry,0,0
+2020-05-05,Karlovarský kraj,Termokamery,0,0
 2020-05-05,Karlovarský kraj,Štíty,60,0
 2020-05-05,Kraj Vysočina,Brýle,410,0
 2020-05-05,Kraj Vysočina,Dezinfekce (l),1175,0
@@ -5795,6 +6135,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-05,Kraj Vysočina,Rychlotesty,12393,0
 2020-05-05,Kraj Vysočina,Tampóny,0,0
 2020-05-05,Kraj Vysočina,Teploměry,0,0
+2020-05-05,Kraj Vysočina,Termokamery,0,0
 2020-05-05,Kraj Vysočina,Štíty,105,0
 2020-05-05,Královéhradecký kraj,Brýle,1120,100
 2020-05-05,Královéhradecký kraj,Dezinfekce (l),2425,40
@@ -5812,6 +6153,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-05,Královéhradecký kraj,Rychlotesty,13469,5000
 2020-05-05,Královéhradecký kraj,Tampóny,0,0
 2020-05-05,Královéhradecký kraj,Teploměry,0,0
+2020-05-05,Královéhradecký kraj,Termokamery,0,0
 2020-05-05,Královéhradecký kraj,Štíty,335,0
 2020-05-05,Liberecký kraj,Brýle,335,0
 2020-05-05,Liberecký kraj,Dezinfekce (l),1200,0
@@ -5829,6 +6171,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-05,Liberecký kraj,Rychlotesty,12310,5000
 2020-05-05,Liberecký kraj,Tampóny,0,0
 2020-05-05,Liberecký kraj,Teploměry,0,0
+2020-05-05,Liberecký kraj,Termokamery,0,0
 2020-05-05,Liberecký kraj,Štíty,245,0
 2020-05-05,Moravskoslezský kraj,Brýle,3192,0
 2020-05-05,Moravskoslezský kraj,Dezinfekce (l),3975,0
@@ -5846,6 +6189,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-05,Moravskoslezský kraj,Rychlotesty,22113,0
 2020-05-05,Moravskoslezský kraj,Tampóny,0,0
 2020-05-05,Moravskoslezský kraj,Teploměry,0,0
+2020-05-05,Moravskoslezský kraj,Termokamery,0,0
 2020-05-05,Moravskoslezský kraj,Štíty,1018,0
 2020-05-05,Olomoucký kraj,Brýle,1670,0
 2020-05-05,Olomoucký kraj,Dezinfekce (l),3265,0
@@ -5863,6 +6207,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-05,Olomoucký kraj,Rychlotesty,65586,0
 2020-05-05,Olomoucký kraj,Tampóny,0,0
 2020-05-05,Olomoucký kraj,Teploměry,0,0
+2020-05-05,Olomoucký kraj,Termokamery,0,0
 2020-05-05,Olomoucký kraj,Štíty,1415,0
 2020-05-05,Pardubický kraj,Brýle,1105,30
 2020-05-05,Pardubický kraj,Dezinfekce (l),825,0
@@ -5880,6 +6225,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-05,Pardubický kraj,Rychlotesty,13138,5000
 2020-05-05,Pardubický kraj,Tampóny,0,0
 2020-05-05,Pardubický kraj,Teploměry,0,0
+2020-05-05,Pardubický kraj,Termokamery,0,0
 2020-05-05,Pardubický kraj,Štíty,1340,10
 2020-05-05,Plzeňský kraj,Brýle,1264,0
 2020-05-05,Plzeňský kraj,Dezinfekce (l),7255,1195
@@ -5897,6 +6243,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-05,Plzeňský kraj,Rychlotesty,16552,8000
 2020-05-05,Plzeňský kraj,Tampóny,0,0
 2020-05-05,Plzeňský kraj,Teploměry,0,0
+2020-05-05,Plzeňský kraj,Termokamery,0,0
 2020-05-05,Plzeňský kraj,Štíty,1032,500
 2020-05-05,Středočeský kraj,Brýle,435,0
 2020-05-05,Středočeský kraj,Dezinfekce (l),1065,0
@@ -5914,6 +6261,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-05,Středočeský kraj,Rychlotesty,22569,0
 2020-05-05,Středočeský kraj,Tampóny,0,0
 2020-05-05,Středočeský kraj,Teploměry,0,0
+2020-05-05,Středočeský kraj,Termokamery,0,0
 2020-05-05,Středočeský kraj,Štíty,267,50
 2020-05-05,Zlínský kraj,Brýle,1120,0
 2020-05-05,Zlínský kraj,Dezinfekce (l),1265,0
@@ -5931,6 +6279,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-05,Zlínský kraj,Rychlotesty,12428,0
 2020-05-05,Zlínský kraj,Tampóny,0,0
 2020-05-05,Zlínský kraj,Teploměry,0,0
+2020-05-05,Zlínský kraj,Termokamery,0,0
 2020-05-05,Zlínský kraj,Štíty,610,0
 2020-05-05,Ústecký kraj,Brýle,1325,20
 2020-05-05,Ústecký kraj,Dezinfekce (l),2475,400
@@ -5948,6 +6297,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-05,Ústecký kraj,Rychlotesty,18621,5000
 2020-05-05,Ústecký kraj,Tampóny,0,0
 2020-05-05,Ústecký kraj,Teploměry,0,0
+2020-05-05,Ústecký kraj,Termokamery,0,0
 2020-05-05,Ústecký kraj,Štíty,1605,0
 2020-05-06,Hlavní město Praha,Brýle,7960,1106
 2020-05-06,Hlavní město Praha,Dezinfekce (l),14675,300
@@ -5965,6 +6315,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-06,Hlavní město Praha,Rychlotesty,102086,1190
 2020-05-06,Hlavní město Praha,Tampóny,0,0
 2020-05-06,Hlavní město Praha,Teploměry,0,0
+2020-05-06,Hlavní město Praha,Termokamery,0,0
 2020-05-06,Hlavní město Praha,Štíty,7634,160
 2020-05-06,Jihomoravský kraj,Brýle,2465,20
 2020-05-06,Jihomoravský kraj,Dezinfekce (l),9100,40
@@ -5982,6 +6333,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-06,Jihomoravský kraj,Rychlotesty,42184,0
 2020-05-06,Jihomoravský kraj,Tampóny,0,0
 2020-05-06,Jihomoravský kraj,Teploměry,0,0
+2020-05-06,Jihomoravský kraj,Termokamery,0,0
 2020-05-06,Jihomoravský kraj,Štíty,2832,50
 2020-05-06,Jihočeský kraj,Brýle,1193,0
 2020-05-06,Jihočeský kraj,Dezinfekce (l),1445,0
@@ -5999,6 +6351,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-06,Jihočeský kraj,Rychlotesty,14843,0
 2020-05-06,Jihočeský kraj,Tampóny,0,0
 2020-05-06,Jihočeský kraj,Teploměry,0,0
+2020-05-06,Jihočeský kraj,Termokamery,0,0
 2020-05-06,Jihočeský kraj,Štíty,586,0
 2020-05-06,Karlovarský kraj,Brýle,105,0
 2020-05-06,Karlovarský kraj,Dezinfekce (l),1290,0
@@ -6016,6 +6369,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-06,Karlovarský kraj,Rychlotesty,14483,0
 2020-05-06,Karlovarský kraj,Tampóny,0,0
 2020-05-06,Karlovarský kraj,Teploměry,0,0
+2020-05-06,Karlovarský kraj,Termokamery,0,0
 2020-05-06,Karlovarský kraj,Štíty,60,0
 2020-05-06,Kraj Vysočina,Brýle,410,0
 2020-05-06,Kraj Vysočina,Dezinfekce (l),1175,0
@@ -6033,6 +6387,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-06,Kraj Vysočina,Rychlotesty,12393,0
 2020-05-06,Kraj Vysočina,Tampóny,0,0
 2020-05-06,Kraj Vysočina,Teploměry,0,0
+2020-05-06,Kraj Vysočina,Termokamery,0,0
 2020-05-06,Kraj Vysočina,Štíty,115,10
 2020-05-06,Královéhradecký kraj,Brýle,1120,0
 2020-05-06,Královéhradecký kraj,Dezinfekce (l),2425,0
@@ -6050,6 +6405,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-06,Královéhradecký kraj,Rychlotesty,13469,0
 2020-05-06,Královéhradecký kraj,Tampóny,0,0
 2020-05-06,Královéhradecký kraj,Teploměry,0,0
+2020-05-06,Královéhradecký kraj,Termokamery,0,0
 2020-05-06,Královéhradecký kraj,Štíty,335,0
 2020-05-06,Liberecký kraj,Brýle,335,0
 2020-05-06,Liberecký kraj,Dezinfekce (l),1200,0
@@ -6067,6 +6423,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-06,Liberecký kraj,Rychlotesty,12310,0
 2020-05-06,Liberecký kraj,Tampóny,0,0
 2020-05-06,Liberecký kraj,Teploměry,0,0
+2020-05-06,Liberecký kraj,Termokamery,0,0
 2020-05-06,Liberecký kraj,Štíty,245,0
 2020-05-06,Moravskoslezský kraj,Brýle,3422,230
 2020-05-06,Moravskoslezský kraj,Dezinfekce (l),4075,100
@@ -6084,6 +6441,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-06,Moravskoslezský kraj,Rychlotesty,47613,25500
 2020-05-06,Moravskoslezský kraj,Tampóny,0,0
 2020-05-06,Moravskoslezský kraj,Teploměry,0,0
+2020-05-06,Moravskoslezský kraj,Termokamery,0,0
 2020-05-06,Moravskoslezský kraj,Štíty,1068,50
 2020-05-06,Olomoucký kraj,Brýle,1692,22
 2020-05-06,Olomoucký kraj,Dezinfekce (l),3265,0
@@ -6101,6 +6459,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-06,Olomoucký kraj,Rychlotesty,65586,0
 2020-05-06,Olomoucký kraj,Tampóny,0,0
 2020-05-06,Olomoucký kraj,Teploměry,0,0
+2020-05-06,Olomoucký kraj,Termokamery,0,0
 2020-05-06,Olomoucký kraj,Štíty,1415,0
 2020-05-06,Pardubický kraj,Brýle,1105,0
 2020-05-06,Pardubický kraj,Dezinfekce (l),825,0
@@ -6118,6 +6477,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-06,Pardubický kraj,Rychlotesty,13138,0
 2020-05-06,Pardubický kraj,Tampóny,0,0
 2020-05-06,Pardubický kraj,Teploměry,0,0
+2020-05-06,Pardubický kraj,Termokamery,0,0
 2020-05-06,Pardubický kraj,Štíty,1340,0
 2020-05-06,Plzeňský kraj,Brýle,1264,0
 2020-05-06,Plzeňský kraj,Dezinfekce (l),7255,0
@@ -6135,6 +6495,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-06,Plzeňský kraj,Rychlotesty,16552,0
 2020-05-06,Plzeňský kraj,Tampóny,0,0
 2020-05-06,Plzeňský kraj,Teploměry,0,0
+2020-05-06,Plzeňský kraj,Termokamery,0,0
 2020-05-06,Plzeňský kraj,Štíty,1032,0
 2020-05-06,Středočeský kraj,Brýle,435,0
 2020-05-06,Středočeský kraj,Dezinfekce (l),1065,0
@@ -6152,6 +6513,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-06,Středočeský kraj,Rychlotesty,42569,20000
 2020-05-06,Středočeský kraj,Tampóny,0,0
 2020-05-06,Středočeský kraj,Teploměry,0,0
+2020-05-06,Středočeský kraj,Termokamery,0,0
 2020-05-06,Středočeský kraj,Štíty,267,0
 2020-05-06,Zlínský kraj,Brýle,1120,0
 2020-05-06,Zlínský kraj,Dezinfekce (l),1385,120
@@ -6169,6 +6531,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-06,Zlínský kraj,Rychlotesty,12428,0
 2020-05-06,Zlínský kraj,Tampóny,0,0
 2020-05-06,Zlínský kraj,Teploměry,0,0
+2020-05-06,Zlínský kraj,Termokamery,0,0
 2020-05-06,Zlínský kraj,Štíty,610,0
 2020-05-06,Ústecký kraj,Brýle,1325,0
 2020-05-06,Ústecký kraj,Dezinfekce (l),2475,0
@@ -6186,6 +6549,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-06,Ústecký kraj,Rychlotesty,18621,0
 2020-05-06,Ústecký kraj,Tampóny,0,0
 2020-05-06,Ústecký kraj,Teploměry,0,0
+2020-05-06,Ústecký kraj,Termokamery,0,0
 2020-05-06,Ústecký kraj,Štíty,1605,0
 2020-05-07,Hlavní město Praha,Brýle,7960,0
 2020-05-07,Hlavní město Praha,Dezinfekce (l),14675,0
@@ -6203,6 +6567,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-07,Hlavní město Praha,Rychlotesty,102086,0
 2020-05-07,Hlavní město Praha,Tampóny,0,0
 2020-05-07,Hlavní město Praha,Teploměry,0,0
+2020-05-07,Hlavní město Praha,Termokamery,0,0
 2020-05-07,Hlavní město Praha,Štíty,7634,0
 2020-05-07,Jihomoravský kraj,Brýle,2465,0
 2020-05-07,Jihomoravský kraj,Dezinfekce (l),9100,0
@@ -6220,6 +6585,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-07,Jihomoravský kraj,Rychlotesty,42184,0
 2020-05-07,Jihomoravský kraj,Tampóny,0,0
 2020-05-07,Jihomoravský kraj,Teploměry,0,0
+2020-05-07,Jihomoravský kraj,Termokamery,0,0
 2020-05-07,Jihomoravský kraj,Štíty,2832,0
 2020-05-07,Jihočeský kraj,Brýle,1193,0
 2020-05-07,Jihočeský kraj,Dezinfekce (l),1445,0
@@ -6237,6 +6603,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-07,Jihočeský kraj,Rychlotesty,14843,0
 2020-05-07,Jihočeský kraj,Tampóny,0,0
 2020-05-07,Jihočeský kraj,Teploměry,0,0
+2020-05-07,Jihočeský kraj,Termokamery,0,0
 2020-05-07,Jihočeský kraj,Štíty,586,0
 2020-05-07,Karlovarský kraj,Brýle,105,0
 2020-05-07,Karlovarský kraj,Dezinfekce (l),1290,0
@@ -6254,6 +6621,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-07,Karlovarský kraj,Rychlotesty,14483,0
 2020-05-07,Karlovarský kraj,Tampóny,0,0
 2020-05-07,Karlovarský kraj,Teploměry,0,0
+2020-05-07,Karlovarský kraj,Termokamery,0,0
 2020-05-07,Karlovarský kraj,Štíty,60,0
 2020-05-07,Kraj Vysočina,Brýle,410,0
 2020-05-07,Kraj Vysočina,Dezinfekce (l),1175,0
@@ -6271,6 +6639,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-07,Kraj Vysočina,Rychlotesty,12393,0
 2020-05-07,Kraj Vysočina,Tampóny,0,0
 2020-05-07,Kraj Vysočina,Teploměry,0,0
+2020-05-07,Kraj Vysočina,Termokamery,0,0
 2020-05-07,Kraj Vysočina,Štíty,115,0
 2020-05-07,Královéhradecký kraj,Brýle,1220,100
 2020-05-07,Královéhradecký kraj,Dezinfekce (l),2465,40
@@ -6288,6 +6657,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-07,Královéhradecký kraj,Rychlotesty,13469,0
 2020-05-07,Královéhradecký kraj,Tampóny,0,0
 2020-05-07,Královéhradecký kraj,Teploměry,0,0
+2020-05-07,Královéhradecký kraj,Termokamery,0,0
 2020-05-07,Královéhradecký kraj,Štíty,335,0
 2020-05-07,Liberecký kraj,Brýle,335,0
 2020-05-07,Liberecký kraj,Dezinfekce (l),1200,0
@@ -6305,6 +6675,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-07,Liberecký kraj,Rychlotesty,12310,0
 2020-05-07,Liberecký kraj,Tampóny,0,0
 2020-05-07,Liberecký kraj,Teploměry,0,0
+2020-05-07,Liberecký kraj,Termokamery,0,0
 2020-05-07,Liberecký kraj,Štíty,245,0
 2020-05-07,Moravskoslezský kraj,Brýle,3422,0
 2020-05-07,Moravskoslezský kraj,Dezinfekce (l),4075,0
@@ -6322,6 +6693,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-07,Moravskoslezský kraj,Rychlotesty,47613,0
 2020-05-07,Moravskoslezský kraj,Tampóny,0,0
 2020-05-07,Moravskoslezský kraj,Teploměry,0,0
+2020-05-07,Moravskoslezský kraj,Termokamery,0,0
 2020-05-07,Moravskoslezský kraj,Štíty,1068,0
 2020-05-07,Olomoucký kraj,Brýle,1692,0
 2020-05-07,Olomoucký kraj,Dezinfekce (l),3265,0
@@ -6339,6 +6711,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-07,Olomoucký kraj,Rychlotesty,65586,0
 2020-05-07,Olomoucký kraj,Tampóny,0,0
 2020-05-07,Olomoucký kraj,Teploměry,0,0
+2020-05-07,Olomoucký kraj,Termokamery,0,0
 2020-05-07,Olomoucký kraj,Štíty,1415,0
 2020-05-07,Pardubický kraj,Brýle,1105,0
 2020-05-07,Pardubický kraj,Dezinfekce (l),825,0
@@ -6356,6 +6729,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-07,Pardubický kraj,Rychlotesty,13138,0
 2020-05-07,Pardubický kraj,Tampóny,0,0
 2020-05-07,Pardubický kraj,Teploměry,0,0
+2020-05-07,Pardubický kraj,Termokamery,0,0
 2020-05-07,Pardubický kraj,Štíty,1860,520
 2020-05-07,Plzeňský kraj,Brýle,1464,200
 2020-05-07,Plzeňský kraj,Dezinfekce (l),7455,200
@@ -6373,6 +6747,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-07,Plzeňský kraj,Rychlotesty,16552,0
 2020-05-07,Plzeňský kraj,Tampóny,0,0
 2020-05-07,Plzeňský kraj,Teploměry,0,0
+2020-05-07,Plzeňský kraj,Termokamery,0,0
 2020-05-07,Plzeňský kraj,Štíty,1032,0
 2020-05-07,Středočeský kraj,Brýle,435,0
 2020-05-07,Středočeský kraj,Dezinfekce (l),1065,0
@@ -6390,6 +6765,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-07,Středočeský kraj,Rychlotesty,42569,0
 2020-05-07,Středočeský kraj,Tampóny,0,0
 2020-05-07,Středočeský kraj,Teploměry,0,0
+2020-05-07,Středočeský kraj,Termokamery,0,0
 2020-05-07,Středočeský kraj,Štíty,267,0
 2020-05-07,Zlínský kraj,Brýle,1120,0
 2020-05-07,Zlínský kraj,Dezinfekce (l),1385,0
@@ -6407,6 +6783,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-07,Zlínský kraj,Rychlotesty,12428,0
 2020-05-07,Zlínský kraj,Tampóny,0,0
 2020-05-07,Zlínský kraj,Teploměry,0,0
+2020-05-07,Zlínský kraj,Termokamery,0,0
 2020-05-07,Zlínský kraj,Štíty,610,0
 2020-05-07,Ústecký kraj,Brýle,1325,0
 2020-05-07,Ústecký kraj,Dezinfekce (l),2535,60
@@ -6424,6 +6801,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-07,Ústecký kraj,Rychlotesty,18621,0
 2020-05-07,Ústecký kraj,Tampóny,0,0
 2020-05-07,Ústecký kraj,Teploměry,0,0
+2020-05-07,Ústecký kraj,Termokamery,0,0
 2020-05-07,Ústecký kraj,Štíty,1605,0
 2020-05-08,Hlavní město Praha,Brýle,7960,0
 2020-05-08,Hlavní město Praha,Dezinfekce (l),14675,0
@@ -6441,6 +6819,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-08,Hlavní město Praha,Rychlotesty,102086,0
 2020-05-08,Hlavní město Praha,Tampóny,0,0
 2020-05-08,Hlavní město Praha,Teploměry,0,0
+2020-05-08,Hlavní město Praha,Termokamery,0,0
 2020-05-08,Hlavní město Praha,Štíty,7634,0
 2020-05-08,Jihomoravský kraj,Brýle,2465,0
 2020-05-08,Jihomoravský kraj,Dezinfekce (l),9100,0
@@ -6458,6 +6837,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-08,Jihomoravský kraj,Rychlotesty,42184,0
 2020-05-08,Jihomoravský kraj,Tampóny,0,0
 2020-05-08,Jihomoravský kraj,Teploměry,0,0
+2020-05-08,Jihomoravský kraj,Termokamery,0,0
 2020-05-08,Jihomoravský kraj,Štíty,2832,0
 2020-05-08,Jihočeský kraj,Brýle,1193,0
 2020-05-08,Jihočeský kraj,Dezinfekce (l),1445,0
@@ -6475,6 +6855,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-08,Jihočeský kraj,Rychlotesty,14843,0
 2020-05-08,Jihočeský kraj,Tampóny,0,0
 2020-05-08,Jihočeský kraj,Teploměry,0,0
+2020-05-08,Jihočeský kraj,Termokamery,0,0
 2020-05-08,Jihočeský kraj,Štíty,586,0
 2020-05-08,Karlovarský kraj,Brýle,105,0
 2020-05-08,Karlovarský kraj,Dezinfekce (l),1290,0
@@ -6492,6 +6873,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-08,Karlovarský kraj,Rychlotesty,14483,0
 2020-05-08,Karlovarský kraj,Tampóny,0,0
 2020-05-08,Karlovarský kraj,Teploměry,0,0
+2020-05-08,Karlovarský kraj,Termokamery,0,0
 2020-05-08,Karlovarský kraj,Štíty,60,0
 2020-05-08,Kraj Vysočina,Brýle,410,0
 2020-05-08,Kraj Vysočina,Dezinfekce (l),1175,0
@@ -6509,6 +6891,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-08,Kraj Vysočina,Rychlotesty,12393,0
 2020-05-08,Kraj Vysočina,Tampóny,0,0
 2020-05-08,Kraj Vysočina,Teploměry,0,0
+2020-05-08,Kraj Vysočina,Termokamery,0,0
 2020-05-08,Kraj Vysočina,Štíty,115,0
 2020-05-08,Královéhradecký kraj,Brýle,1220,0
 2020-05-08,Královéhradecký kraj,Dezinfekce (l),2465,0
@@ -6526,6 +6909,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-08,Královéhradecký kraj,Rychlotesty,13469,0
 2020-05-08,Královéhradecký kraj,Tampóny,0,0
 2020-05-08,Královéhradecký kraj,Teploměry,0,0
+2020-05-08,Královéhradecký kraj,Termokamery,0,0
 2020-05-08,Královéhradecký kraj,Štíty,335,0
 2020-05-08,Liberecký kraj,Brýle,335,0
 2020-05-08,Liberecký kraj,Dezinfekce (l),1200,0
@@ -6543,6 +6927,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-08,Liberecký kraj,Rychlotesty,12310,0
 2020-05-08,Liberecký kraj,Tampóny,0,0
 2020-05-08,Liberecký kraj,Teploměry,0,0
+2020-05-08,Liberecký kraj,Termokamery,0,0
 2020-05-08,Liberecký kraj,Štíty,245,0
 2020-05-08,Moravskoslezský kraj,Brýle,3422,0
 2020-05-08,Moravskoslezský kraj,Dezinfekce (l),4075,0
@@ -6560,6 +6945,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-08,Moravskoslezský kraj,Rychlotesty,47613,0
 2020-05-08,Moravskoslezský kraj,Tampóny,0,0
 2020-05-08,Moravskoslezský kraj,Teploměry,0,0
+2020-05-08,Moravskoslezský kraj,Termokamery,0,0
 2020-05-08,Moravskoslezský kraj,Štíty,1068,0
 2020-05-08,Olomoucký kraj,Brýle,1692,0
 2020-05-08,Olomoucký kraj,Dezinfekce (l),3265,0
@@ -6577,6 +6963,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-08,Olomoucký kraj,Rychlotesty,65586,0
 2020-05-08,Olomoucký kraj,Tampóny,0,0
 2020-05-08,Olomoucký kraj,Teploměry,0,0
+2020-05-08,Olomoucký kraj,Termokamery,0,0
 2020-05-08,Olomoucký kraj,Štíty,1415,0
 2020-05-08,Pardubický kraj,Brýle,1105,0
 2020-05-08,Pardubický kraj,Dezinfekce (l),825,0
@@ -6594,6 +6981,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-08,Pardubický kraj,Rychlotesty,13138,0
 2020-05-08,Pardubický kraj,Tampóny,0,0
 2020-05-08,Pardubický kraj,Teploměry,0,0
+2020-05-08,Pardubický kraj,Termokamery,0,0
 2020-05-08,Pardubický kraj,Štíty,1860,0
 2020-05-08,Plzeňský kraj,Brýle,1464,0
 2020-05-08,Plzeňský kraj,Dezinfekce (l),7455,0
@@ -6611,6 +6999,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-08,Plzeňský kraj,Rychlotesty,16552,0
 2020-05-08,Plzeňský kraj,Tampóny,0,0
 2020-05-08,Plzeňský kraj,Teploměry,0,0
+2020-05-08,Plzeňský kraj,Termokamery,0,0
 2020-05-08,Plzeňský kraj,Štíty,1032,0
 2020-05-08,Středočeský kraj,Brýle,435,0
 2020-05-08,Středočeský kraj,Dezinfekce (l),1065,0
@@ -6628,6 +7017,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-08,Středočeský kraj,Rychlotesty,42569,0
 2020-05-08,Středočeský kraj,Tampóny,0,0
 2020-05-08,Středočeský kraj,Teploměry,0,0
+2020-05-08,Středočeský kraj,Termokamery,0,0
 2020-05-08,Středočeský kraj,Štíty,267,0
 2020-05-08,Zlínský kraj,Brýle,1120,0
 2020-05-08,Zlínský kraj,Dezinfekce (l),1385,0
@@ -6645,6 +7035,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-08,Zlínský kraj,Rychlotesty,12428,0
 2020-05-08,Zlínský kraj,Tampóny,0,0
 2020-05-08,Zlínský kraj,Teploměry,0,0
+2020-05-08,Zlínský kraj,Termokamery,0,0
 2020-05-08,Zlínský kraj,Štíty,610,0
 2020-05-08,Ústecký kraj,Brýle,1325,0
 2020-05-08,Ústecký kraj,Dezinfekce (l),2535,0
@@ -6662,6 +7053,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-08,Ústecký kraj,Rychlotesty,18621,0
 2020-05-08,Ústecký kraj,Tampóny,0,0
 2020-05-08,Ústecký kraj,Teploměry,0,0
+2020-05-08,Ústecký kraj,Termokamery,0,0
 2020-05-08,Ústecký kraj,Štíty,1605,0
 2020-05-11,Hlavní město Praha,Brýle,7960,0
 2020-05-11,Hlavní město Praha,Dezinfekce (l),14675,0
@@ -6679,6 +7071,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-11,Hlavní město Praha,Rychlotesty,102086,0
 2020-05-11,Hlavní město Praha,Tampóny,0,0
 2020-05-11,Hlavní město Praha,Teploměry,0,0
+2020-05-11,Hlavní město Praha,Termokamery,0,0
 2020-05-11,Hlavní město Praha,Štíty,7634,0
 2020-05-11,Jihomoravský kraj,Brýle,2465,0
 2020-05-11,Jihomoravský kraj,Dezinfekce (l),9100,0
@@ -6696,6 +7089,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-11,Jihomoravský kraj,Rychlotesty,42184,0
 2020-05-11,Jihomoravský kraj,Tampóny,0,0
 2020-05-11,Jihomoravský kraj,Teploměry,0,0
+2020-05-11,Jihomoravský kraj,Termokamery,0,0
 2020-05-11,Jihomoravský kraj,Štíty,2832,0
 2020-05-11,Jihočeský kraj,Brýle,1193,0
 2020-05-11,Jihočeský kraj,Dezinfekce (l),1445,0
@@ -6713,6 +7107,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-11,Jihočeský kraj,Rychlotesty,14843,0
 2020-05-11,Jihočeský kraj,Tampóny,0,0
 2020-05-11,Jihočeský kraj,Teploměry,0,0
+2020-05-11,Jihočeský kraj,Termokamery,0,0
 2020-05-11,Jihočeský kraj,Štíty,586,0
 2020-05-11,Karlovarský kraj,Brýle,105,0
 2020-05-11,Karlovarský kraj,Dezinfekce (l),1290,0
@@ -6730,6 +7125,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-11,Karlovarský kraj,Rychlotesty,14483,0
 2020-05-11,Karlovarský kraj,Tampóny,0,0
 2020-05-11,Karlovarský kraj,Teploměry,0,0
+2020-05-11,Karlovarský kraj,Termokamery,0,0
 2020-05-11,Karlovarský kraj,Štíty,60,0
 2020-05-11,Kraj Vysočina,Brýle,410,0
 2020-05-11,Kraj Vysočina,Dezinfekce (l),1175,0
@@ -6747,6 +7143,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-11,Kraj Vysočina,Rychlotesty,12393,0
 2020-05-11,Kraj Vysočina,Tampóny,0,0
 2020-05-11,Kraj Vysočina,Teploměry,0,0
+2020-05-11,Kraj Vysočina,Termokamery,0,0
 2020-05-11,Kraj Vysočina,Štíty,115,0
 2020-05-11,Královéhradecký kraj,Brýle,1220,0
 2020-05-11,Královéhradecký kraj,Dezinfekce (l),2465,0
@@ -6764,6 +7161,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-11,Královéhradecký kraj,Rychlotesty,13469,0
 2020-05-11,Královéhradecký kraj,Tampóny,0,0
 2020-05-11,Královéhradecký kraj,Teploměry,0,0
+2020-05-11,Královéhradecký kraj,Termokamery,0,0
 2020-05-11,Královéhradecký kraj,Štíty,335,0
 2020-05-11,Liberecký kraj,Brýle,335,0
 2020-05-11,Liberecký kraj,Dezinfekce (l),1200,0
@@ -6781,6 +7179,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-11,Liberecký kraj,Rychlotesty,12310,0
 2020-05-11,Liberecký kraj,Tampóny,0,0
 2020-05-11,Liberecký kraj,Teploměry,0,0
+2020-05-11,Liberecký kraj,Termokamery,0,0
 2020-05-11,Liberecký kraj,Štíty,245,0
 2020-05-11,Moravskoslezský kraj,Brýle,3422,0
 2020-05-11,Moravskoslezský kraj,Dezinfekce (l),4075,0
@@ -6798,6 +7197,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-11,Moravskoslezský kraj,Rychlotesty,47613,0
 2020-05-11,Moravskoslezský kraj,Tampóny,0,0
 2020-05-11,Moravskoslezský kraj,Teploměry,0,0
+2020-05-11,Moravskoslezský kraj,Termokamery,0,0
 2020-05-11,Moravskoslezský kraj,Štíty,1068,0
 2020-05-11,Olomoucký kraj,Brýle,1692,0
 2020-05-11,Olomoucký kraj,Dezinfekce (l),3265,0
@@ -6815,6 +7215,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-11,Olomoucký kraj,Rychlotesty,65586,0
 2020-05-11,Olomoucký kraj,Tampóny,0,0
 2020-05-11,Olomoucký kraj,Teploměry,0,0
+2020-05-11,Olomoucký kraj,Termokamery,0,0
 2020-05-11,Olomoucký kraj,Štíty,1415,0
 2020-05-11,Pardubický kraj,Brýle,1105,0
 2020-05-11,Pardubický kraj,Dezinfekce (l),825,0
@@ -6832,6 +7233,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-11,Pardubický kraj,Rychlotesty,13138,0
 2020-05-11,Pardubický kraj,Tampóny,0,0
 2020-05-11,Pardubický kraj,Teploměry,0,0
+2020-05-11,Pardubický kraj,Termokamery,0,0
 2020-05-11,Pardubický kraj,Štíty,1860,0
 2020-05-11,Plzeňský kraj,Brýle,1464,0
 2020-05-11,Plzeňský kraj,Dezinfekce (l),7455,0
@@ -6849,6 +7251,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-11,Plzeňský kraj,Rychlotesty,16552,0
 2020-05-11,Plzeňský kraj,Tampóny,0,0
 2020-05-11,Plzeňský kraj,Teploměry,0,0
+2020-05-11,Plzeňský kraj,Termokamery,0,0
 2020-05-11,Plzeňský kraj,Štíty,1032,0
 2020-05-11,Středočeský kraj,Brýle,435,0
 2020-05-11,Středočeský kraj,Dezinfekce (l),1065,0
@@ -6866,6 +7269,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-11,Středočeský kraj,Rychlotesty,42569,0
 2020-05-11,Středočeský kraj,Tampóny,0,0
 2020-05-11,Středočeský kraj,Teploměry,0,0
+2020-05-11,Středočeský kraj,Termokamery,0,0
 2020-05-11,Středočeský kraj,Štíty,267,0
 2020-05-11,Zlínský kraj,Brýle,1120,0
 2020-05-11,Zlínský kraj,Dezinfekce (l),1385,0
@@ -6883,6 +7287,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-11,Zlínský kraj,Rychlotesty,12428,0
 2020-05-11,Zlínský kraj,Tampóny,0,0
 2020-05-11,Zlínský kraj,Teploměry,0,0
+2020-05-11,Zlínský kraj,Termokamery,0,0
 2020-05-11,Zlínský kraj,Štíty,610,0
 2020-05-11,Ústecký kraj,Brýle,1325,0
 2020-05-11,Ústecký kraj,Dezinfekce (l),2535,0
@@ -6900,6 +7305,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-11,Ústecký kraj,Rychlotesty,18621,0
 2020-05-11,Ústecký kraj,Tampóny,0,0
 2020-05-11,Ústecký kraj,Teploměry,0,0
+2020-05-11,Ústecký kraj,Termokamery,0,0
 2020-05-11,Ústecký kraj,Štíty,1605,0
 2020-05-12,Hlavní město Praha,Brýle,8869,909
 2020-05-12,Hlavní město Praha,Dezinfekce (l),16675,2000
@@ -6917,6 +7323,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-12,Hlavní město Praha,Rychlotesty,123086,21000
 2020-05-12,Hlavní město Praha,Tampóny,0,0
 2020-05-12,Hlavní město Praha,Teploměry,0,0
+2020-05-12,Hlavní město Praha,Termokamery,0,0
 2020-05-12,Hlavní město Praha,Štíty,8804,1170
 2020-05-12,Jihomoravský kraj,Brýle,2465,0
 2020-05-12,Jihomoravský kraj,Dezinfekce (l),9100,0
@@ -6934,6 +7341,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-12,Jihomoravský kraj,Rychlotesty,42184,0
 2020-05-12,Jihomoravský kraj,Tampóny,0,0
 2020-05-12,Jihomoravský kraj,Teploměry,0,0
+2020-05-12,Jihomoravský kraj,Termokamery,0,0
 2020-05-12,Jihomoravský kraj,Štíty,2832,0
 2020-05-12,Jihočeský kraj,Brýle,1203,10
 2020-05-12,Jihočeský kraj,Dezinfekce (l),1585,140
@@ -6951,6 +7359,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-12,Jihočeský kraj,Rychlotesty,24843,10000
 2020-05-12,Jihočeský kraj,Tampóny,0,0
 2020-05-12,Jihočeský kraj,Teploměry,0,0
+2020-05-12,Jihočeský kraj,Termokamery,0,0
 2020-05-12,Jihočeský kraj,Štíty,716,130
 2020-05-12,Karlovarský kraj,Brýle,105,0
 2020-05-12,Karlovarský kraj,Dezinfekce (l),1290,0
@@ -6968,6 +7377,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-12,Karlovarský kraj,Rychlotesty,14483,0
 2020-05-12,Karlovarský kraj,Tampóny,0,0
 2020-05-12,Karlovarský kraj,Teploměry,0,0
+2020-05-12,Karlovarský kraj,Termokamery,0,0
 2020-05-12,Karlovarský kraj,Štíty,60,0
 2020-05-12,Kraj Vysočina,Brýle,410,0
 2020-05-12,Kraj Vysočina,Dezinfekce (l),1175,0
@@ -6985,6 +7395,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-12,Kraj Vysočina,Rychlotesty,12393,0
 2020-05-12,Kraj Vysočina,Tampóny,0,0
 2020-05-12,Kraj Vysočina,Teploměry,0,0
+2020-05-12,Kraj Vysočina,Termokamery,0,0
 2020-05-12,Kraj Vysočina,Štíty,115,0
 2020-05-12,Královéhradecký kraj,Brýle,1220,0
 2020-05-12,Královéhradecký kraj,Dezinfekce (l),2465,0
@@ -7002,6 +7413,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-12,Královéhradecký kraj,Rychlotesty,13469,0
 2020-05-12,Královéhradecký kraj,Tampóny,0,0
 2020-05-12,Královéhradecký kraj,Teploměry,0,0
+2020-05-12,Královéhradecký kraj,Termokamery,0,0
 2020-05-12,Královéhradecký kraj,Štíty,335,0
 2020-05-12,Liberecký kraj,Brýle,335,0
 2020-05-12,Liberecký kraj,Dezinfekce (l),1200,0
@@ -7019,6 +7431,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-12,Liberecký kraj,Rychlotesty,12310,0
 2020-05-12,Liberecký kraj,Tampóny,0,0
 2020-05-12,Liberecký kraj,Teploměry,0,0
+2020-05-12,Liberecký kraj,Termokamery,0,0
 2020-05-12,Liberecký kraj,Štíty,245,0
 2020-05-12,Moravskoslezský kraj,Brýle,3422,0
 2020-05-12,Moravskoslezský kraj,Dezinfekce (l),4075,0
@@ -7036,6 +7449,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-12,Moravskoslezský kraj,Rychlotesty,47613,0
 2020-05-12,Moravskoslezský kraj,Tampóny,0,0
 2020-05-12,Moravskoslezský kraj,Teploměry,0,0
+2020-05-12,Moravskoslezský kraj,Termokamery,0,0
 2020-05-12,Moravskoslezský kraj,Štíty,1068,0
 2020-05-12,Olomoucký kraj,Brýle,1692,0
 2020-05-12,Olomoucký kraj,Dezinfekce (l),3265,0
@@ -7053,6 +7467,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-12,Olomoucký kraj,Rychlotesty,65586,0
 2020-05-12,Olomoucký kraj,Tampóny,0,0
 2020-05-12,Olomoucký kraj,Teploměry,0,0
+2020-05-12,Olomoucký kraj,Termokamery,0,0
 2020-05-12,Olomoucký kraj,Štíty,1415,0
 2020-05-12,Pardubický kraj,Brýle,1105,0
 2020-05-12,Pardubický kraj,Dezinfekce (l),825,0
@@ -7070,6 +7485,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-12,Pardubický kraj,Rychlotesty,13138,0
 2020-05-12,Pardubický kraj,Tampóny,0,0
 2020-05-12,Pardubický kraj,Teploměry,0,0
+2020-05-12,Pardubický kraj,Termokamery,0,0
 2020-05-12,Pardubický kraj,Štíty,1860,0
 2020-05-12,Plzeňský kraj,Brýle,1464,0
 2020-05-12,Plzeňský kraj,Dezinfekce (l),7455,0
@@ -7087,6 +7503,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-12,Plzeňský kraj,Rychlotesty,16552,0
 2020-05-12,Plzeňský kraj,Tampóny,0,0
 2020-05-12,Plzeňský kraj,Teploměry,0,0
+2020-05-12,Plzeňský kraj,Termokamery,0,0
 2020-05-12,Plzeňský kraj,Štíty,1032,0
 2020-05-12,Středočeský kraj,Brýle,435,0
 2020-05-12,Středočeský kraj,Dezinfekce (l),1525,460
@@ -7104,6 +7521,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-12,Středočeský kraj,Rychlotesty,42569,0
 2020-05-12,Středočeský kraj,Tampóny,0,0
 2020-05-12,Středočeský kraj,Teploměry,0,0
+2020-05-12,Středočeský kraj,Termokamery,0,0
 2020-05-12,Středočeský kraj,Štíty,747,480
 2020-05-12,Zlínský kraj,Brýle,1120,0
 2020-05-12,Zlínský kraj,Dezinfekce (l),1385,0
@@ -7121,6 +7539,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-12,Zlínský kraj,Rychlotesty,12428,0
 2020-05-12,Zlínský kraj,Tampóny,0,0
 2020-05-12,Zlínský kraj,Teploměry,0,0
+2020-05-12,Zlínský kraj,Termokamery,0,0
 2020-05-12,Zlínský kraj,Štíty,610,0
 2020-05-12,Ústecký kraj,Brýle,1325,0
 2020-05-12,Ústecký kraj,Dezinfekce (l),2535,0
@@ -7138,6 +7557,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-12,Ústecký kraj,Rychlotesty,18621,0
 2020-05-12,Ústecký kraj,Tampóny,0,0
 2020-05-12,Ústecký kraj,Teploměry,0,0
+2020-05-12,Ústecký kraj,Termokamery,0,0
 2020-05-12,Ústecký kraj,Štíty,1605,0
 2020-05-13,Hlavní město Praha,Brýle,8869,0
 2020-05-13,Hlavní město Praha,Dezinfekce (l),16675,0
@@ -7155,6 +7575,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-13,Hlavní město Praha,Rychlotesty,123086,0
 2020-05-13,Hlavní město Praha,Tampóny,0,0
 2020-05-13,Hlavní město Praha,Teploměry,562,562
+2020-05-13,Hlavní město Praha,Termokamery,0,0
 2020-05-13,Hlavní město Praha,Štíty,8804,0
 2020-05-13,Jihomoravský kraj,Brýle,2465,0
 2020-05-13,Jihomoravský kraj,Dezinfekce (l),9100,0
@@ -7172,6 +7593,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-13,Jihomoravský kraj,Rychlotesty,42184,0
 2020-05-13,Jihomoravský kraj,Tampóny,0,0
 2020-05-13,Jihomoravský kraj,Teploměry,6,6
+2020-05-13,Jihomoravský kraj,Termokamery,0,0
 2020-05-13,Jihomoravský kraj,Štíty,2832,0
 2020-05-13,Jihočeský kraj,Brýle,1203,0
 2020-05-13,Jihočeský kraj,Dezinfekce (l),1585,0
@@ -7189,6 +7611,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-13,Jihočeský kraj,Rychlotesty,24843,0
 2020-05-13,Jihočeský kraj,Tampóny,0,0
 2020-05-13,Jihočeský kraj,Teploměry,40,40
+2020-05-13,Jihočeský kraj,Termokamery,0,0
 2020-05-13,Jihočeský kraj,Štíty,716,0
 2020-05-13,Karlovarský kraj,Brýle,105,0
 2020-05-13,Karlovarský kraj,Dezinfekce (l),1290,0
@@ -7206,6 +7629,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-13,Karlovarský kraj,Rychlotesty,14483,0
 2020-05-13,Karlovarský kraj,Tampóny,0,0
 2020-05-13,Karlovarský kraj,Teploměry,0,0
+2020-05-13,Karlovarský kraj,Termokamery,0,0
 2020-05-13,Karlovarský kraj,Štíty,60,0
 2020-05-13,Kraj Vysočina,Brýle,410,0
 2020-05-13,Kraj Vysočina,Dezinfekce (l),1175,0
@@ -7223,6 +7647,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-13,Kraj Vysočina,Rychlotesty,12393,0
 2020-05-13,Kraj Vysočina,Tampóny,0,0
 2020-05-13,Kraj Vysočina,Teploměry,0,0
+2020-05-13,Kraj Vysočina,Termokamery,0,0
 2020-05-13,Kraj Vysočina,Štíty,115,0
 2020-05-13,Královéhradecký kraj,Brýle,1220,0
 2020-05-13,Královéhradecký kraj,Dezinfekce (l),2465,0
@@ -7240,6 +7665,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-13,Královéhradecký kraj,Rychlotesty,13469,0
 2020-05-13,Královéhradecký kraj,Tampóny,0,0
 2020-05-13,Královéhradecký kraj,Teploměry,0,0
+2020-05-13,Královéhradecký kraj,Termokamery,0,0
 2020-05-13,Královéhradecký kraj,Štíty,335,0
 2020-05-13,Liberecký kraj,Brýle,335,0
 2020-05-13,Liberecký kraj,Dezinfekce (l),1200,0
@@ -7257,6 +7683,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-13,Liberecký kraj,Rychlotesty,12310,0
 2020-05-13,Liberecký kraj,Tampóny,0,0
 2020-05-13,Liberecký kraj,Teploměry,0,0
+2020-05-13,Liberecký kraj,Termokamery,0,0
 2020-05-13,Liberecký kraj,Štíty,245,0
 2020-05-13,Moravskoslezský kraj,Brýle,3422,0
 2020-05-13,Moravskoslezský kraj,Dezinfekce (l),4075,0
@@ -7274,6 +7701,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-13,Moravskoslezský kraj,Rychlotesty,47613,0
 2020-05-13,Moravskoslezský kraj,Tampóny,0,0
 2020-05-13,Moravskoslezský kraj,Teploměry,0,0
+2020-05-13,Moravskoslezský kraj,Termokamery,0,0
 2020-05-13,Moravskoslezský kraj,Štíty,1068,0
 2020-05-13,Olomoucký kraj,Brýle,1692,0
 2020-05-13,Olomoucký kraj,Dezinfekce (l),3265,0
@@ -7291,6 +7719,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-13,Olomoucký kraj,Rychlotesty,65586,0
 2020-05-13,Olomoucký kraj,Tampóny,0,0
 2020-05-13,Olomoucký kraj,Teploměry,12,12
+2020-05-13,Olomoucký kraj,Termokamery,0,0
 2020-05-13,Olomoucký kraj,Štíty,1415,0
 2020-05-13,Pardubický kraj,Brýle,1105,0
 2020-05-13,Pardubický kraj,Dezinfekce (l),825,0
@@ -7308,6 +7737,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-13,Pardubický kraj,Rychlotesty,13138,0
 2020-05-13,Pardubický kraj,Tampóny,0,0
 2020-05-13,Pardubický kraj,Teploměry,0,0
+2020-05-13,Pardubický kraj,Termokamery,0,0
 2020-05-13,Pardubický kraj,Štíty,1860,0
 2020-05-13,Plzeňský kraj,Brýle,1464,0
 2020-05-13,Plzeňský kraj,Dezinfekce (l),7455,0
@@ -7325,6 +7755,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-13,Plzeňský kraj,Rychlotesty,16552,0
 2020-05-13,Plzeňský kraj,Tampóny,0,0
 2020-05-13,Plzeňský kraj,Teploměry,0,0
+2020-05-13,Plzeňský kraj,Termokamery,0,0
 2020-05-13,Plzeňský kraj,Štíty,1032,0
 2020-05-13,Středočeský kraj,Brýle,435,0
 2020-05-13,Středočeský kraj,Dezinfekce (l),1525,0
@@ -7342,6 +7773,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-13,Středočeský kraj,Rychlotesty,42569,0
 2020-05-13,Středočeský kraj,Tampóny,0,0
 2020-05-13,Středočeský kraj,Teploměry,30,30
+2020-05-13,Středočeský kraj,Termokamery,0,0
 2020-05-13,Středočeský kraj,Štíty,747,0
 2020-05-13,Zlínský kraj,Brýle,1120,0
 2020-05-13,Zlínský kraj,Dezinfekce (l),1385,0
@@ -7359,6 +7791,7 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-13,Zlínský kraj,Rychlotesty,12428,0
 2020-05-13,Zlínský kraj,Tampóny,0,0
 2020-05-13,Zlínský kraj,Teploměry,0,0
+2020-05-13,Zlínský kraj,Termokamery,0,0
 2020-05-13,Zlínský kraj,Štíty,610,0
 2020-05-13,Ústecký kraj,Brýle,1325,0
 2020-05-13,Ústecký kraj,Dezinfekce (l),2535,0
@@ -7376,4 +7809,257 @@ datum,kraj,pomucka,pocet,zmena
 2020-05-13,Ústecký kraj,Rychlotesty,18621,0
 2020-05-13,Ústecký kraj,Tampóny,0,0
 2020-05-13,Ústecký kraj,Teploměry,3,3
+2020-05-13,Ústecký kraj,Termokamery,0,0
 2020-05-13,Ústecký kraj,Štíty,1605,0
+2020-05-14,Hlavní město Praha,Brýle,11047,2178
+2020-05-14,Hlavní město Praha,Dezinfekce (l),16675,0
+2020-05-14,Hlavní město Praha,Filtry k polomaskám,12057,0
+2020-05-14,Hlavní město Praha,Návleky na obuv,44730,0
+2020-05-14,Hlavní město Praha,Ochranné oděvy,279660,0
+2020-05-14,Hlavní město Praha,Odběrové sady,185281,480
+2020-05-14,Hlavní město Praha,Ostatní,8676,0
+2020-05-14,Hlavní město Praha,Plicní ventilátory,25,2
+2020-05-14,Hlavní město Praha,Polomasky,3340,0
+2020-05-14,Hlavní město Praha,Příslušenství k plicním ventilátorům,22,5
+2020-05-14,Hlavní město Praha,Respirátory,2391180,84640
+2020-05-14,Hlavní město Praha,Roušky,6530199,469200
+2020-05-14,Hlavní město Praha,Rukavice,2063147,117900
+2020-05-14,Hlavní město Praha,Rychlotesty,131086,8000
+2020-05-14,Hlavní město Praha,Tampóny,0,0
+2020-05-14,Hlavní město Praha,Teploměry,592,30
+2020-05-14,Hlavní město Praha,Termokamery,47,47
+2020-05-14,Hlavní město Praha,Štíty,10229,1425
+2020-05-14,Jihomoravský kraj,Brýle,3965,1500
+2020-05-14,Jihomoravský kraj,Dezinfekce (l),9100,0
+2020-05-14,Jihomoravský kraj,Filtry k polomaskám,1682,0
+2020-05-14,Jihomoravský kraj,Návleky na obuv,5447,0
+2020-05-14,Jihomoravský kraj,Ochranné oděvy,96846,0
+2020-05-14,Jihomoravský kraj,Odběrové sady,86800,0
+2020-05-14,Jihomoravský kraj,Ostatní,0,0
+2020-05-14,Jihomoravský kraj,Plicní ventilátory,2,2
+2020-05-14,Jihomoravský kraj,Polomasky,841,0
+2020-05-14,Jihomoravský kraj,Příslušenství k plicním ventilátorům,5,5
+2020-05-14,Jihomoravský kraj,Respirátory,639081,61520
+2020-05-14,Jihomoravský kraj,Roušky,2415852,349600
+2020-05-14,Jihomoravský kraj,Rukavice,700994,98400
+2020-05-14,Jihomoravský kraj,Rychlotesty,50184,8000
+2020-05-14,Jihomoravský kraj,Tampóny,0,0
+2020-05-14,Jihomoravský kraj,Teploměry,36,30
+2020-05-14,Jihomoravský kraj,Termokamery,20,20
+2020-05-14,Jihomoravský kraj,Štíty,4332,1500
+2020-05-14,Jihočeský kraj,Brýle,2703,1500
+2020-05-14,Jihočeský kraj,Dezinfekce (l),1585,0
+2020-05-14,Jihočeský kraj,Filtry k polomaskám,13,0
+2020-05-14,Jihočeský kraj,Návleky na obuv,510,0
+2020-05-14,Jihočeský kraj,Ochranné oděvy,30579,0
+2020-05-14,Jihočeský kraj,Odběrové sady,4150,0
+2020-05-14,Jihočeský kraj,Ostatní,0,0
+2020-05-14,Jihočeský kraj,Plicní ventilátory,2,2
+2020-05-14,Jihočeský kraj,Polomasky,5,0
+2020-05-14,Jihočeský kraj,Příslušenství k plicním ventilátorům,5,5
+2020-05-14,Jihočeský kraj,Respirátory,322804,41140
+2020-05-14,Jihočeský kraj,Roušky,1228614,247700
+2020-05-14,Jihočeský kraj,Rukavice,452178,52800
+2020-05-14,Jihočeský kraj,Rychlotesty,32843,8000
+2020-05-14,Jihočeský kraj,Tampóny,0,0
+2020-05-14,Jihočeský kraj,Teploměry,70,30
+2020-05-14,Jihočeský kraj,Termokamery,20,20
+2020-05-14,Jihočeský kraj,Štíty,2216,1500
+2020-05-14,Karlovarský kraj,Brýle,1605,1500
+2020-05-14,Karlovarský kraj,Dezinfekce (l),1290,0
+2020-05-14,Karlovarský kraj,Filtry k polomaskám,0,0
+2020-05-14,Karlovarský kraj,Návleky na obuv,1000,0
+2020-05-14,Karlovarský kraj,Ochranné oděvy,24719,10000
+2020-05-14,Karlovarský kraj,Odběrové sady,15300,10000
+2020-05-14,Karlovarský kraj,Ostatní,0,0
+2020-05-14,Karlovarský kraj,Plicní ventilátory,2,2
+2020-05-14,Karlovarský kraj,Polomasky,0,0
+2020-05-14,Karlovarský kraj,Příslušenství k plicním ventilátorům,5,5
+2020-05-14,Karlovarský kraj,Respirátory,163872,51200
+2020-05-14,Karlovarský kraj,Roušky,462636,189500
+2020-05-14,Karlovarský kraj,Rukavice,150479,22200
+2020-05-14,Karlovarský kraj,Rychlotesty,33324,18841
+2020-05-14,Karlovarský kraj,Tampóny,0,0
+2020-05-14,Karlovarský kraj,Teploměry,30,30
+2020-05-14,Karlovarský kraj,Termokamery,20,20
+2020-05-14,Karlovarský kraj,Štíty,2465,2405
+2020-05-14,Kraj Vysočina,Brýle,1910,1500
+2020-05-14,Kraj Vysočina,Dezinfekce (l),1175,0
+2020-05-14,Kraj Vysočina,Filtry k polomaskám,0,0
+2020-05-14,Kraj Vysočina,Návleky na obuv,9800,0
+2020-05-14,Kraj Vysočina,Ochranné oděvy,6710,0
+2020-05-14,Kraj Vysočina,Odběrové sady,7100,0
+2020-05-14,Kraj Vysočina,Ostatní,0,0
+2020-05-14,Kraj Vysočina,Plicní ventilátory,2,2
+2020-05-14,Kraj Vysočina,Polomasky,0,0
+2020-05-14,Kraj Vysočina,Příslušenství k plicním ventilátorům,5,5
+2020-05-14,Kraj Vysočina,Respirátory,203767,38624
+2020-05-14,Kraj Vysočina,Roušky,714569,223800
+2020-05-14,Kraj Vysočina,Rukavice,264107,38200
+2020-05-14,Kraj Vysočina,Rychlotesty,20393,8000
+2020-05-14,Kraj Vysočina,Tampóny,0,0
+2020-05-14,Kraj Vysočina,Teploměry,30,30
+2020-05-14,Kraj Vysočina,Termokamery,20,20
+2020-05-14,Kraj Vysočina,Štíty,1615,1500
+2020-05-14,Královéhradecký kraj,Brýle,3435,2215
+2020-05-14,Královéhradecký kraj,Dezinfekce (l),2465,0
+2020-05-14,Královéhradecký kraj,Filtry k polomaskám,1000,0
+2020-05-14,Královéhradecký kraj,Návleky na obuv,0,0
+2020-05-14,Královéhradecký kraj,Ochranné oděvy,33189,0
+2020-05-14,Královéhradecký kraj,Odběrové sady,6300,0
+2020-05-14,Královéhradecký kraj,Ostatní,0,0
+2020-05-14,Královéhradecký kraj,Plicní ventilátory,2,2
+2020-05-14,Královéhradecký kraj,Polomasky,500,0
+2020-05-14,Královéhradecký kraj,Příslušenství k plicním ventilátorům,5,5
+2020-05-14,Královéhradecký kraj,Respirátory,424825,40070
+2020-05-14,Královéhradecký kraj,Roušky,1190715,246350
+2020-05-14,Královéhradecký kraj,Rukavice,580534,45800
+2020-05-14,Královéhradecký kraj,Rychlotesty,21469,8000
+2020-05-14,Královéhradecký kraj,Tampóny,0,0
+2020-05-14,Královéhradecký kraj,Teploměry,30,30
+2020-05-14,Královéhradecký kraj,Termokamery,20,20
+2020-05-14,Královéhradecký kraj,Štíty,1835,1500
+2020-05-14,Liberecký kraj,Brýle,1835,1500
+2020-05-14,Liberecký kraj,Dezinfekce (l),1200,0
+2020-05-14,Liberecký kraj,Filtry k polomaskám,0,0
+2020-05-14,Liberecký kraj,Návleky na obuv,2050,0
+2020-05-14,Liberecký kraj,Ochranné oděvy,14240,5000
+2020-05-14,Liberecký kraj,Odběrové sady,18100,5000
+2020-05-14,Liberecký kraj,Ostatní,0,0
+2020-05-14,Liberecký kraj,Plicní ventilátory,2,2
+2020-05-14,Liberecký kraj,Polomasky,0,0
+2020-05-14,Liberecký kraj,Příslušenství k plicním ventilátorům,5,5
+2020-05-14,Liberecký kraj,Respirátory,193320,35350
+2020-05-14,Liberecký kraj,Roušky,680973,210000
+2020-05-14,Liberecký kraj,Rukavice,246069,33500
+2020-05-14,Liberecký kraj,Rychlotesty,20310,8000
+2020-05-14,Liberecký kraj,Tampóny,0,0
+2020-05-14,Liberecký kraj,Teploměry,30,30
+2020-05-14,Liberecký kraj,Termokamery,20,20
+2020-05-14,Liberecký kraj,Štíty,1705,1460
+2020-05-14,Moravskoslezský kraj,Brýle,4922,1500
+2020-05-14,Moravskoslezský kraj,Dezinfekce (l),4075,0
+2020-05-14,Moravskoslezský kraj,Filtry k polomaskám,1000,0
+2020-05-14,Moravskoslezský kraj,Návleky na obuv,11232,0
+2020-05-14,Moravskoslezský kraj,Ochranné oděvy,44402,0
+2020-05-14,Moravskoslezský kraj,Odběrové sady,66700,0
+2020-05-14,Moravskoslezský kraj,Ostatní,0,0
+2020-05-14,Moravskoslezský kraj,Plicní ventilátory,2,2
+2020-05-14,Moravskoslezský kraj,Polomasky,500,0
+2020-05-14,Moravskoslezský kraj,Příslušenství k plicním ventilátorům,5,5
+2020-05-14,Moravskoslezský kraj,Respirátory,560641,62490
+2020-05-14,Moravskoslezský kraj,Roušky,1761354,358450
+2020-05-14,Moravskoslezský kraj,Rukavice,678228,96900
+2020-05-14,Moravskoslezský kraj,Rychlotesty,55613,8000
+2020-05-14,Moravskoslezský kraj,Tampóny,0,0
+2020-05-14,Moravskoslezský kraj,Teploměry,30,30
+2020-05-14,Moravskoslezský kraj,Termokamery,20,20
+2020-05-14,Moravskoslezský kraj,Štíty,2568,1500
+2020-05-14,Olomoucký kraj,Brýle,3192,1500
+2020-05-14,Olomoucký kraj,Dezinfekce (l),3265,0
+2020-05-14,Olomoucký kraj,Filtry k polomaskám,800,0
+2020-05-14,Olomoucký kraj,Návleky na obuv,2050,0
+2020-05-14,Olomoucký kraj,Ochranné oděvy,14385,0
+2020-05-14,Olomoucký kraj,Odběrové sady,21600,5000
+2020-05-14,Olomoucký kraj,Ostatní,0,0
+2020-05-14,Olomoucký kraj,Plicní ventilátory,2,2
+2020-05-14,Olomoucký kraj,Polomasky,400,0
+2020-05-14,Olomoucký kraj,Příslušenství k plicním ventilátorům,5,5
+2020-05-14,Olomoucký kraj,Respirátory,332834,52110
+2020-05-14,Olomoucký kraj,Roušky,1328276,306550
+2020-05-14,Olomoucký kraj,Rukavice,458318,53300
+2020-05-14,Olomoucký kraj,Rychlotesty,73586,8000
+2020-05-14,Olomoucký kraj,Tampóny,0,0
+2020-05-14,Olomoucký kraj,Teploměry,42,30
+2020-05-14,Olomoucký kraj,Termokamery,20,20
+2020-05-14,Olomoucký kraj,Štíty,2915,1500
+2020-05-14,Pardubický kraj,Brýle,2605,1500
+2020-05-14,Pardubický kraj,Dezinfekce (l),825,0
+2020-05-14,Pardubický kraj,Filtry k polomaskám,0,0
+2020-05-14,Pardubický kraj,Návleky na obuv,4880,0
+2020-05-14,Pardubický kraj,Ochranné oděvy,26592,5000
+2020-05-14,Pardubický kraj,Odběrové sady,10900,0
+2020-05-14,Pardubický kraj,Ostatní,0,0
+2020-05-14,Pardubický kraj,Plicní ventilátory,2,2
+2020-05-14,Pardubický kraj,Polomasky,0,0
+2020-05-14,Pardubický kraj,Příslušenství k plicním ventilátorům,5,5
+2020-05-14,Pardubický kraj,Respirátory,272590,63230
+2020-05-14,Pardubický kraj,Roušky,721733,228850
+2020-05-14,Pardubický kraj,Rukavice,300334,48600
+2020-05-14,Pardubický kraj,Rychlotesty,21138,8000
+2020-05-14,Pardubický kraj,Tampóny,0,0
+2020-05-14,Pardubický kraj,Teploměry,30,30
+2020-05-14,Pardubický kraj,Termokamery,20,20
+2020-05-14,Pardubický kraj,Štíty,3360,1500
+2020-05-14,Plzeňský kraj,Brýle,2964,1500
+2020-05-14,Plzeňský kraj,Dezinfekce (l),7455,0
+2020-05-14,Plzeňský kraj,Filtry k polomaskám,1150,0
+2020-05-14,Plzeňský kraj,Návleky na obuv,38250,0
+2020-05-14,Plzeňský kraj,Ochranné oděvy,81925,0
+2020-05-14,Plzeňský kraj,Odběrové sady,20700,0
+2020-05-14,Plzeňský kraj,Ostatní,0,0
+2020-05-14,Plzeňský kraj,Plicní ventilátory,2,2
+2020-05-14,Plzeňský kraj,Polomasky,500,0
+2020-05-14,Plzeňský kraj,Příslušenství k plicním ventilátorům,5,5
+2020-05-14,Plzeňský kraj,Respirátory,486007,38890
+2020-05-14,Plzeňský kraj,Roušky,1462461,240450
+2020-05-14,Plzeňský kraj,Rukavice,740784,44500
+2020-05-14,Plzeňský kraj,Rychlotesty,24552,8000
+2020-05-14,Plzeňský kraj,Tampóny,0,0
+2020-05-14,Plzeňský kraj,Teploměry,30,30
+2020-05-14,Plzeňský kraj,Termokamery,20,20
+2020-05-14,Plzeňský kraj,Štíty,2532,1500
+2020-05-14,Středočeský kraj,Brýle,2895,2460
+2020-05-14,Středočeský kraj,Dezinfekce (l),1525,0
+2020-05-14,Středočeský kraj,Filtry k polomaskám,0,0
+2020-05-14,Středočeský kraj,Návleky na obuv,150,0
+2020-05-14,Středočeský kraj,Ochranné oděvy,14698,0
+2020-05-14,Středočeský kraj,Odběrové sady,25100,0
+2020-05-14,Středočeský kraj,Ostatní,0,0
+2020-05-14,Středočeský kraj,Plicní ventilátory,2,2
+2020-05-14,Středočeský kraj,Polomasky,0,0
+2020-05-14,Středočeský kraj,Příslušenství k plicním ventilátorům,5,5
+2020-05-14,Středočeský kraj,Respirátory,440755,58490
+2020-05-14,Středočeský kraj,Roušky,1507622,345450
+2020-05-14,Středočeský kraj,Rukavice,649672,98700
+2020-05-14,Středočeský kraj,Rychlotesty,50569,8000
+2020-05-14,Středočeský kraj,Tampóny,0,0
+2020-05-14,Středočeský kraj,Teploměry,60,30
+2020-05-14,Středočeský kraj,Termokamery,20,20
+2020-05-14,Středočeský kraj,Štíty,2247,1500
+2020-05-14,Zlínský kraj,Brýle,3120,2000
+2020-05-14,Zlínský kraj,Dezinfekce (l),1385,0
+2020-05-14,Zlínský kraj,Filtry k polomaskám,0,0
+2020-05-14,Zlínský kraj,Návleky na obuv,350,0
+2020-05-14,Zlínský kraj,Ochranné oděvy,9039,2000
+2020-05-14,Zlínský kraj,Odběrové sady,4700,0
+2020-05-14,Zlínský kraj,Ostatní,0,0
+2020-05-14,Zlínský kraj,Plicní ventilátory,2,2
+2020-05-14,Zlínský kraj,Polomasky,0,0
+2020-05-14,Zlínský kraj,Příslušenství k plicním ventilátorům,5,5
+2020-05-14,Zlínský kraj,Respirátory,228480,36830
+2020-05-14,Zlínský kraj,Roušky,745751,230150
+2020-05-14,Zlínský kraj,Rukavice,369473,46800
+2020-05-14,Zlínský kraj,Rychlotesty,20428,8000
+2020-05-14,Zlínský kraj,Tampóny,0,0
+2020-05-14,Zlínský kraj,Teploměry,30,30
+2020-05-14,Zlínský kraj,Termokamery,20,20
+2020-05-14,Zlínský kraj,Štíty,3035,2425
+2020-05-14,Ústecký kraj,Brýle,3383,2058
+2020-05-14,Ústecký kraj,Dezinfekce (l),2535,0
+2020-05-14,Ústecký kraj,Filtry k polomaskám,0,0
+2020-05-14,Ústecký kraj,Návleky na obuv,9620,9500
+2020-05-14,Ústecký kraj,Ochranné oděvy,44774,5100
+2020-05-14,Ústecký kraj,Odběrové sady,14898,4798
+2020-05-14,Ústecký kraj,Ostatní,0,0
+2020-05-14,Ústecký kraj,Plicní ventilátory,2,2
+2020-05-14,Ústecký kraj,Polomasky,0,0
+2020-05-14,Ústecký kraj,Příslušenství k plicním ventilátorům,5,5
+2020-05-14,Ústecký kraj,Respirátory,368406,87650
+2020-05-14,Ústecký kraj,Roušky,1038208,301250
+2020-05-14,Ústecký kraj,Rukavice,565873,204500
+2020-05-14,Ústecký kraj,Rychlotesty,26621,8000
+2020-05-14,Ústecký kraj,Tampóny,0,0
+2020-05-14,Ústecký kraj,Teploměry,33,30
+2020-05-14,Ústecký kraj,Termokamery,20,20
+2020-05-14,Ústecký kraj,Štíty,3109,1504
