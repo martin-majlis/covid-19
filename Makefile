@@ -41,6 +41,8 @@ download-onemocneni-aktualne.mzcr.cz_covid-19:
 	$(call download,$(API_MZCR)osoby.json,$(DIR_MZCR)osoby.json)
 	$(call download,$(API_MZCR)pomucky.csv,$(DIR_MZCR)pomucky.csv)
 	$(call download,$(API_MZCR)pomucky.json,$(DIR_MZCR)pomucky.json)
+	$(call download,$(API_MZCR)nakazeni-vyleceni-umrti-testy.csv,$(DIR_MZCR)nakazeni-vyleceni-umrti-testy.csv)
+	$(call download,$(API_MZCR)nakazeni-vyleceni-umrti-testy.json,$(DIR_MZCR)nakazeni-vyleceni-umrti-testy.json)
 	$(call download,https://onemocneni-aktualne.mzcr.cz/covid-19,$(DIR_MZCR)covid-19.html)
 
 sort: sort-onemocneni-aktualne.mzcr.cz_covid-19
