@@ -69,11 +69,15 @@ download-onemocneni-aktualne.mzcr.cz_covid-19-v2:
 	$(call download,$(API_MZCR_V2)pomucky.csv,$(DIR_MZCR_V2)pomucky.csv)
 	$(call download,$(API_MZCR_V2)pomucky.json,$(DIR_MZCR_V2)pomucky.json)
 
-sort: sort-onemocneni-aktualne.mzcr.cz_covid-19
+sort: sort-onemocneni-aktualne.mzcr.cz_covid-19-v1 sort-onemocneni-aktualne.mzcr.cz_covid-19-v2
 
-sort-onemocneni-aktualne.mzcr.cz_covid-19:
+sort-onemocneni-aktualne.mzcr.cz_covid-19-v1:
 	head -n1 $(DIR_MZCR_V1)osoby.csv > $(DIR_MZCR_V1)osoby-sorted.csv
 	tail -n +2 $(DIR_MZCR_V1)osoby.csv | sort >> $(DIR_MZCR_V1)osoby-sorted.csv
+
+sort-onemocneni-aktualne.mzcr.cz_covid-19-v2:
+	head -n1 $(DIR_MZCR_V2)osoby.csv > $(DIR_MZCR_V2)osoby-sorted.csv
+	tail -n +2 $(DIR_MZCR_V2)osoby.csv | sort >> $(DIR_MZCR_V2)osoby-sorted.csv
 
 download-CSSEGI:
 	$(call download,$(API_CSSEGI)time_series_covid19_confirmed_global.csv,$(DIR_CSSEGI)time_series_covid19_confirmed_global.csv)
