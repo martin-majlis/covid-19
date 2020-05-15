@@ -1,0 +1,551 @@
+{
+    "modified": "2020-05-15T17:49:18+02:00",
+    "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
+    "data": [
+        {
+            "datum": "2020-01-27",
+            "prirustkovy_pocet_testu": 20,
+            "kumulativni_pocet_testu": 20
+        },
+        {
+            "datum": "2020-01-28",
+            "prirustkovy_pocet_testu": 8,
+            "kumulativni_pocet_testu": 28
+        },
+        {
+            "datum": "2020-01-29",
+            "prirustkovy_pocet_testu": 5,
+            "kumulativni_pocet_testu": 33
+        },
+        {
+            "datum": "2020-01-30",
+            "prirustkovy_pocet_testu": 1,
+            "kumulativni_pocet_testu": 34
+        },
+        {
+            "datum": "2020-01-31",
+            "prirustkovy_pocet_testu": 3,
+            "kumulativni_pocet_testu": 37
+        },
+        {
+            "datum": "2020-02-01",
+            "prirustkovy_pocet_testu": 1,
+            "kumulativni_pocet_testu": 38
+        },
+        {
+            "datum": "2020-02-02",
+            "prirustkovy_pocet_testu": 5,
+            "kumulativni_pocet_testu": 43
+        },
+        {
+            "datum": "2020-02-03",
+            "prirustkovy_pocet_testu": 5,
+            "kumulativni_pocet_testu": 48
+        },
+        {
+            "datum": "2020-02-04",
+            "prirustkovy_pocet_testu": 5,
+            "kumulativni_pocet_testu": 53
+        },
+        {
+            "datum": "2020-02-05",
+            "prirustkovy_pocet_testu": 0,
+            "kumulativni_pocet_testu": 53
+        },
+        {
+            "datum": "2020-02-06",
+            "prirustkovy_pocet_testu": 3,
+            "kumulativni_pocet_testu": 56
+        },
+        {
+            "datum": "2020-02-07",
+            "prirustkovy_pocet_testu": 6,
+            "kumulativni_pocet_testu": 62
+        },
+        {
+            "datum": "2020-02-08",
+            "prirustkovy_pocet_testu": 0,
+            "kumulativni_pocet_testu": 62
+        },
+        {
+            "datum": "2020-02-09",
+            "prirustkovy_pocet_testu": 2,
+            "kumulativni_pocet_testu": 64
+        },
+        {
+            "datum": "2020-02-10",
+            "prirustkovy_pocet_testu": 8,
+            "kumulativni_pocet_testu": 72
+        },
+        {
+            "datum": "2020-02-11",
+            "prirustkovy_pocet_testu": 2,
+            "kumulativni_pocet_testu": 74
+        },
+        {
+            "datum": "2020-02-12",
+            "prirustkovy_pocet_testu": 1,
+            "kumulativni_pocet_testu": 75
+        },
+        {
+            "datum": "2020-02-13",
+            "prirustkovy_pocet_testu": 1,
+            "kumulativni_pocet_testu": 76
+        },
+        {
+            "datum": "2020-02-14",
+            "prirustkovy_pocet_testu": 0,
+            "kumulativni_pocet_testu": 76
+        },
+        {
+            "datum": "2020-02-15",
+            "prirustkovy_pocet_testu": 1,
+            "kumulativni_pocet_testu": 77
+        },
+        {
+            "datum": "2020-02-16",
+            "prirustkovy_pocet_testu": 1,
+            "kumulativni_pocet_testu": 78
+        },
+        {
+            "datum": "2020-02-17",
+            "prirustkovy_pocet_testu": 2,
+            "kumulativni_pocet_testu": 80
+        },
+        {
+            "datum": "2020-02-18",
+            "prirustkovy_pocet_testu": 0,
+            "kumulativni_pocet_testu": 80
+        },
+        {
+            "datum": "2020-02-19",
+            "prirustkovy_pocet_testu": 2,
+            "kumulativni_pocet_testu": 82
+        },
+        {
+            "datum": "2020-02-20",
+            "prirustkovy_pocet_testu": 0,
+            "kumulativni_pocet_testu": 82
+        },
+        {
+            "datum": "2020-02-21",
+            "prirustkovy_pocet_testu": 0,
+            "kumulativni_pocet_testu": 82
+        },
+        {
+            "datum": "2020-02-22",
+            "prirustkovy_pocet_testu": 1,
+            "kumulativni_pocet_testu": 83
+        },
+        {
+            "datum": "2020-02-23",
+            "prirustkovy_pocet_testu": 3,
+            "kumulativni_pocet_testu": 86
+        },
+        {
+            "datum": "2020-02-24",
+            "prirustkovy_pocet_testu": 12,
+            "kumulativni_pocet_testu": 98
+        },
+        {
+            "datum": "2020-02-25",
+            "prirustkovy_pocet_testu": 14,
+            "kumulativni_pocet_testu": 112
+        },
+        {
+            "datum": "2020-02-26",
+            "prirustkovy_pocet_testu": 23,
+            "kumulativni_pocet_testu": 135
+        },
+        {
+            "datum": "2020-02-27",
+            "prirustkovy_pocet_testu": 35,
+            "kumulativni_pocet_testu": 170
+        },
+        {
+            "datum": "2020-02-28",
+            "prirustkovy_pocet_testu": 23,
+            "kumulativni_pocet_testu": 193
+        },
+        {
+            "datum": "2020-02-29",
+            "prirustkovy_pocet_testu": 7,
+            "kumulativni_pocet_testu": 200
+        },
+        {
+            "datum": "2020-03-01",
+            "prirustkovy_pocet_testu": 11,
+            "kumulativni_pocet_testu": 211
+        },
+        {
+            "datum": "2020-03-02",
+            "prirustkovy_pocet_testu": 51,
+            "kumulativni_pocet_testu": 262
+        },
+        {
+            "datum": "2020-03-03",
+            "prirustkovy_pocet_testu": 78,
+            "kumulativni_pocet_testu": 340
+        },
+        {
+            "datum": "2020-03-04",
+            "prirustkovy_pocet_testu": 67,
+            "kumulativni_pocet_testu": 407
+        },
+        {
+            "datum": "2020-03-05",
+            "prirustkovy_pocet_testu": 76,
+            "kumulativni_pocet_testu": 483
+        },
+        {
+            "datum": "2020-03-06",
+            "prirustkovy_pocet_testu": 111,
+            "kumulativni_pocet_testu": 594
+        },
+        {
+            "datum": "2020-03-07",
+            "prirustkovy_pocet_testu": 193,
+            "kumulativni_pocet_testu": 787
+        },
+        {
+            "datum": "2020-03-08",
+            "prirustkovy_pocet_testu": 141,
+            "kumulativni_pocet_testu": 928
+        },
+        {
+            "datum": "2020-03-09",
+            "prirustkovy_pocet_testu": 265,
+            "kumulativni_pocet_testu": 1193
+        },
+        {
+            "datum": "2020-03-10",
+            "prirustkovy_pocet_testu": 165,
+            "kumulativni_pocet_testu": 1358
+        },
+        {
+            "datum": "2020-03-11",
+            "prirustkovy_pocet_testu": 458,
+            "kumulativni_pocet_testu": 1816
+        },
+        {
+            "datum": "2020-03-12",
+            "prirustkovy_pocet_testu": 537,
+            "kumulativni_pocet_testu": 2353
+        },
+        {
+            "datum": "2020-03-13",
+            "prirustkovy_pocet_testu": 845,
+            "kumulativni_pocet_testu": 3198
+        },
+        {
+            "datum": "2020-03-14",
+            "prirustkovy_pocet_testu": 986,
+            "kumulativni_pocet_testu": 4184
+        },
+        {
+            "datum": "2020-03-15",
+            "prirustkovy_pocet_testu": 1028,
+            "kumulativni_pocet_testu": 5212
+        },
+        {
+            "datum": "2020-03-16",
+            "prirustkovy_pocet_testu": 1319,
+            "kumulativni_pocet_testu": 6531
+        },
+        {
+            "datum": "2020-03-17",
+            "prirustkovy_pocet_testu": 1294,
+            "kumulativni_pocet_testu": 7825
+        },
+        {
+            "datum": "2020-03-18",
+            "prirustkovy_pocet_testu": 1756,
+            "kumulativni_pocet_testu": 9581
+        },
+        {
+            "datum": "2020-03-19",
+            "prirustkovy_pocet_testu": 2259,
+            "kumulativni_pocet_testu": 11840
+        },
+        {
+            "datum": "2020-03-20",
+            "prirustkovy_pocet_testu": 2121,
+            "kumulativni_pocet_testu": 13961
+        },
+        {
+            "datum": "2020-03-21",
+            "prirustkovy_pocet_testu": 1882,
+            "kumulativni_pocet_testu": 15843
+        },
+        {
+            "datum": "2020-03-22",
+            "prirustkovy_pocet_testu": 1801,
+            "kumulativni_pocet_testu": 17644
+        },
+        {
+            "datum": "2020-03-23",
+            "prirustkovy_pocet_testu": 2291,
+            "kumulativni_pocet_testu": 19935
+        },
+        {
+            "datum": "2020-03-24",
+            "prirustkovy_pocet_testu": 3062,
+            "kumulativni_pocet_testu": 22997
+        },
+        {
+            "datum": "2020-03-25",
+            "prirustkovy_pocet_testu": 4107,
+            "kumulativni_pocet_testu": 27104
+        },
+        {
+            "datum": "2020-03-26",
+            "prirustkovy_pocet_testu": 4633,
+            "kumulativni_pocet_testu": 31737
+        },
+        {
+            "datum": "2020-03-27",
+            "prirustkovy_pocet_testu": 5359,
+            "kumulativni_pocet_testu": 37096
+        },
+        {
+            "datum": "2020-03-28",
+            "prirustkovy_pocet_testu": 4224,
+            "kumulativni_pocet_testu": 41320
+        },
+        {
+            "datum": "2020-03-29",
+            "prirustkovy_pocet_testu": 2848,
+            "kumulativni_pocet_testu": 44168
+        },
+        {
+            "datum": "2020-03-30",
+            "prirustkovy_pocet_testu": 5159,
+            "kumulativni_pocet_testu": 49327
+        },
+        {
+            "datum": "2020-03-31",
+            "prirustkovy_pocet_testu": 6661,
+            "kumulativni_pocet_testu": 55988
+        },
+        {
+            "datum": "2020-04-01",
+            "prirustkovy_pocet_testu": 6102,
+            "kumulativni_pocet_testu": 62090
+        },
+        {
+            "datum": "2020-04-02",
+            "prirustkovy_pocet_testu": 6673,
+            "kumulativni_pocet_testu": 68763
+        },
+        {
+            "datum": "2020-04-03",
+            "prirustkovy_pocet_testu": 7398,
+            "kumulativni_pocet_testu": 76161
+        },
+        {
+            "datum": "2020-04-04",
+            "prirustkovy_pocet_testu": 5837,
+            "kumulativni_pocet_testu": 81998
+        },
+        {
+            "datum": "2020-04-05",
+            "prirustkovy_pocet_testu": 4812,
+            "kumulativni_pocet_testu": 86810
+        },
+        {
+            "datum": "2020-04-06",
+            "prirustkovy_pocet_testu": 6435,
+            "kumulativni_pocet_testu": 93245
+        },
+        {
+            "datum": "2020-04-07",
+            "prirustkovy_pocet_testu": 8173,
+            "kumulativni_pocet_testu": 101418
+        },
+        {
+            "datum": "2020-04-08",
+            "prirustkovy_pocet_testu": 8469,
+            "kumulativni_pocet_testu": 109887
+        },
+        {
+            "datum": "2020-04-09",
+            "prirustkovy_pocet_testu": 8180,
+            "kumulativni_pocet_testu": 118067
+        },
+        {
+            "datum": "2020-04-10",
+            "prirustkovy_pocet_testu": 5702,
+            "kumulativni_pocet_testu": 123769
+        },
+        {
+            "datum": "2020-04-11",
+            "prirustkovy_pocet_testu": 4891,
+            "kumulativni_pocet_testu": 128660
+        },
+        {
+            "datum": "2020-04-12",
+            "prirustkovy_pocet_testu": 3250,
+            "kumulativni_pocet_testu": 131910
+        },
+        {
+            "datum": "2020-04-13",
+            "prirustkovy_pocet_testu": 3215,
+            "kumulativni_pocet_testu": 135125
+        },
+        {
+            "datum": "2020-04-14",
+            "prirustkovy_pocet_testu": 6173,
+            "kumulativni_pocet_testu": 141298
+        },
+        {
+            "datum": "2020-04-15",
+            "prirustkovy_pocet_testu": 8476,
+            "kumulativni_pocet_testu": 149774
+        },
+        {
+            "datum": "2020-04-16",
+            "prirustkovy_pocet_testu": 8381,
+            "kumulativni_pocet_testu": 158155
+        },
+        {
+            "datum": "2020-04-17",
+            "prirustkovy_pocet_testu": 8288,
+            "kumulativni_pocet_testu": 166443
+        },
+        {
+            "datum": "2020-04-18",
+            "prirustkovy_pocet_testu": 5605,
+            "kumulativni_pocet_testu": 172048
+        },
+        {
+            "datum": "2020-04-19",
+            "prirustkovy_pocet_testu": 4027,
+            "kumulativni_pocet_testu": 176075
+        },
+        {
+            "datum": "2020-04-20",
+            "prirustkovy_pocet_testu": 6567,
+            "kumulativni_pocet_testu": 182642
+        },
+        {
+            "datum": "2020-04-21",
+            "prirustkovy_pocet_testu": 8341,
+            "kumulativni_pocet_testu": 190983
+        },
+        {
+            "datum": "2020-04-22",
+            "prirustkovy_pocet_testu": 8818,
+            "kumulativni_pocet_testu": 199801
+        },
+        {
+            "datum": "2020-04-23",
+            "prirustkovy_pocet_testu": 7901,
+            "kumulativni_pocet_testu": 207702
+        },
+        {
+            "datum": "2020-04-24",
+            "prirustkovy_pocet_testu": 7129,
+            "kumulativni_pocet_testu": 214831
+        },
+        {
+            "datum": "2020-04-25",
+            "prirustkovy_pocet_testu": 4446,
+            "kumulativni_pocet_testu": 219277
+        },
+        {
+            "datum": "2020-04-26",
+            "prirustkovy_pocet_testu": 3381,
+            "kumulativni_pocet_testu": 222658
+        },
+        {
+            "datum": "2020-04-27",
+            "prirustkovy_pocet_testu": 7754,
+            "kumulativni_pocet_testu": 230412
+        },
+        {
+            "datum": "2020-04-28",
+            "prirustkovy_pocet_testu": 8741,
+            "kumulativni_pocet_testu": 239153
+        },
+        {
+            "datum": "2020-04-29",
+            "prirustkovy_pocet_testu": 7322,
+            "kumulativni_pocet_testu": 246475
+        },
+        {
+            "datum": "2020-04-30",
+            "prirustkovy_pocet_testu": 7396,
+            "kumulativni_pocet_testu": 253871
+        },
+        {
+            "datum": "2020-05-01",
+            "prirustkovy_pocet_testu": 4413,
+            "kumulativni_pocet_testu": 258284
+        },
+        {
+            "datum": "2020-05-02",
+            "prirustkovy_pocet_testu": 3880,
+            "kumulativni_pocet_testu": 262164
+        },
+        {
+            "datum": "2020-05-03",
+            "prirustkovy_pocet_testu": 3881,
+            "kumulativni_pocet_testu": 266045
+        },
+        {
+            "datum": "2020-05-04",
+            "prirustkovy_pocet_testu": 7627,
+            "kumulativni_pocet_testu": 273672
+        },
+        {
+            "datum": "2020-05-05",
+            "prirustkovy_pocet_testu": 9447,
+            "kumulativni_pocet_testu": 283119
+        },
+        {
+            "datum": "2020-05-06",
+            "prirustkovy_pocet_testu": 8083,
+            "kumulativni_pocet_testu": 291202
+        },
+        {
+            "datum": "2020-05-07",
+            "prirustkovy_pocet_testu": 7582,
+            "kumulativni_pocet_testu": 298784
+        },
+        {
+            "datum": "2020-05-08",
+            "prirustkovy_pocet_testu": 4557,
+            "kumulativni_pocet_testu": 303341
+        },
+        {
+            "datum": "2020-05-09",
+            "prirustkovy_pocet_testu": 3782,
+            "kumulativni_pocet_testu": 307123
+        },
+        {
+            "datum": "2020-05-10",
+            "prirustkovy_pocet_testu": 4051,
+            "kumulativni_pocet_testu": 311174
+        },
+        {
+            "datum": "2020-05-11",
+            "prirustkovy_pocet_testu": 7805,
+            "kumulativni_pocet_testu": 318979
+        },
+        {
+            "datum": "2020-05-12",
+            "prirustkovy_pocet_testu": 8709,
+            "kumulativni_pocet_testu": 327688
+        },
+        {
+            "datum": "2020-05-13",
+            "prirustkovy_pocet_testu": 7680,
+            "kumulativni_pocet_testu": 335368
+        },
+        {
+            "datum": "2020-05-14",
+            "prirustkovy_pocet_testu": 6763,
+            "kumulativni_pocet_testu": 342131
+        }
+    ]
+}
