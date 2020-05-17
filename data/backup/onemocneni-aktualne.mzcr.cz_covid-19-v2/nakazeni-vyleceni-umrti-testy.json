@@ -1,5 +1,5 @@
 {
-    "modified": "2020-05-16T17:30:32+02:00",
+    "modified": "2020-05-17T00:30:32+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -770,6 +770,13 @@
             "kumulativni_pocet_nakazenych": 8406,
             "kumulativni_pocet_vylecenych": 5422,
             "kumulativni_pocet_umrti": 295,
+            "kumulativni_pocet_testu": 348849
+        },
+        {
+            "datum": "2020-05-16",
+            "kumulativni_pocet_nakazenych": 8455,
+            "kumulativni_pocet_vylecenych": 5422,
+            "kumulativni_pocet_umrti": 296,
             "kumulativni_pocet_testu": 348849
         }
     ]
