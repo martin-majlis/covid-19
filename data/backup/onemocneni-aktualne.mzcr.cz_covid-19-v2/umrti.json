@@ -1,5 +1,5 @@
 {
-    "modified": "2020-05-17T00:30:21+02:00",
+    "modified": "2020-05-17T09:00:21+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -1656,10 +1656,10 @@
         },
         {
             "datum": "2020-04-30",
-            "vek": 81,
+            "vek": 82,
             "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0806"
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100"
         },
         {
             "datum": "2020-04-30",
@@ -1677,10 +1677,24 @@
         },
         {
             "datum": "2020-04-30",
+            "vek": 81,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0806"
+        },
+        {
+            "datum": "2020-04-30",
             "vek": 79,
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ0202"
+        },
+        {
+            "datum": "2020-04-30",
+            "vek": 63,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0805"
         },
         {
             "datum": "2020-04-30",
@@ -1697,18 +1711,11 @@
             "okres_lau_kod": "CZ0524"
         },
         {
-            "datum": "2020-04-30",
-            "vek": 82,
+            "datum": "2020-05-01",
+            "vek": 74,
             "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100"
-        },
-        {
-            "datum": "2020-04-30",
-            "vek": 63,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0805"
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0425"
         },
         {
             "datum": "2020-05-01",
@@ -1719,13 +1726,6 @@
         },
         {
             "datum": "2020-05-01",
-            "vek": 83,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0411"
-        },
-        {
-            "datum": "2020-05-01",
             "vek": 80,
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ071",
@@ -1733,10 +1733,17 @@
         },
         {
             "datum": "2020-05-01",
-            "vek": 74,
+            "vek": 83,
             "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0425"
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0411"
+        },
+        {
+            "datum": "2020-05-01",
+            "vek": 61,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0802"
         },
         {
             "datum": "2020-05-01",
@@ -1751,13 +1758,6 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ032",
             "okres_lau_kod": "CZ0324"
-        },
-        {
-            "datum": "2020-05-01",
-            "vek": 61,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0802"
         },
         {
             "datum": "2020-05-02",
@@ -1775,10 +1775,10 @@
         },
         {
             "datum": "2020-05-03",
-            "vek": 92,
+            "vek": 74,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100"
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0411"
         },
         {
             "datum": "2020-05-03",
@@ -1789,10 +1789,10 @@
         },
         {
             "datum": "2020-05-03",
-            "vek": 74,
+            "vek": 92,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0411"
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100"
         },
         {
             "datum": "2020-05-04",
@@ -1800,13 +1800,6 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ042",
             "okres_lau_kod": "CZ0424"
-        },
-        {
-            "datum": "2020-05-04",
-            "vek": 92,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100"
         },
         {
             "datum": "2020-05-04",
@@ -1824,17 +1817,17 @@
         },
         {
             "datum": "2020-05-04",
+            "vek": 92,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100"
+        },
+        {
+            "datum": "2020-05-04",
             "vek": 66,
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ032",
             "okres_lau_kod": "CZ0321"
-        },
-        {
-            "datum": "2020-05-05",
-            "vek": 65,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ032",
-            "okres_lau_kod": "CZ0323"
         },
         {
             "datum": "2020-05-05",
@@ -1844,18 +1837,18 @@
             "okres_lau_kod": "CZ0806"
         },
         {
+            "datum": "2020-05-05",
+            "vek": 65,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ032",
+            "okres_lau_kod": "CZ0323"
+        },
+        {
             "datum": "2020-05-06",
             "vek": 83,
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ041",
             "okres_lau_kod": "CZ0411"
-        },
-        {
-            "datum": "2020-05-06",
-            "vek": 89,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0806"
         },
         {
             "datum": "2020-05-06",
@@ -1872,25 +1865,11 @@
             "okres_lau_kod": "CZ0804"
         },
         {
-            "datum": "2020-05-07",
-            "vek": 71,
-            "pohlavi": "Z",
+            "datum": "2020-05-06",
+            "vek": 89,
+            "pohlavi": "M",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0806"
-        },
-        {
-            "datum": "2020-05-07",
-            "vek": 69,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0411"
-        },
-        {
-            "datum": "2020-05-07",
-            "vek": 90,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0804"
         },
         {
             "datum": "2020-05-07",
@@ -1901,17 +1880,31 @@
         },
         {
             "datum": "2020-05-07",
+            "vek": 69,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0411"
+        },
+        {
+            "datum": "2020-05-07",
             "vek": 66,
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ063",
             "okres_lau_kod": "CZ0634"
         },
         {
-            "datum": "2020-05-08",
-            "vek": 70,
-            "pohlavi": "M",
+            "datum": "2020-05-07",
+            "vek": 90,
+            "pohlavi": "Z",
             "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0802"
+            "okres_lau_kod": "CZ0804"
+        },
+        {
+            "datum": "2020-05-07",
+            "vek": 71,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0806"
         },
         {
             "datum": "2020-05-08",
@@ -1929,17 +1922,17 @@
         },
         {
             "datum": "2020-05-08",
+            "vek": 70,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0802"
+        },
+        {
+            "datum": "2020-05-08",
             "vek": 85,
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ020A"
-        },
-        {
-            "datum": "2020-05-09",
-            "vek": 96,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100"
         },
         {
             "datum": "2020-05-09",
@@ -1963,6 +1956,20 @@
             "okres_lau_kod": "CZ0411"
         },
         {
+            "datum": "2020-05-09",
+            "vek": 96,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100"
+        },
+        {
+            "datum": "2020-05-10",
+            "vek": 73,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0806"
+        },
+        {
             "datum": "2020-05-10",
             "vek": 77,
             "pohlavi": "Z",
@@ -1977,11 +1984,11 @@
             "okres_lau_kod": "CZ0100"
         },
         {
-            "datum": "2020-05-10",
-            "vek": 73,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0806"
+            "datum": "2020-05-11",
+            "vek": 79,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ071",
+            "okres_lau_kod": "CZ0712"
         },
         {
             "datum": "2020-05-11",
@@ -1991,15 +1998,8 @@
             "okres_lau_kod": "CZ0323"
         },
         {
-            "datum": "2020-05-11",
-            "vek": 79,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ071",
-            "okres_lau_kod": "CZ0712"
-        },
-        {
             "datum": "2020-05-12",
-            "vek": 87,
+            "vek": 77,
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ041",
             "okres_lau_kod": "CZ0411"
@@ -2013,17 +2013,10 @@
         },
         {
             "datum": "2020-05-12",
-            "vek": 77,
+            "vek": 87,
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ041",
             "okres_lau_kod": "CZ0411"
-        },
-        {
-            "datum": "2020-05-13",
-            "vek": 65,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ032",
-            "okres_lau_kod": "CZ0324"
         },
         {
             "datum": "2020-05-13",
@@ -2031,6 +2024,13 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ032",
             "okres_lau_kod": "CZ0327"
+        },
+        {
+            "datum": "2020-05-13",
+            "vek": 65,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ032",
+            "okres_lau_kod": "CZ0324"
         },
         {
             "datum": "2020-05-13",
@@ -2073,6 +2073,13 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100"
+        },
+        {
+            "datum": "2020-05-17",
+            "vek": 82,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ032",
+            "okres_lau_kod": "CZ0324"
         }
     ]
 }
