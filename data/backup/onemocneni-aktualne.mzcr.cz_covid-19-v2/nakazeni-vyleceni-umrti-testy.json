@@ -1,5 +1,5 @@
 {
-    "modified": "2020-05-21T17:30:38+02:00",
+    "modified": "2020-05-22T00:30:38+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -663,147 +663,154 @@
         {
             "datum": "2020-04-30",
             "kumulativni_pocet_nakazenych": 7682,
-            "kumulativni_pocet_vylecenych": 4303,
+            "kumulativni_pocet_vylecenych": 4306,
             "kumulativni_pocet_umrti": 244,
             "kumulativni_pocet_testu": 253871
         },
         {
             "datum": "2020-05-01",
             "kumulativni_pocet_nakazenych": 7737,
-            "kumulativni_pocet_vylecenych": 4402,
+            "kumulativni_pocet_vylecenych": 4405,
             "kumulativni_pocet_umrti": 250,
             "kumulativni_pocet_testu": 258284
         },
         {
             "datum": "2020-05-02",
             "kumulativni_pocet_nakazenych": 7755,
-            "kumulativni_pocet_vylecenych": 4492,
+            "kumulativni_pocet_vylecenych": 4495,
             "kumulativni_pocet_umrti": 252,
             "kumulativni_pocet_testu": 262164
         },
         {
             "datum": "2020-05-03",
             "kumulativni_pocet_nakazenych": 7781,
-            "kumulativni_pocet_vylecenych": 4545,
+            "kumulativni_pocet_vylecenych": 4548,
             "kumulativni_pocet_umrti": 255,
             "kumulativni_pocet_testu": 266045
         },
         {
             "datum": "2020-05-04",
             "kumulativni_pocet_nakazenych": 7819,
-            "kumulativni_pocet_vylecenych": 4679,
+            "kumulativni_pocet_vylecenych": 4682,
             "kumulativni_pocet_umrti": 260,
             "kumulativni_pocet_testu": 273672
         },
         {
             "datum": "2020-05-05",
             "kumulativni_pocet_nakazenych": 7896,
-            "kumulativni_pocet_vylecenych": 4822,
+            "kumulativni_pocet_vylecenych": 4825,
             "kumulativni_pocet_umrti": 262,
             "kumulativni_pocet_testu": 283119
         },
         {
             "datum": "2020-05-06",
             "kumulativni_pocet_nakazenych": 7974,
-            "kumulativni_pocet_vylecenych": 4976,
+            "kumulativni_pocet_vylecenych": 4979,
             "kumulativni_pocet_umrti": 266,
             "kumulativni_pocet_testu": 291202
         },
         {
             "datum": "2020-05-07",
             "kumulativni_pocet_nakazenych": 8031,
-            "kumulativni_pocet_vylecenych": 5113,
+            "kumulativni_pocet_vylecenych": 5116,
             "kumulativni_pocet_umrti": 271,
             "kumulativni_pocet_testu": 298784
         },
         {
             "datum": "2020-05-08",
             "kumulativni_pocet_nakazenych": 8077,
-            "kumulativni_pocet_vylecenych": 5166,
+            "kumulativni_pocet_vylecenych": 5169,
             "kumulativni_pocet_umrti": 275,
             "kumulativni_pocet_testu": 303341
         },
         {
             "datum": "2020-05-09",
             "kumulativni_pocet_nakazenych": 8095,
-            "kumulativni_pocet_vylecenych": 5230,
+            "kumulativni_pocet_vylecenych": 5233,
             "kumulativni_pocet_umrti": 279,
             "kumulativni_pocet_testu": 307123
         },
         {
             "datum": "2020-05-10",
             "kumulativni_pocet_nakazenych": 8123,
-            "kumulativni_pocet_vylecenych": 5271,
+            "kumulativni_pocet_vylecenych": 5274,
             "kumulativni_pocet_umrti": 282,
             "kumulativni_pocet_testu": 311174
         },
         {
             "datum": "2020-05-11",
             "kumulativni_pocet_nakazenych": 8176,
-            "kumulativni_pocet_vylecenych": 5384,
+            "kumulativni_pocet_vylecenych": 5387,
             "kumulativni_pocet_umrti": 284,
             "kumulativni_pocet_testu": 318979
         },
         {
             "datum": "2020-05-12",
             "kumulativni_pocet_nakazenych": 8221,
-            "kumulativni_pocet_vylecenych": 5463,
+            "kumulativni_pocet_vylecenych": 5466,
             "kumulativni_pocet_umrti": 287,
             "kumulativni_pocet_testu": 327688
         },
         {
             "datum": "2020-05-13",
             "kumulativni_pocet_nakazenych": 8269,
-            "kumulativni_pocet_vylecenych": 5579,
+            "kumulativni_pocet_vylecenych": 5582,
             "kumulativni_pocet_umrti": 290,
             "kumulativni_pocet_testu": 335375
         },
         {
             "datum": "2020-05-14",
             "kumulativni_pocet_nakazenych": 8351,
-            "kumulativni_pocet_vylecenych": 5660,
+            "kumulativni_pocet_vylecenych": 5663,
             "kumulativni_pocet_umrti": 293,
             "kumulativni_pocet_testu": 342262
         },
         {
             "datum": "2020-05-15",
             "kumulativni_pocet_nakazenych": 8406,
-            "kumulativni_pocet_vylecenych": 5723,
+            "kumulativni_pocet_vylecenych": 5726,
             "kumulativni_pocet_umrti": 295,
             "kumulativni_pocet_testu": 348965
         },
         {
             "datum": "2020-05-16",
             "kumulativni_pocet_nakazenych": 8455,
-            "kumulativni_pocet_vylecenych": 5756,
+            "kumulativni_pocet_vylecenych": 5759,
             "kumulativni_pocet_umrti": 296,
             "kumulativni_pocet_testu": 353223
         },
         {
             "datum": "2020-05-17",
             "kumulativni_pocet_nakazenych": 8475,
-            "kumulativni_pocet_vylecenych": 5801,
+            "kumulativni_pocet_vylecenych": 5804,
             "kumulativni_pocet_umrti": 298,
             "kumulativni_pocet_testu": 356717
         },
         {
             "datum": "2020-05-18",
             "kumulativni_pocet_nakazenych": 8586,
-            "kumulativni_pocet_vylecenych": 5857,
+            "kumulativni_pocet_vylecenych": 5860,
             "kumulativni_pocet_umrti": 301,
             "kumulativni_pocet_testu": 364126
         },
         {
             "datum": "2020-05-19",
             "kumulativni_pocet_nakazenych": 8647,
-            "kumulativni_pocet_vylecenych": 5888,
+            "kumulativni_pocet_vylecenych": 5891,
             "kumulativni_pocet_umrti": 303,
             "kumulativni_pocet_testu": 372392
         },
         {
             "datum": "2020-05-20",
             "kumulativni_pocet_nakazenych": 8721,
-            "kumulativni_pocet_vylecenych": 5922,
+            "kumulativni_pocet_vylecenych": 5925,
+            "kumulativni_pocet_umrti": 306,
+            "kumulativni_pocet_testu": 379750
+        },
+        {
+            "datum": "2020-05-21",
+            "kumulativni_pocet_nakazenych": 8754,
+            "kumulativni_pocet_vylecenych": 5926,
             "kumulativni_pocet_umrti": 306,
             "kumulativni_pocet_testu": 379750
         }
