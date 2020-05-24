@@ -1,5 +1,5 @@
 {
-    "modified": "2020-05-23T17:30:39+02:00",
+    "modified": "2020-05-24T00:30:36+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -817,7 +817,14 @@
         {
             "datum": "2020-05-22",
             "kumulovany_pocet_nakazenych": 8813,
-            "kumulovany_pocet_vylecenych": 6038,
+            "kumulovany_pocet_vylecenych": 6042,
+            "kumulovany_pocet_umrti": 314,
+            "kumulovany_pocet_provedenych_testu": 394499
+        },
+        {
+            "datum": "2020-05-23",
+            "kumulovany_pocet_nakazenych": 8890,
+            "kumulovany_pocet_vylecenych": 6044,
             "kumulovany_pocet_umrti": 314,
             "kumulovany_pocet_provedenych_testu": 394499
         }
