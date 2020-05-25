@@ -16,12 +16,12 @@ Brýle,CZ080,5943
 "Dezinfekce (l)",CZ010,16675
 "Dezinfekce (l)",CZ020,1525
 "Dezinfekce (l)",CZ031,1590
-"Dezinfekce (l)",CZ032,8965
-"Dezinfekce (l)",CZ041,1350
-"Dezinfekce (l)",CZ042,2915
-"Dezinfekce (l)",CZ051,1200
-"Dezinfekce (l)",CZ052,2645
-"Dezinfekce (l)",CZ053,1125
+"Dezinfekce (l)",CZ032,8970
+"Dezinfekce (l)",CZ041,1355
+"Dezinfekce (l)",CZ042,2920
+"Dezinfekce (l)",CZ051,1205
+"Dezinfekce (l)",CZ052,2650
+"Dezinfekce (l)",CZ053,1130
 "Dezinfekce (l)",CZ063,2060
 "Dezinfekce (l)",CZ064,9625
 "Dezinfekce (l)",CZ071,3730
@@ -30,12 +30,12 @@ Brýle,CZ080,5943
 Roušky,CZ010,7171742
 Roušky,CZ020,1628466
 Roušky,CZ031,1292473
-Roušky,CZ032,1988261
-Roušky,CZ041,539855
-Roušky,CZ042,1263466
-Roušky,CZ051,725900
-Roušky,CZ052,1297835
-Roušky,CZ053,881819
+Roušky,CZ032,2490061
+Roušky,CZ041,540855
+Roušky,CZ042,1264016
+Roušky,CZ051,736900
+Roušky,CZ052,1399835
+Roušky,CZ053,885219
 Roušky,CZ063,1094029
 Roušky,CZ064,2759412
 Roušky,CZ071,1578796
@@ -44,12 +44,12 @@ Roušky,CZ080,2201078
 Respirátory,CZ010,2560145
 Respirátory,CZ020,442685
 Respirátory,CZ031,323284
-Respirátory,CZ032,582347
-Respirátory,CZ041,167432
-Respirátory,CZ042,376646
-Respirátory,CZ051,194180
-Respirátory,CZ052,491125
-Respirátory,CZ053,288810
+Respirátory,CZ032,656447
+Respirátory,CZ041,170862
+Respirátory,CZ042,379416
+Respirátory,CZ051,194690
+Respirátory,CZ052,542535
+Respirátory,CZ053,304830
 Respirátory,CZ063,219167
 Respirátory,CZ064,673349
 Respirátory,CZ071,343564
@@ -58,12 +58,12 @@ Respirátory,CZ080,605101
 "Odběrové sady",CZ010,218061
 "Odběrové sady",CZ020,32820
 "Odběrové sady",CZ031,4650
-"Odběrové sady",CZ032,28900
+"Odběrové sady",CZ032,39250
 "Odběrové sady",CZ041,15300
-"Odběrové sady",CZ042,17098
+"Odběrové sady",CZ042,20448
 "Odběrové sady",CZ051,18100
-"Odběrové sady",CZ052,9300
-"Odběrové sady",CZ053,12100
+"Odběrové sady",CZ052,13300
+"Odběrové sady",CZ053,13450
 "Odběrové sady",CZ063,8650
 "Odběrové sady",CZ064,119400
 "Odběrové sady",CZ071,21600
@@ -72,12 +72,12 @@ Respirátory,CZ080,605101
 Rukavice,CZ010,2244597
 Rukavice,CZ020,650422
 Rukavice,CZ031,458928
-Rukavice,CZ032,848661
-Rukavice,CZ041,152519
-Rukavice,CZ042,582233
-Rukavice,CZ051,254069
-Rukavice,CZ052,634174
-Rukavice,CZ053,301654
+Rukavice,CZ032,1080461
+Rukavice,CZ041,153319
+Rukavice,CZ042,586633
+Rukavice,CZ051,258669
+Rukavice,CZ052,641124
+Rukavice,CZ053,307404
 Rukavice,CZ063,275407
 Rukavice,CZ064,730284
 Rukavice,CZ071,465258
@@ -100,12 +100,12 @@ Rychlotesty,CZ080,67082
 Štíty,CZ010,12264
 Štíty,CZ020,2247
 Štíty,CZ031,2216
-Štíty,CZ032,3562
+Štíty,CZ032,3762
 Štíty,CZ041,2515
 Štíty,CZ042,3469
 Štíty,CZ051,1725
-Štíty,CZ052,1975
-Štíty,CZ053,3690
+Štíty,CZ052,2005
+Štíty,CZ053,3790
 Štíty,CZ063,2495
 Štíty,CZ064,5007
 Štíty,CZ071,3374
@@ -114,12 +114,12 @@ Rychlotesty,CZ080,67082
 "Ochranné oděvy",CZ010,288810
 "Ochranné oděvy",CZ020,14788
 "Ochranné oděvy",CZ031,30649
-"Ochranné oděvy",CZ032,92725
+"Ochranné oděvy",CZ032,94865
 "Ochranné oděvy",CZ041,24819
 "Ochranné oděvy",CZ042,44814
 "Ochranné oděvy",CZ051,15540
-"Ochranné oděvy",CZ052,33389
-"Ochranné oděvy",CZ053,28542
+"Ochranné oděvy",CZ052,33449
+"Ochranné oděvy",CZ053,28543
 "Ochranné oděvy",CZ063,6860
 "Ochranné oděvy",CZ064,107436
 "Ochranné oděvy",CZ071,14885
@@ -128,11 +128,11 @@ Rychlotesty,CZ080,67082
 "Návleky na obuv",CZ010,68230
 "Návleky na obuv",CZ020,150
 "Návleky na obuv",CZ031,510
-"Návleky na obuv",CZ032,43250
-"Návleky na obuv",CZ041,1000
-"Návleky na obuv",CZ042,9720
+"Návleky na obuv",CZ032,48250
+"Návleky na obuv",CZ041,1500
+"Návleky na obuv",CZ042,10220
 "Návleky na obuv",CZ051,2050
-"Návleky na obuv",CZ052,0
+"Návleky na obuv",CZ052,500
 "Návleky na obuv",CZ053,6480
 "Návleky na obuv",CZ063,10300
 "Návleky na obuv",CZ064,10997
@@ -142,11 +142,11 @@ Rychlotesty,CZ080,67082
 Polomasky,CZ010,5990
 Polomasky,CZ020,0
 Polomasky,CZ031,5
-Polomasky,CZ032,579
+Polomasky,CZ032,879
 Polomasky,CZ041,0
 Polomasky,CZ042,0
 Polomasky,CZ051,0
-Polomasky,CZ052,500
+Polomasky,CZ052,800
 Polomasky,CZ053,0
 Polomasky,CZ063,0
 Polomasky,CZ064,2041
@@ -156,11 +156,11 @@ Polomasky,CZ080,964
 "Filtry k polomaskám",CZ010,17800
 "Filtry k polomaskám",CZ020,0
 "Filtry k polomaskám",CZ031,13
-"Filtry k polomaskám",CZ032,1889
+"Filtry k polomaskám",CZ032,2509
 "Filtry k polomaskám",CZ041,0
 "Filtry k polomaskám",CZ042,0
 "Filtry k polomaskám",CZ051,0
-"Filtry k polomaskám",CZ052,1644
+"Filtry k polomaskám",CZ052,2384
 "Filtry k polomaskám",CZ053,0
 "Filtry k polomaskám",CZ063,0
 "Filtry k polomaskám",CZ064,5403
