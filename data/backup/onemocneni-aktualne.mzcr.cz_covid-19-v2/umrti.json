@@ -1,5 +1,5 @@
 {
-    "modified": "2020-05-26T09:00:24+02:00",
+    "modified": "2020-05-26T17:30:24+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -2208,7 +2208,7 @@
             "okres_lau_kod": "CZ0803"
         },
         {
-            "datum": "2020-05-24",
+            "datum": "2020-05-25",
             "vek": 51,
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ080",
