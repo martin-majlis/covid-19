@@ -1,16 +1,16 @@
 {
-    "modified": "2020-05-25T09:01:10+02:00",
+    "modified": "2020-05-27T09:18:15+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
             "pomucka": "Brýle",
             "kraj_nuts_kod": "CZ010",
-            "mnozstvi": 13592
+            "mnozstvi": 14038
         },
         {
             "pomucka": "Brýle",
             "kraj_nuts_kod": "CZ020",
-            "mnozstvi": 2895
+            "mnozstvi": 2925
         },
         {
             "pomucka": "Brýle",
@@ -145,17 +145,17 @@
         {
             "pomucka": "Roušky",
             "kraj_nuts_kod": "CZ010",
-            "mnozstvi": 7171742
+            "mnozstvi": 7976747
         },
         {
             "pomucka": "Roušky",
             "kraj_nuts_kod": "CZ020",
-            "mnozstvi": 1628466
+            "mnozstvi": 1630966
         },
         {
             "pomucka": "Roušky",
             "kraj_nuts_kod": "CZ031",
-            "mnozstvi": 1292473
+            "mnozstvi": 1294473
         },
         {
             "pomucka": "Roušky",
@@ -215,17 +215,17 @@
         {
             "pomucka": "Respirátory",
             "kraj_nuts_kod": "CZ010",
-            "mnozstvi": 2560145
+            "mnozstvi": 2860153
         },
         {
             "pomucka": "Respirátory",
             "kraj_nuts_kod": "CZ020",
-            "mnozstvi": 442685
+            "mnozstvi": 445775
         },
         {
             "pomucka": "Respirátory",
             "kraj_nuts_kod": "CZ031",
-            "mnozstvi": 323284
+            "mnozstvi": 324124
         },
         {
             "pomucka": "Respirátory",
@@ -285,12 +285,12 @@
         {
             "pomucka": "Odběrové sady",
             "kraj_nuts_kod": "CZ010",
-            "mnozstvi": 218061
+            "mnozstvi": 247810
         },
         {
             "pomucka": "Odběrové sady",
             "kraj_nuts_kod": "CZ020",
-            "mnozstvi": 32820
+            "mnozstvi": 33620
         },
         {
             "pomucka": "Odběrové sady",
@@ -355,17 +355,17 @@
         {
             "pomucka": "Rukavice",
             "kraj_nuts_kod": "CZ010",
-            "mnozstvi": 2244597
+            "mnozstvi": 2427004
         },
         {
             "pomucka": "Rukavice",
             "kraj_nuts_kod": "CZ020",
-            "mnozstvi": 650422
+            "mnozstvi": 651522
         },
         {
             "pomucka": "Rukavice",
             "kraj_nuts_kod": "CZ031",
-            "mnozstvi": 458928
+            "mnozstvi": 462028
         },
         {
             "pomucka": "Rukavice",
@@ -425,7 +425,7 @@
         {
             "pomucka": "Rychlotesty",
             "kraj_nuts_kod": "CZ010",
-            "mnozstvi": 132646
+            "mnozstvi": 132747
         },
         {
             "pomucka": "Rychlotesty",
@@ -495,17 +495,17 @@
         {
             "pomucka": "Štíty",
             "kraj_nuts_kod": "CZ010",
-            "mnozstvi": 12264
+            "mnozstvi": 12765
         },
         {
             "pomucka": "Štíty",
             "kraj_nuts_kod": "CZ020",
-            "mnozstvi": 2247
+            "mnozstvi": 2347
         },
         {
             "pomucka": "Štíty",
             "kraj_nuts_kod": "CZ031",
-            "mnozstvi": 2216
+            "mnozstvi": 2316
         },
         {
             "pomucka": "Štíty",
@@ -565,17 +565,17 @@
         {
             "pomucka": "Ochranné oděvy",
             "kraj_nuts_kod": "CZ010",
-            "mnozstvi": 288810
+            "mnozstvi": 390004
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj_nuts_kod": "CZ020",
-            "mnozstvi": 14788
+            "mnozstvi": 16698
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj_nuts_kod": "CZ031",
-            "mnozstvi": 30649
+            "mnozstvi": 30849
         },
         {
             "pomucka": "Ochranné oděvy",
@@ -635,7 +635,7 @@
         {
             "pomucka": "Návleky na obuv",
             "kraj_nuts_kod": "CZ010",
-            "mnozstvi": 68230
+            "mnozstvi": 101930
         },
         {
             "pomucka": "Návleky na obuv",
@@ -705,7 +705,7 @@
         {
             "pomucka": "Polomasky",
             "kraj_nuts_kod": "CZ010",
-            "mnozstvi": 5990
+            "mnozstvi": 6026
         },
         {
             "pomucka": "Polomasky",
@@ -775,7 +775,7 @@
         {
             "pomucka": "Filtry k polomaskám",
             "kraj_nuts_kod": "CZ010",
-            "mnozstvi": 17800
+            "mnozstvi": 18316
         },
         {
             "pomucka": "Filtry k polomaskám",

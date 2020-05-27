@@ -1,16 +1,16 @@
 {
-    "modified": "2020-05-25T09:01:10+02:00",
+    "modified": "2020-05-27T09:18:15+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
             "pomucka": "Brýle",
             "kraj": "Hlavní město Praha",
-            "pocet": 13592
+            "pocet": 14038
         },
         {
             "pomucka": "Brýle",
             "kraj": "Středočeský kraj",
-            "pocet": 2895
+            "pocet": 2925
         },
         {
             "pomucka": "Brýle",
@@ -145,17 +145,17 @@
         {
             "pomucka": "Roušky",
             "kraj": "Hlavní město Praha",
-            "pocet": 7171742
+            "pocet": 7976747
         },
         {
             "pomucka": "Roušky",
             "kraj": "Středočeský kraj",
-            "pocet": 1628466
+            "pocet": 1630966
         },
         {
             "pomucka": "Roušky",
             "kraj": "Jihočeský kraj",
-            "pocet": 1292473
+            "pocet": 1294473
         },
         {
             "pomucka": "Roušky",
@@ -215,17 +215,17 @@
         {
             "pomucka": "Respirátory",
             "kraj": "Hlavní město Praha",
-            "pocet": 2560145
+            "pocet": 2860153
         },
         {
             "pomucka": "Respirátory",
             "kraj": "Středočeský kraj",
-            "pocet": 442685
+            "pocet": 445775
         },
         {
             "pomucka": "Respirátory",
             "kraj": "Jihočeský kraj",
-            "pocet": 323284
+            "pocet": 324124
         },
         {
             "pomucka": "Respirátory",
@@ -285,12 +285,12 @@
         {
             "pomucka": "Odběrové sady",
             "kraj": "Hlavní město Praha",
-            "pocet": 218061
+            "pocet": 247810
         },
         {
             "pomucka": "Odběrové sady",
             "kraj": "Středočeský kraj",
-            "pocet": 32820
+            "pocet": 33620
         },
         {
             "pomucka": "Odběrové sady",
@@ -355,17 +355,17 @@
         {
             "pomucka": "Rukavice",
             "kraj": "Hlavní město Praha",
-            "pocet": 2244597
+            "pocet": 2427004
         },
         {
             "pomucka": "Rukavice",
             "kraj": "Středočeský kraj",
-            "pocet": 650422
+            "pocet": 651522
         },
         {
             "pomucka": "Rukavice",
             "kraj": "Jihočeský kraj",
-            "pocet": 458928
+            "pocet": 462028
         },
         {
             "pomucka": "Rukavice",
@@ -425,7 +425,7 @@
         {
             "pomucka": "Rychlotesty",
             "kraj": "Hlavní město Praha",
-            "pocet": 132646
+            "pocet": 132747
         },
         {
             "pomucka": "Rychlotesty",
@@ -495,17 +495,17 @@
         {
             "pomucka": "Štíty",
             "kraj": "Hlavní město Praha",
-            "pocet": 12264
+            "pocet": 12765
         },
         {
             "pomucka": "Štíty",
             "kraj": "Středočeský kraj",
-            "pocet": 2247
+            "pocet": 2347
         },
         {
             "pomucka": "Štíty",
             "kraj": "Jihočeský kraj",
-            "pocet": 2216
+            "pocet": 2316
         },
         {
             "pomucka": "Štíty",
@@ -565,17 +565,17 @@
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Hlavní město Praha",
-            "pocet": 288810
+            "pocet": 390004
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Středočeský kraj",
-            "pocet": 14788
+            "pocet": 16698
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Jihočeský kraj",
-            "pocet": 30649
+            "pocet": 30849
         },
         {
             "pomucka": "Ochranné oděvy",
@@ -635,7 +635,7 @@
         {
             "pomucka": "Návleky na obuv",
             "kraj": "Hlavní město Praha",
-            "pocet": 68230
+            "pocet": 101930
         },
         {
             "pomucka": "Návleky na obuv",
@@ -705,7 +705,7 @@
         {
             "pomucka": "Polomasky",
             "kraj": "Hlavní město Praha",
-            "pocet": 5990
+            "pocet": 6026
         },
         {
             "pomucka": "Polomasky",
@@ -775,7 +775,7 @@
         {
             "pomucka": "Filtry k polomaskám",
             "kraj": "Hlavní město Praha",
-            "pocet": 17800
+            "pocet": 18316
         },
         {
             "pomucka": "Filtry k polomaskám",
