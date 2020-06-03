@@ -1,5 +1,5 @@
 {
-    "modified": "2020-06-03T09:34:14+02:00",
+    "modified": "2020-06-03T17:30:43+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -341,561 +341,561 @@
         {
             "datum": "2020-03-15",
             "kumulativni_pocet_nakazenych": 298,
-            "kumulativni_pocet_vylecenych": 3,
+            "kumulativni_pocet_vylecenych": 4,
             "kumulativni_pocet_umrti": 0,
             "kumulativni_pocet_testu": 5212
         },
         {
             "datum": "2020-03-16",
             "kumulativni_pocet_nakazenych": 383,
-            "kumulativni_pocet_vylecenych": 3,
+            "kumulativni_pocet_vylecenych": 4,
             "kumulativni_pocet_umrti": 0,
             "kumulativni_pocet_testu": 6531
         },
         {
             "datum": "2020-03-17",
             "kumulativni_pocet_nakazenych": 450,
-            "kumulativni_pocet_vylecenych": 3,
+            "kumulativni_pocet_vylecenych": 4,
             "kumulativni_pocet_umrti": 0,
             "kumulativni_pocet_testu": 7825
         },
         {
             "datum": "2020-03-18",
             "kumulativni_pocet_nakazenych": 560,
-            "kumulativni_pocet_vylecenych": 3,
+            "kumulativni_pocet_vylecenych": 4,
             "kumulativni_pocet_umrti": 0,
             "kumulativni_pocet_testu": 9581
         },
         {
             "datum": "2020-03-19",
             "kumulativni_pocet_nakazenych": 765,
-            "kumulativni_pocet_vylecenych": 4,
+            "kumulativni_pocet_vylecenych": 5,
             "kumulativni_pocet_umrti": 0,
             "kumulativni_pocet_testu": 11840
         },
         {
             "datum": "2020-03-20",
             "kumulativni_pocet_nakazenych": 889,
-            "kumulativni_pocet_vylecenych": 8,
+            "kumulativni_pocet_vylecenych": 9,
             "kumulativni_pocet_umrti": 0,
             "kumulativni_pocet_testu": 13961
         },
         {
             "datum": "2020-03-21",
             "kumulativni_pocet_nakazenych": 1047,
-            "kumulativni_pocet_vylecenych": 9,
+            "kumulativni_pocet_vylecenych": 10,
             "kumulativni_pocet_umrti": 0,
             "kumulativni_pocet_testu": 15843
         },
         {
             "datum": "2020-03-22",
             "kumulativni_pocet_nakazenych": 1161,
-            "kumulativni_pocet_vylecenych": 9,
-            "kumulativni_pocet_umrti": 1,
+            "kumulativni_pocet_vylecenych": 10,
+            "kumulativni_pocet_umrti": 2,
             "kumulativni_pocet_testu": 17644
         },
         {
             "datum": "2020-03-23",
             "kumulativni_pocet_nakazenych": 1287,
-            "kumulativni_pocet_vylecenych": 12,
-            "kumulativni_pocet_umrti": 1,
+            "kumulativni_pocet_vylecenych": 13,
+            "kumulativni_pocet_umrti": 2,
             "kumulativni_pocet_testu": 19935
         },
         {
             "datum": "2020-03-24",
             "kumulativni_pocet_nakazenych": 1472,
-            "kumulativni_pocet_vylecenych": 13,
-            "kumulativni_pocet_umrti": 3,
+            "kumulativni_pocet_vylecenych": 14,
+            "kumulativni_pocet_umrti": 4,
             "kumulativni_pocet_testu": 22997
         },
         {
             "datum": "2020-03-25",
             "kumulativni_pocet_nakazenych": 1763,
-            "kumulativni_pocet_vylecenych": 16,
-            "kumulativni_pocet_umrti": 9,
+            "kumulativni_pocet_vylecenych": 17,
+            "kumulativni_pocet_umrti": 10,
             "kumulativni_pocet_testu": 27104
         },
         {
             "datum": "2020-03-26",
             "kumulativni_pocet_nakazenych": 2022,
-            "kumulativni_pocet_vylecenych": 23,
-            "kumulativni_pocet_umrti": 10,
+            "kumulativni_pocet_vylecenych": 24,
+            "kumulativni_pocet_umrti": 11,
             "kumulativni_pocet_testu": 31737
         },
         {
             "datum": "2020-03-27",
             "kumulativni_pocet_nakazenych": 2395,
-            "kumulativni_pocet_vylecenych": 34,
-            "kumulativni_pocet_umrti": 12,
+            "kumulativni_pocet_vylecenych": 35,
+            "kumulativni_pocet_umrti": 13,
             "kumulativni_pocet_testu": 37096
         },
         {
             "datum": "2020-03-28",
             "kumulativni_pocet_nakazenych": 2657,
-            "kumulativni_pocet_vylecenych": 38,
-            "kumulativni_pocet_umrti": 17,
+            "kumulativni_pocet_vylecenych": 39,
+            "kumulativni_pocet_umrti": 18,
             "kumulativni_pocet_testu": 41320
         },
         {
             "datum": "2020-03-29",
             "kumulativni_pocet_nakazenych": 2817,
-            "kumulativni_pocet_vylecenych": 50,
-            "kumulativni_pocet_umrti": 23,
+            "kumulativni_pocet_vylecenych": 51,
+            "kumulativni_pocet_umrti": 24,
             "kumulativni_pocet_testu": 44168
         },
         {
             "datum": "2020-03-30",
             "kumulativni_pocet_nakazenych": 3001,
-            "kumulativni_pocet_vylecenych": 75,
-            "kumulativni_pocet_umrti": 28,
+            "kumulativni_pocet_vylecenych": 76,
+            "kumulativni_pocet_umrti": 29,
             "kumulativni_pocet_testu": 49327
         },
         {
             "datum": "2020-03-31",
             "kumulativni_pocet_nakazenych": 3308,
-            "kumulativni_pocet_vylecenych": 89,
-            "kumulativni_pocet_umrti": 35,
+            "kumulativni_pocet_vylecenych": 90,
+            "kumulativni_pocet_umrti": 36,
             "kumulativni_pocet_testu": 55988
         },
         {
             "datum": "2020-04-01",
             "kumulativni_pocet_nakazenych": 3589,
-            "kumulativni_pocet_vylecenych": 129,
-            "kumulativni_pocet_umrti": 43,
+            "kumulativni_pocet_vylecenych": 130,
+            "kumulativni_pocet_umrti": 44,
             "kumulativni_pocet_testu": 62090
         },
         {
             "datum": "2020-04-02",
             "kumulativni_pocet_nakazenych": 3858,
-            "kumulativni_pocet_vylecenych": 164,
-            "kumulativni_pocet_umrti": 48,
+            "kumulativni_pocet_vylecenych": 165,
+            "kumulativni_pocet_umrti": 49,
             "kumulativni_pocet_testu": 68763
         },
         {
             "datum": "2020-04-03",
             "kumulativni_pocet_nakazenych": 4190,
-            "kumulativni_pocet_vylecenych": 220,
-            "kumulativni_pocet_umrti": 57,
+            "kumulativni_pocet_vylecenych": 221,
+            "kumulativni_pocet_umrti": 58,
             "kumulativni_pocet_testu": 76161
         },
         {
             "datum": "2020-04-04",
             "kumulativni_pocet_nakazenych": 4472,
-            "kumulativni_pocet_vylecenych": 260,
-            "kumulativni_pocet_umrti": 65,
+            "kumulativni_pocet_vylecenych": 261,
+            "kumulativni_pocet_umrti": 66,
             "kumulativni_pocet_testu": 81998
         },
         {
             "datum": "2020-04-05",
             "kumulativni_pocet_nakazenych": 4587,
-            "kumulativni_pocet_vylecenych": 299,
-            "kumulativni_pocet_umrti": 76,
+            "kumulativni_pocet_vylecenych": 300,
+            "kumulativni_pocet_umrti": 77,
             "kumulativni_pocet_testu": 86810
         },
         {
             "datum": "2020-04-06",
             "kumulativni_pocet_nakazenych": 4822,
-            "kumulativni_pocet_vylecenych": 383,
-            "kumulativni_pocet_umrti": 83,
+            "kumulativni_pocet_vylecenych": 384,
+            "kumulativni_pocet_umrti": 84,
             "kumulativni_pocet_testu": 93245
         },
         {
             "datum": "2020-04-07",
             "kumulativni_pocet_nakazenych": 5017,
-            "kumulativni_pocet_vylecenych": 494,
-            "kumulativni_pocet_umrti": 92,
+            "kumulativni_pocet_vylecenych": 495,
+            "kumulativni_pocet_umrti": 93,
             "kumulativni_pocet_testu": 101418
         },
         {
             "datum": "2020-04-08",
             "kumulativni_pocet_nakazenych": 5312,
-            "kumulativni_pocet_vylecenych": 594,
-            "kumulativni_pocet_umrti": 107,
+            "kumulativni_pocet_vylecenych": 595,
+            "kumulativni_pocet_umrti": 108,
             "kumulativni_pocet_testu": 109887
         },
         {
             "datum": "2020-04-09",
             "kumulativni_pocet_nakazenych": 5569,
-            "kumulativni_pocet_vylecenych": 761,
-            "kumulativni_pocet_umrti": 117,
+            "kumulativni_pocet_vylecenych": 762,
+            "kumulativni_pocet_umrti": 118,
             "kumulativni_pocet_testu": 118067
         },
         {
             "datum": "2020-04-10",
             "kumulativni_pocet_nakazenych": 5732,
-            "kumulativni_pocet_vylecenych": 885,
-            "kumulativni_pocet_umrti": 127,
+            "kumulativni_pocet_vylecenych": 886,
+            "kumulativni_pocet_umrti": 128,
             "kumulativni_pocet_testu": 123769
         },
         {
             "datum": "2020-04-11",
             "kumulativni_pocet_nakazenych": 5902,
-            "kumulativni_pocet_vylecenych": 1005,
-            "kumulativni_pocet_umrti": 137,
+            "kumulativni_pocet_vylecenych": 1006,
+            "kumulativni_pocet_umrti": 138,
             "kumulativni_pocet_testu": 128660
         },
         {
             "datum": "2020-04-12",
             "kumulativni_pocet_nakazenych": 5991,
-            "kumulativni_pocet_vylecenych": 1103,
-            "kumulativni_pocet_umrti": 147,
+            "kumulativni_pocet_vylecenych": 1104,
+            "kumulativni_pocet_umrti": 148,
             "kumulativni_pocet_testu": 131910
         },
         {
             "datum": "2020-04-13",
             "kumulativni_pocet_nakazenych": 6059,
-            "kumulativni_pocet_vylecenych": 1200,
-            "kumulativni_pocet_umrti": 157,
+            "kumulativni_pocet_vylecenych": 1201,
+            "kumulativni_pocet_umrti": 158,
             "kumulativni_pocet_testu": 135125
         },
         {
             "datum": "2020-04-14",
             "kumulativni_pocet_nakazenych": 6141,
-            "kumulativni_pocet_vylecenych": 1381,
-            "kumulativni_pocet_umrti": 165,
+            "kumulativni_pocet_vylecenych": 1382,
+            "kumulativni_pocet_umrti": 166,
             "kumulativni_pocet_testu": 141298
         },
         {
             "datum": "2020-04-15",
             "kumulativni_pocet_nakazenych": 6301,
-            "kumulativni_pocet_vylecenych": 1568,
-            "kumulativni_pocet_umrti": 165,
+            "kumulativni_pocet_vylecenych": 1569,
+            "kumulativni_pocet_umrti": 166,
             "kumulativni_pocet_testu": 149774
         },
         {
             "datum": "2020-04-16",
             "kumulativni_pocet_nakazenych": 6433,
-            "kumulativni_pocet_vylecenych": 1817,
-            "kumulativni_pocet_umrti": 167,
+            "kumulativni_pocet_vylecenych": 1818,
+            "kumulativni_pocet_umrti": 168,
             "kumulativni_pocet_testu": 158155
         },
         {
             "datum": "2020-04-17",
             "kumulativni_pocet_nakazenych": 6549,
-            "kumulativni_pocet_vylecenych": 2107,
-            "kumulativni_pocet_umrti": 174,
+            "kumulativni_pocet_vylecenych": 2108,
+            "kumulativni_pocet_umrti": 175,
             "kumulativni_pocet_testu": 166443
         },
         {
             "datum": "2020-04-18",
             "kumulativni_pocet_nakazenych": 6654,
-            "kumulativni_pocet_vylecenych": 2244,
-            "kumulativni_pocet_umrti": 179,
+            "kumulativni_pocet_vylecenych": 2245,
+            "kumulativni_pocet_umrti": 180,
             "kumulativni_pocet_testu": 172048
         },
         {
             "datum": "2020-04-19",
             "kumulativni_pocet_nakazenych": 6746,
-            "kumulativni_pocet_vylecenych": 2382,
-            "kumulativni_pocet_umrti": 188,
+            "kumulativni_pocet_vylecenych": 2383,
+            "kumulativni_pocet_umrti": 189,
             "kumulativni_pocet_testu": 176075
         },
         {
             "datum": "2020-04-20",
             "kumulativni_pocet_nakazenych": 6900,
-            "kumulativni_pocet_vylecenych": 2604,
-            "kumulativni_pocet_umrti": 196,
+            "kumulativni_pocet_vylecenych": 2605,
+            "kumulativni_pocet_umrti": 197,
             "kumulativni_pocet_testu": 182642
         },
         {
             "datum": "2020-04-21",
             "kumulativni_pocet_nakazenych": 7033,
-            "kumulativni_pocet_vylecenych": 2813,
-            "kumulativni_pocet_umrti": 205,
+            "kumulativni_pocet_vylecenych": 2814,
+            "kumulativni_pocet_umrti": 206,
             "kumulativni_pocet_testu": 190983
         },
         {
             "datum": "2020-04-22",
             "kumulativni_pocet_nakazenych": 7132,
-            "kumulativni_pocet_vylecenych": 3099,
-            "kumulativni_pocet_umrti": 207,
+            "kumulativni_pocet_vylecenych": 3100,
+            "kumulativni_pocet_umrti": 208,
             "kumulativni_pocet_testu": 199801
         },
         {
             "datum": "2020-04-23",
             "kumulativni_pocet_nakazenych": 7187,
-            "kumulativni_pocet_vylecenych": 3323,
-            "kumulativni_pocet_umrti": 212,
+            "kumulativni_pocet_vylecenych": 3324,
+            "kumulativni_pocet_umrti": 213,
             "kumulativni_pocet_testu": 207702
         },
         {
             "datum": "2020-04-24",
             "kumulativni_pocet_nakazenych": 7273,
-            "kumulativni_pocet_vylecenych": 3555,
-            "kumulativni_pocet_umrti": 219,
+            "kumulativni_pocet_vylecenych": 3557,
+            "kumulativni_pocet_umrti": 220,
             "kumulativni_pocet_testu": 214831
         },
         {
             "datum": "2020-04-25",
             "kumulativni_pocet_nakazenych": 7352,
-            "kumulativni_pocet_vylecenych": 3685,
-            "kumulativni_pocet_umrti": 223,
+            "kumulativni_pocet_vylecenych": 3687,
+            "kumulativni_pocet_umrti": 224,
             "kumulativni_pocet_testu": 219277
         },
         {
             "datum": "2020-04-26",
             "kumulativni_pocet_nakazenych": 7404,
-            "kumulativni_pocet_vylecenych": 3761,
-            "kumulativni_pocet_umrti": 226,
+            "kumulativni_pocet_vylecenych": 3763,
+            "kumulativni_pocet_umrti": 227,
             "kumulativni_pocet_testu": 222658
         },
         {
             "datum": "2020-04-27",
             "kumulativni_pocet_nakazenych": 7445,
-            "kumulativni_pocet_vylecenych": 3935,
-            "kumulativni_pocet_umrti": 227,
+            "kumulativni_pocet_vylecenych": 3937,
+            "kumulativni_pocet_umrti": 228,
             "kumulativni_pocet_testu": 230412
         },
         {
             "datum": "2020-04-28",
             "kumulativni_pocet_nakazenych": 7504,
-            "kumulativni_pocet_vylecenych": 4065,
-            "kumulativni_pocet_umrti": 231,
+            "kumulativni_pocet_vylecenych": 4067,
+            "kumulativni_pocet_umrti": 232,
             "kumulativni_pocet_testu": 239153
         },
         {
             "datum": "2020-04-29",
             "kumulativni_pocet_nakazenych": 7579,
-            "kumulativni_pocet_vylecenych": 4229,
-            "kumulativni_pocet_umrti": 234,
+            "kumulativni_pocet_vylecenych": 4231,
+            "kumulativni_pocet_umrti": 235,
             "kumulativni_pocet_testu": 246475
         },
         {
             "datum": "2020-04-30",
             "kumulativni_pocet_nakazenych": 7682,
-            "kumulativni_pocet_vylecenych": 4410,
-            "kumulativni_pocet_umrti": 244,
+            "kumulativni_pocet_vylecenych": 4412,
+            "kumulativni_pocet_umrti": 245,
             "kumulativni_pocet_testu": 253871
         },
         {
             "datum": "2020-05-01",
             "kumulativni_pocet_nakazenych": 7737,
-            "kumulativni_pocet_vylecenych": 4517,
-            "kumulativni_pocet_umrti": 251,
+            "kumulativni_pocet_vylecenych": 4519,
+            "kumulativni_pocet_umrti": 252,
             "kumulativni_pocet_testu": 258284
         },
         {
             "datum": "2020-05-02",
             "kumulativni_pocet_nakazenych": 7755,
-            "kumulativni_pocet_vylecenych": 4609,
-            "kumulativni_pocet_umrti": 252,
+            "kumulativni_pocet_vylecenych": 4611,
+            "kumulativni_pocet_umrti": 253,
             "kumulativni_pocet_testu": 262164
         },
         {
             "datum": "2020-05-03",
             "kumulativni_pocet_nakazenych": 7781,
-            "kumulativni_pocet_vylecenych": 4665,
-            "kumulativni_pocet_umrti": 255,
+            "kumulativni_pocet_vylecenych": 4667,
+            "kumulativni_pocet_umrti": 256,
             "kumulativni_pocet_testu": 266045
         },
         {
             "datum": "2020-05-04",
             "kumulativni_pocet_nakazenych": 7819,
-            "kumulativni_pocet_vylecenych": 4802,
-            "kumulativni_pocet_umrti": 260,
+            "kumulativni_pocet_vylecenych": 4804,
+            "kumulativni_pocet_umrti": 261,
             "kumulativni_pocet_testu": 273672
         },
         {
             "datum": "2020-05-05",
             "kumulativni_pocet_nakazenych": 7896,
-            "kumulativni_pocet_vylecenych": 4949,
-            "kumulativni_pocet_umrti": 262,
+            "kumulativni_pocet_vylecenych": 4951,
+            "kumulativni_pocet_umrti": 263,
             "kumulativni_pocet_testu": 283119
         },
         {
             "datum": "2020-05-06",
             "kumulativni_pocet_nakazenych": 7974,
-            "kumulativni_pocet_vylecenych": 5107,
-            "kumulativni_pocet_umrti": 266,
+            "kumulativni_pocet_vylecenych": 5109,
+            "kumulativni_pocet_umrti": 267,
             "kumulativni_pocet_testu": 291202
         },
         {
             "datum": "2020-05-07",
             "kumulativni_pocet_nakazenych": 8031,
-            "kumulativni_pocet_vylecenych": 5252,
-            "kumulativni_pocet_umrti": 271,
+            "kumulativni_pocet_vylecenych": 5254,
+            "kumulativni_pocet_umrti": 272,
             "kumulativni_pocet_testu": 298784
         },
         {
             "datum": "2020-05-08",
             "kumulativni_pocet_nakazenych": 8077,
-            "kumulativni_pocet_vylecenych": 5311,
-            "kumulativni_pocet_umrti": 275,
+            "kumulativni_pocet_vylecenych": 5313,
+            "kumulativni_pocet_umrti": 276,
             "kumulativni_pocet_testu": 303341
         },
         {
             "datum": "2020-05-09",
             "kumulativni_pocet_nakazenych": 8095,
-            "kumulativni_pocet_vylecenych": 5378,
-            "kumulativni_pocet_umrti": 279,
+            "kumulativni_pocet_vylecenych": 5380,
+            "kumulativni_pocet_umrti": 280,
             "kumulativni_pocet_testu": 307123
         },
         {
             "datum": "2020-05-10",
             "kumulativni_pocet_nakazenych": 8123,
-            "kumulativni_pocet_vylecenych": 5421,
-            "kumulativni_pocet_umrti": 282,
+            "kumulativni_pocet_vylecenych": 5424,
+            "kumulativni_pocet_umrti": 283,
             "kumulativni_pocet_testu": 311174
         },
         {
             "datum": "2020-05-11",
             "kumulativni_pocet_nakazenych": 8176,
-            "kumulativni_pocet_vylecenych": 5542,
-            "kumulativni_pocet_umrti": 284,
+            "kumulativni_pocet_vylecenych": 5545,
+            "kumulativni_pocet_umrti": 285,
             "kumulativni_pocet_testu": 318979
         },
         {
             "datum": "2020-05-12",
             "kumulativni_pocet_nakazenych": 8221,
-            "kumulativni_pocet_vylecenych": 5624,
-            "kumulativni_pocet_umrti": 287,
+            "kumulativni_pocet_vylecenych": 5627,
+            "kumulativni_pocet_umrti": 288,
             "kumulativni_pocet_testu": 327731
         },
         {
             "datum": "2020-05-13",
             "kumulativni_pocet_nakazenych": 8269,
-            "kumulativni_pocet_vylecenych": 5749,
-            "kumulativni_pocet_umrti": 291,
+            "kumulativni_pocet_vylecenych": 5753,
+            "kumulativni_pocet_umrti": 292,
             "kumulativni_pocet_testu": 335415
         },
         {
             "datum": "2020-05-14",
             "kumulativni_pocet_nakazenych": 8351,
-            "kumulativni_pocet_vylecenych": 5837,
-            "kumulativni_pocet_umrti": 294,
+            "kumulativni_pocet_vylecenych": 5841,
+            "kumulativni_pocet_umrti": 295,
             "kumulativni_pocet_testu": 342304
         },
         {
             "datum": "2020-05-15",
             "kumulativni_pocet_nakazenych": 8406,
-            "kumulativni_pocet_vylecenych": 5906,
-            "kumulativni_pocet_umrti": 296,
+            "kumulativni_pocet_vylecenych": 5910,
+            "kumulativni_pocet_umrti": 297,
             "kumulativni_pocet_testu": 349082
         },
         {
             "datum": "2020-05-16",
             "kumulativni_pocet_nakazenych": 8455,
-            "kumulativni_pocet_vylecenych": 5943,
-            "kumulativni_pocet_umrti": 297,
+            "kumulativni_pocet_vylecenych": 5947,
+            "kumulativni_pocet_umrti": 298,
             "kumulativni_pocet_testu": 353272
         },
         {
             "datum": "2020-05-17",
             "kumulativni_pocet_nakazenych": 8475,
-            "kumulativni_pocet_vylecenych": 5990,
-            "kumulativni_pocet_umrti": 299,
+            "kumulativni_pocet_vylecenych": 5994,
+            "kumulativni_pocet_umrti": 300,
             "kumulativni_pocet_testu": 356759
         },
         {
             "datum": "2020-05-18",
             "kumulativni_pocet_nakazenych": 8586,
-            "kumulativni_pocet_vylecenych": 6067,
-            "kumulativni_pocet_umrti": 302,
+            "kumulativni_pocet_vylecenych": 6072,
+            "kumulativni_pocet_umrti": 303,
             "kumulativni_pocet_testu": 364214
         },
         {
             "datum": "2020-05-19",
             "kumulativni_pocet_nakazenych": 8647,
-            "kumulativni_pocet_vylecenych": 6110,
-            "kumulativni_pocet_umrti": 304,
+            "kumulativni_pocet_vylecenych": 6116,
+            "kumulativni_pocet_umrti": 305,
             "kumulativni_pocet_testu": 372534
         },
         {
             "datum": "2020-05-20",
             "kumulativni_pocet_nakazenych": 8721,
-            "kumulativni_pocet_vylecenych": 6193,
-            "kumulativni_pocet_umrti": 309,
+            "kumulativni_pocet_vylecenych": 6199,
+            "kumulativni_pocet_umrti": 310,
             "kumulativni_pocet_testu": 380050
         },
         {
             "datum": "2020-05-21",
             "kumulativni_pocet_nakazenych": 8754,
-            "kumulativni_pocet_vylecenych": 6266,
-            "kumulativni_pocet_umrti": 312,
+            "kumulativni_pocet_vylecenych": 6274,
+            "kumulativni_pocet_umrti": 313,
             "kumulativni_pocet_testu": 387337
         },
         {
             "datum": "2020-05-22",
             "kumulativni_pocet_nakazenych": 8813,
-            "kumulativni_pocet_vylecenych": 6316,
-            "kumulativni_pocet_umrti": 314,
+            "kumulativni_pocet_vylecenych": 6327,
+            "kumulativni_pocet_umrti": 315,
             "kumulativni_pocet_testu": 395066
         },
         {
             "datum": "2020-05-23",
             "kumulativni_pocet_nakazenych": 8890,
-            "kumulativni_pocet_vylecenych": 6350,
-            "kumulativni_pocet_umrti": 315,
+            "kumulativni_pocet_vylecenych": 6361,
+            "kumulativni_pocet_umrti": 316,
             "kumulativni_pocet_testu": 400112
         },
         {
             "datum": "2020-05-24",
             "kumulativni_pocet_nakazenych": 8955,
-            "kumulativni_pocet_vylecenych": 6374,
-            "kumulativni_pocet_umrti": 317,
+            "kumulativni_pocet_vylecenych": 6386,
+            "kumulativni_pocet_umrti": 318,
             "kumulativni_pocet_testu": 403722
         },
         {
             "datum": "2020-05-25",
             "kumulativni_pocet_nakazenych": 9002,
-            "kumulativni_pocet_vylecenych": 6443,
-            "kumulativni_pocet_umrti": 318,
+            "kumulativni_pocet_vylecenych": 6456,
+            "kumulativni_pocet_umrti": 319,
             "kumulativni_pocet_testu": 411142
         },
         {
             "datum": "2020-05-26",
             "kumulativni_pocet_nakazenych": 9050,
-            "kumulativni_pocet_vylecenych": 6503,
-            "kumulativni_pocet_umrti": 318,
+            "kumulativni_pocet_vylecenych": 6516,
+            "kumulativni_pocet_umrti": 319,
             "kumulativni_pocet_testu": 418372
         },
         {
             "datum": "2020-05-27",
             "kumulativni_pocet_nakazenych": 9086,
-            "kumulativni_pocet_vylecenych": 6564,
-            "kumulativni_pocet_umrti": 318,
+            "kumulativni_pocet_vylecenych": 6578,
+            "kumulativni_pocet_umrti": 319,
             "kumulativni_pocet_testu": 425146
         },
         {
             "datum": "2020-05-28",
             "kumulativni_pocet_nakazenych": 9140,
-            "kumulativni_pocet_vylecenych": 6589,
-            "kumulativni_pocet_umrti": 320,
+            "kumulativni_pocet_vylecenych": 6603,
+            "kumulativni_pocet_umrti": 321,
             "kumulativni_pocet_testu": 431157
         },
         {
             "datum": "2020-05-29",
             "kumulativni_pocet_nakazenych": 9196,
-            "kumulativni_pocet_vylecenych": 6629,
-            "kumulativni_pocet_umrti": 320,
+            "kumulativni_pocet_vylecenych": 6645,
+            "kumulativni_pocet_umrti": 321,
             "kumulativni_pocet_testu": 437255
         },
         {
             "datum": "2020-05-30",
             "kumulativni_pocet_nakazenych": 9230,
-            "kumulativni_pocet_vylecenych": 6650,
-            "kumulativni_pocet_umrti": 320,
+            "kumulativni_pocet_vylecenych": 6667,
+            "kumulativni_pocet_umrti": 321,
             "kumulativni_pocet_testu": 440761
         },
         {
             "datum": "2020-05-31",
             "kumulativni_pocet_nakazenych": 9268,
-            "kumulativni_pocet_vylecenych": 6663,
-            "kumulativni_pocet_umrti": 320,
+            "kumulativni_pocet_vylecenych": 6681,
+            "kumulativni_pocet_umrti": 321,
             "kumulativni_pocet_testu": 442866
         },
         {
             "datum": "2020-06-01",
             "kumulativni_pocet_nakazenych": 9302,
-            "kumulativni_pocet_vylecenych": 6684,
-            "kumulativni_pocet_umrti": 322,
+            "kumulativni_pocet_vylecenych": 6712,
+            "kumulativni_pocet_umrti": 323,
             "kumulativni_pocet_testu": 448281
         },
         {
             "datum": "2020-06-02",
             "kumulativni_pocet_nakazenych": 9364,
-            "kumulativni_pocet_vylecenych": 6693,
-            "kumulativni_pocet_umrti": 323,
+            "kumulativni_pocet_vylecenych": 6747,
+            "kumulativni_pocet_umrti": 324,
             "kumulativni_pocet_testu": 454397
         }
     ]
