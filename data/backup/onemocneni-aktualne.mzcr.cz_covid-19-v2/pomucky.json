@@ -1,5 +1,5 @@
 {
-    "modified": "2020-06-03T09:34:17+02:00",
+    "modified": "2020-06-04T09:03:59+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -55,7 +55,7 @@
         {
             "pomucka": "Brýle",
             "kraj_nuts_kod": "CZ064",
-            "mnozstvi": 4250
+            "mnozstvi": 4320
         },
         {
             "pomucka": "Brýle",
@@ -65,12 +65,12 @@
         {
             "pomucka": "Brýle",
             "kraj_nuts_kod": "CZ072",
-            "mnozstvi": 3150
+            "mnozstvi": 3170
         },
         {
             "pomucka": "Brýle",
             "kraj_nuts_kod": "CZ080",
-            "mnozstvi": 5943
+            "mnozstvi": 5973
         },
         {
             "pomucka": "Dezinfekce (l)",
@@ -190,17 +190,17 @@
         {
             "pomucka": "Roušky",
             "kraj_nuts_kod": "CZ063",
-            "mnozstvi": 1120029
+            "mnozstvi": 1134029
         },
         {
             "pomucka": "Roušky",
             "kraj_nuts_kod": "CZ064",
-            "mnozstvi": 3035412
+            "mnozstvi": 3378412
         },
         {
             "pomucka": "Roušky",
             "kraj_nuts_kod": "CZ071",
-            "mnozstvi": 1584796
+            "mnozstvi": 1592796
         },
         {
             "pomucka": "Roušky",
@@ -210,7 +210,7 @@
         {
             "pomucka": "Roušky",
             "kraj_nuts_kod": "CZ080",
-            "mnozstvi": 2209078
+            "mnozstvi": 2218078
         },
         {
             "pomucka": "Respirátory",
@@ -260,27 +260,27 @@
         {
             "pomucka": "Respirátory",
             "kraj_nuts_kod": "CZ063",
-            "mnozstvi": 220517
+            "mnozstvi": 226117
         },
         {
             "pomucka": "Respirátory",
             "kraj_nuts_kod": "CZ064",
-            "mnozstvi": 739699
+            "mnozstvi": 791299
         },
         {
             "pomucka": "Respirátory",
             "kraj_nuts_kod": "CZ071",
-            "mnozstvi": 357004
+            "mnozstvi": 374704
         },
         {
             "pomucka": "Respirátory",
             "kraj_nuts_kod": "CZ072",
-            "mnozstvi": 265170
+            "mnozstvi": 275470
         },
         {
             "pomucka": "Respirátory",
             "kraj_nuts_kod": "CZ080",
-            "mnozstvi": 642801
+            "mnozstvi": 671601
         },
         {
             "pomucka": "Odběrové sady",
@@ -330,12 +330,12 @@
         {
             "pomucka": "Odběrové sady",
             "kraj_nuts_kod": "CZ063",
-            "mnozstvi": 9070
+            "mnozstvi": 9870
         },
         {
             "pomucka": "Odběrové sady",
             "kraj_nuts_kod": "CZ064",
-            "mnozstvi": 126490
+            "mnozstvi": 141290
         },
         {
             "pomucka": "Odběrové sady",
@@ -345,12 +345,12 @@
         {
             "pomucka": "Odběrové sady",
             "kraj_nuts_kod": "CZ072",
-            "mnozstvi": 9370
+            "mnozstvi": 10370
         },
         {
             "pomucka": "Odběrové sady",
             "kraj_nuts_kod": "CZ080",
-            "mnozstvi": 71770
+            "mnozstvi": 76370
         },
         {
             "pomucka": "Rukavice",
@@ -400,27 +400,27 @@
         {
             "pomucka": "Rukavice",
             "kraj_nuts_kod": "CZ063",
-            "mnozstvi": 276807
+            "mnozstvi": 278007
         },
         {
             "pomucka": "Rukavice",
             "kraj_nuts_kod": "CZ064",
-            "mnozstvi": 761334
+            "mnozstvi": 792534
         },
         {
             "pomucka": "Rukavice",
             "kraj_nuts_kod": "CZ071",
-            "mnozstvi": 466258
+            "mnozstvi": 471658
         },
         {
             "pomucka": "Rukavice",
             "kraj_nuts_kod": "CZ072",
-            "mnozstvi": 400963
+            "mnozstvi": 416163
         },
         {
             "pomucka": "Rukavice",
             "kraj_nuts_kod": "CZ080",
-            "mnozstvi": 717948
+            "mnozstvi": 749348
         },
         {
             "pomucka": "Rychlotesty",
@@ -545,7 +545,7 @@
         {
             "pomucka": "Štíty",
             "kraj_nuts_kod": "CZ064",
-            "mnozstvi": 6107
+            "mnozstvi": 6307
         },
         {
             "pomucka": "Štíty",
@@ -555,12 +555,12 @@
         {
             "pomucka": "Štíty",
             "kraj_nuts_kod": "CZ072",
-            "mnozstvi": 3680
+            "mnozstvi": 3880
         },
         {
             "pomucka": "Štíty",
             "kraj_nuts_kod": "CZ080",
-            "mnozstvi": 3618
+            "mnozstvi": 3818
         },
         {
             "pomucka": "Ochranné oděvy",
@@ -610,27 +610,27 @@
         {
             "pomucka": "Ochranné oděvy",
             "kraj_nuts_kod": "CZ063",
-            "mnozstvi": 8360
+            "mnozstvi": 9860
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj_nuts_kod": "CZ064",
-            "mnozstvi": 143386
+            "mnozstvi": 184386
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj_nuts_kod": "CZ071",
-            "mnozstvi": 14885
+            "mnozstvi": 15885
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj_nuts_kod": "CZ072",
-            "mnozstvi": 41539
+            "mnozstvi": 50189
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj_nuts_kod": "CZ080",
-            "mnozstvi": 93151
+            "mnozstvi": 122901
         },
         {
             "pomucka": "Návleky na obuv",
@@ -680,12 +680,12 @@
         {
             "pomucka": "Návleky na obuv",
             "kraj_nuts_kod": "CZ063",
-            "mnozstvi": 10800
+            "mnozstvi": 11000
         },
         {
             "pomucka": "Návleky na obuv",
             "kraj_nuts_kod": "CZ064",
-            "mnozstvi": 16297
+            "mnozstvi": 43497
         },
         {
             "pomucka": "Návleky na obuv",
@@ -695,7 +695,7 @@
         {
             "pomucka": "Návleky na obuv",
             "kraj_nuts_kod": "CZ072",
-            "mnozstvi": 3850
+            "mnozstvi": 9550
         },
         {
             "pomucka": "Návleky na obuv",
@@ -825,12 +825,12 @@
         {
             "pomucka": "Filtry k polomaskám",
             "kraj_nuts_kod": "CZ064",
-            "mnozstvi": 5853
+            "mnozstvi": 6293
         },
         {
             "pomucka": "Filtry k polomaskám",
             "kraj_nuts_kod": "CZ071",
-            "mnozstvi": 2696
+            "mnozstvi": 2956
         },
         {
             "pomucka": "Filtry k polomaskám",
@@ -840,7 +840,7 @@
         {
             "pomucka": "Filtry k polomaskám",
             "kraj_nuts_kod": "CZ080",
-            "mnozstvi": 3168
+            "mnozstvi": 3268
         },
         {
             "pomucka": "Teploměry",
@@ -915,77 +915,77 @@
         {
             "pomucka": "Termokamery",
             "kraj_nuts_kod": "CZ010",
-            "mnozstvi": 47
+            "mnozstvi": 74
         },
         {
             "pomucka": "Termokamery",
             "kraj_nuts_kod": "CZ020",
-            "mnozstvi": 20
+            "mnozstvi": 31
         },
         {
             "pomucka": "Termokamery",
             "kraj_nuts_kod": "CZ031",
-            "mnozstvi": 20
+            "mnozstvi": 23
         },
         {
             "pomucka": "Termokamery",
             "kraj_nuts_kod": "CZ032",
-            "mnozstvi": 20
+            "mnozstvi": 32
         },
         {
             "pomucka": "Termokamery",
             "kraj_nuts_kod": "CZ041",
-            "mnozstvi": 20
+            "mnozstvi": 22
         },
         {
             "pomucka": "Termokamery",
             "kraj_nuts_kod": "CZ042",
-            "mnozstvi": 20
+            "mnozstvi": 31
         },
         {
             "pomucka": "Termokamery",
             "kraj_nuts_kod": "CZ051",
-            "mnozstvi": 20
+            "mnozstvi": 21
         },
         {
             "pomucka": "Termokamery",
             "kraj_nuts_kod": "CZ052",
-            "mnozstvi": 20
+            "mnozstvi": 23
         },
         {
             "pomucka": "Termokamery",
             "kraj_nuts_kod": "CZ053",
-            "mnozstvi": 20
+            "mnozstvi": 22
         },
         {
             "pomucka": "Termokamery",
             "kraj_nuts_kod": "CZ063",
-            "mnozstvi": 20
+            "mnozstvi": 39
         },
         {
             "pomucka": "Termokamery",
             "kraj_nuts_kod": "CZ064",
-            "mnozstvi": 20
+            "mnozstvi": 41
         },
         {
             "pomucka": "Termokamery",
             "kraj_nuts_kod": "CZ071",
-            "mnozstvi": 20
+            "mnozstvi": 32
         },
         {
             "pomucka": "Termokamery",
             "kraj_nuts_kod": "CZ072",
-            "mnozstvi": 20
+            "mnozstvi": 29
         },
         {
             "pomucka": "Termokamery",
             "kraj_nuts_kod": "CZ080",
-            "mnozstvi": 20
+            "mnozstvi": 36
         },
         {
             "pomucka": "Plicní ventilátory",
             "kraj_nuts_kod": "CZ010",
-            "mnozstvi": 25
+            "mnozstvi": 63
         },
         {
             "pomucka": "Plicní ventilátory",
@@ -1000,7 +1000,7 @@
         {
             "pomucka": "Plicní ventilátory",
             "kraj_nuts_kod": "CZ032",
-            "mnozstvi": 2
+            "mnozstvi": 8
         },
         {
             "pomucka": "Plicní ventilátory",
@@ -1035,12 +1035,12 @@
         {
             "pomucka": "Plicní ventilátory",
             "kraj_nuts_kod": "CZ064",
-            "mnozstvi": 2
+            "mnozstvi": 22
         },
         {
             "pomucka": "Plicní ventilátory",
             "kraj_nuts_kod": "CZ071",
-            "mnozstvi": 5
+            "mnozstvi": 9
         },
         {
             "pomucka": "Plicní ventilátory",
@@ -1050,7 +1050,7 @@
         {
             "pomucka": "Plicní ventilátory",
             "kraj_nuts_kod": "CZ080",
-            "mnozstvi": 2
+            "mnozstvi": 10
         },
         {
             "pomucka": "Příslušenství k plicním ventilátorům",
@@ -1070,7 +1070,7 @@
         {
             "pomucka": "Příslušenství k plicním ventilátorům",
             "kraj_nuts_kod": "CZ032",
-            "mnozstvi": 5
+            "mnozstvi": 11
         },
         {
             "pomucka": "Příslušenství k plicním ventilátorům",

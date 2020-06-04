@@ -9,10 +9,10 @@ Brýle,CZ051,1835
 Brýle,CZ052,3435
 Brýle,CZ053,2605
 Brýle,CZ063,1920
-Brýle,CZ064,4250
+Brýle,CZ064,4320
 Brýle,CZ071,3192
-Brýle,CZ072,3150
-Brýle,CZ080,5943
+Brýle,CZ072,3170
+Brýle,CZ080,5973
 "Dezinfekce (l)",CZ010,16675
 "Dezinfekce (l)",CZ020,1525
 "Dezinfekce (l)",CZ031,1590
@@ -36,11 +36,11 @@ Roušky,CZ042,1272016
 Roušky,CZ051,738900
 Roušky,CZ052,1555835
 Roušky,CZ053,893219
-Roušky,CZ063,1120029
-Roušky,CZ064,3035412
-Roušky,CZ071,1584796
+Roušky,CZ063,1134029
+Roušky,CZ064,3378412
+Roušky,CZ071,1592796
 Roušky,CZ072,1032180
-Roušky,CZ080,2209078
+Roušky,CZ080,2218078
 Respirátory,CZ010,3054044
 Respirátory,CZ020,458075
 Respirátory,CZ031,325324
@@ -50,11 +50,11 @@ Respirátory,CZ042,386096
 Respirátory,CZ051,195090
 Respirátory,CZ052,615425
 Respirátory,CZ053,323530
-Respirátory,CZ063,220517
-Respirátory,CZ064,739699
-Respirátory,CZ071,357004
-Respirátory,CZ072,265170
-Respirátory,CZ080,642801
+Respirátory,CZ063,226117
+Respirátory,CZ064,791299
+Respirátory,CZ071,374704
+Respirátory,CZ072,275470
+Respirátory,CZ080,671601
 "Odběrové sady",CZ010,283230
 "Odběrové sady",CZ020,35320
 "Odběrové sady",CZ031,5650
@@ -64,11 +64,11 @@ Respirátory,CZ080,642801
 "Odběrové sady",CZ051,18100
 "Odběrové sady",CZ052,14130
 "Odběrové sady",CZ053,14280
-"Odběrové sady",CZ063,9070
-"Odběrové sady",CZ064,126490
+"Odběrové sady",CZ063,9870
+"Odběrové sady",CZ064,141290
 "Odběrové sady",CZ071,21600
-"Odběrové sady",CZ072,9370
-"Odběrové sady",CZ080,71770
+"Odběrové sady",CZ072,10370
+"Odběrové sady",CZ080,76370
 Rukavice,CZ010,2495104
 Rukavice,CZ020,657122
 Rukavice,CZ031,462228
@@ -78,11 +78,11 @@ Rukavice,CZ042,588983
 Rukavice,CZ051,259269
 Rukavice,CZ052,693324
 Rukavice,CZ053,312804
-Rukavice,CZ063,276807
-Rukavice,CZ064,761334
-Rukavice,CZ071,466258
-Rukavice,CZ072,400963
-Rukavice,CZ080,717948
+Rukavice,CZ063,278007
+Rukavice,CZ064,792534
+Rukavice,CZ071,471658
+Rukavice,CZ072,416163
+Rukavice,CZ080,749348
 Rychlotesty,CZ010,133327
 Rychlotesty,CZ020,50569
 Rychlotesty,CZ031,32843
@@ -107,10 +107,10 @@ Rychlotesty,CZ080,67082
 Štíty,CZ052,2105
 Štíty,CZ053,3790
 Štíty,CZ063,2495
-Štíty,CZ064,6107
+Štíty,CZ064,6307
 Štíty,CZ071,3374
-Štíty,CZ072,3680
-Štíty,CZ080,3618
+Štíty,CZ072,3880
+Štíty,CZ080,3818
 "Ochranné oděvy",CZ010,511505
 "Ochranné oděvy",CZ020,20698
 "Ochranné oděvy",CZ031,31199
@@ -120,11 +120,11 @@ Rychlotesty,CZ080,67082
 "Ochranné oděvy",CZ051,15540
 "Ochranné oděvy",CZ052,49549
 "Ochranné oděvy",CZ053,37743
-"Ochranné oděvy",CZ063,8360
-"Ochranné oděvy",CZ064,143386
-"Ochranné oděvy",CZ071,14885
-"Ochranné oděvy",CZ072,41539
-"Ochranné oděvy",CZ080,93151
+"Ochranné oděvy",CZ063,9860
+"Ochranné oděvy",CZ064,184386
+"Ochranné oděvy",CZ071,15885
+"Ochranné oděvy",CZ072,50189
+"Ochranné oděvy",CZ080,122901
 "Návleky na obuv",CZ010,143530
 "Návleky na obuv",CZ020,150
 "Návleky na obuv",CZ031,510
@@ -134,10 +134,10 @@ Rychlotesty,CZ080,67082
 "Návleky na obuv",CZ051,2050
 "Návleky na obuv",CZ052,500
 "Návleky na obuv",CZ053,10480
-"Návleky na obuv",CZ063,10800
-"Návleky na obuv",CZ064,16297
+"Návleky na obuv",CZ063,11000
+"Návleky na obuv",CZ064,43497
 "Návleky na obuv",CZ071,2150
-"Návleky na obuv",CZ072,3850
+"Návleky na obuv",CZ072,9550
 "Návleky na obuv",CZ080,17232
 Polomasky,CZ010,6026
 Polomasky,CZ020,0
@@ -163,10 +163,10 @@ Polomasky,CZ080,964
 "Filtry k polomaskám",CZ052,2484
 "Filtry k polomaskám",CZ053,0
 "Filtry k polomaskám",CZ063,0
-"Filtry k polomaskám",CZ064,5853
-"Filtry k polomaskám",CZ071,2696
+"Filtry k polomaskám",CZ064,6293
+"Filtry k polomaskám",CZ071,2956
 "Filtry k polomaskám",CZ072,0
-"Filtry k polomaskám",CZ080,3168
+"Filtry k polomaskám",CZ080,3268
 Teploměry,CZ010,592
 Teploměry,CZ020,60
 Teploměry,CZ031,70
@@ -181,38 +181,38 @@ Teploměry,CZ064,241
 Teploměry,CZ071,152
 Teploměry,CZ072,75
 Teploměry,CZ080,172
-Termokamery,CZ010,47
-Termokamery,CZ020,20
-Termokamery,CZ031,20
-Termokamery,CZ032,20
-Termokamery,CZ041,20
-Termokamery,CZ042,20
-Termokamery,CZ051,20
-Termokamery,CZ052,20
-Termokamery,CZ053,20
-Termokamery,CZ063,20
-Termokamery,CZ064,20
-Termokamery,CZ071,20
-Termokamery,CZ072,20
-Termokamery,CZ080,20
-"Plicní ventilátory",CZ010,25
+Termokamery,CZ010,74
+Termokamery,CZ020,31
+Termokamery,CZ031,23
+Termokamery,CZ032,32
+Termokamery,CZ041,22
+Termokamery,CZ042,31
+Termokamery,CZ051,21
+Termokamery,CZ052,23
+Termokamery,CZ053,22
+Termokamery,CZ063,39
+Termokamery,CZ064,41
+Termokamery,CZ071,32
+Termokamery,CZ072,29
+Termokamery,CZ080,36
+"Plicní ventilátory",CZ010,63
 "Plicní ventilátory",CZ020,2
 "Plicní ventilátory",CZ031,2
-"Plicní ventilátory",CZ032,2
+"Plicní ventilátory",CZ032,8
 "Plicní ventilátory",CZ041,2
 "Plicní ventilátory",CZ042,2
 "Plicní ventilátory",CZ051,2
 "Plicní ventilátory",CZ052,2
 "Plicní ventilátory",CZ053,2
 "Plicní ventilátory",CZ063,2
-"Plicní ventilátory",CZ064,2
-"Plicní ventilátory",CZ071,5
+"Plicní ventilátory",CZ064,22
+"Plicní ventilátory",CZ071,9
 "Plicní ventilátory",CZ072,2
-"Plicní ventilátory",CZ080,2
+"Plicní ventilátory",CZ080,10
 "Příslušenství k plicním ventilátorům",CZ010,22
 "Příslušenství k plicním ventilátorům",CZ020,5
 "Příslušenství k plicním ventilátorům",CZ031,5
-"Příslušenství k plicním ventilátorům",CZ032,5
+"Příslušenství k plicním ventilátorům",CZ032,11
 "Příslušenství k plicním ventilátorům",CZ041,5
 "Příslušenství k plicním ventilátorům",CZ042,5
 "Příslušenství k plicním ventilátorům",CZ051,5

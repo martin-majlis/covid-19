@@ -1,5 +1,5 @@
 {
-    "modified": "2020-06-03T09:34:17+02:00",
+    "modified": "2020-06-04T09:03:59+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -55,7 +55,7 @@
         {
             "pomucka": "Brýle",
             "kraj": "Jihomoravský kraj",
-            "pocet": 4250
+            "pocet": 4320
         },
         {
             "pomucka": "Brýle",
@@ -65,12 +65,12 @@
         {
             "pomucka": "Brýle",
             "kraj": "Zlínský kraj",
-            "pocet": 3150
+            "pocet": 3170
         },
         {
             "pomucka": "Brýle",
             "kraj": "Moravskoslezský kraj",
-            "pocet": 5943
+            "pocet": 5973
         },
         {
             "pomucka": "Dezinfekce (l)",
@@ -190,17 +190,17 @@
         {
             "pomucka": "Roušky",
             "kraj": "Kraj Vysočina",
-            "pocet": 1120029
+            "pocet": 1134029
         },
         {
             "pomucka": "Roušky",
             "kraj": "Jihomoravský kraj",
-            "pocet": 3035412
+            "pocet": 3378412
         },
         {
             "pomucka": "Roušky",
             "kraj": "Olomoucký kraj",
-            "pocet": 1584796
+            "pocet": 1592796
         },
         {
             "pomucka": "Roušky",
@@ -210,7 +210,7 @@
         {
             "pomucka": "Roušky",
             "kraj": "Moravskoslezský kraj",
-            "pocet": 2209078
+            "pocet": 2218078
         },
         {
             "pomucka": "Respirátory",
@@ -260,27 +260,27 @@
         {
             "pomucka": "Respirátory",
             "kraj": "Kraj Vysočina",
-            "pocet": 220517
+            "pocet": 226117
         },
         {
             "pomucka": "Respirátory",
             "kraj": "Jihomoravský kraj",
-            "pocet": 739699
+            "pocet": 791299
         },
         {
             "pomucka": "Respirátory",
             "kraj": "Olomoucký kraj",
-            "pocet": 357004
+            "pocet": 374704
         },
         {
             "pomucka": "Respirátory",
             "kraj": "Zlínský kraj",
-            "pocet": 265170
+            "pocet": 275470
         },
         {
             "pomucka": "Respirátory",
             "kraj": "Moravskoslezský kraj",
-            "pocet": 642801
+            "pocet": 671601
         },
         {
             "pomucka": "Odběrové sady",
@@ -330,12 +330,12 @@
         {
             "pomucka": "Odběrové sady",
             "kraj": "Kraj Vysočina",
-            "pocet": 9070
+            "pocet": 9870
         },
         {
             "pomucka": "Odběrové sady",
             "kraj": "Jihomoravský kraj",
-            "pocet": 126490
+            "pocet": 141290
         },
         {
             "pomucka": "Odběrové sady",
@@ -345,12 +345,12 @@
         {
             "pomucka": "Odběrové sady",
             "kraj": "Zlínský kraj",
-            "pocet": 9370
+            "pocet": 10370
         },
         {
             "pomucka": "Odběrové sady",
             "kraj": "Moravskoslezský kraj",
-            "pocet": 71770
+            "pocet": 76370
         },
         {
             "pomucka": "Rukavice",
@@ -400,27 +400,27 @@
         {
             "pomucka": "Rukavice",
             "kraj": "Kraj Vysočina",
-            "pocet": 276807
+            "pocet": 278007
         },
         {
             "pomucka": "Rukavice",
             "kraj": "Jihomoravský kraj",
-            "pocet": 761334
+            "pocet": 792534
         },
         {
             "pomucka": "Rukavice",
             "kraj": "Olomoucký kraj",
-            "pocet": 466258
+            "pocet": 471658
         },
         {
             "pomucka": "Rukavice",
             "kraj": "Zlínský kraj",
-            "pocet": 400963
+            "pocet": 416163
         },
         {
             "pomucka": "Rukavice",
             "kraj": "Moravskoslezský kraj",
-            "pocet": 717948
+            "pocet": 749348
         },
         {
             "pomucka": "Rychlotesty",
@@ -545,7 +545,7 @@
         {
             "pomucka": "Štíty",
             "kraj": "Jihomoravský kraj",
-            "pocet": 6107
+            "pocet": 6307
         },
         {
             "pomucka": "Štíty",
@@ -555,12 +555,12 @@
         {
             "pomucka": "Štíty",
             "kraj": "Zlínský kraj",
-            "pocet": 3680
+            "pocet": 3880
         },
         {
             "pomucka": "Štíty",
             "kraj": "Moravskoslezský kraj",
-            "pocet": 3618
+            "pocet": 3818
         },
         {
             "pomucka": "Ochranné oděvy",
@@ -610,27 +610,27 @@
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Kraj Vysočina",
-            "pocet": 8360
+            "pocet": 9860
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Jihomoravský kraj",
-            "pocet": 143386
+            "pocet": 184386
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Olomoucký kraj",
-            "pocet": 14885
+            "pocet": 15885
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Zlínský kraj",
-            "pocet": 41539
+            "pocet": 50189
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Moravskoslezský kraj",
-            "pocet": 93151
+            "pocet": 122901
         },
         {
             "pomucka": "Návleky na obuv",
@@ -680,12 +680,12 @@
         {
             "pomucka": "Návleky na obuv",
             "kraj": "Kraj Vysočina",
-            "pocet": 10800
+            "pocet": 11000
         },
         {
             "pomucka": "Návleky na obuv",
             "kraj": "Jihomoravský kraj",
-            "pocet": 16297
+            "pocet": 43497
         },
         {
             "pomucka": "Návleky na obuv",
@@ -695,7 +695,7 @@
         {
             "pomucka": "Návleky na obuv",
             "kraj": "Zlínský kraj",
-            "pocet": 3850
+            "pocet": 9550
         },
         {
             "pomucka": "Návleky na obuv",
@@ -825,12 +825,12 @@
         {
             "pomucka": "Filtry k polomaskám",
             "kraj": "Jihomoravský kraj",
-            "pocet": 5853
+            "pocet": 6293
         },
         {
             "pomucka": "Filtry k polomaskám",
             "kraj": "Olomoucký kraj",
-            "pocet": 2696
+            "pocet": 2956
         },
         {
             "pomucka": "Filtry k polomaskám",
@@ -840,7 +840,7 @@
         {
             "pomucka": "Filtry k polomaskám",
             "kraj": "Moravskoslezský kraj",
-            "pocet": 3168
+            "pocet": 3268
         },
         {
             "pomucka": "Teploměry",
@@ -915,77 +915,77 @@
         {
             "pomucka": "Termokamery",
             "kraj": "Hlavní město Praha",
-            "pocet": 47
+            "pocet": 74
         },
         {
             "pomucka": "Termokamery",
             "kraj": "Středočeský kraj",
-            "pocet": 20
+            "pocet": 31
         },
         {
             "pomucka": "Termokamery",
             "kraj": "Jihočeský kraj",
-            "pocet": 20
+            "pocet": 23
         },
         {
             "pomucka": "Termokamery",
             "kraj": "Plzeňský kraj",
-            "pocet": 20
+            "pocet": 32
         },
         {
             "pomucka": "Termokamery",
             "kraj": "Karlovarský kraj",
-            "pocet": 20
+            "pocet": 22
         },
         {
             "pomucka": "Termokamery",
             "kraj": "Ústecký kraj",
-            "pocet": 20
+            "pocet": 31
         },
         {
             "pomucka": "Termokamery",
             "kraj": "Liberecký kraj",
-            "pocet": 20
+            "pocet": 21
         },
         {
             "pomucka": "Termokamery",
             "kraj": "Královéhradecký kraj",
-            "pocet": 20
+            "pocet": 23
         },
         {
             "pomucka": "Termokamery",
             "kraj": "Pardubický kraj",
-            "pocet": 20
+            "pocet": 22
         },
         {
             "pomucka": "Termokamery",
             "kraj": "Kraj Vysočina",
-            "pocet": 20
+            "pocet": 39
         },
         {
             "pomucka": "Termokamery",
             "kraj": "Jihomoravský kraj",
-            "pocet": 20
+            "pocet": 41
         },
         {
             "pomucka": "Termokamery",
             "kraj": "Olomoucký kraj",
-            "pocet": 20
+            "pocet": 32
         },
         {
             "pomucka": "Termokamery",
             "kraj": "Zlínský kraj",
-            "pocet": 20
+            "pocet": 29
         },
         {
             "pomucka": "Termokamery",
             "kraj": "Moravskoslezský kraj",
-            "pocet": 20
+            "pocet": 36
         },
         {
             "pomucka": "Plicní ventilátory",
             "kraj": "Hlavní město Praha",
-            "pocet": 25
+            "pocet": 63
         },
         {
             "pomucka": "Plicní ventilátory",
@@ -1000,7 +1000,7 @@
         {
             "pomucka": "Plicní ventilátory",
             "kraj": "Plzeňský kraj",
-            "pocet": 2
+            "pocet": 8
         },
         {
             "pomucka": "Plicní ventilátory",
@@ -1035,12 +1035,12 @@
         {
             "pomucka": "Plicní ventilátory",
             "kraj": "Jihomoravský kraj",
-            "pocet": 2
+            "pocet": 22
         },
         {
             "pomucka": "Plicní ventilátory",
             "kraj": "Olomoucký kraj",
-            "pocet": 5
+            "pocet": 9
         },
         {
             "pomucka": "Plicní ventilátory",
@@ -1050,7 +1050,7 @@
         {
             "pomucka": "Plicní ventilátory",
             "kraj": "Moravskoslezský kraj",
-            "pocet": 2
+            "pocet": 10
         },
         {
             "pomucka": "Příslušenství k plicním ventilátorům",
@@ -1070,7 +1070,7 @@
         {
             "pomucka": "Příslušenství k plicním ventilátorům",
             "kraj": "Plzeňský kraj",
-            "pocet": 5
+            "pocet": 11
         },
         {
             "pomucka": "Příslušenství k plicním ventilátorům",
