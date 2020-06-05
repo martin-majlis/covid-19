@@ -1,5 +1,5 @@
 {
-    "modified": "2020-06-04T09:03:59+02:00",
+    "modified": "2020-06-05T09:07:59+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -25,17 +25,17 @@
         {
             "pomucka": "Brýle",
             "kraj": "Karlovarský kraj",
-            "pocet": 1660
+            "pocet": 1710
         },
         {
             "pomucka": "Brýle",
             "kraj": "Ústecký kraj",
-            "pocet": 3403
+            "pocet": 3613
         },
         {
             "pomucka": "Brýle",
             "kraj": "Liberecký kraj",
-            "pocet": 1835
+            "pocet": 1895
         },
         {
             "pomucka": "Brýle",
@@ -45,7 +45,7 @@
         {
             "pomucka": "Brýle",
             "kraj": "Pardubický kraj",
-            "pocet": 2605
+            "pocet": 2805
         },
         {
             "pomucka": "Brýle",
@@ -160,32 +160,32 @@
         {
             "pomucka": "Roušky",
             "kraj": "Plzeňský kraj",
-            "pocet": 2644061
+            "pocet": 2861061
         },
         {
             "pomucka": "Roušky",
             "kraj": "Karlovarský kraj",
-            "pocet": 646855
+            "pocet": 700855
         },
         {
             "pomucka": "Roušky",
             "kraj": "Ústecký kraj",
-            "pocet": 1272016
+            "pocet": 1293016
         },
         {
             "pomucka": "Roušky",
             "kraj": "Liberecký kraj",
-            "pocet": 738900
+            "pocet": 762900
         },
         {
             "pomucka": "Roušky",
             "kraj": "Královéhradecký kraj",
-            "pocet": 1555835
+            "pocet": 1763835
         },
         {
             "pomucka": "Roušky",
             "kraj": "Pardubický kraj",
-            "pocet": 893219
+            "pocet": 905219
         },
         {
             "pomucka": "Roušky",
@@ -230,32 +230,32 @@
         {
             "pomucka": "Respirátory",
             "kraj": "Plzeňský kraj",
-            "pocet": 732547
+            "pocet": 816297
         },
         {
             "pomucka": "Respirátory",
             "kraj": "Karlovarský kraj",
-            "pocet": 175112
+            "pocet": 186962
         },
         {
             "pomucka": "Respirátory",
             "kraj": "Ústecký kraj",
-            "pocet": 386096
+            "pocet": 393596
         },
         {
             "pomucka": "Respirátory",
             "kraj": "Liberecký kraj",
-            "pocet": 195090
+            "pocet": 197490
         },
         {
             "pomucka": "Respirátory",
             "kraj": "Královéhradecký kraj",
-            "pocet": 615425
+            "pocet": 710425
         },
         {
             "pomucka": "Respirátory",
             "kraj": "Pardubický kraj",
-            "pocet": 323530
+            "pocet": 344380
         },
         {
             "pomucka": "Respirátory",
@@ -300,32 +300,32 @@
         {
             "pomucka": "Odběrové sady",
             "kraj": "Plzeňský kraj",
-            "pocet": 42580
+            "pocet": 56580
         },
         {
             "pomucka": "Odběrové sady",
             "kraj": "Karlovarský kraj",
-            "pocet": 22390
+            "pocet": 28890
         },
         {
             "pomucka": "Odběrové sady",
             "kraj": "Ústecký kraj",
-            "pocet": 23778
+            "pocet": 24378
         },
         {
             "pomucka": "Odběrové sady",
             "kraj": "Liberecký kraj",
-            "pocet": 18100
+            "pocet": 22100
         },
         {
             "pomucka": "Odběrové sady",
             "kraj": "Královéhradecký kraj",
-            "pocet": 14130
+            "pocet": 26130
         },
         {
             "pomucka": "Odběrové sady",
             "kraj": "Pardubický kraj",
-            "pocet": 14280
+            "pocet": 19280
         },
         {
             "pomucka": "Odběrové sady",
@@ -370,32 +370,32 @@
         {
             "pomucka": "Rukavice",
             "kraj": "Plzeňský kraj",
-            "pocet": 1187461
+            "pocet": 1207861
         },
         {
             "pomucka": "Rukavice",
             "kraj": "Karlovarský kraj",
-            "pocet": 154604
+            "pocet": 180804
         },
         {
             "pomucka": "Rukavice",
             "kraj": "Ústecký kraj",
-            "pocet": 588983
+            "pocet": 594583
         },
         {
             "pomucka": "Rukavice",
             "kraj": "Liberecký kraj",
-            "pocet": 259269
+            "pocet": 264269
         },
         {
             "pomucka": "Rukavice",
             "kraj": "Královéhradecký kraj",
-            "pocet": 693324
+            "pocet": 694924
         },
         {
             "pomucka": "Rukavice",
             "kraj": "Pardubický kraj",
-            "pocet": 312804
+            "pocet": 328604
         },
         {
             "pomucka": "Rukavice",
@@ -515,17 +515,17 @@
         {
             "pomucka": "Štíty",
             "kraj": "Karlovarský kraj",
-            "pocet": 2815
+            "pocet": 3015
         },
         {
             "pomucka": "Štíty",
             "kraj": "Ústecký kraj",
-            "pocet": 3569
+            "pocet": 3869
         },
         {
             "pomucka": "Štíty",
             "kraj": "Liberecký kraj",
-            "pocet": 1725
+            "pocet": 1925
         },
         {
             "pomucka": "Štíty",
@@ -535,7 +535,7 @@
         {
             "pomucka": "Štíty",
             "kraj": "Pardubický kraj",
-            "pocet": 3790
+            "pocet": 4390
         },
         {
             "pomucka": "Štíty",
@@ -580,32 +580,32 @@
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Plzeňský kraj",
-            "pocet": 175465
+            "pocet": 258265
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Karlovarský kraj",
-            "pocet": 26349
+            "pocet": 42849
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Ústecký kraj",
-            "pocet": 52114
+            "pocet": 53664
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Liberecký kraj",
-            "pocet": 15540
+            "pocet": 17040
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Královéhradecký kraj",
-            "pocet": 49549
+            "pocet": 73949
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Pardubický kraj",
-            "pocet": 37743
+            "pocet": 48043
         },
         {
             "pomucka": "Ochranné oděvy",
@@ -660,7 +660,7 @@
         {
             "pomucka": "Návleky na obuv",
             "kraj": "Ústecký kraj",
-            "pocet": 10520
+            "pocet": 10620
         },
         {
             "pomucka": "Návleky na obuv",
@@ -670,12 +670,12 @@
         {
             "pomucka": "Návleky na obuv",
             "kraj": "Královéhradecký kraj",
-            "pocet": 500
+            "pocet": 1100
         },
         {
             "pomucka": "Návleky na obuv",
             "kraj": "Pardubický kraj",
-            "pocet": 10480
+            "pocet": 15780
         },
         {
             "pomucka": "Návleky na obuv",
@@ -790,7 +790,7 @@
         {
             "pomucka": "Filtry k polomaskám",
             "kraj": "Plzeňský kraj",
-            "pocet": 2639
+            "pocet": 2839
         },
         {
             "pomucka": "Filtry k polomaskám",
@@ -810,7 +810,7 @@
         {
             "pomucka": "Filtry k polomaskám",
             "kraj": "Královéhradecký kraj",
-            "pocet": 2484
+            "pocet": 2664
         },
         {
             "pomucka": "Filtry k polomaskám",
