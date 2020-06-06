@@ -8,6 +8,7 @@ import json
 import sys
 from collections import defaultdict
 from datetime import datetime
+from typing import Any
 from typing import Dict
 from datetime import date
 
@@ -31,6 +32,20 @@ def transform(root_dir: str, source_dir: str, target_dir: str) -> None:
     pomucky = set()
     kraje = set()
 
+    def extract_kraj(rec: Dict[str, Any]) -> str:
+        if 'kraj' in rec:
+            return rec['kraj']
+        elif 'kraj_nuts_kod' in rec:
+            # 2020-05-16
+            return rec['kraj_nuts_kod']
+        assert False, f"Unknown kraj in {rec}"
+
+    def extract_pocet(rec: Dict[str, Any]) -> int:
+        for k in ['pocet', 'mnozstvi']:
+            if k in rec:
+                return int(rec[k]) if rec[k] else 0
+        assert False, f"Unknown pocet in {rec}"
+
     for commit in RepositoryMining(root_dir, only_commits=commits).traverse_commits():
         print(f"{commit.msg}: {commit}")
         for m in commit.modifications:
@@ -40,9 +55,11 @@ def transform(root_dir: str, source_dir: str, target_dir: str) -> None:
                 dates.add(d.date())
                 for rec in payload['data']:
                     pomucky.add(rec['pomucka'])
-                    kraje.add(rec['kraj'])
-                    if rec['pocet']:
-                        stats[d.date()][rec['kraj']][rec['pomucka']] = int(rec['pocet'])
+                    kraj = extract_kraj(rec)
+                    pocet = extract_pocet(rec)
+                    kraje.add(kraj)
+                    if pocet:
+                        stats[d.date()][kraj][rec['pomucka']] = pocet
 
     last_date = sorted(dates)[-1]
 
