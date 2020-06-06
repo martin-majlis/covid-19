@@ -87,8 +87,12 @@ download-CSSEGI:
 transform-CSSEGISandData-COVID:
 	$(PYTHON) ./scripts/transform-CSSEGISandData-COVID-19.py
 
-transform-oa-mzcr-covid:
+transform-oa-mzcr-covid: transform-oa-mzcr-covid-web transform-oa-mzcr-covid-pomucky
+
+transform-oa-mzcr-covid-pomucky:
 	$(PYTHON) ./scripts/transform_oa_mzcr_covid.py $(DIR_ROOT) $(DIR_MZCR_V1) $(DIR_DERIVED_MZCR)
+
+transform-oa-mzcr-covid-web:
 	cat $(DIR_MZCR_V1)covid-19.html | \
 	tr '\n' ' ' | \
 	sed -r 's/^\s+//g;s/(\[|\]|\}|\{)/\n\1\n/g;s/>/>\n/g;s/</\n</g;s/^\s+//g' > $(DIR_DERIVED_MZCR)covid-19.html
