@@ -1,5 +1,5 @@
 {
-    "modified": "2020-06-10T09:00:06+02:00",
+    "modified": "2020-06-10T17:30:06+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -8,15 +8,6 @@
             "Pohlavi": "M",
             "KHS": "CZ041",
             "OkresKodBydliste": "CZ0411",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-08",
-            "Vek": "32",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0427",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -30,11 +21,11 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-03",
-            "Vek": "20",
+            "DatumHlaseni": "2020-04-08",
+            "Vek": "32",
             "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0427",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -44,6 +35,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ020",
             "OkresKodBydliste": "CZ0203",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-03",
+            "Vek": "20",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -66,9 +66,9 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-16",
-            "Vek": "35",
-            "Pohlavi": "Z",
+            "DatumHlaseni": "2020-04-20",
+            "Vek": "2",
+            "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
             "Import": "0",
@@ -84,11 +84,38 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-06-05",
-            "Vek": "53",
+            "DatumHlaseni": "2020-04-06",
+            "Vek": "58",
+            "Pohlavi": "M",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0423",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-16",
+            "Vek": "35",
             "Pohlavi": "Z",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0412",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-10",
+            "Vek": "35",
+            "Pohlavi": "M",
+            "KHS": "CZ032",
+            "OkresKodBydliste": "CZ0327",
+            "Import": "1",
+            "ImportZemeCsuKod": "DE"
+        },
+        {
+            "DatumHlaseni": "2020-04-05",
+            "Vek": "56",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0423",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -111,51 +138,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-20",
-            "Vek": "2",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-06",
-            "Vek": "58",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0423",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-10",
-            "Vek": "35",
-            "Pohlavi": "M",
-            "KHS": "CZ032",
-            "OkresKodBydliste": "CZ0327",
-            "Import": "1",
-            "ImportZemeCsuKod": "DE"
-        },
-        {
-            "DatumHlaseni": "2020-04-29",
-            "Vek": "28",
-            "Pohlavi": "Z",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0802",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-05",
-            "Vek": "56",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0423",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-03",
             "Vek": "60",
             "Pohlavi": "Z",
@@ -165,29 +147,20 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-28",
-            "Vek": "12",
-            "Pohlavi": "M",
-            "KHS": "CZ032",
-            "OkresKodBydliste": "CZ0326",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-03",
-            "Vek": "37",
+            "DatumHlaseni": "2020-06-05",
+            "Vek": "53",
             "Pohlavi": "Z",
             "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0411",
+            "OkresKodBydliste": "CZ0412",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-19",
-            "Vek": "32",
-            "Pohlavi": "M",
+            "DatumHlaseni": "2020-04-29",
+            "Vek": "28",
+            "Pohlavi": "Z",
             "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0803",
+            "OkresKodBydliste": "CZ0802",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -201,29 +174,20 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-03",
-            "Vek": "42",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0423",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-04",
-            "Vek": "59",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0427",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-06-05",
             "Vek": "69",
             "Pohlavi": "M",
             "KHS": "CZ041",
             "OkresKodBydliste": "CZ0411",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-28",
+            "Vek": "12",
+            "Pohlavi": "M",
+            "KHS": "CZ032",
+            "OkresKodBydliste": "CZ0326",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -251,6 +215,15 @@
             "Pohlavi": "M",
             "KHS": "CZ041",
             "OkresKodBydliste": "CZ0413",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-03",
+            "Vek": "37",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0411",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -273,47 +246,11 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-20",
-            "Vek": "36",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-07",
             "Vek": "20",
             "Pohlavi": "M",
             "KHS": "CZ042",
             "OkresKodBydliste": "CZ0423",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-08",
-            "Vek": "26",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0427",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-06-05",
-            "Vek": "36",
-            "Pohlavi": "M",
-            "KHS": "CZ064",
-            "OkresKodBydliste": "CZ0643",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-26",
-            "Vek": "79",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0803",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -327,29 +264,20 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-06",
-            "Vek": "48",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-03",
-            "Vek": "47",
-            "Pohlavi": "M",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0411",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-17",
             "Vek": "48",
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-26",
+            "Vek": "79",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -363,8 +291,44 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-28",
-            "Vek": "24",
+            "DatumHlaseni": "2020-03-20",
+            "Vek": "36",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-05",
+            "Vek": "36",
+            "Pohlavi": "M",
+            "KHS": "CZ064",
+            "OkresKodBydliste": "CZ0643",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-08",
+            "Vek": "26",
+            "Pohlavi": "M",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0427",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-13",
+            "Vek": "29",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0421",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-06",
+            "Vek": "48",
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
@@ -381,11 +345,38 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-06",
+            "Vek": "27",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0423",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-19",
+            "Vek": "32",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-03",
             "Vek": "51",
             "Pohlavi": "Z",
             "KHS": "CZ042",
             "OkresKodBydliste": "CZ0422",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-05",
+            "Vek": "24",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0423",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -408,53 +399,26 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-06",
+            "DatumHlaseni": "2020-04-03",
+            "Vek": "42",
+            "Pohlavi": "M",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0423",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-28",
             "Vek": "27",
             "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0423",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-05",
-            "Vek": "24",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0423",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-22",
-            "Vek": "46",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-13",
-            "Vek": "29",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0421",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-20",
-            "Vek": "47",
-            "Pohlavi": "M",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0803",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-03",
-            "Vek": "5",
+            "DatumHlaseni": "2020-04-04",
+            "Vek": "59",
             "Pohlavi": "Z",
             "KHS": "CZ042",
             "OkresKodBydliste": "CZ0427",
@@ -462,13 +426,31 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-03",
-            "Vek": "49",
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "83",
             "Pohlavi": "Z",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0413",
-            "Import": "1",
-            "ImportZemeCsuKod": "DE"
+            "KHS": "CZ064",
+            "OkresKodBydliste": "CZ0642",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-28",
+            "Vek": "24",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-17",
+            "Vek": "43",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
         },
         {
             "DatumHlaseni": "2020-04-04",
@@ -480,27 +462,18 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-19",
-            "Vek": "19",
+            "DatumHlaseni": "2020-04-21",
+            "Vek": "46",
             "Pohlavi": "Z",
-            "KHS": "CZ053",
-            "OkresKodBydliste": "CZ0531",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0412",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-03",
-            "Vek": "51",
+            "DatumHlaseni": "2020-04-22",
+            "Vek": "46",
             "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0427",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-20",
-            "Vek": "33",
-            "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
             "Import": "0",
@@ -516,11 +489,11 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-28",
-            "Vek": "27",
-            "Pohlavi": "Z",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0803",
+            "DatumHlaseni": "2020-04-04",
+            "Vek": "30",
+            "Pohlavi": "M",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0427",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -534,56 +507,29 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-03",
-            "Vek": "83",
-            "Pohlavi": "Z",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0411",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-17",
-            "Vek": "43",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-11",
-            "Vek": "35",
-            "Pohlavi": "M",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0202",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-21",
-            "Vek": "46",
-            "Pohlavi": "Z",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0412",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-02",
-            "Vek": "24",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-23",
-            "Vek": "41",
+            "DatumHlaseni": "2020-05-20",
+            "Vek": "47",
             "Pohlavi": "M",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0803",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-03",
+            "Vek": "44",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0427",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-03",
+            "Vek": "5",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0427",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -597,76 +543,13 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-07",
-            "Vek": "43",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-04",
-            "Vek": "30",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0427",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-04",
-            "Vek": "63",
+            "DatumHlaseni": "2020-04-06",
+            "Vek": "1",
             "Pohlavi": "Z",
             "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0427",
+            "OkresKodBydliste": "CZ0423",
             "Import": "0",
             "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-03",
-            "Vek": "44",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0427",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-15",
-            "Vek": "37",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-05",
-            "Vek": "61",
-            "Pohlavi": "M",
-            "KHS": "CZ032",
-            "OkresKodBydliste": "CZ0323",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-01",
-            "Vek": "37",
-            "Pohlavi": "Z",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0802",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-18",
-            "Vek": "23",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0421",
-            "Import": "1",
-            "ImportZemeCsuKod": "GB"
         },
         {
             "DatumHlaseni": "2020-05-30",
@@ -678,29 +561,20 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-06",
-            "Vek": "1",
+            "DatumHlaseni": "2020-04-04",
+            "Vek": "63",
             "Pohlavi": "Z",
             "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0423",
+            "OkresKodBydliste": "CZ0427",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-30",
-            "Vek": "94",
+            "DatumHlaseni": "2020-04-19",
+            "Vek": "19",
             "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-30",
-            "Vek": "63",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
+            "KHS": "CZ053",
+            "OkresKodBydliste": "CZ0531",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -723,42 +597,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-21",
-            "Vek": "46",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-30",
-            "Vek": "66",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0802",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-08",
-            "Vek": "52",
-            "Pohlavi": "Z",
-            "KHS": "CZ032",
-            "OkresKodBydliste": "CZ0321",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-06-05",
-            "Vek": "72",
-            "Pohlavi": "M",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0412",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-02",
             "Vek": "56",
             "Pohlavi": "M",
@@ -768,11 +606,47 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-11",
-            "Vek": "11",
+            "DatumHlaseni": "2020-04-21",
+            "Vek": "46",
             "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-03",
+            "Vek": "51",
+            "Pohlavi": "Z",
             "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0426",
+            "OkresKodBydliste": "CZ0427",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-18",
+            "Vek": "23",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0421",
+            "Import": "1",
+            "ImportZemeCsuKod": "GB"
+        },
+        {
+            "DatumHlaseni": "2020-04-03",
+            "Vek": "47",
+            "Pohlavi": "M",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0411",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-11",
+            "Vek": "35",
+            "Pohlavi": "M",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0202",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -782,6 +656,42 @@
             "Pohlavi": "Z",
             "KHS": "CZ064",
             "OkresKodBydliste": "CZ0642",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-23",
+            "Vek": "41",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-02",
+            "Vek": "24",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-05",
+            "Vek": "61",
+            "Pohlavi": "M",
+            "KHS": "CZ032",
+            "OkresKodBydliste": "CZ0323",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-08",
+            "Vek": "52",
+            "Pohlavi": "Z",
+            "KHS": "CZ032",
+            "OkresKodBydliste": "CZ0321",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -796,6 +706,15 @@
         },
         {
             "DatumHlaseni": "2020-04-06",
+            "Vek": "63",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-06",
             "Vek": "59",
             "Pohlavi": "Z",
             "KHS": "CZ020",
@@ -804,20 +723,38 @@
             "ImportZemeCsuKod": "PT"
         },
         {
-            "DatumHlaseni": "2020-06-04",
-            "Vek": "45",
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "26",
             "Pohlavi": "Z",
-            "KHS": "CZ064",
-            "OkresKodBydliste": "CZ0642",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0411",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-06-08",
-            "Vek": "88",
+            "DatumHlaseni": "2020-05-01",
+            "Vek": "37",
             "Pohlavi": "Z",
             "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0803",
+            "OkresKodBydliste": "CZ0802",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "44",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0411",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-15",
+            "Vek": "37",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -831,11 +768,137 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-06",
-            "Vek": "63",
+            "DatumHlaseni": "2020-04-30",
+            "Vek": "94",
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-08",
+            "Vek": "38",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-11",
+            "Vek": "11",
+            "Pohlavi": "M",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0426",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-05",
+            "Vek": "72",
+            "Pohlavi": "M",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0412",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-18",
+            "Vek": "73",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0422",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-08",
+            "Vek": "85",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0413",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-04",
+            "Vek": "47",
+            "Pohlavi": "M",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0412",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-03",
+            "Vek": "49",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0413",
+            "Import": "1",
+            "ImportZemeCsuKod": "DE"
+        },
+        {
+            "DatumHlaseni": "2020-04-22",
+            "Vek": "36",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-30",
+            "Vek": "32",
+            "Pohlavi": "M",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0411",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-20",
+            "Vek": "33",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-03",
+            "Vek": "83",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0411",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-10",
+            "Vek": "93",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0423",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-04",
+            "Vek": "45",
+            "Pohlavi": "Z",
+            "KHS": "CZ064",
+            "OkresKodBydliste": "CZ0642",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-08",
+            "Vek": "46",
+            "Pohlavi": "M",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ020A",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -849,6 +912,33 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-08",
+            "Vek": "54",
+            "Pohlavi": "M",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0427",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-06",
+            "Vek": "29",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0423",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-07",
+            "Vek": "43",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-13",
             "Vek": "34",
             "Pohlavi": "Z",
@@ -858,29 +948,20 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-02",
-            "Vek": "69",
-            "Pohlavi": "M",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0412",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-06-04",
-            "Vek": "24",
+            "DatumHlaseni": "2020-04-11",
+            "Vek": "42",
             "Pohlavi": "Z",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0411",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0206",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-08",
-            "Vek": "46",
-            "Pohlavi": "M",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ020A",
+            "DatumHlaseni": "2020-04-09",
+            "Vek": "58",
+            "Pohlavi": "Z",
+            "KHS": "CZ032",
+            "OkresKodBydliste": "CZ0321",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -903,20 +984,11 @@
             "ImportZemeCsuKod": "IT"
         },
         {
-            "DatumHlaseni": "2020-04-08",
-            "Vek": "38",
+            "DatumHlaseni": "2020-06-04",
+            "Vek": "24",
             "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-10",
-            "Vek": "93",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0423",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0411",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -924,15 +996,6 @@
             "DatumHlaseni": "2020-03-31",
             "Vek": "41",
             "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-03",
-            "Vek": "45",
-            "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
             "Import": "0",
@@ -948,209 +1011,20 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-29",
-            "Vek": "60",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0802",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-18",
-            "Vek": "73",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0422",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-04",
-            "Vek": "47",
-            "Pohlavi": "M",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0412",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-22",
-            "Vek": "36",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-30",
-            "Vek": "32",
-            "Pohlavi": "M",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0411",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-08",
-            "Vek": "85",
-            "Pohlavi": "Z",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0413",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-09",
-            "Vek": "58",
-            "Pohlavi": "Z",
-            "KHS": "CZ032",
-            "OkresKodBydliste": "CZ0321",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-10",
-            "Vek": "72",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0423",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-29",
-            "Vek": "78",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0806",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-24",
-            "Vek": "5",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-30",
-            "Vek": "47",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-08",
-            "Vek": "54",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0427",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-17",
-            "Vek": "40",
-            "Pohlavi": "Z",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0411",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-06",
-            "Vek": "29",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0423",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-11",
-            "Vek": "42",
-            "Pohlavi": "Z",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0206",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-02",
-            "Vek": "6",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0427",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-06",
-            "Vek": "52",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0423",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-06-07",
-            "Vek": "73",
-            "Pohlavi": "Z",
-            "KHS": "CZ064",
-            "OkresKodBydliste": "CZ0642",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-21",
-            "Vek": "44",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0423",
-            "Import": "1",
-            "ImportZemeCsuKod": "AT"
-        },
-        {
-            "DatumHlaseni": "2020-04-04",
-            "Vek": "62",
-            "Pohlavi": "M",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0411",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-18",
-            "Vek": "32",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0803",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-13",
-            "Vek": "49",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "1",
-            "ImportZemeCsuKod": "AT"
-        },
-        {
             "DatumHlaseni": "2020-05-15",
             "Vek": "64",
             "Pohlavi": "Z",
             "KHS": "CZ041",
             "OkresKodBydliste": "CZ0411",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-30",
+            "Vek": "63",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -1164,11 +1038,20 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-06-05",
-            "Vek": "56",
-            "Pohlavi": "Z",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0411",
+            "DatumHlaseni": "2020-04-29",
+            "Vek": "60",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0802",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-30",
+            "Vek": "66",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0802",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -1191,18 +1074,36 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-25",
-            "Vek": "30",
-            "Pohlavi": "Z",
-            "KHS": "CZ064",
-            "OkresKodBydliste": "CZ0644",
+            "DatumHlaseni": "2020-04-06",
+            "Vek": "52",
+            "Pohlavi": "M",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0423",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-22",
+            "DatumHlaseni": "2020-04-04",
+            "Vek": "62",
+            "Pohlavi": "M",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0411",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-24",
+            "Vek": "5",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-30",
             "Vek": "47",
-            "Pohlavi": "Z",
+            "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
             "Import": "0",
@@ -1218,6 +1119,51 @@
             "ImportZemeCsuKod": "AT"
         },
         {
+            "DatumHlaseni": "2020-06-05",
+            "Vek": "56",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0411",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-17",
+            "Vek": "40",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0411",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-22",
+            "Vek": "47",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-03",
+            "Vek": "45",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-02",
+            "Vek": "6",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0427",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-07",
             "Vek": "45",
             "Pohlavi": "Z",
@@ -1227,29 +1173,47 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-18",
-            "Vek": "44",
+            "DatumHlaseni": "2020-03-13",
+            "Vek": "49",
             "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0803",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "1",
+            "ImportZemeCsuKod": "AT"
         },
         {
-            "DatumHlaseni": "2020-05-29",
-            "Vek": "34",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0803",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-09",
-            "Vek": "45",
+            "DatumHlaseni": "2020-04-10",
+            "Vek": "72",
             "Pohlavi": "M",
             "KHS": "CZ042",
             "OkresKodBydliste": "CZ0423",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-29",
+            "Vek": "78",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0806",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "60",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0411",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-18",
+            "Vek": "32",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -1263,29 +1227,11 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-06-09",
-            "Vek": "30",
-            "Pohlavi": "Z",
-            "KHS": "CZ031",
-            "OkresKodBydliste": "CZ0314",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-22",
-            "Vek": "34",
+            "DatumHlaseni": "2020-04-09",
+            "Vek": "45",
             "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-01",
-            "Vek": "56",
-            "Pohlavi": "Z",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0411",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0423",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -1295,6 +1241,15 @@
             "Pohlavi": "M",
             "KHS": "CZ042",
             "OkresKodBydliste": "CZ0423",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "40",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0411",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -1335,20 +1290,20 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-05-01",
+            "Vek": "56",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0411",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-05-05",
             "Vek": "44",
             "Pohlavi": "Z",
             "KHS": "CZ032",
             "OkresKodBydliste": "CZ0324",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-31",
-            "Vek": "32",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -1371,6 +1326,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-03-31",
+            "Vek": "32",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-09",
             "Vek": "19",
             "Pohlavi": "Z",
@@ -1380,20 +1344,20 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-15",
-            "Vek": "26",
-            "Pohlavi": "M",
-            "KHS": "CZ032",
-            "OkresKodBydliste": "CZ0321",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-04",
             "Vek": "17",
             "Pohlavi": "Z",
             "KHS": "CZ042",
             "OkresKodBydliste": "CZ0427",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-15",
+            "Vek": "26",
+            "Pohlavi": "M",
+            "KHS": "CZ032",
+            "OkresKodBydliste": "CZ0321",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -1605,15 +1569,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-11",
-            "Vek": "32",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-15",
             "Vek": "61",
             "Pohlavi": "M",
@@ -1648,6 +1603,15 @@
             "OkresKodBydliste": "CZ0724",
             "Import": "1",
             "ImportZemeCsuKod": "IT"
+        },
+        {
+            "DatumHlaseni": "2020-04-11",
+            "Vek": "32",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
         },
         {
             "DatumHlaseni": "2020-03-24",
@@ -2847,6 +2811,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-14",
+            "Vek": "46",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0806",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-21",
             "Vek": "83",
             "Pohlavi": "Z",
@@ -2879,15 +2852,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0801",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-14",
-            "Vek": "46",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0806",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -5925,6 +5889,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-02",
+            "Vek": "28",
+            "Pohlavi": "M",
+            "KHS": "CZ072",
+            "OkresKodBydliste": "CZ0724",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-16",
             "Vek": "67",
             "Pohlavi": "Z",
@@ -5939,6 +5912,15 @@
             "Pohlavi": "M",
             "KHS": "CZ020",
             "OkresKodBydliste": "CZ020B",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-09",
+            "Vek": "49",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0806",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -5959,15 +5941,6 @@
             "OkresKodBydliste": "CZ0206",
             "Import": "1",
             "ImportZemeCsuKod": "IT"
-        },
-        {
-            "DatumHlaseni": "2020-04-02",
-            "Vek": "28",
-            "Pohlavi": "M",
-            "KHS": "CZ072",
-            "OkresKodBydliste": "CZ0724",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
         },
         {
             "DatumHlaseni": "2020-05-20",
@@ -6051,15 +6024,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-21",
-            "Vek": "38",
-            "Pohlavi": "Z",
-            "KHS": "CZ071",
-            "OkresKodBydliste": "CZ0714",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-24",
             "Vek": "78",
             "Pohlavi": "M",
@@ -6092,6 +6056,15 @@
             "Pohlavi": "M",
             "KHS": "CZ020",
             "OkresKodBydliste": "CZ0209",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-21",
+            "Vek": "38",
+            "Pohlavi": "Z",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0714",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -6519,15 +6492,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-18",
-            "Vek": "49",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0803",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-04",
             "Vek": "36",
             "Pohlavi": "M",
@@ -6569,6 +6533,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ041",
             "OkresKodBydliste": "CZ0411",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-18",
+            "Vek": "49",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -7721,6 +7694,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ064",
             "OkresKodBydliste": "CZ0646",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "93",
+            "Pohlavi": "Z",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0712",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -9831,6 +9813,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-18",
+            "Vek": "93",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-20",
             "Vek": "72",
             "Pohlavi": "Z",
@@ -9901,15 +9892,6 @@
             "OkresKodBydliste": "CZ0421",
             "Import": "1",
             "ImportZemeCsuKod": "IT"
-        },
-        {
-            "DatumHlaseni": "2020-04-18",
-            "Vek": "93",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
         },
         {
             "DatumHlaseni": "2020-04-08",
@@ -9984,6 +9966,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-03-29",
+            "Vek": "39",
+            "Pohlavi": "Z",
+            "KHS": "CZ064",
+            "OkresKodBydliste": "CZ0642",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-03",
             "Vek": "80",
             "Pohlavi": "Z",
@@ -10025,15 +10016,6 @@
             "Pohlavi": "M",
             "KHS": "CZ072",
             "OkresKodBydliste": "CZ0722",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-29",
-            "Vek": "39",
-            "Pohlavi": "Z",
-            "KHS": "CZ064",
-            "OkresKodBydliste": "CZ0642",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -10335,15 +10317,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-20",
-            "Vek": "47",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0803",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-01",
             "Vek": "62",
             "Pohlavi": "M",
@@ -10457,6 +10430,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-20",
+            "Vek": "47",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -10578,6 +10560,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-07",
+            "Vek": "57",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0805",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-17",
             "Vek": "51",
             "Pohlavi": "Z",
@@ -10655,15 +10646,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-07",
-            "Vek": "57",
-            "Pohlavi": "Z",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0805",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -10893,15 +10875,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-04",
-            "Vek": "71",
-            "Pohlavi": "Z",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0209",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-14",
             "Vek": "26",
             "Pohlavi": "M",
@@ -10943,6 +10916,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ042",
             "OkresKodBydliste": "CZ0421",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-04",
+            "Vek": "71",
+            "Pohlavi": "Z",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0209",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -11492,6 +11474,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "70",
+            "Pohlavi": "Z",
+            "KHS": "CZ053",
+            "OkresKodBydliste": "CZ0533",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -12531,6 +12522,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-09",
+            "Vek": "23",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-18",
             "Vek": "53",
             "Pohlavi": "Z",
@@ -12972,11 +12972,29 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-09",
+            "Vek": "51",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-03",
             "Vek": "81",
             "Pohlavi": "Z",
             "KHS": "CZ064",
             "OkresKodBydliste": "CZ0647",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-29",
+            "Vek": "49",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -13013,15 +13031,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0805",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-29",
-            "Vek": "49",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -13382,6 +13391,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0805",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-09",
+            "Vek": "51",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -14385,6 +14403,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "49",
+            "Pohlavi": "Z",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0712",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-05-11",
             "Vek": "76",
             "Pohlavi": "Z",
@@ -14556,15 +14583,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-16",
-            "Vek": "32",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-04",
             "Vek": "51",
             "Pohlavi": "Z",
@@ -14603,6 +14621,15 @@
         {
             "DatumHlaseni": "2020-03-30",
             "Vek": "61",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-16",
+            "Vek": "32",
             "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
@@ -14980,6 +15007,15 @@
         },
         {
             "DatumHlaseni": "2020-03-30",
+            "Vek": "49",
+            "Pohlavi": "M",
+            "KHS": "CZ032",
+            "OkresKodBydliste": "CZ0321",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-30",
             "Vek": "44",
             "Pohlavi": "M",
             "KHS": "CZ042",
@@ -15017,15 +15053,6 @@
         {
             "DatumHlaseni": "2020-04-18",
             "Vek": "68",
-            "Pohlavi": "M",
-            "KHS": "CZ032",
-            "OkresKodBydliste": "CZ0321",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-30",
-            "Vek": "49",
             "Pohlavi": "M",
             "KHS": "CZ032",
             "OkresKodBydliste": "CZ0321",
@@ -16113,6 +16140,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-05",
+            "Vek": "47",
+            "Pohlavi": "M",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0712",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-12",
             "Vek": "60",
             "Pohlavi": "M",
@@ -16154,15 +16190,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-06-05",
-            "Vek": "47",
-            "Pohlavi": "M",
-            "KHS": "CZ071",
-            "OkresKodBydliste": "CZ0712",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -16446,15 +16473,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-14",
-            "Vek": "51",
-            "Pohlavi": "Z",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0805",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-15",
             "Vek": "67",
             "Pohlavi": "M",
@@ -16568,6 +16586,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ032",
             "OkresKodBydliste": "CZ0321",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-14",
+            "Vek": "51",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0805",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -16977,6 +17004,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-01",
+            "Vek": "45",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-22",
             "Vek": "45",
             "Pohlavi": "Z",
@@ -17184,15 +17220,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-01",
-            "Vek": "45",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-23",
             "Vek": "29",
             "Pohlavi": "M",
@@ -17346,15 +17373,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-31",
-            "Vek": "55",
-            "Pohlavi": "M",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0426",
-            "Import": "1",
-            "ImportZemeCsuKod": "IT"
-        },
-        {
             "DatumHlaseni": "2020-04-13",
             "Vek": "71",
             "Pohlavi": "M",
@@ -17389,6 +17407,15 @@
             "OkresKodBydliste": "CZ0423",
             "Import": "0",
             "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-31",
+            "Vek": "55",
+            "Pohlavi": "M",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0426",
+            "Import": "1",
+            "ImportZemeCsuKod": "IT"
         },
         {
             "DatumHlaseni": "2020-04-14",
@@ -17769,15 +17796,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-01",
-            "Vek": "58",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-09",
             "Vek": "61",
             "Pohlavi": "M",
@@ -17855,6 +17873,15 @@
             "Pohlavi": "M",
             "KHS": "CZ020",
             "OkresKodBydliste": "CZ0204",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-01",
+            "Vek": "58",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -18480,6 +18507,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-06",
+            "Vek": "8",
+            "Pohlavi": "M",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0209",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-05-01",
             "Vek": "83",
             "Pohlavi": "Z",
@@ -18521,15 +18557,6 @@
             "Pohlavi": "M",
             "KHS": "CZ071",
             "OkresKodBydliste": "CZ0712",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-06",
-            "Vek": "8",
-            "Pohlavi": "M",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0209",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -18930,6 +18957,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-01",
+            "Vek": "13",
+            "Pohlavi": "M",
+            "KHS": "CZ053",
+            "OkresKodBydliste": "CZ0532",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-26",
             "Vek": "50",
             "Pohlavi": "Z",
@@ -18964,15 +19000,6 @@
             "OkresKodBydliste": "CZ0100",
             "Import": "1",
             "ImportZemeCsuKod": "AT"
-        },
-        {
-            "DatumHlaseni": "2020-04-01",
-            "Vek": "13",
-            "Pohlavi": "M",
-            "KHS": "CZ053",
-            "OkresKodBydliste": "CZ0532",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
         },
         {
             "DatumHlaseni": "2020-03-27",
@@ -21036,6 +21063,15 @@
             "ImportZemeCsuKod": "SE"
         },
         {
+            "DatumHlaseni": "2020-05-30",
+            "Vek": "33",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-25",
             "Vek": "83",
             "Pohlavi": "Z",
@@ -21068,15 +21104,6 @@
             "Pohlavi": "M",
             "KHS": "CZ042",
             "OkresKodBydliste": "CZ0423",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-30",
-            "Vek": "33",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -21378,6 +21405,15 @@
             "ImportZemeCsuKod": "ES"
         },
         {
+            "DatumHlaseni": "2020-06-09",
+            "Vek": "30",
+            "Pohlavi": "Z",
+            "KHS": "CZ031",
+            "OkresKodBydliste": "CZ0314",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-20",
             "Vek": "56",
             "Pohlavi": "Z",
@@ -21666,15 +21702,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-03",
-            "Vek": "67",
-            "Pohlavi": "M",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0201",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-05-04",
             "Vek": "76",
             "Pohlavi": "Z",
@@ -21743,6 +21770,15 @@
             "Pohlavi": "M",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0806",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-03",
+            "Vek": "67",
+            "Pohlavi": "M",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0201",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -22431,6 +22467,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-03-12",
+            "Vek": "64",
+            "Pohlavi": "Z",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0206",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-06",
             "Vek": "50",
             "Pohlavi": "M",
@@ -22472,15 +22517,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ064",
             "OkresKodBydliste": "CZ0642",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-12",
-            "Vek": "64",
-            "Pohlavi": "Z",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0206",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -22616,6 +22652,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ032",
             "OkresKodBydliste": "CZ0322",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "33",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -24564,6 +24609,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-04",
+            "Vek": "41",
+            "Pohlavi": "Z",
+            "KHS": "CZ052",
+            "OkresKodBydliste": "CZ0525",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-28",
             "Vek": "46",
             "Pohlavi": "M",
@@ -24600,15 +24654,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-04",
-            "Vek": "41",
-            "Pohlavi": "Z",
-            "KHS": "CZ052",
-            "OkresKodBydliste": "CZ0525",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-27",
             "Vek": "100",
             "Pohlavi": "M",
@@ -24632,15 +24677,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ031",
             "OkresKodBydliste": "CZ0311",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-23",
-            "Vek": "44",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -24674,6 +24710,15 @@
         {
             "DatumHlaseni": "2020-03-24",
             "Vek": "56",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-23",
+            "Vek": "44",
             "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
@@ -25347,15 +25392,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-18",
-            "Vek": "60",
-            "Pohlavi": "M",
-            "KHS": "CZ053",
-            "OkresKodBydliste": "CZ0531",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-31",
             "Vek": "40",
             "Pohlavi": "Z",
@@ -25424,6 +25460,15 @@
             "Pohlavi": "M",
             "KHS": "CZ020",
             "OkresKodBydliste": "CZ0206",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-18",
+            "Vek": "60",
+            "Pohlavi": "M",
+            "KHS": "CZ053",
+            "OkresKodBydliste": "CZ0531",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -25498,15 +25543,6 @@
             "OkresKodBydliste": "CZ0715",
             "Import": "1",
             "ImportZemeCsuKod": "AT"
-        },
-        {
-            "DatumHlaseni": "2020-03-18",
-            "Vek": "38",
-            "Pohlavi": "Z",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0206",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
         },
         {
             "DatumHlaseni": "2020-05-23",
@@ -25586,6 +25622,15 @@
             "Pohlavi": "M",
             "KHS": "CZ032",
             "OkresKodBydliste": "CZ0321",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-18",
+            "Vek": "38",
+            "Pohlavi": "Z",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0206",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -25685,6 +25730,15 @@
             "Pohlavi": "M",
             "KHS": "CZ032",
             "OkresKodBydliste": "CZ0322",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-14",
+            "Vek": "58",
+            "Pohlavi": "Z",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0206",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -25806,6 +25860,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-02",
+            "Vek": "51",
+            "Pohlavi": "M",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0712",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-28",
             "Vek": "98",
             "Pohlavi": "Z",
@@ -25847,24 +25910,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ042",
             "OkresKodBydliste": "CZ0423",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-14",
-            "Vek": "58",
-            "Pohlavi": "Z",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0206",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-02",
-            "Vek": "51",
-            "Pohlavi": "M",
-            "KHS": "CZ071",
-            "OkresKodBydliste": "CZ0712",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -26243,8 +26288,8 @@
             "Pohlavi": "Z",
             "KHS": "CZ032",
             "OkresKodBydliste": "CZ0323",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
+            "Import": "1",
+            "ImportZemeCsuKod": "IT"
         },
         {
             "DatumHlaseni": "2020-03-23",
@@ -26252,6 +26297,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ020",
             "OkresKodBydliste": "CZ020B",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "51",
+            "Pohlavi": "Z",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ020A",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -26733,6 +26787,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-07",
+            "Vek": "29",
+            "Pohlavi": "Z",
+            "KHS": "CZ031",
+            "OkresKodBydliste": "CZ0314",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-21",
             "Vek": "52",
             "Pohlavi": "Z",
@@ -26814,15 +26877,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-07",
-            "Vek": "29",
-            "Pohlavi": "Z",
-            "KHS": "CZ031",
-            "OkresKodBydliste": "CZ0314",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-28",
             "Vek": "7",
             "Pohlavi": "M",
@@ -26855,6 +26909,15 @@
             "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-27",
+            "Vek": "43",
+            "Pohlavi": "Z",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0203",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -26893,15 +26956,6 @@
             "OkresKodBydliste": "CZ0100",
             "Import": "1",
             "ImportZemeCsuKod": "IT"
-        },
-        {
-            "DatumHlaseni": "2020-03-27",
-            "Vek": "43",
-            "Pohlavi": "Z",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0203",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
         },
         {
             "DatumHlaseni": "2020-03-27",
@@ -27345,6 +27399,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-12",
+            "Vek": "43",
+            "Pohlavi": "M",
+            "KHS": "CZ064",
+            "OkresKodBydliste": "CZ0641",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-18",
             "Vek": "25",
             "Pohlavi": "M",
@@ -27386,15 +27449,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ071",
             "OkresKodBydliste": "CZ0712",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-12",
-            "Vek": "43",
-            "Pohlavi": "M",
-            "KHS": "CZ064",
-            "OkresKodBydliste": "CZ0641",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -27471,15 +27525,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-14",
-            "Vek": "56",
-            "Pohlavi": "M",
-            "KHS": "CZ071",
-            "OkresKodBydliste": "CZ0714",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-03",
             "Vek": "79",
             "Pohlavi": "M",
@@ -27548,6 +27593,15 @@
             "Pohlavi": "M",
             "KHS": "CZ042",
             "OkresKodBydliste": "CZ0425",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-14",
+            "Vek": "56",
+            "Pohlavi": "M",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0714",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -27710,6 +27764,15 @@
             "Pohlavi": "M",
             "KHS": "CZ072",
             "OkresKodBydliste": "CZ0724",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-08",
+            "Vek": "21",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -29118,6 +29181,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-08",
+            "Vek": "46",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-27",
             "Vek": "47",
             "Pohlavi": "M",
@@ -29325,6 +29397,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-05",
+            "Vek": "51",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-08",
             "Vek": "57",
             "Pohlavi": "Z",
@@ -29485,6 +29566,15 @@
             "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-09",
+            "Vek": "30",
+            "Pohlavi": "M",
+            "KHS": "CZ053",
+            "OkresKodBydliste": "CZ0532",
+            "Import": "1",
+            "ImportZemeCsuKod": "BY"
         },
         {
             "DatumHlaseni": "2020-04-22",
@@ -31107,15 +31197,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-27",
-            "Vek": "44",
-            "Pohlavi": "Z",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ020A",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-05-07",
             "Vek": "31",
             "Pohlavi": "Z",
@@ -31184,6 +31265,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ020",
             "OkresKodBydliste": "CZ0208",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-27",
+            "Vek": "44",
+            "Pohlavi": "Z",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ020A",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -31296,6 +31386,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-03-18",
+            "Vek": "62",
+            "Pohlavi": "Z",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0712",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-09",
             "Vek": "64",
             "Pohlavi": "M",
@@ -31339,15 +31438,6 @@
             "OkresKodBydliste": "CZ0411",
             "Import": "1",
             "ImportZemeCsuKod": "DE"
-        },
-        {
-            "DatumHlaseni": "2020-03-18",
-            "Vek": "62",
-            "Pohlavi": "Z",
-            "KHS": "CZ071",
-            "OkresKodBydliste": "CZ0712",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
         },
         {
             "DatumHlaseni": "2020-04-23",
@@ -32043,15 +32133,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-07",
-            "Vek": "42",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0423",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-31",
             "Vek": "70",
             "Pohlavi": "Z",
@@ -32165,6 +32246,15 @@
             "Pohlavi": "M",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0802",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-07",
+            "Vek": "42",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0423",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -32295,15 +32385,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-29",
-            "Vek": "27",
-            "Pohlavi": "Z",
-            "KHS": "CZ071",
-            "OkresKodBydliste": "CZ0712",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-30",
             "Vek": "60",
             "Pohlavi": "M",
@@ -32345,6 +32426,15 @@
             "Pohlavi": "M",
             "KHS": "CZ032",
             "OkresKodBydliste": "CZ0321",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-29",
+            "Vek": "27",
+            "Pohlavi": "Z",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0712",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -33051,6 +33141,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-17",
+            "Vek": "15",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-05-07",
             "Vek": "79",
             "Pohlavi": "Z",
@@ -33083,15 +33182,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0805",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-17",
-            "Vek": "15",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -33690,6 +33780,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-03-21",
+            "Vek": "58",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-30",
             "Vek": "82",
             "Pohlavi": "M",
@@ -33728,15 +33827,6 @@
         {
             "DatumHlaseni": "2020-06-01",
             "Vek": "27",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-21",
-            "Vek": "58",
             "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
@@ -34464,6 +34554,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-15",
+            "Vek": "10",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0802",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-09",
             "Vek": "80",
             "Pohlavi": "M",
@@ -34667,15 +34766,6 @@
             "Pohlavi": "M",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0806",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-15",
-            "Vek": "10",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0802",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -35400,6 +35490,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-08",
+            "Vek": "21",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0805",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-01",
             "Vek": "59",
             "Pohlavi": "M",
@@ -36075,6 +36174,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "92",
+            "Pohlavi": "Z",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0712",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-01",
             "Vek": "41",
             "Pohlavi": "Z",
@@ -36143,6 +36251,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ042",
             "OkresKodBydliste": "CZ0427",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-07",
+            "Vek": "69",
+            "Pohlavi": "M",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0712",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -36219,6 +36336,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-04",
+            "Vek": "67",
+            "Pohlavi": "Z",
+            "KHS": "CZ051",
+            "OkresKodBydliste": "CZ0513",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-07",
             "Vek": "14",
             "Pohlavi": "Z",
@@ -36260,24 +36386,6 @@
             "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-06-07",
-            "Vek": "69",
-            "Pohlavi": "M",
-            "KHS": "CZ071",
-            "OkresKodBydliste": "CZ0712",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-04",
-            "Vek": "67",
-            "Pohlavi": "Z",
-            "KHS": "CZ051",
-            "OkresKodBydliste": "CZ0513",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -36543,6 +36651,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-03-26",
+            "Vek": "26",
+            "Pohlavi": "M",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0201",
+            "Import": "1",
+            "ImportZemeCsuKod": "GB"
+        },
+        {
             "DatumHlaseni": "2020-04-04",
             "Vek": "21",
             "Pohlavi": "Z",
@@ -36577,15 +36694,6 @@
             "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-26",
-            "Vek": "26",
-            "Pohlavi": "M",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0201",
-            "Import": "1",
-            "ImportZemeCsuKod": "GB"
         },
         {
             "DatumHlaseni": "2020-04-03",
@@ -36633,15 +36741,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-13",
-            "Vek": "59",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-08",
             "Vek": "57",
             "Pohlavi": "Z",
@@ -36683,6 +36782,15 @@
             "Pohlavi": "M",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0806",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-13",
+            "Vek": "59",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -36953,6 +37061,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ071",
             "OkresKodBydliste": "CZ0712",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "51",
+            "Pohlavi": "Z",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0715",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -37515,6 +37632,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "19",
+            "Pohlavi": "Z",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0712",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-05-13",
             "Vek": "54",
             "Pohlavi": "M",
@@ -37529,6 +37655,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ042",
             "OkresKodBydliste": "CZ0425",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-16",
+            "Vek": "58",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -37562,15 +37697,6 @@
         {
             "DatumHlaseni": "2020-05-06",
             "Vek": "28",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-16",
-            "Vek": "58",
             "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
@@ -38667,15 +38793,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-18",
-            "Vek": "39",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0803",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-09",
             "Vek": "52",
             "Pohlavi": "M",
@@ -38717,6 +38834,15 @@
             "Pohlavi": "M",
             "KHS": "CZ071",
             "OkresKodBydliste": "CZ0714",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-18",
+            "Vek": "39",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -38789,6 +38915,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-08",
+            "Vek": "54",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -38874,15 +39009,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-30",
-            "Vek": "49",
-            "Pohlavi": "M",
-            "KHS": "CZ032",
-            "OkresKodBydliste": "CZ0321",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-18",
             "Vek": "85",
             "Pohlavi": "Z",
@@ -38915,6 +39041,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ041",
             "OkresKodBydliste": "CZ0411",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-30",
+            "Vek": "49",
+            "Pohlavi": "M",
+            "KHS": "CZ032",
+            "OkresKodBydliste": "CZ0321",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -39639,6 +39774,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-03-30",
+            "Vek": "70",
+            "Pohlavi": "M",
+            "KHS": "CZ032",
+            "OkresKodBydliste": "CZ0327",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-04",
             "Vek": "85",
             "Pohlavi": "M",
@@ -39671,15 +39815,6 @@
             "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-30",
-            "Vek": "70",
-            "Pohlavi": "M",
-            "KHS": "CZ032",
-            "OkresKodBydliste": "CZ0327",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -40139,6 +40274,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ053",
             "OkresKodBydliste": "CZ0532",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-09",
+            "Vek": "53",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -42033,6 +42177,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-09",
+            "Vek": "20",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-27",
             "Vek": "25",
             "Pohlavi": "M",
@@ -43770,6 +43923,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-08",
+            "Vek": "23",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-21",
             "Vek": "43",
             "Pohlavi": "Z",
@@ -45237,15 +45399,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-25",
-            "Vek": "3",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-02",
             "Vek": "49",
             "Pohlavi": "Z",
@@ -45282,6 +45435,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-15",
+            "Vek": "41",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-09",
             "Vek": "43",
             "Pohlavi": "Z",
@@ -45314,15 +45476,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ032",
             "OkresKodBydliste": "CZ0321",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-15",
-            "Vek": "41",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -46239,7 +46392,7 @@
             "DatumHlaseni": "2020-03-23",
             "Vek": "66",
             "Pohlavi": "Z",
-            "KHS": "CZ010",
+            "KHS": "CZ020",
             "OkresKodBydliste": "CZ0100",
             "Import": "1",
             "ImportZemeCsuKod": "ES"
@@ -46452,15 +46605,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-25",
-            "Vek": "27",
-            "Pohlavi": "Z",
-            "KHS": "CZ063",
-            "OkresKodBydliste": "CZ0634",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-26",
             "Vek": "68",
             "Pohlavi": "M",
@@ -46574,6 +46718,15 @@
             "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-25",
+            "Vek": "27",
+            "Pohlavi": "Z",
+            "KHS": "CZ063",
+            "OkresKodBydliste": "CZ0634",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -46880,6 +47033,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ042",
             "OkresKodBydliste": "CZ0423",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-09",
+            "Vek": "50",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -47424,15 +47586,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-16",
-            "Vek": "20",
-            "Pohlavi": "Z",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0201",
-            "Import": "1",
-            "ImportZemeCsuKod": "IT"
-        },
-        {
             "DatumHlaseni": "2020-03-21",
             "Vek": "44",
             "Pohlavi": "M",
@@ -47465,15 +47618,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ072",
             "OkresKodBydliste": "CZ0724",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-01",
-            "Vek": "52",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -47519,6 +47663,24 @@
             "Pohlavi": "Z",
             "KHS": "CZ042",
             "OkresKodBydliste": "CZ0423",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-16",
+            "Vek": "20",
+            "Pohlavi": "Z",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0201",
+            "Import": "1",
+            "ImportZemeCsuKod": "IT"
+        },
+        {
+            "DatumHlaseni": "2020-04-01",
+            "Vek": "52",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -47757,6 +47919,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-08",
+            "Vek": "49",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0806",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-26",
             "Vek": "20",
             "Pohlavi": "M",
@@ -47789,15 +47960,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ071",
             "OkresKodBydliste": "CZ0712",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-08",
-            "Vek": "49",
-            "Pohlavi": "Z",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0806",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -48099,6 +48261,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-03-27",
+            "Vek": "55",
+            "Pohlavi": "Z",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0203",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-08",
             "Vek": "44",
             "Pohlavi": "Z",
@@ -48185,15 +48356,6 @@
             "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-27",
-            "Vek": "55",
-            "Pohlavi": "Z",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0203",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -48522,6 +48684,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-26",
+            "Vek": "11",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0804",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-19",
             "Vek": "30",
             "Pohlavi": "Z",
@@ -48563,15 +48734,6 @@
             "Pohlavi": "M",
             "KHS": "CZ072",
             "OkresKodBydliste": "CZ0722",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-26",
-            "Vek": "11",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0804",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -49575,13 +49737,13 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-19",
-            "Vek": "66",
-            "Pohlavi": "M",
+            "DatumHlaseni": "2020-03-16",
+            "Vek": "29",
+            "Pohlavi": "Z",
             "KHS": "CZ020",
             "OkresKodBydliste": "CZ0201",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
+            "Import": "1",
+            "ImportZemeCsuKod": "IT"
         },
         {
             "DatumHlaseni": "2020-03-27",
@@ -49629,6 +49791,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "48",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-31",
             "Vek": "87",
             "Pohlavi": "Z",
@@ -49645,15 +49816,6 @@
             "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-16",
-            "Vek": "29",
-            "Pohlavi": "Z",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0201",
-            "Import": "1",
-            "ImportZemeCsuKod": "IT"
         },
         {
             "DatumHlaseni": "2020-03-17",
@@ -49674,6 +49836,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-09",
+            "Vek": "53",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-17",
             "Vek": "43",
             "Pohlavi": "M",
@@ -49690,6 +49861,24 @@
             "OkresKodBydliste": "CZ0100",
             "Import": "1",
             "ImportZemeCsuKod": "IT"
+        },
+        {
+            "DatumHlaseni": "2020-05-19",
+            "Vek": "66",
+            "Pohlavi": "M",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0201",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "86",
+            "Pohlavi": "Z",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0712",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
         },
         {
             "DatumHlaseni": "2020-04-09",
@@ -49715,6 +49904,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "72",
+            "Pohlavi": "Z",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0712",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -49971,6 +50169,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-20",
+            "Vek": "5",
+            "Pohlavi": "M",
+            "KHS": "CZ064",
+            "OkresKodBydliste": "CZ0644",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-05-08",
             "Vek": "85",
             "Pohlavi": "M",
@@ -50012,15 +50219,6 @@
             "Pohlavi": "M",
             "KHS": "CZ053",
             "OkresKodBydliste": "CZ0532",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-20",
-            "Vek": "5",
-            "Pohlavi": "M",
-            "KHS": "CZ064",
-            "OkresKodBydliste": "CZ0644",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -50835,15 +51033,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-16",
-            "Vek": "66",
-            "Pohlavi": "M",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0201",
-            "Import": "1",
-            "ImportZemeCsuKod": "IT"
-        },
-        {
             "DatumHlaseni": "2020-04-26",
             "Vek": "74",
             "Pohlavi": "Z",
@@ -50968,6 +51157,15 @@
             "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-16",
+            "Vek": "66",
+            "Pohlavi": "M",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0201",
+            "Import": "1",
+            "ImportZemeCsuKod": "IT"
         },
         {
             "DatumHlaseni": "2020-03-17",
@@ -51213,6 +51411,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-03-30",
+            "Vek": "24",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0412",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-05-06",
             "Vek": "48",
             "Pohlavi": "M",
@@ -51290,15 +51497,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0802",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-30",
-            "Vek": "24",
-            "Pohlavi": "Z",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0412",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -51474,6 +51672,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-06",
+            "Vek": "85",
+            "Pohlavi": "M",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0202",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-16",
             "Vek": "81",
             "Pohlavi": "Z",
@@ -51506,15 +51713,6 @@
             "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-06",
-            "Vek": "85",
-            "Pohlavi": "M",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0202",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -51717,6 +51915,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-05-14",
+            "Vek": "46",
+            "Pohlavi": "Z",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0208",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-31",
             "Vek": "73",
             "Pohlavi": "M",
@@ -51753,13 +51960,13 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-10",
-            "Vek": "33",
-            "Pohlavi": "Z",
-            "KHS": "CZ071",
-            "OkresKodBydliste": "CZ0712",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
+            "DatumHlaseni": "2020-05-14",
+            "Vek": "60",
+            "Pohlavi": "M",
+            "KHS": "CZ032",
+            "OkresKodBydliste": "CZ0321",
+            "Import": "1",
+            "ImportZemeCsuKod": "DE"
         },
         {
             "DatumHlaseni": "2020-04-01",
@@ -51834,13 +52041,13 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-14",
-            "Vek": "60",
-            "Pohlavi": "M",
-            "KHS": "CZ032",
-            "OkresKodBydliste": "CZ0321",
-            "Import": "1",
-            "ImportZemeCsuKod": "DE"
+            "DatumHlaseni": "2020-04-10",
+            "Vek": "33",
+            "Pohlavi": "Z",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0712",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
         },
         {
             "DatumHlaseni": "2020-05-02",
@@ -51875,15 +52082,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0806",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-14",
-            "Vek": "46",
-            "Pohlavi": "Z",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0208",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -52824,6 +53022,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-08",
+            "Vek": "27",
+            "Pohlavi": "M",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0203",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-05",
             "Vek": "31",
             "Pohlavi": "Z",
@@ -53481,6 +53688,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "45",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-28",
             "Vek": "36",
             "Pohlavi": "M",
@@ -53504,15 +53720,6 @@
             "Pohlavi": "M",
             "KHS": "CZ042",
             "OkresKodBydliste": "CZ0423",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-28",
-            "Vek": "29",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0806",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -53562,6 +53769,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-03-28",
+            "Vek": "29",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0806",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-25",
             "Vek": "86",
             "Pohlavi": "Z",
@@ -53585,6 +53801,15 @@
             "Pohlavi": "M",
             "KHS": "CZ071",
             "OkresKodBydliste": "CZ0712",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-16",
+            "Vek": "42",
+            "Pohlavi": "M",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0202",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -53621,15 +53846,6 @@
             "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-16",
-            "Vek": "42",
-            "Pohlavi": "M",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0202",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -53724,15 +53940,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-25",
-            "Vek": "35",
-            "Pohlavi": "M",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0206",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-24",
             "Vek": "45",
             "Pohlavi": "Z",
@@ -53796,6 +54003,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-03-24",
+            "Vek": "46",
+            "Pohlavi": "M",
+            "KHS": "CZ072",
+            "OkresKodBydliste": "CZ0722",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-10",
             "Vek": "47",
             "Pohlavi": "Z",
@@ -53842,6 +54058,15 @@
         },
         {
             "DatumHlaseni": "2020-03-25",
+            "Vek": "35",
+            "Pohlavi": "M",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0206",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-25",
             "Vek": "74",
             "Pohlavi": "Z",
             "KHS": "CZ042",
@@ -53853,6 +54078,15 @@
             "DatumHlaseni": "2020-06-09",
             "Vek": "38",
             "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-12",
+            "Vek": "54",
+            "Pohlavi": "Z",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
             "Import": "0",
@@ -53888,15 +54122,6 @@
         {
             "DatumHlaseni": "2020-04-02",
             "Vek": "34",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-12",
-            "Vek": "54",
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
@@ -53945,15 +54170,6 @@
             "Pohlavi": "M",
             "KHS": "CZ064",
             "OkresKodBydliste": "CZ0642",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-24",
-            "Vek": "46",
-            "Pohlavi": "M",
-            "KHS": "CZ072",
-            "OkresKodBydliste": "CZ0722",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -54080,15 +54296,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0803",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-28",
-            "Vek": "36",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -54338,6 +54545,15 @@
         {
             "DatumHlaseni": "2020-05-19",
             "Vek": "26",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-28",
+            "Vek": "36",
             "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
@@ -54624,6 +54840,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-07",
+            "Vek": "73",
+            "Pohlavi": "M",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0712",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-06",
             "Vek": "69",
             "Pohlavi": "M",
@@ -54649,15 +54874,6 @@
             "OkresKodBydliste": "CZ0323",
             "Import": "1",
             "ImportZemeCsuKod": "DE"
-        },
-        {
-            "DatumHlaseni": "2020-06-07",
-            "Vek": "73",
-            "Pohlavi": "M",
-            "KHS": "CZ071",
-            "OkresKodBydliste": "CZ0712",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
         },
         {
             "DatumHlaseni": "2020-03-19",
@@ -54885,15 +55101,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-08",
-            "Vek": "39",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-05-01",
             "Vek": "44",
             "Pohlavi": "Z",
@@ -54926,6 +55133,15 @@
             "Pohlavi": "M",
             "KHS": "CZ063",
             "OkresKodBydliste": "CZ0631",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-08",
+            "Vek": "39",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -55043,15 +55259,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ051",
             "OkresKodBydliste": "CZ0512",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-21",
-            "Vek": "35",
-            "Pohlavi": "Z",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0803",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -55214,6 +55421,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0804",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-21",
+            "Vek": "35",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -55704,6 +55920,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-05-26",
+            "Vek": "51",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-16",
             "Vek": "30",
             "Pohlavi": "Z",
@@ -55745,15 +55970,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0805",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-26",
-            "Vek": "51",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0803",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -58278,6 +58494,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-08",
+            "Vek": "21",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-16",
             "Vek": "48",
             "Pohlavi": "M",
@@ -58301,15 +58526,6 @@
             "Pohlavi": "M",
             "KHS": "CZ053",
             "OkresKodBydliste": "CZ0532",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-05-09",
-            "Vek": "29",
-            "Pohlavi": "Z",
-            "KHS": "CZ064",
-            "OkresKodBydliste": "CZ0647",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -58355,6 +58571,15 @@
             "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-09",
+            "Vek": "29",
+            "Pohlavi": "Z",
+            "KHS": "CZ064",
+            "OkresKodBydliste": "CZ0647",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -58472,6 +58697,15 @@
             "Pohlavi": "M",
             "KHS": "CZ041",
             "OkresKodBydliste": "CZ0411",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "47",
+            "Pohlavi": "Z",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ020A",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -59160,6 +59394,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-05",
+            "Vek": "54",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0806",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-07",
             "Vek": "22",
             "Pohlavi": "Z",
@@ -59192,15 +59435,6 @@
             "Pohlavi": "M",
             "KHS": "CZ020",
             "OkresKodBydliste": "CZ0201",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-05",
-            "Vek": "54",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0806",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -59817,15 +60051,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-25",
-            "Vek": "60",
-            "Pohlavi": "Z",
-            "KHS": "CZ071",
-            "OkresKodBydliste": "CZ0712",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-05",
             "Vek": "42",
             "Pohlavi": "Z",
@@ -59858,6 +60083,15 @@
             "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-25",
+            "Vek": "60",
+            "Pohlavi": "Z",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0712",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -60123,15 +60357,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-21",
-            "Vek": "37",
-            "Pohlavi": "M",
-            "KHS": "CZ064",
-            "OkresKodBydliste": "CZ0642",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-31",
             "Vek": "74",
             "Pohlavi": "Z",
@@ -60308,6 +60533,24 @@
             "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "25",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-21",
+            "Vek": "37",
+            "Pohlavi": "M",
+            "KHS": "CZ064",
+            "OkresKodBydliste": "CZ0642",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -60888,6 +61131,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-03-30",
+            "Vek": "17",
+            "Pohlavi": "Z",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0712",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-24",
             "Vek": "54",
             "Pohlavi": "M",
@@ -60920,15 +61172,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-30",
-            "Vek": "17",
-            "Pohlavi": "Z",
-            "KHS": "CZ071",
-            "OkresKodBydliste": "CZ0712",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -61122,6 +61365,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "41",
+            "Pohlavi": "M",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0209",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-20",
             "Vek": "3",
             "Pohlavi": "Z",
@@ -61167,15 +61419,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-08",
-            "Vek": "46",
-            "Pohlavi": "Z",
-            "KHS": "CZ072",
-            "OkresKodBydliste": "CZ0722",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-13",
             "Vek": "29",
             "Pohlavi": "M",
@@ -61210,6 +61453,15 @@
             "OkresKodBydliste": "CZ0208",
             "Import": "1",
             "ImportZemeCsuKod": "IT"
+        },
+        {
+            "DatumHlaseni": "2020-04-08",
+            "Vek": "46",
+            "Pohlavi": "Z",
+            "KHS": "CZ072",
+            "OkresKodBydliste": "CZ0722",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
         },
         {
             "DatumHlaseni": "2020-05-22",
@@ -62391,6 +62643,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-09",
+            "Vek": "55",
+            "Pohlavi": "Z",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0712",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-06-03",
             "Vek": "82",
             "Pohlavi": "M",
@@ -62445,9 +62706,27 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-09",
+            "Vek": "32",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0806",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-02",
             "Vek": "75",
             "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-20",
+            "Vek": "34",
+            "Pohlavi": "Z",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
             "Import": "0",
@@ -62486,15 +62765,6 @@
             "Pohlavi": "M",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0802",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-20",
-            "Vek": "34",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -64137,6 +64407,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-07",
+            "Vek": "73",
+            "Pohlavi": "Z",
+            "KHS": "CZ064",
+            "OkresKodBydliste": "CZ0642",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-21",
             "Vek": "33",
             "Pohlavi": "Z",
@@ -64443,15 +64722,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-23",
-            "Vek": "14",
-            "Pohlavi": "Z",
-            "KHS": "CZ072",
-            "OkresKodBydliste": "CZ0722",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-03",
             "Vek": "80",
             "Pohlavi": "M",
@@ -64495,6 +64765,15 @@
             "OkresKodBydliste": "CZ0521",
             "Import": "1",
             "ImportZemeCsuKod": "AT"
+        },
+        {
+            "DatumHlaseni": "2020-04-23",
+            "Vek": "14",
+            "Pohlavi": "Z",
+            "KHS": "CZ072",
+            "OkresKodBydliste": "CZ0722",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
         },
         {
             "DatumHlaseni": "2020-05-25",
@@ -64821,6 +65100,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-03",
+            "Vek": "44",
+            "Pohlavi": "Z",
+            "KHS": "CZ053",
+            "OkresKodBydliste": "CZ0531",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-02",
             "Vek": "39",
             "Pohlavi": "Z",
@@ -64889,15 +65177,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ071",
             "OkresKodBydliste": "CZ0712",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-03",
-            "Vek": "44",
-            "Pohlavi": "Z",
-            "KHS": "CZ053",
-            "OkresKodBydliste": "CZ0531",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -65100,6 +65379,15 @@
             "ImportZemeCsuKod": "AT"
         },
         {
+            "DatumHlaseni": "2020-06-08",
+            "Vek": "21",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-06",
             "Vek": "24",
             "Pohlavi": "Z",
@@ -65154,15 +65442,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-01",
-            "Vek": "27",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0804",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-27",
             "Vek": "80",
             "Pohlavi": "M",
@@ -65195,15 +65474,6 @@
             "Pohlavi": "M",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0802",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-22",
-            "Vek": "19",
-            "Pohlavi": "Z",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0412",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -65253,6 +65523,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-01",
+            "Vek": "27",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0804",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-05-06",
             "Vek": "46",
             "Pohlavi": "Z",
@@ -65285,6 +65564,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ020",
             "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-22",
+            "Vek": "19",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0412",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -67746,6 +68034,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "53",
+            "Pohlavi": "M",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ020A",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-28",
             "Vek": "20",
             "Pohlavi": "M",
@@ -68232,6 +68529,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "72",
+            "Pohlavi": "Z",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0712",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-23",
             "Vek": "25",
             "Pohlavi": "Z",
@@ -68304,6 +68610,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-03-28",
+            "Vek": "23",
+            "Pohlavi": "M",
+            "KHS": "CZ052",
+            "OkresKodBydliste": "CZ0523",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-26",
             "Vek": "79",
             "Pohlavi": "Z",
@@ -68336,15 +68651,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ051",
             "OkresKodBydliste": "CZ0512",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-28",
-            "Vek": "23",
-            "Pohlavi": "M",
-            "KHS": "CZ052",
-            "OkresKodBydliste": "CZ0523",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -68419,6 +68725,15 @@
             "OkresKodBydliste": "CZ0327",
             "Import": "0",
             "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-21",
+            "Vek": "44",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0423",
+            "Import": "1",
+            "ImportZemeCsuKod": "AT"
         },
         {
             "DatumHlaseni": "2020-04-21",
@@ -68781,15 +69096,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-04",
-            "Vek": "33",
-            "Pohlavi": "Z",
-            "KHS": "CZ032",
-            "OkresKodBydliste": "CZ0321",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-21",
             "Vek": "70",
             "Pohlavi": "M",
@@ -68826,6 +69132,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-04",
+            "Vek": "33",
+            "Pohlavi": "Z",
+            "KHS": "CZ032",
+            "OkresKodBydliste": "CZ0321",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-02",
             "Vek": "49",
             "Pohlavi": "M",
@@ -68840,6 +69155,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ051",
             "OkresKodBydliste": "CZ0512",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-08",
+            "Vek": "49",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0805",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -68876,15 +69200,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ051",
             "OkresKodBydliste": "CZ0512",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-08",
-            "Vek": "49",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0805",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -69951,6 +70266,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-01",
+            "Vek": "46",
+            "Pohlavi": "Z",
+            "KHS": "CZ064",
+            "OkresKodBydliste": "CZ0643",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-24",
             "Vek": "8",
             "Pohlavi": "M",
@@ -69992,15 +70316,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0806",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-01",
-            "Vek": "46",
-            "Pohlavi": "Z",
-            "KHS": "CZ064",
-            "OkresKodBydliste": "CZ0643",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -70131,6 +70446,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-03",
+            "Vek": "59",
+            "Pohlavi": "M",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0202",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-12",
             "Vek": "51",
             "Pohlavi": "Z",
@@ -70185,15 +70509,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-19",
-            "Vek": "56",
-            "Pohlavi": "Z",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0805",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-11",
             "Vek": "83",
             "Pohlavi": "Z",
@@ -70230,6 +70545,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-19",
+            "Vek": "56",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0805",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-08",
             "Vek": "34",
             "Pohlavi": "M",
@@ -70244,15 +70568,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ071",
             "OkresKodBydliste": "CZ0713",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-03",
-            "Vek": "59",
-            "Pohlavi": "M",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0202",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -70419,6 +70734,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-05-04",
+            "Vek": "15",
+            "Pohlavi": "M",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0411",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-05-11",
             "Vek": "51",
             "Pohlavi": "M",
@@ -70581,15 +70905,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-04",
-            "Vek": "15",
-            "Pohlavi": "M",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0411",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-01",
             "Vek": "74",
             "Pohlavi": "M",
@@ -70613,15 +70928,6 @@
             "Pohlavi": "M",
             "KHS": "CZ042",
             "OkresKodBydliste": "CZ0425",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-10",
-            "Vek": "51",
-            "Pohlavi": "Z",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0411",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -70698,11 +71004,29 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-10",
+            "Vek": "51",
+            "Pohlavi": "Z",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0411",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-29",
             "Vek": "45",
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-28",
+            "Vek": "45",
+            "Pohlavi": "Z",
+            "KHS": "CZ072",
+            "OkresKodBydliste": "CZ0722",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -70739,6 +71063,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ052",
             "OkresKodBydliste": "CZ0523",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-16",
+            "Vek": "25",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -70808,24 +71141,6 @@
         {
             "DatumHlaseni": "2020-05-28",
             "Vek": "32",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-28",
-            "Vek": "45",
-            "Pohlavi": "Z",
-            "KHS": "CZ072",
-            "OkresKodBydliste": "CZ0722",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-16",
-            "Vek": "25",
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
@@ -71121,15 +71436,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-06-09",
-            "Vek": "39",
-            "Pohlavi": "M",
-            "KHS": "CZ020",
-            "OkresKodBydliste": "CZ0209",
-            "Import": "1",
-            "ImportZemeCsuKod": "UA"
-        },
-        {
             "DatumHlaseni": "2020-03-24",
             "Vek": "85",
             "Pohlavi": "Z",
@@ -71173,6 +71479,15 @@
             "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-09",
+            "Vek": "39",
+            "Pohlavi": "M",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0209",
+            "Import": "1",
+            "ImportZemeCsuKod": "UA"
         },
         {
             "DatumHlaseni": "2020-04-10",
@@ -71580,15 +71895,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-29",
-            "Vek": "29",
-            "Pohlavi": "Z",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0804",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-31",
             "Vek": "69",
             "Pohlavi": "M",
@@ -71625,6 +71931,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-03-29",
+            "Vek": "29",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0804",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-17",
             "Vek": "59",
             "Pohlavi": "Z",
@@ -71648,6 +71963,15 @@
             "Pohlavi": "M",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0802",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-08",
+            "Vek": "35",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -72318,6 +72642,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "41",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-07",
             "Vek": "53",
             "Pohlavi": "M",
@@ -72975,11 +73308,11 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-22",
-            "Vek": "19",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
+            "DatumHlaseni": "2020-04-15",
+            "Vek": "53",
+            "Pohlavi": "Z",
+            "KHS": "CZ042",
+            "OkresKodBydliste": "CZ0423",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -73056,11 +73389,11 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-15",
-            "Vek": "53",
-            "Pohlavi": "Z",
-            "KHS": "CZ042",
-            "OkresKodBydliste": "CZ0423",
+            "DatumHlaseni": "2020-05-22",
+            "Vek": "19",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -74712,13 +75045,13 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-11",
-            "Vek": "75",
+            "DatumHlaseni": "2020-03-30",
+            "Vek": "25",
             "Pohlavi": "M",
-            "KHS": "CZ041",
-            "OkresKodBydliste": "CZ0412",
-            "Import": "1",
-            "ImportZemeCsuKod": "IT"
+            "KHS": "CZ053",
+            "OkresKodBydliste": "CZ0523",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
         },
         {
             "DatumHlaseni": "2020-04-24",
@@ -74739,6 +75072,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-05-25",
+            "Vek": "30",
+            "Pohlavi": "Z",
+            "KHS": "CZ064",
+            "OkresKodBydliste": "CZ0644",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-23",
             "Vek": "46",
             "Pohlavi": "M",
@@ -74748,13 +75090,13 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-30",
-            "Vek": "25",
+            "DatumHlaseni": "2020-03-11",
+            "Vek": "75",
             "Pohlavi": "M",
-            "KHS": "CZ053",
-            "OkresKodBydliste": "CZ0523",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0412",
+            "Import": "1",
+            "ImportZemeCsuKod": "IT"
         },
         {
             "DatumHlaseni": "2020-04-18",
@@ -75216,15 +75558,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-12",
-            "Vek": "42",
-            "Pohlavi": "Z",
-            "KHS": "CZ032",
-            "OkresKodBydliste": "CZ0321",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-17",
             "Vek": "23",
             "Pohlavi": "M",
@@ -75329,6 +75662,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0806",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-12",
+            "Vek": "42",
+            "Pohlavi": "Z",
+            "KHS": "CZ032",
+            "OkresKodBydliste": "CZ0321",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -76125,15 +76467,6 @@
             "ImportZemeCsuKod": "AT"
         },
         {
-            "DatumHlaseni": "2020-04-02",
-            "Vek": "51",
-            "Pohlavi": "M",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-26",
             "Vek": "54",
             "Pohlavi": "M",
@@ -76166,6 +76499,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ080",
             "OkresKodBydliste": "CZ0804",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-02",
+            "Vek": "51",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -76638,15 +76980,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-04-09",
-            "Vek": "76",
-            "Pohlavi": "Z",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0803",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-04-30",
             "Vek": "90",
             "Pohlavi": "M",
@@ -76728,6 +77061,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-09",
+            "Vek": "76",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-05-08",
             "Vek": "30",
             "Pohlavi": "M",
@@ -76800,15 +77142,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-28",
-            "Vek": "9",
-            "Pohlavi": "Z",
-            "KHS": "CZ071",
-            "OkresKodBydliste": "CZ0712",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-27",
             "Vek": "59",
             "Pohlavi": "M",
@@ -76841,6 +77174,15 @@
             "Pohlavi": "M",
             "KHS": "CZ072",
             "OkresKodBydliste": "CZ0722",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-28",
+            "Vek": "9",
+            "Pohlavi": "Z",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0712",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -77322,6 +77664,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-25",
+            "Vek": "65",
+            "Pohlavi": "Z",
+            "KHS": "CZ032",
+            "OkresKodBydliste": "CZ0324",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-24",
             "Vek": "45",
             "Pohlavi": "Z",
@@ -77390,15 +77741,6 @@
             "Pohlavi": "M",
             "KHS": "CZ053",
             "OkresKodBydliste": "CZ0532",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-25",
-            "Vek": "65",
-            "Pohlavi": "Z",
-            "KHS": "CZ032",
-            "OkresKodBydliste": "CZ0324",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -77655,6 +77997,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-04-16",
+            "Vek": "46",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0804",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-03",
             "Vek": "40",
             "Pohlavi": "M",
@@ -77687,15 +78038,6 @@
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-04-16",
-            "Vek": "46",
-            "Pohlavi": "M",
-            "KHS": "CZ080",
-            "OkresKodBydliste": "CZ0804",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -77907,6 +78249,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-03-24",
+            "Vek": "36",
+            "Pohlavi": "Z",
+            "KHS": "CZ071",
+            "OkresKodBydliste": "CZ0713",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-31",
             "Vek": "75",
             "Pohlavi": "Z",
@@ -77943,15 +78294,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-24",
-            "Vek": "36",
-            "Pohlavi": "Z",
-            "KHS": "CZ071",
-            "OkresKodBydliste": "CZ0713",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-05-06",
             "Vek": "55",
             "Pohlavi": "Z",
@@ -77966,6 +78308,15 @@
             "Pohlavi": "M",
             "KHS": "CZ020",
             "OkresKodBydliste": "CZ0209",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "54",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -78506,8 +78857,8 @@
             "Pohlavi": "Z",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
+            "Import": "1",
+            "ImportZemeCsuKod": "FR"
         },
         {
             "DatumHlaseni": "2020-04-02",
@@ -78708,6 +79059,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-03-27",
+            "Vek": "41",
+            "Pohlavi": "Z",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-26",
             "Vek": "66",
             "Pohlavi": "M",
@@ -78749,15 +79109,6 @@
             "Pohlavi": "M",
             "KHS": "CZ051",
             "OkresKodBydliste": "CZ0514",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
-            "DatumHlaseni": "2020-03-27",
-            "Vek": "41",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -80697,15 +81048,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-05-06",
-            "Vek": "28",
-            "Pohlavi": "M",
-            "KHS": "CZ064",
-            "OkresKodBydliste": "CZ0642",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-19",
             "Vek": "73",
             "Pohlavi": "M",
@@ -80738,6 +81080,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ052",
             "OkresKodBydliste": "CZ0521",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-06",
+            "Vek": "28",
+            "Pohlavi": "M",
+            "KHS": "CZ064",
+            "OkresKodBydliste": "CZ0642",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -80913,15 +81264,6 @@
             "ImportZemeCsuKod": ""
         },
         {
-            "DatumHlaseni": "2020-03-24",
-            "Vek": "53",
-            "Pohlavi": "Z",
-            "KHS": "CZ010",
-            "OkresKodBydliste": "CZ0100",
-            "Import": "0",
-            "ImportZemeCsuKod": ""
-        },
-        {
             "DatumHlaseni": "2020-03-31",
             "Vek": "53",
             "Pohlavi": "Z",
@@ -80997,6 +81339,15 @@
             "DatumHlaseni": "2020-03-18",
             "Vek": "38",
             "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-03-24",
+            "Vek": "53",
+            "Pohlavi": "Z",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
             "Import": "0",
@@ -81215,6 +81566,15 @@
             "Pohlavi": "Z",
             "KHS": "CZ042",
             "OkresKodBydliste": "CZ0423",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-04-02",
+            "Vek": "69",
+            "Pohlavi": "M",
+            "KHS": "CZ041",
+            "OkresKodBydliste": "CZ0412",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -82659,6 +83019,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-06-09",
+            "Vek": "25",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-04-07",
             "Vek": "38",
             "Pohlavi": "M",
@@ -83586,6 +83955,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-05-25",
+            "Vek": "61",
+            "Pohlavi": "M",
+            "KHS": "CZ010",
+            "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-03-17",
             "Vek": "60",
             "Pohlavi": "Z",
@@ -83647,6 +84025,15 @@
             "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "54",
+            "Pohlavi": "Z",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "",
+            "Import": "1",
+            "ImportZemeCsuKod": "PL"
         },
         {
             "DatumHlaseni": "2020-05-30",
@@ -83780,6 +84167,15 @@
             "Pohlavi": "M",
             "KHS": "CZ010",
             "OkresKodBydliste": "CZ0100",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-05-18",
+            "Vek": "44",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
             "Import": "0",
             "ImportZemeCsuKod": ""
         },
@@ -84000,6 +84396,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-05-22",
+            "Vek": "34",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-05-27",
             "Vek": "34",
             "Pohlavi": "M",
@@ -84036,6 +84441,15 @@
             "ImportZemeCsuKod": ""
         },
         {
+            "DatumHlaseni": "2020-05-29",
+            "Vek": "34",
+            "Pohlavi": "M",
+            "KHS": "CZ080",
+            "OkresKodBydliste": "CZ0803",
+            "Import": "0",
+            "ImportZemeCsuKod": ""
+        },
+        {
             "DatumHlaseni": "2020-05-13",
             "Vek": "33",
             "Pohlavi": "M",
@@ -84052,6 +84466,15 @@
             "OkresKodBydliste": "CZ0100",
             "Import": "0",
             "ImportZemeCsuKod": ""
+        },
+        {
+            "DatumHlaseni": "2020-06-10",
+            "Vek": "32",
+            "Pohlavi": "M",
+            "KHS": "CZ020",
+            "OkresKodBydliste": "CZ0209",
+            "Import": "1",
+            "ImportZemeCsuKod": "SV"
         },
         {
             "DatumHlaseni": "2020-04-14",
