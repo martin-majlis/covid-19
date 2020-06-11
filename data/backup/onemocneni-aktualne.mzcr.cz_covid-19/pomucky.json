@@ -1,5 +1,5 @@
 {
-    "modified": "2020-06-10T09:01:37+02:00",
+    "modified": "2020-06-11T09:08:50+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -50,17 +50,17 @@
         {
             "pomucka": "Brýle",
             "kraj": "Kraj Vysočina",
-            "pocet": 1920
+            "pocet": 11920
         },
         {
             "pomucka": "Brýle",
             "kraj": "Jihomoravský kraj",
-            "pocet": 4320
+            "pocet": 5320
         },
         {
             "pomucka": "Brýle",
             "kraj": "Olomoucký kraj",
-            "pocet": 3192
+            "pocet": 3692
         },
         {
             "pomucka": "Brýle",
@@ -70,7 +70,7 @@
         {
             "pomucka": "Brýle",
             "kraj": "Moravskoslezský kraj",
-            "pocet": 5973
+            "pocet": 6573
         },
         {
             "pomucka": "Dezinfekce (l)",
@@ -190,27 +190,27 @@
         {
             "pomucka": "Roušky",
             "kraj": "Kraj Vysočina",
-            "pocet": 1260029
+            "pocet": 1383029
         },
         {
             "pomucka": "Roušky",
             "kraj": "Jihomoravský kraj",
-            "pocet": 3626612
+            "pocet": 4813612
         },
         {
             "pomucka": "Roušky",
             "kraj": "Olomoucký kraj",
-            "pocet": 1930396
+            "pocet": 2026396
         },
         {
             "pomucka": "Roušky",
             "kraj": "Zlínský kraj",
-            "pocet": 1032180
+            "pocet": 1084180
         },
         {
             "pomucka": "Roušky",
             "kraj": "Moravskoslezský kraj",
-            "pocet": 2480478
+            "pocet": 2859478
         },
         {
             "pomucka": "Respirátory",
@@ -260,27 +260,27 @@
         {
             "pomucka": "Respirátory",
             "kraj": "Kraj Vysočina",
-            "pocet": 226117
+            "pocet": 345317
         },
         {
             "pomucka": "Respirátory",
             "kraj": "Jihomoravský kraj",
-            "pocet": 791299
+            "pocet": 1098399
         },
         {
             "pomucka": "Respirátory",
             "kraj": "Olomoucký kraj",
-            "pocet": 374704
+            "pocet": 389504
         },
         {
             "pomucka": "Respirátory",
             "kraj": "Zlínský kraj",
-            "pocet": 275470
+            "pocet": 310870
         },
         {
             "pomucka": "Respirátory",
             "kraj": "Moravskoslezský kraj",
-            "pocet": 671601
+            "pocet": 734201
         },
         {
             "pomucka": "Odběrové sady",
@@ -330,12 +330,12 @@
         {
             "pomucka": "Odběrové sady",
             "kraj": "Kraj Vysočina",
-            "pocet": 9870
+            "pocet": 10170
         },
         {
             "pomucka": "Odběrové sady",
             "kraj": "Jihomoravský kraj",
-            "pocet": 141290
+            "pocet": 152675
         },
         {
             "pomucka": "Odběrové sady",
@@ -345,12 +345,12 @@
         {
             "pomucka": "Odběrové sady",
             "kraj": "Zlínský kraj",
-            "pocet": 10370
+            "pocet": 12870
         },
         {
             "pomucka": "Odběrové sady",
             "kraj": "Moravskoslezský kraj",
-            "pocet": 76370
+            "pocet": 78370
         },
         {
             "pomucka": "Rukavice",
@@ -400,27 +400,27 @@
         {
             "pomucka": "Rukavice",
             "kraj": "Kraj Vysočina",
-            "pocet": 278007
+            "pocet": 324007
         },
         {
             "pomucka": "Rukavice",
             "kraj": "Jihomoravský kraj",
-            "pocet": 792534
+            "pocet": 917734
         },
         {
             "pomucka": "Rukavice",
             "kraj": "Olomoucký kraj",
-            "pocet": 471658
+            "pocet": 522558
         },
         {
             "pomucka": "Rukavice",
             "kraj": "Zlínský kraj",
-            "pocet": 416163
+            "pocet": 445363
         },
         {
             "pomucka": "Rukavice",
             "kraj": "Moravskoslezský kraj",
-            "pocet": 749348
+            "pocet": 850548
         },
         {
             "pomucka": "Rychlotesty",
@@ -470,27 +470,27 @@
         {
             "pomucka": "Rychlotesty",
             "kraj": "Kraj Vysočina",
-            "pocet": 30393
+            "pocet": 31893
         },
         {
             "pomucka": "Rychlotesty",
             "kraj": "Jihomoravský kraj",
-            "pocet": 60184
+            "pocet": 61684
         },
         {
             "pomucka": "Rychlotesty",
             "kraj": "Olomoucký kraj",
-            "pocet": 97236
+            "pocet": 98736
         },
         {
             "pomucka": "Rychlotesty",
             "kraj": "Zlínský kraj",
-            "pocet": 30428
+            "pocet": 31928
         },
         {
             "pomucka": "Rychlotesty",
             "kraj": "Moravskoslezský kraj",
-            "pocet": 67082
+            "pocet": 68582
         },
         {
             "pomucka": "Štíty",
@@ -540,17 +540,17 @@
         {
             "pomucka": "Štíty",
             "kraj": "Kraj Vysočina",
-            "pocet": 2495
+            "pocet": 2805
         },
         {
             "pomucka": "Štíty",
             "kraj": "Jihomoravský kraj",
-            "pocet": 6307
+            "pocet": 10065
         },
         {
             "pomucka": "Štíty",
             "kraj": "Olomoucký kraj",
-            "pocet": 3374
+            "pocet": 3624
         },
         {
             "pomucka": "Štíty",
@@ -560,7 +560,7 @@
         {
             "pomucka": "Štíty",
             "kraj": "Moravskoslezský kraj",
-            "pocet": 3818
+            "pocet": 3928
         },
         {
             "pomucka": "Ochranné oděvy",
@@ -610,27 +610,27 @@
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Kraj Vysočina",
-            "pocet": 9860
+            "pocet": 68960
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Jihomoravský kraj",
-            "pocet": 184386
+            "pocet": 209086
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Olomoucký kraj",
-            "pocet": 15885
+            "pocet": 18485
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Zlínský kraj",
-            "pocet": 50189
+            "pocet": 51289
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Moravskoslezský kraj",
-            "pocet": 122901
+            "pocet": 131001
         },
         {
             "pomucka": "Návleky na obuv",
