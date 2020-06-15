@@ -1,5 +1,5 @@
 {
-    "modified": "2020-06-14T17:30:44+02:00",
+    "modified": "2020-06-15T00:30:44+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -887,91 +887,98 @@
         {
             "datum": "2020-06-01",
             "kumulovany_pocet_nakazenych": 9302,
-            "kumulovany_pocet_vylecenych": 6898,
+            "kumulovany_pocet_vylecenych": 6899,
             "kumulovany_pocet_umrti": 319,
             "kumulovany_pocet_provedenych_testu": 449356
         },
         {
             "datum": "2020-06-02",
             "kumulovany_pocet_nakazenych": 9364,
-            "kumulovany_pocet_vylecenych": 6950,
+            "kumulovany_pocet_vylecenych": 6951,
             "kumulovany_pocet_umrti": 320,
             "kumulovany_pocet_provedenych_testu": 455834
         },
         {
             "datum": "2020-06-03",
             "kumulovany_pocet_nakazenych": 9438,
-            "kumulovany_pocet_vylecenych": 7004,
+            "kumulovany_pocet_vylecenych": 7005,
             "kumulovany_pocet_umrti": 321,
             "kumulovany_pocet_provedenych_testu": 461147
         },
         {
             "datum": "2020-06-04",
             "kumulovany_pocet_nakazenych": 9494,
-            "kumulovany_pocet_vylecenych": 7036,
+            "kumulovany_pocet_vylecenych": 7038,
             "kumulovany_pocet_umrti": 324,
             "kumulovany_pocet_provedenych_testu": 466158
         },
         {
             "datum": "2020-06-05",
             "kumulovany_pocet_nakazenych": 9529,
-            "kumulovany_pocet_vylecenych": 7082,
+            "kumulovany_pocet_vylecenych": 7084,
             "kumulovany_pocet_umrti": 324,
             "kumulovany_pocet_provedenych_testu": 470331
         },
         {
             "datum": "2020-06-06",
             "kumulovany_pocet_nakazenych": 9567,
-            "kumulovany_pocet_vylecenych": 7092,
+            "kumulovany_pocet_vylecenych": 7094,
             "kumulovany_pocet_umrti": 324,
             "kumulovany_pocet_provedenych_testu": 472481
         },
         {
             "datum": "2020-06-07",
             "kumulovany_pocet_nakazenych": 9628,
-            "kumulovany_pocet_vylecenych": 7105,
+            "kumulovany_pocet_vylecenych": 7108,
             "kumulovany_pocet_umrti": 325,
             "kumulovany_pocet_provedenych_testu": 474608
         },
         {
             "datum": "2020-06-08",
             "kumulovany_pocet_nakazenych": 9697,
-            "kumulovany_pocet_vylecenych": 7140,
+            "kumulovany_pocet_vylecenych": 7143,
             "kumulovany_pocet_umrti": 325,
             "kumulovany_pocet_provedenych_testu": 479292
         },
         {
             "datum": "2020-06-09",
             "kumulovany_pocet_nakazenych": 9751,
-            "kumulovany_pocet_vylecenych": 7160,
+            "kumulovany_pocet_vylecenych": 7163,
             "kumulovany_pocet_umrti": 326,
             "kumulovany_pocet_provedenych_testu": 483844
         },
         {
             "datum": "2020-06-10",
             "kumulovany_pocet_nakazenych": 9824,
-            "kumulovany_pocet_vylecenych": 7203,
+            "kumulovany_pocet_vylecenych": 7206,
             "kumulovany_pocet_umrti": 327,
             "kumulovany_pocet_provedenych_testu": 487913
         },
         {
             "datum": "2020-06-11",
             "kumulovany_pocet_nakazenych": 9886,
-            "kumulovany_pocet_vylecenych": 7213,
+            "kumulovany_pocet_vylecenych": 7219,
             "kumulovany_pocet_umrti": 328,
             "kumulovany_pocet_provedenych_testu": 491599
         },
         {
             "datum": "2020-06-12",
             "kumulovany_pocet_nakazenych": 9938,
-            "kumulovany_pocet_vylecenych": 7217,
+            "kumulovany_pocet_vylecenych": 7223,
             "kumulovany_pocet_umrti": 329,
             "kumulovany_pocet_provedenych_testu": 495217
         },
         {
             "datum": "2020-06-13",
             "kumulovany_pocet_nakazenych": 9991,
-            "kumulovany_pocet_vylecenych": 7217,
+            "kumulovany_pocet_vylecenych": 7224,
+            "kumulovany_pocet_umrti": 329,
+            "kumulovany_pocet_provedenych_testu": 496417
+        },
+        {
+            "datum": "2020-06-14",
+            "kumulovany_pocet_nakazenych": 10024,
+            "kumulovany_pocet_vylecenych": 7226,
             "kumulovany_pocet_umrti": 329,
             "kumulovany_pocet_provedenych_testu": 496417
         }
