@@ -1,5 +1,5 @@
 {
-    "modified": "2020-06-19T09:01:06+02:00",
+    "modified": "2020-06-20T09:01:04+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -679,48 +679,53 @@
         },
         {
             "datum": "10.06.2020",
-            "testy-den": 4069,
-            "testy-celkem": 487913
+            "testy-den": 4068,
+            "testy-celkem": 487912
         },
         {
             "datum": "11.06.2020",
-            "testy-den": 3738,
+            "testy-den": 3739,
             "testy-celkem": 491651
         },
         {
             "datum": "12.06.2020",
-            "testy-den": 3730,
-            "testy-celkem": 495381
+            "testy-den": 3726,
+            "testy-celkem": 495377
         },
         {
             "datum": "13.06.2020",
-            "testy-den": 1664,
-            "testy-celkem": 497045
+            "testy-den": 1652,
+            "testy-celkem": 497029
         },
         {
             "datum": "14.06.2020",
             "testy-den": 1121,
-            "testy-celkem": 498166
+            "testy-celkem": 498150
         },
         {
             "datum": "15.06.2020",
-            "testy-den": 3646,
-            "testy-celkem": 501812
+            "testy-den": 3673,
+            "testy-celkem": 501823
         },
         {
             "datum": "16.06.2020",
-            "testy-den": 4051,
-            "testy-celkem": 505863
+            "testy-den": 4023,
+            "testy-celkem": 505846
         },
         {
             "datum": "17.06.2020",
-            "testy-den": 4077,
-            "testy-celkem": 509940
+            "testy-den": 4036,
+            "testy-celkem": 509882
         },
         {
             "datum": "18.06.2020",
-            "testy-den": 4039,
-            "testy-celkem": 513979
+            "testy-den": 4351,
+            "testy-celkem": 514233
+        },
+        {
+            "datum": "19.06.2020",
+            "testy-den": 3050,
+            "testy-celkem": 517283
         }
     ]
 }
