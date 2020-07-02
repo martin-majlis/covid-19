@@ -1,5 +1,5 @@
 {
-    "modified": "2020-07-02T17:31:12+02:00",
+    "modified": "2020-07-02T18:44:27+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -774,13 +774,18 @@
         },
         {
             "datum": "29.06.2020",
-            "testy-den": 4471,
-            "testy-celkem": 551663
+            "testy-den": 4485,
+            "testy-celkem": 551677
         },
         {
             "datum": "30.06.2020",
-            "testy-den": 4317,
-            "testy-celkem": 555980
+            "testy-den": 4412,
+            "testy-celkem": 556089
+        },
+        {
+            "datum": "01.07.2020",
+            "testy-den": 4100,
+            "testy-celkem": 560189
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "modified": "2020-07-02T17:31:13+02:00",
+    "modified": "2020-07-02T18:44:28+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -1085,21 +1085,21 @@
             "kumulovany_pocet_nakazenych": 11805,
             "kumulovany_pocet_vylecenych": 7765,
             "kumulovany_pocet_umrti": 352,
-            "kumulovany_pocet_provedenych_testu": 551663
+            "kumulovany_pocet_provedenych_testu": 551677
         },
         {
             "datum": "2020-06-30",
             "kumulovany_pocet_nakazenych": 11954,
             "kumulovany_pocet_vylecenych": 7782,
             "kumulovany_pocet_umrti": 353,
-            "kumulovany_pocet_provedenych_testu": 555980
+            "kumulovany_pocet_provedenych_testu": 556089
         },
         {
             "datum": "2020-07-01",
             "kumulovany_pocet_nakazenych": 12046,
             "kumulovany_pocet_vylecenych": 7819,
             "kumulovany_pocet_umrti": 353,
-            "kumulovany_pocet_provedenych_testu": 555980
+            "kumulovany_pocet_provedenych_testu": 560189
         }
     ]
 }
