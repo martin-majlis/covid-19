@@ -1,5 +1,5 @@
 {
-    "modified": "2020-07-03T08:05:03+02:00",
+    "modified": "2020-07-03T17:31:11+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -71647,7 +71647,7 @@
             "kraj_nuts_kod": "CZ032",
             "okres_lau_kod": "CZ0324",
             "kumulativni_pocet_nakazenych": 37,
-            "kumulativni_pocet_vylecenych": 30,
+            "kumulativni_pocet_vylecenych": 31,
             "kumulativni_pocet_umrti": 5
         },
         {
@@ -71910,7 +71910,7 @@
             "datum": "2020-06-25",
             "kraj_nuts_kod": "CZ064",
             "okres_lau_kod": "CZ0642",
-            "kumulativni_pocet_nakazenych": 271,
+            "kumulativni_pocet_nakazenych": 272,
             "kumulativni_pocet_vylecenych": 189,
             "kumulativni_pocet_umrti": 5
         },
