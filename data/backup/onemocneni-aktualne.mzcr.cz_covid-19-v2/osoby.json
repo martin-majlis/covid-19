@@ -1,31 +1,13 @@
 {
-    "modified": "2020-07-02T17:30:07+02:00",
+    "modified": "2020-07-03T00:30:06+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
-        {
-            "datum": "2020-03-16",
-            "vek": 33,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
         {
             "datum": "2020-04-08",
             "vek": 32,
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ042",
             "okres_lau_kod": "CZ0427",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-03",
-            "vek": 20,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -39,20 +21,11 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-06-28",
-            "vek": 47,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-28",
-            "vek": 36,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ0204",
+            "datum": "2020-07-02",
+            "vek": 44,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ064",
+            "okres_lau_kod": "CZ0642",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -66,20 +39,11 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-04-16",
-            "vek": 35,
-            "pohlavi": "Z",
+            "datum": "2020-03-16",
+            "vek": 33,
+            "pohlavi": "M",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-29",
-            "vek": 19,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0802",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -93,29 +57,29 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-06-28",
+            "vek": 47,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-29",
+            "vek": 19,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0802",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-06-05",
             "vek": 53,
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ041",
             "okres_lau_kod": "CZ0412",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-02",
-            "vek": 50,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ031",
-            "okres_lau_kod": "CZ0314",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-22",
-            "vek": 28,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ0208",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -129,6 +93,24 @@
             "nakaza_zeme_csu_kod": "DE"
         },
         {
+            "datum": "2020-04-03",
+            "vek": 20,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-20",
+            "vek": 2,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-05",
             "vek": 56,
             "pohlavi": "Z",
@@ -138,20 +120,11 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-04-03",
-            "vek": 60,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0411",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-29",
-            "vek": 28,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0802",
+            "datum": "2020-04-06",
+            "vek": 58,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0423",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -165,18 +138,9 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-06-12",
-            "vek": 56,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-05",
-            "vek": 69,
-            "pohlavi": "M",
+            "datum": "2020-04-03",
+            "vek": 60,
+            "pohlavi": "Z",
             "kraj_nuts_kod": "CZ041",
             "okres_lau_kod": "CZ0411",
             "nakaza_v_zahranici": false,
@@ -192,29 +156,20 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-04-09",
-            "vek": 45,
+            "datum": "2020-06-05",
+            "vek": 69,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0423",
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0411",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-06-26",
-            "vek": 37,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ0208",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "UA"
-        },
-        {
-            "datum": "2020-05-03",
-            "vek": 37,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0411",
+            "datum": "2020-06-12",
+            "vek": 56,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -228,38 +183,38 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-04-30",
+            "datum": "2020-04-16",
             "vek": 35,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0413",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-29",
-            "vek": 28,
             "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0806",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-06-24",
-            "vek": 46,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-07",
-            "vek": 20,
+            "datum": "2020-04-09",
+            "vek": 45,
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ042",
             "okres_lau_kod": "CZ0423",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-02",
+            "vek": 50,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ031",
+            "okres_lau_kod": "CZ0314",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-28",
+            "vek": 49,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0802",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -273,47 +228,29 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-03-20",
-            "vek": 61,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
+            "datum": "2020-03-26",
+            "vek": 79,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-04-03",
-            "vek": 37,
+            "datum": "2020-06-26",
+            "vek": 23,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0423",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-05",
-            "vek": 36,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ064",
-            "okres_lau_kod": "CZ0643",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ0204",
             "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "GB"
+            "nakaza_zeme_csu_kod": "BD"
         },
         {
-            "datum": "2020-04-06",
-            "vek": 48,
+            "datum": "2020-06-22",
+            "vek": 28,
             "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-03-17",
-            "vek": 48,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ0208",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -327,20 +264,11 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-03-24",
-            "vek": 39,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-03-26",
-            "vek": 79,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
+            "datum": "2020-06-24",
+            "vek": 44,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ0204",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -354,20 +282,38 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-06-27",
+            "vek": 31,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-29",
+            "vek": 28,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0806",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-05-03",
+            "vek": 37,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0411",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-03",
             "vek": 42,
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ042",
             "okres_lau_kod": "CZ0423",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-24",
-            "vek": 44,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ0204",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -390,47 +336,11 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-07-02",
-            "vek": 16,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-22",
-            "vek": 46,
+            "datum": "2020-03-20",
+            "vek": 61,
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-06",
-            "vek": 27,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0423",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-05",
-            "vek": 24,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0423",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-05-20",
-            "vek": 47,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -444,11 +354,11 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-04-03",
-            "vek": 5,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0427",
+            "datum": "2020-07-02",
+            "vek": 16,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -471,15 +381,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-03-28",
-            "vek": 27,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-04-04",
             "vek": 70,
             "pohlavi": "Z",
@@ -489,74 +390,38 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-04-19",
-            "vek": 19,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ053",
-            "okres_lau_kod": "CZ0531",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-28",
-            "vek": 22,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0802",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-05-01",
-            "vek": 56,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0411",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-07-01",
-            "vek": 45,
+            "datum": "2020-03-28",
+            "vek": 27,
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0802",
+            "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-04-17",
-            "vek": 43,
+            "datum": "2020-06-05",
+            "vek": 36,
             "pohlavi": "M",
+            "kraj_nuts_kod": "CZ064",
+            "okres_lau_kod": "CZ0643",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "GB"
+        },
+        {
+            "datum": "2020-04-06",
+            "vek": 48,
+            "pohlavi": "Z",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-05-05",
-            "vek": 44,
+            "datum": "2020-03-20",
+            "vek": 36,
             "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ032",
-            "okres_lau_kod": "CZ0324",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-11",
-            "vek": 35,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ0202",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-21",
-            "vek": 46,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0412",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -566,6 +431,33 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ041",
             "okres_lau_kod": "CZ0411",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-06",
+            "vek": 27,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0423",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-08",
+            "vek": 26,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0427",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-05",
+            "vek": 24,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0423",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -575,33 +467,6 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ042",
             "okres_lau_kod": "CZ0427",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-06",
-            "vek": 31,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0423",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-23",
-            "vek": 52,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-02",
-            "vek": 24,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -624,962 +489,17 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-04-03",
-            "vek": 44,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0427",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-15",
-            "vek": 37,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-03",
-            "vek": 47,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0411",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "DE"
-        },
-        {
-            "datum": "2020-05-30",
-            "vek": 25,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-20",
-            "vek": 23,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ0204",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-21",
-            "vek": 46,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-09",
-            "vek": 44,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0423",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-06",
-            "vek": 1,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0423",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-05-30",
-            "vek": 28,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ020A",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-20",
-            "vek": 83,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ053",
-            "okres_lau_kod": "CZ0531",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-13",
-            "vek": 44,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ064",
-            "okres_lau_kod": "CZ0642",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-04",
-            "vek": 63,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0427",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-09",
-            "vek": 7,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ064",
-            "okres_lau_kod": "CZ0642",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-02",
-            "vek": 56,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ051",
-            "okres_lau_kod": "CZ0513",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-05-18",
-            "vek": 23,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0421",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "GB"
-        },
-        {
-            "datum": "2020-06-24",
-            "vek": 83,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ071",
-            "okres_lau_kod": "CZ0712",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-06",
-            "vek": 63,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-04",
-            "vek": 45,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ064",
-            "okres_lau_kod": "CZ0642",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-14",
-            "vek": 47,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0423",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-06",
-            "vek": 59,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ020B",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "PT"
-        },
-        {
-            "datum": "2020-04-03",
-            "vek": 49,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0413",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "DE"
-        },
-        {
-            "datum": "2020-06-04",
-            "vek": 70,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0411",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-10",
-            "vek": 75,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0423",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-03-07",
-            "vek": 3,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "IT"
-        },
-        {
-            "datum": "2020-04-20",
-            "vek": 33,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-08",
-            "vek": 38,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-03-31",
-            "vek": 41,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-03",
-            "vek": 83,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0411",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-05-18",
-            "vek": 43,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-08",
-            "vek": 52,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ032",
-            "okres_lau_kod": "CZ0321",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-03-29",
-            "vek": 89,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-29",
-            "vek": 60,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0802",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-04",
-            "vek": 47,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0412",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-22",
-            "vek": 36,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-30",
-            "vek": 32,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0411",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-05-18",
-            "vek": 73,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0422",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-07",
-            "vek": 43,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-08",
-            "vek": 85,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0413",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-05-11",
-            "vek": 11,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0426",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-27",
-            "vek": 49,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-13",
-            "vek": 29,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-07-01",
-            "vek": 72,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-05-05",
-            "vek": 29,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ032",
-            "okres_lau_kod": "CZ0327",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-26",
-            "vek": 44,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ031",
-            "okres_lau_kod": "CZ0316",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "UA"
-        },
-        {
-            "datum": "2020-04-08",
-            "vek": 46,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ020A",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-17",
-            "vek": 40,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0411",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-03-30",
-            "vek": 63,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-08",
-            "vek": 54,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0427",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-07-02",
-            "vek": 12,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ064",
-            "okres_lau_kod": "CZ0642",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-02",
-            "vek": 6,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0427",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-30",
-            "vek": 66,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0802",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-11",
-            "vek": 42,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ0206",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-22",
-            "vek": 28,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ0208",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-03-31",
-            "vek": 32,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-06",
-            "vek": 29,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0423",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-16",
-            "vek": 42,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ064",
-            "okres_lau_kod": "CZ0644",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-10",
-            "vek": 93,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0423",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-27",
-            "vek": 51,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-29",
-            "vek": 54,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0802",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-03-13",
-            "vek": 49,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "AT"
-        },
-        {
-            "datum": "2020-06-23",
-            "vek": 34,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-24",
-            "vek": 45,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ064",
-            "okres_lau_kod": "CZ0642",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-03-24",
-            "vek": 34,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-06",
-            "vek": 0,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ032",
-            "okres_lau_kod": "CZ0327",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-05-15",
-            "vek": 64,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0411",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-03",
-            "vek": 45,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-10",
-            "vek": 88,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0423",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-04",
-            "vek": 41,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0427",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-09",
-            "vek": 19,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0423",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-09",
-            "vek": 58,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ032",
-            "okres_lau_kod": "CZ0321",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-03-24",
-            "vek": 5,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-07-01",
-            "vek": 45,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-05-30",
-            "vek": 47,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-24",
-            "vek": 53,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0411",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-10",
-            "vek": 72,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0423",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-29",
-            "vek": 78,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0806",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-27",
-            "vek": 10,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-14",
-            "vek": 41,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ020A",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "AT"
-        },
-        {
-            "datum": "2020-06-28",
-            "vek": 47,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0802",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-28",
-            "vek": 28,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-26",
-            "vek": 36,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0806",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-06",
-            "vek": 52,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0423",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-05-15",
-            "vek": 26,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ032",
-            "okres_lau_kod": "CZ0321",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-07",
-            "vek": 45,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0423",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-25",
-            "vek": 80,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ071",
-            "okres_lau_kod": "CZ0712",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-04",
-            "vek": 62,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0411",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-04",
-            "vek": 17,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0427",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-05-18",
-            "vek": 32,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-07-02",
-            "vek": 30,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ064",
-            "okres_lau_kod": "CZ0646",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "UA"
-        },
-        {
-            "datum": "2020-05-21",
-            "vek": 75,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-29",
-            "vek": 49,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-22",
-            "vek": 47,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-05-14",
-            "vek": 38,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0426",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-13",
-            "vek": 59,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ064",
-            "okres_lau_kod": "CZ0643",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-24",
-            "vek": 26,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ064",
-            "okres_lau_kod": "CZ0642",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "UA"
-        },
-        {
-            "datum": "2020-06-23",
-            "vek": 23,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ064",
-            "okres_lau_kod": "CZ0642",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "UA"
-        },
-        {
-            "datum": "2020-07-02",
-            "vek": 45,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-29",
-            "vek": 26,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-25",
-            "vek": 38,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-07-02",
-            "vek": 44,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ064",
-            "okres_lau_kod": "CZ0642",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-30",
-            "vek": 42,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ0208",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "UA"
-        },
-        {
-            "datum": "2020-04-20",
-            "vek": 2,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-06",
-            "vek": 58,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0423",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-27",
-            "vek": 31,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-26",
-            "vek": 23,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ0204",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "BD"
-        },
-        {
             "datum": "2020-04-28",
-            "vek": 49,
-            "pohlavi": "Z",
+            "vek": 22,
+            "pohlavi": "M",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-03-20",
-            "vek": 36,
+            "datum": "2020-04-22",
+            "vek": 46,
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
@@ -1587,9 +507,45 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-04-08",
-            "vek": 26,
+            "datum": "2020-05-01",
+            "vek": 56,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0411",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-09",
+            "vek": 44,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0423",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-05-20",
+            "vek": 47,
             "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-04",
+            "vek": 63,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0427",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-03",
+            "vek": 5,
+            "pohlavi": "Z",
             "kraj_nuts_kod": "CZ042",
             "okres_lau_kod": "CZ0427",
             "nakaza_v_zahranici": false,
@@ -1605,38 +561,29 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-07-02",
-            "vek": 10,
+            "datum": "2020-05-05",
+            "vek": 44,
             "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ064",
-            "okres_lau_kod": "CZ0642",
+            "kraj_nuts_kod": "CZ032",
+            "okres_lau_kod": "CZ0324",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-06-27",
-            "vek": 57,
+            "datum": "2020-05-18",
+            "vek": 23,
             "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0421",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "GB"
         },
         {
-            "datum": "2020-06-26",
-            "vek": 63,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ0204",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-05-23",
-            "vek": 41,
+            "datum": "2020-04-06",
+            "vek": 31,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0423",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -1650,11 +597,218 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-04-19",
+            "vek": 19,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ053",
+            "okres_lau_kod": "CZ0531",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-21",
+            "vek": 46,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-07-02",
+            "vek": 10,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ064",
+            "okres_lau_kod": "CZ0642",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-07-01",
+            "vek": 45,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0802",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-11",
+            "vek": 35,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ0202",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-13",
+            "vek": 44,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ064",
+            "okres_lau_kod": "CZ0642",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-03",
+            "vek": 47,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0411",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "DE"
+        },
+        {
+            "datum": "2020-04-08",
+            "vek": 52,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ032",
+            "okres_lau_kod": "CZ0321",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-09",
+            "vek": 7,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ064",
+            "okres_lau_kod": "CZ0642",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-02",
+            "vek": 24,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-27",
+            "vek": 57,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-20",
+            "vek": 23,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ0204",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-06",
+            "vek": 63,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-06",
+            "vek": 1,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0423",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-05-11",
+            "vek": 11,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0426",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-03",
             "vek": 51,
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ042",
             "okres_lau_kod": "CZ0427",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-26",
+            "vek": 63,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ0204",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-15",
+            "vek": 37,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-20",
+            "vek": 83,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ053",
+            "okres_lau_kod": "CZ0531",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-13",
+            "vek": 29,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-02",
+            "vek": 56,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ051",
+            "okres_lau_kod": "CZ0513",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-05-23",
+            "vek": 41,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-08",
+            "vek": 38,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-24",
+            "vek": 83,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ071",
+            "okres_lau_kod": "CZ0712",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -1668,6 +822,69 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-05-01",
+            "vek": 37,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0802",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-04",
+            "vek": 47,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0412",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-22",
+            "vek": 36,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-10",
+            "vek": 93,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0423",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-30",
+            "vek": 32,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0411",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-04",
+            "vek": 45,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ064",
+            "okres_lau_kod": "CZ0642",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-03",
+            "vek": 49,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0413",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "DE"
+        },
+        {
             "datum": "2020-04-30",
             "vek": 94,
             "pohlavi": "Z",
@@ -1675,6 +892,51 @@
             "okres_lau_kod": "CZ0100",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-03-29",
+            "vek": 89,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-20",
+            "vek": 33,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-10",
+            "vek": 75,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0423",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-03",
+            "vek": 83,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0411",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-03-07",
+            "vek": 3,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "IT"
         },
         {
             "datum": "2020-06-05",
@@ -1686,20 +948,218 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-06-12",
-            "vek": 49,
+            "datum": "2020-04-09",
+            "vek": 58,
             "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ032",
+            "okres_lau_kod": "CZ0321",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-08",
+            "vek": 54,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0427",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-11",
+            "vek": 42,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ0206",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-03-31",
+            "vek": 41,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-05-18",
+            "vek": 73,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0422",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-08",
+            "vek": 85,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0413",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-05-18",
+            "vek": 43,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-16",
+            "vek": 42,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ064",
+            "okres_lau_kod": "CZ0644",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-05-05",
+            "vek": 29,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ032",
+            "okres_lau_kod": "CZ0327",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-29",
+            "vek": 60,
+            "pohlavi": "M",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-05-01",
-            "vek": 37,
+            "datum": "2020-04-07",
+            "vek": 43,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-07-01",
+            "vek": 72,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-06",
+            "vek": 52,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0423",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-07-02",
+            "vek": 12,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ064",
+            "okres_lau_kod": "CZ0642",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-27",
+            "vek": 49,
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-04",
+            "vek": 62,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0411",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-03-31",
+            "vek": 32,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-03-30",
+            "vek": 63,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-29",
+            "vek": 54,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-06",
+            "vek": 29,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0423",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-04",
+            "vek": 47,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0412",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-06",
+            "vek": 0,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ032",
+            "okres_lau_kod": "CZ0327",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-30",
+            "vek": 66,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0802",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-10",
+            "vek": 88,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0423",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -1713,6 +1173,222 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-06-26",
+            "vek": 44,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ031",
+            "okres_lau_kod": "CZ0316",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "UA"
+        },
+        {
+            "datum": "2020-04-22",
+            "vek": 47,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-13",
+            "vek": 59,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ064",
+            "okres_lau_kod": "CZ0643",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-17",
+            "vek": 40,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0411",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-12",
+            "vek": 49,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0802",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-03-24",
+            "vek": 34,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-27",
+            "vek": 51,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-02",
+            "vek": 6,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0427",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-22",
+            "vek": 28,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ0208",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-07-02",
+            "vek": 45,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-24",
+            "vek": 45,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ064",
+            "okres_lau_kod": "CZ0642",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-05-15",
+            "vek": 64,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0411",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-04",
+            "vek": 41,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0427",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-27",
+            "vek": 10,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-09",
+            "vek": 19,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0423",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-29",
+            "vek": 26,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-07-01",
+            "vek": 45,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-24",
+            "vek": 53,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0411",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-30",
+            "vek": 42,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ0208",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "UA"
+        },
+        {
+            "datum": "2020-06-25",
+            "vek": 38,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-03-13",
+            "vek": 49,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "AT"
+        },
+        {
+            "datum": "2020-06-28",
+            "vek": 47,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0802",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-03",
+            "vek": 45,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-14",
+            "vek": 41,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ020A",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "AT"
+        },
+        {
             "datum": "2020-07-02",
             "vek": 12,
             "pohlavi": "M",
@@ -1722,11 +1398,335 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-05-15",
+            "vek": 26,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ032",
+            "okres_lau_kod": "CZ0321",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-04",
-            "vek": 47,
+            "vek": 17,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0427",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-07",
+            "vek": 45,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0423",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-10",
+            "vek": 72,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0423",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-05-21",
+            "vek": 75,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-29",
+            "vek": 78,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0806",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-29",
+            "vek": 49,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-05-14",
+            "vek": 38,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0426",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-24",
+            "vek": 26,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ064",
+            "okres_lau_kod": "CZ0642",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "UA"
+        },
+        {
+            "datum": "2020-07-02",
+            "vek": 30,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ064",
+            "okres_lau_kod": "CZ0646",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "UA"
+        },
+        {
+            "datum": "2020-06-23",
+            "vek": 23,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ064",
+            "okres_lau_kod": "CZ0642",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "UA"
+        },
+        {
+            "datum": "2020-06-28",
+            "vek": 28,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-25",
+            "vek": 80,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ071",
+            "okres_lau_kod": "CZ0712",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-05-18",
+            "vek": 32,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-28",
+            "vek": 36,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ0204",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-29",
+            "vek": 28,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0802",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-26",
+            "vek": 37,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ0208",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "UA"
+        },
+        {
+            "datum": "2020-03-24",
+            "vek": 39,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-30",
+            "vek": 35,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0413",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-24",
+            "vek": 46,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-07",
+            "vek": 20,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0423",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-03",
+            "vek": 37,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0423",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-03-17",
+            "vek": 48,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-17",
+            "vek": 43,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-21",
+            "vek": 46,
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ041",
             "okres_lau_kod": "CZ0412",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-23",
+            "vek": 52,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-05-30",
+            "vek": 28,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ020A",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-05-30",
+            "vek": 25,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-03",
+            "vek": 44,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0427",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-06",
+            "vek": 59,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ020B",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "PT"
+        },
+        {
+            "datum": "2020-06-04",
+            "vek": 70,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0411",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-23",
+            "vek": 34,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-05-30",
+            "vek": 47,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-08",
+            "vek": 46,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ020A",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-26",
+            "vek": 36,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0806",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-03-24",
+            "vek": 5,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-14",
+            "vek": 47,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0423",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -1911,6 +1911,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-04-11",
+            "vek": 32,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-15",
             "vek": 61,
             "pohlavi": "M",
@@ -1945,15 +1954,6 @@
             "okres_lau_kod": "CZ0724",
             "nakaza_v_zahranici": true,
             "nakaza_zeme_csu_kod": "IT"
-        },
-        {
-            "datum": "2020-04-11",
-            "vek": 32,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
         },
         {
             "datum": "2020-03-24",
@@ -2337,7 +2337,7 @@
             "datum": "2020-07-01",
             "vek": 51,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ020",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -4161,6 +4161,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-06-13",
+            "vek": 58,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0804",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-05-03",
             "vek": 80,
             "pohlavi": "M",
@@ -4229,15 +4238,6 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-13",
-            "vek": 58,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0804",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -6060,6 +6060,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-04-02",
+            "vek": 81,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ071",
+            "okres_lau_kod": "CZ0712",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-03-25",
             "vek": 84,
             "pohlavi": "M",
@@ -6173,15 +6182,6 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ064",
             "okres_lau_kod": "CZ0646",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-02",
-            "vek": 81,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ071",
-            "okres_lau_kod": "CZ0712",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -6531,7 +6531,7 @@
             "datum": "2020-07-01",
             "vek": 54,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0806",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -6594,7 +6594,7 @@
             "datum": "2020-07-02",
             "vek": 49,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -6852,6 +6852,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-06-02",
+            "vek": 69,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0802",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-02",
             "vek": 77,
             "pohlavi": "M",
@@ -6929,15 +6938,6 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-02",
-            "vek": 69,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0802",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -8067,6 +8067,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-06-29",
+            "vek": 77,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-03",
             "vek": 5,
             "pohlavi": "M",
@@ -8639,6 +8648,15 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ064",
             "okres_lau_kod": "CZ0644",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-05-19",
+            "vek": 33,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -11829,15 +11847,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-07-01",
-            "vek": 48,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-04-03",
             "vek": 80,
             "pohlavi": "Z",
@@ -11879,6 +11888,15 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-07-01",
+            "vek": 48,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -12279,6 +12297,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-05-20",
+            "vek": 47,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-05-01",
             "vek": 75,
             "pohlavi": "M",
@@ -12405,15 +12432,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-05-20",
-            "vek": 47,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-04-10",
             "vek": 34,
             "pohlavi": "M",
@@ -12437,6 +12455,15 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ032",
             "okres_lau_kod": "CZ0321",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-03-24",
+            "vek": 43,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ020A",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -12473,15 +12500,6 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ042",
             "okres_lau_kod": "CZ0426",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-03-24",
-            "vek": 43,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ020A",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -16518,6 +16536,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-04-28",
+            "vek": 57,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0802",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-08",
             "vek": 80,
             "pohlavi": "M",
@@ -16550,15 +16577,6 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-28",
-            "vek": 57,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0802",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -16617,15 +16635,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-06-20",
-            "vek": 41,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ051",
-            "okres_lau_kod": "CZ0513",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-04-21",
             "vek": 76,
             "pohlavi": "Z",
@@ -16658,6 +16667,15 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ0204",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-20",
+            "vek": 41,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ051",
+            "okres_lau_kod": "CZ0513",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -16890,7 +16908,7 @@
             "datum": "2020-07-01",
             "vek": 40,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ072",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -16986,6 +17004,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-03-25",
+            "vek": 21,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ072",
+            "okres_lau_kod": "CZ0722",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-23",
             "vek": 68,
             "pohlavi": "M",
@@ -17018,15 +17045,6 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-03-25",
-            "vek": 21,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ072",
-            "okres_lau_kod": "CZ0722",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -17067,6 +17085,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-03-29",
+            "vek": 68,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ051",
+            "okres_lau_kod": "CZ0513",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "FR"
+        },
+        {
             "datum": "2020-03-12",
             "vek": 69,
             "pohlavi": "Z",
@@ -17101,15 +17128,6 @@
             "okres_lau_kod": "CZ0513",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-03-29",
-            "vek": 68,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ051",
-            "okres_lau_kod": "CZ0513",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "FR"
         },
         {
             "datum": "2020-03-31",
@@ -17538,7 +17556,7 @@
             "datum": "2020-07-02",
             "vek": 43,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ072",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -19495,6 +19513,15 @@
             "okres_lau_kod": "CZ0100",
             "nakaza_v_zahranici": true,
             "nakaza_zeme_csu_kod": "PT"
+        },
+        {
+            "datum": "2020-07-02",
+            "vek": 53,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
         },
         {
             "datum": "2020-04-05",
@@ -25104,15 +25131,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-03-15",
-            "vek": 56,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0806",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-06-24",
             "vek": 20,
             "pohlavi": "M",
@@ -25145,6 +25163,15 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-03-15",
+            "vek": 56,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0806",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -25509,20 +25536,20 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-06-22",
+            "vek": 86,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-05-04",
             "vek": 26,
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ064",
             "okres_lau_kod": "CZ0642",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-05-19",
-            "vek": 50,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0806",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -25550,15 +25577,6 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ041",
             "okres_lau_kod": "CZ0411",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-22",
-            "vek": 86,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -25595,6 +25613,15 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ041",
             "okres_lau_kod": "CZ0411",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-05-19",
+            "vek": 50,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0806",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -25842,15 +25869,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-05-14",
-            "vek": 61,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ020A",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-04-22",
             "vek": 37,
             "pohlavi": "M",
@@ -25883,6 +25901,15 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ042",
             "okres_lau_kod": "CZ0421",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-05-14",
+            "vek": 61,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ020A",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -26067,6 +26094,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-03-19",
+            "vek": 46,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0806",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-05",
             "vek": 74,
             "pohlavi": "M",
@@ -26238,15 +26274,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-03-19",
-            "vek": 46,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0806",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-04-22",
             "vek": 100,
             "pohlavi": "M",
@@ -26400,6 +26427,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-06-27",
+            "vek": 38,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-06",
             "vek": 50,
             "pohlavi": "M",
@@ -26432,15 +26468,6 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ042",
             "okres_lau_kod": "CZ0423",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-27",
-            "vek": 38,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -26715,11 +26742,11 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-04-07",
-            "vek": 26,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ071",
-            "okres_lau_kod": "CZ0712",
+            "datum": "2020-05-21",
+            "vek": 46,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ0204",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -26756,6 +26783,15 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-07",
+            "vek": 26,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ071",
+            "okres_lau_kod": "CZ0712",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -27948,6 +27984,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-06-29",
+            "vek": 99,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-07",
             "vek": 70,
             "pohlavi": "M",
@@ -28016,6 +28061,15 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ053",
             "okres_lau_kod": "CZ0531",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-19",
+            "vek": 42,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -29892,6 +29946,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-07-02",
+            "vek": 51,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ052",
+            "okres_lau_kod": "CZ0522",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-05-30",
             "vek": 90,
             "pohlavi": "Z",
@@ -30819,15 +30882,6 @@
             "nakaza_zeme_csu_kod": "IT"
         },
         {
-            "datum": "2020-06-10",
-            "vek": 51,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ020A",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-04-10",
             "vek": 63,
             "pohlavi": "M",
@@ -30896,6 +30950,15 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ020B",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-10",
+            "vek": 51,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ020A",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -32070,6 +32133,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-04-08",
+            "vek": 41,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0806",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-01",
             "vek": 92,
             "pohlavi": "Z",
@@ -32102,15 +32174,6 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ031",
             "okres_lau_kod": "CZ0316",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-08",
-            "vek": 41,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0806",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -32322,6 +32385,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-04-02",
+            "vek": 33,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-03",
             "vek": 79,
             "pohlavi": "M",
@@ -32388,15 +32460,6 @@
             "datum": "2020-03-26",
             "vek": 55,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-02",
-            "vek": 33,
-            "pohlavi": "Z",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "nakaza_v_zahranici": false,
@@ -32642,6 +32705,15 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-07-03",
+            "vek": 69,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ051",
+            "okres_lau_kod": "CZ0512",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -33069,15 +33141,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-04-04",
-            "vek": 41,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ0207",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-04-03",
             "vek": 40,
             "pohlavi": "Z",
@@ -33110,6 +33173,15 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ042",
             "okres_lau_kod": "CZ0426",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-04",
+            "vek": 41,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ0207",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -33276,15 +33348,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-04-02",
-            "vek": 39,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-04-04",
             "vek": 83,
             "pohlavi": "Z",
@@ -33317,6 +33380,15 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0806",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-02",
+            "vek": 39,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -33663,6 +33735,15 @@
             "nakaza_zeme_csu_kod": "CH"
         },
         {
+            "datum": "2020-04-10",
+            "vek": 82,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-03-31",
             "vek": 75,
             "pohlavi": "M",
@@ -33731,15 +33812,6 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ053",
             "okres_lau_kod": "CZ0532",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-10",
-            "vek": 82,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -34005,15 +34077,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-04-17",
-            "vek": 44,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
-            "okres_lau_kod": "CZ0423",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-05-03",
             "vek": 89,
             "pohlavi": "Z",
@@ -34046,6 +34109,15 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ053",
             "okres_lau_kod": "CZ0532",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-17",
+            "vek": 44,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0423",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -36300,13 +36372,13 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-03-27",
-            "vek": 30,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ032",
-            "okres_lau_kod": "CZ0323",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "AT"
+            "datum": "2020-06-25",
+            "vek": 75,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ052",
+            "okres_lau_kod": "CZ0522",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
         },
         {
             "datum": "2020-03-27",
@@ -36341,15 +36413,6 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-25",
-            "vek": 75,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ052",
-            "okres_lau_kod": "CZ0522",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -36469,6 +36532,15 @@
             "okres_lau_kod": "CZ0642",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-03-27",
+            "vek": 30,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ032",
+            "okres_lau_kod": "CZ0323",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "AT"
         },
         {
             "datum": "2020-04-08",
@@ -37383,7 +37455,7 @@
             "datum": "2020-07-01",
             "vek": 51,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -39000,15 +39072,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-04-17",
-            "vek": 15,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-05-07",
             "vek": 79,
             "pohlavi": "Z",
@@ -39041,6 +39104,15 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0805",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-17",
+            "vek": 15,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -39486,6 +39558,15 @@
             "nakaza_zeme_csu_kod": "IT"
         },
         {
+            "datum": "2020-06-27",
+            "vek": 35,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-02",
             "vek": 62,
             "pohlavi": "M",
@@ -39509,15 +39590,6 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-27",
-            "vek": 35,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -39558,6 +39630,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-03-18",
+            "vek": 64,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ031",
+            "okres_lau_kod": "CZ0316",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-09",
             "vek": 73,
             "pohlavi": "Z",
@@ -39590,15 +39671,6 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ0209",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-03-18",
-            "vek": 64,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ031",
-            "okres_lau_kod": "CZ0316",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -39729,6 +39801,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-03-25",
+            "vek": 41,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-03-30",
             "vek": 82,
             "pohlavi": "M",
@@ -39844,15 +39925,6 @@
             "okres_lau_kod": "CZ0715",
             "nakaza_v_zahranici": true,
             "nakaza_zeme_csu_kod": "GB"
-        },
-        {
-            "datum": "2020-03-25",
-            "vek": 41,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
         },
         {
             "datum": "2020-04-07",
@@ -40488,7 +40560,7 @@
             "datum": "2020-07-02",
             "vek": 48,
             "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ072",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -40683,15 +40755,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-03-15",
-            "vek": 66,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ072",
-            "okres_lau_kod": "CZ0722",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-04-09",
             "vek": 80,
             "pohlavi": "M",
@@ -40805,6 +40868,15 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-03-15",
+            "vek": 66,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ072",
+            "okres_lau_kod": "CZ0722",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -41052,15 +41124,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-03-28",
-            "vek": 28,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ071",
-            "okres_lau_kod": "CZ0712",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-04-16",
             "vek": 86,
             "pohlavi": "Z",
@@ -41093,6 +41156,15 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ042",
             "okres_lau_kod": "CZ0423",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-03-28",
+            "vek": 28,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ071",
+            "okres_lau_kod": "CZ0712",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -41844,6 +41916,15 @@
             "nakaza_zeme_csu_kod": "US"
         },
         {
+            "datum": "2020-06-01",
+            "vek": 46,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-01",
             "vek": 59,
             "pohlavi": "M",
@@ -41961,15 +42042,6 @@
             "nakaza_zeme_csu_kod": "DE"
         },
         {
-            "datum": "2020-06-30",
-            "vek": 41,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-06-10",
             "vek": 95,
             "pohlavi": "Z",
@@ -41997,9 +42069,9 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-06-01",
-            "vek": 46,
-            "pohlavi": "Z",
+            "datum": "2020-06-30",
+            "vek": 41,
+            "pohlavi": "M",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
@@ -43410,15 +43482,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-06-24",
-            "vek": 46,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ064",
-            "okres_lau_kod": "CZ0642",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "UA"
-        },
-        {
             "datum": "2020-05-20",
             "vek": 57,
             "pohlavi": "M",
@@ -43453,6 +43516,15 @@
             "okres_lau_kod": "CZ0411",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-24",
+            "vek": 46,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ064",
+            "okres_lau_kod": "CZ0642",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "UA"
         },
         {
             "datum": "2020-04-03",
@@ -43527,6 +43599,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-03-28",
+            "vek": 30,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ032",
+            "okres_lau_kod": "CZ0321",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-03-15",
             "vek": 85,
             "pohlavi": "Z",
@@ -43568,15 +43649,6 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ020A",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-03-28",
-            "vek": 30,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ032",
-            "okres_lau_kod": "CZ0321",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -44328,15 +44400,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-04-16",
-            "vek": 58,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-04-07",
             "vek": 60,
             "pohlavi": "Z",
@@ -44366,6 +44429,15 @@
         {
             "datum": "2020-05-06",
             "vek": 28,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-16",
+            "vek": 58,
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
@@ -44979,7 +45051,7 @@
             "datum": "2020-07-01",
             "vek": 49,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ072",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -45390,6 +45462,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-04-03",
+            "vek": 75,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ051",
+            "okres_lau_kod": "CZ0511",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-05-01",
             "vek": 81,
             "pohlavi": "Z",
@@ -45422,15 +45503,6 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ064",
             "okres_lau_kod": "CZ0641",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-03",
-            "vek": 75,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ051",
-            "okres_lau_kod": "CZ0511",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -45903,6 +45975,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-07-02",
+            "vek": 40,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-06-11",
             "vek": 38,
             "pohlavi": "Z",
@@ -45926,6 +46007,15 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0723",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-03-30",
+            "vek": 49,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ032",
+            "okres_lau_kod": "CZ0321",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -45966,11 +46056,11 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-03-30",
-            "vek": 49,
+            "datum": "2020-07-02",
+            "vek": 29,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ032",
-            "okres_lau_kod": "CZ0321",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -46470,6 +46560,15 @@
             "nakaza_zeme_csu_kod": "FR"
         },
         {
+            "datum": "2020-05-13",
+            "vek": 48,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ0206",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-10",
             "vek": 89,
             "pohlavi": "Z",
@@ -46574,15 +46673,6 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-05-13",
-            "vek": 48,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ0206",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -46812,15 +46902,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-06-25",
-            "vek": 2,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "UA"
-        },
-        {
             "datum": "2020-04-04",
             "vek": 85,
             "pohlavi": "M",
@@ -46891,6 +46972,15 @@
             "okres_lau_kod": "CZ0100",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-25",
+            "vek": 2,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "UA"
         },
         {
             "datum": "2020-04-11",
@@ -47298,15 +47388,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-04-07",
-            "vek": 58,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ071",
-            "okres_lau_kod": "CZ0712",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-04-15",
             "vek": 49,
             "pohlavi": "Z",
@@ -47379,6 +47460,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-04-07",
+            "vek": 58,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ071",
+            "okres_lau_kod": "CZ0712",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-03-27",
             "vek": 75,
             "pohlavi": "Z",
@@ -47438,6 +47528,15 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-03-18",
+            "vek": 25,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0801",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -47528,15 +47627,6 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ0203",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-03-18",
-            "vek": 25,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0801",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -48090,6 +48180,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-06-18",
+            "vek": 41,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0802",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-03-28",
             "vek": 74,
             "pohlavi": "M",
@@ -48167,15 +48266,6 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-18",
-            "vek": 41,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0802",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -48756,15 +48846,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-03-15",
-            "vek": 37,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "AE"
-        },
-        {
             "datum": "2020-06-14",
             "vek": 84,
             "pohlavi": "M",
@@ -48853,6 +48934,15 @@
             "okres_lau_kod": "CZ0321",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-03-15",
+            "vek": 37,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "AE"
         },
         {
             "datum": "2020-04-26",
@@ -51888,6 +51978,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-04-05",
+            "vek": 48,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ041",
+            "okres_lau_kod": "CZ0412",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-10",
             "vek": 87,
             "pohlavi": "M",
@@ -51920,15 +52019,6 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-05",
-            "vek": 48,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ041",
-            "okres_lau_kod": "CZ0412",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -52161,7 +52251,7 @@
             "datum": "2020-07-01",
             "vek": 55,
             "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ042",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -52316,6 +52406,15 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ042",
             "okres_lau_kod": "CZ0425",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-07-02",
+            "vek": 48,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -53094,6 +53193,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-03-26",
+            "vek": 54,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-09",
             "vek": 85,
             "pohlavi": "M",
@@ -53123,15 +53231,6 @@
         {
             "datum": "2020-05-15",
             "vek": 22,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-03-26",
-            "vek": 54,
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
@@ -55533,6 +55632,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-03-31",
+            "vek": 53,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ032",
+            "okres_lau_kod": "CZ0321",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-03-27",
             "vek": 65,
             "pohlavi": "M",
@@ -55574,15 +55682,6 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ020A",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-03-31",
-            "vek": 53,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ032",
-            "okres_lau_kod": "CZ0321",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -57621,6 +57720,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-04-25",
+            "vek": 59,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ0204",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-05-06",
             "vek": 45,
             "pohlavi": "M",
@@ -58163,6 +58271,15 @@
         {
             "datum": "2020-04-16",
             "vek": 29,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ053",
+            "okres_lau_kod": "CZ0532",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-07-01",
+            "vek": 49,
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ053",
             "okres_lau_kod": "CZ0532",
@@ -60063,6 +60180,15 @@
             "datum": "2020-03-27",
             "vek": 41,
             "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ0204",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-22",
+            "vek": 21,
+            "pohlavi": "M",
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ0204",
             "nakaza_v_zahranici": false,
@@ -63438,7 +63564,7 @@
             "datum": "2020-07-01",
             "vek": 47,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -64812,6 +64938,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-05-01",
+            "vek": 44,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ0204",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-05-09",
             "vek": 36,
             "pohlavi": "M",
@@ -65067,7 +65202,7 @@
             "datum": "2020-07-01",
             "vek": 58,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -65393,6 +65528,15 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-07-02",
+            "vek": 53,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -70161,7 +70305,7 @@
             "datum": "2020-06-29",
             "vek": 15,
             "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ020",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -70680,6 +70824,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-07-02",
+            "vek": 52,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ052",
+            "okres_lau_kod": "CZ0522",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-05-22",
             "vek": 57,
             "pohlavi": "M",
@@ -70791,7 +70944,7 @@
             "datum": "2020-07-02",
             "vek": 44,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ072",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -73167,7 +73320,7 @@
             "datum": "2020-06-30",
             "vek": 57,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ064",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -74280,15 +74433,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-06-26",
-            "vek": 43,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ0209",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-04-25",
             "vek": 80,
             "pohlavi": "Z",
@@ -74375,6 +74519,15 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-26",
+            "vek": 43,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ0209",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -74541,6 +74694,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-06-27",
+            "vek": 49,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0805",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-06",
             "vek": 93,
             "pohlavi": "Z",
@@ -74573,15 +74735,6 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-27",
-            "vek": 49,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0805",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -75729,6 +75882,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-04-08",
+            "vek": 46,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ072",
+            "okres_lau_kod": "CZ0722",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-05-05",
             "vek": 74,
             "pohlavi": "M",
@@ -75765,15 +75927,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-04-08",
-            "vek": 46,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ072",
-            "okres_lau_kod": "CZ0722",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-04-18",
             "vek": 9,
             "pohlavi": "Z",
@@ -75806,6 +75959,15 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ031",
             "okres_lau_kod": "CZ0315",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-18",
+            "vek": 61,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ020",
+            "okres_lau_kod": "CZ0209",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -75887,15 +76049,6 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0805",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-18",
-            "vek": 61,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ020",
-            "okres_lau_kod": "CZ0209",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -76047,7 +76200,7 @@
             "datum": "2020-07-02",
             "vek": 46,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ072",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -77781,11 +77934,11 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-03-25",
-            "vek": 49,
+            "datum": "2020-06-30",
+            "vek": 53,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -77826,11 +77979,11 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-06-30",
-            "vek": 53,
+            "datum": "2020-03-25",
+            "vek": 49,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -79053,7 +79206,7 @@
             "datum": "2020-07-02",
             "vek": 31,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -79527,11 +79680,11 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-06-25",
-            "vek": 22,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ031",
-            "okres_lau_kod": "CZ0315",
+            "datum": "2020-04-09",
+            "vek": 46,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ071",
+            "okres_lau_kod": "CZ0712",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -79608,11 +79761,11 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-04-09",
-            "vek": 46,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ071",
-            "okres_lau_kod": "CZ0712",
+            "datum": "2020-06-25",
+            "vek": 22,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ031",
+            "okres_lau_kod": "CZ0315",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -79698,15 +79851,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-07-01",
-            "vek": 61,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0803",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-04-20",
             "vek": 38,
             "pohlavi": "M",
@@ -79745,6 +79889,15 @@
         {
             "datum": "2020-06-28",
             "vek": 55,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0803",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-07-01",
+            "vek": 61,
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
@@ -80175,15 +80328,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-03-28",
-            "vek": 49,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ010",
-            "okres_lau_kod": "CZ0100",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-04-06",
             "vek": 51,
             "pohlavi": "M",
@@ -80216,6 +80360,15 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0806",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-03-28",
+            "vek": 49,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ010",
+            "okres_lau_kod": "CZ0100",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -80421,7 +80574,7 @@
             "datum": "2020-07-02",
             "vek": 54,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -83877,7 +84030,7 @@
             "datum": "2020-07-02",
             "vek": 41,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ072",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -85467,6 +85620,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-06-17",
+            "vek": 44,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ052",
+            "okres_lau_kod": "CZ0525",
+            "nakaza_v_zahranici": true,
+            "nakaza_zeme_csu_kod": "UA"
+        },
+        {
             "datum": "2020-04-03",
             "vek": 44,
             "pohlavi": "Z",
@@ -86424,7 +86586,7 @@
             "datum": "2020-07-02",
             "vek": 38,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -86673,6 +86835,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-03-31",
+            "vek": 42,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ071",
+            "okres_lau_kod": "CZ0712",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-06-15",
             "vek": 70,
             "pohlavi": "M",
@@ -86714,15 +86885,6 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ051",
             "okres_lau_kod": "CZ0512",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-03-31",
-            "vek": 42,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ071",
-            "okres_lau_kod": "CZ0712",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -86997,6 +87159,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-06-07",
+            "vek": 74,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ071",
+            "okres_lau_kod": "CZ0712",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-22",
             "vek": 85,
             "pohlavi": "Z",
@@ -87074,15 +87245,6 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ064",
             "okres_lau_kod": "CZ0642",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-06-07",
-            "vek": 74,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ071",
-            "okres_lau_kod": "CZ0712",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -88161,7 +88323,7 @@
             "datum": "2020-07-02",
             "vek": 47,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ072",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -89916,7 +90078,7 @@
             "datum": "2020-07-01",
             "vek": 58,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0806",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -91446,7 +91608,7 @@
             "datum": "2020-07-02",
             "vek": 50,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ042",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -91700,6 +91862,15 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ053",
             "okres_lau_kod": "CZ0531",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-05-05",
+            "vek": 70,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ053",
+            "okres_lau_kod": "CZ0532",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -93180,6 +93351,15 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
+            "datum": "2020-04-09",
+            "vek": 57,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ071",
+            "okres_lau_kod": "CZ0712",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
             "datum": "2020-04-08",
             "vek": 66,
             "pohlavi": "M",
@@ -93209,15 +93389,6 @@
         {
             "datum": "2020-03-30",
             "vek": 66,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ071",
-            "okres_lau_kod": "CZ0712",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
-            "datum": "2020-04-09",
-            "vek": 57,
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ071",
             "okres_lau_kod": "CZ0712",
@@ -93954,15 +94125,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-03-19",
-            "vek": 58,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ080",
-            "okres_lau_kod": "CZ0801",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-04-02",
             "vek": 56,
             "pohlavi": "M",
@@ -94031,6 +94193,15 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ042",
             "okres_lau_kod": "CZ0423",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-03-19",
+            "vek": 58,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ080",
+            "okres_lau_kod": "CZ0801",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -94314,15 +94485,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-06-29",
-            "vek": 2,
-            "pohlavi": "Z",
-            "kraj_nuts_kod": "CZ071",
-            "okres_lau_kod": "CZ0712",
-            "nakaza_v_zahranici": false,
-            "nakaza_zeme_csu_kod": ""
-        },
-        {
             "datum": "2020-03-16",
             "vek": 74,
             "pohlavi": "Z",
@@ -94391,6 +94553,15 @@
             "pohlavi": "Z",
             "kraj_nuts_kod": "CZ041",
             "okres_lau_kod": "CZ0411",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-06-29",
+            "vek": 2,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ071",
+            "okres_lau_kod": "CZ0712",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -94823,6 +94994,15 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ051",
             "okres_lau_kod": "CZ0512",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-04-20",
+            "vek": 68,
+            "pohlavi": "M",
+            "kraj_nuts_kod": "CZ042",
+            "okres_lau_kod": "CZ0422",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
@@ -96702,7 +96882,7 @@
             "datum": "2020-06-29",
             "vek": 16,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ020",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -97395,7 +97575,7 @@
             "datum": "2020-06-29",
             "vek": 13,
             "pohlavi": "M",
-            "kraj_nuts_kod": "CZ020",
+            "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
@@ -99201,15 +99381,6 @@
             "nakaza_zeme_csu_kod": ""
         },
         {
-            "datum": "2020-06-17",
-            "vek": 44,
-            "pohlavi": "M",
-            "kraj_nuts_kod": "CZ052",
-            "okres_lau_kod": "CZ0525",
-            "nakaza_v_zahranici": true,
-            "nakaza_zeme_csu_kod": "UA"
-        },
-        {
             "datum": "2020-05-14",
             "vek": 44,
             "pohlavi": "M",
@@ -100061,6 +100232,15 @@
             "pohlavi": "M",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
+            "nakaza_v_zahranici": false,
+            "nakaza_zeme_csu_kod": ""
+        },
+        {
+            "datum": "2020-07-03",
+            "vek": 26,
+            "pohlavi": "Z",
+            "kraj_nuts_kod": "CZ051",
+            "okres_lau_kod": "CZ0513",
             "nakaza_v_zahranici": false,
             "nakaza_zeme_csu_kod": ""
         },
