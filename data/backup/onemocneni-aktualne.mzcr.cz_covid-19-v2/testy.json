@@ -1,5 +1,5 @@
 {
-    "modified": "2020-07-06T17:31:16+02:00",
+    "modified": "2020-07-07T17:33:40+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -806,6 +806,11 @@
             "datum": "2020-07-05",
             "prirustkovy_pocet_testu": 1441,
             "kumulativni_pocet_testu": 573446
+        },
+        {
+            "datum": "2020-07-06",
+            "prirustkovy_pocet_testu": 1323,
+            "kumulativni_pocet_testu": 574769
         }
     ]
 }
