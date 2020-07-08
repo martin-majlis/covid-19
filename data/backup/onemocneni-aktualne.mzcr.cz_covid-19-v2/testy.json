@@ -1,5 +1,5 @@
 {
-    "modified": "2020-07-07T17:33:40+02:00",
+    "modified": "2020-07-08T17:53:42+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -789,28 +789,33 @@
         },
         {
             "datum": "2020-07-02",
-            "prirustkovy_pocet_testu": 4662,
-            "kumulativni_pocet_testu": 565344
+            "prirustkovy_pocet_testu": 4665,
+            "kumulativni_pocet_testu": 565347
         },
         {
             "datum": "2020-07-03",
-            "prirustkovy_pocet_testu": 5030,
-            "kumulativni_pocet_testu": 570374
+            "prirustkovy_pocet_testu": 5109,
+            "kumulativni_pocet_testu": 570456
         },
         {
             "datum": "2020-07-04",
-            "prirustkovy_pocet_testu": 1631,
-            "kumulativni_pocet_testu": 572005
+            "prirustkovy_pocet_testu": 1687,
+            "kumulativni_pocet_testu": 572143
         },
         {
             "datum": "2020-07-05",
-            "prirustkovy_pocet_testu": 1441,
-            "kumulativni_pocet_testu": 573446
+            "prirustkovy_pocet_testu": 1524,
+            "kumulativni_pocet_testu": 573667
         },
         {
             "datum": "2020-07-06",
-            "prirustkovy_pocet_testu": 1323,
-            "kumulativni_pocet_testu": 574769
+            "prirustkovy_pocet_testu": 1714,
+            "kumulativni_pocet_testu": 575381
+        },
+        {
+            "datum": "2020-07-07",
+            "prirustkovy_pocet_testu": 4019,
+            "kumulativni_pocet_testu": 579400
         }
     ]
 }
