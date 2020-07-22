@@ -1,5 +1,5 @@
 {
-    "modified": "2020-07-21T17:30:05+02:00",
+    "modified": "2020-07-22T00:30:05+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -864,23 +864,28 @@
         },
         {
             "datum": "2020-07-17",
-            "pocetDen": 130,
-            "pocetCelkem": 13742
+            "pocetDen": 129,
+            "pocetCelkem": 13741
         },
         {
             "datum": "2020-07-18",
-            "pocetDen": 113,
-            "pocetCelkem": 13855
+            "pocetDen": 112,
+            "pocetCelkem": 13853
         },
         {
             "datum": "2020-07-19",
             "pocetDen": 90,
-            "pocetCelkem": 13945
+            "pocetCelkem": 13943
         },
         {
             "datum": "2020-07-20",
             "pocetDen": 169,
-            "pocetCelkem": 14114
+            "pocetCelkem": 14112
+        },
+        {
+            "datum": "2020-07-21",
+            "pocetDen": 212,
+            "pocetCelkem": 14324
         }
     ]
 }
