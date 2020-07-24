@@ -1,5 +1,5 @@
 {
-    "modified": "2020-07-24T00:30:04+02:00",
+    "modified": "2020-07-24T17:30:06+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -649,12 +649,12 @@
         },
         {
             "datum": "2020-06-04",
-            "prirustkovy_pocet_nakazenych": 56,
-            "kumulativni_pocet_nakazenych": 9494
+            "prirustkovy_pocet_nakazenych": 57,
+            "kumulativni_pocet_nakazenych": 9495
         },
         {
             "datum": "2020-06-05",
-            "prirustkovy_pocet_nakazenych": 35,
+            "prirustkovy_pocet_nakazenych": 34,
             "kumulativni_pocet_nakazenych": 9529
         },
         {
@@ -889,13 +889,13 @@
         },
         {
             "datum": "2020-07-22",
-            "prirustkovy_pocet_nakazenych": 247,
-            "kumulativni_pocet_nakazenych": 14565
+            "prirustkovy_pocet_nakazenych": 246,
+            "kumulativni_pocet_nakazenych": 14564
         },
         {
             "datum": "2020-07-23",
             "prirustkovy_pocet_nakazenych": 235,
-            "kumulativni_pocet_nakazenych": 14800
+            "kumulativni_pocet_nakazenych": 14799
         }
     ]
 }
