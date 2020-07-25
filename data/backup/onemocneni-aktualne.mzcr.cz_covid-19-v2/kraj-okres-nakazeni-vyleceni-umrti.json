@@ -1,5 +1,5 @@
 {
-    "modified": "2020-07-25T00:31:43+02:00",
+    "modified": "2020-07-25T17:31:44+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -85424,7 +85424,7 @@
             "okres_lau_kod": "CZ0632",
             "kumulativni_pocet_nakazenych": 51,
             "kumulativni_pocet_vylecenych": 18,
-            "kumulativni_pocet_umrti": 1
+            "kumulativni_pocet_umrti": 0
         },
         {
             "datum": "2020-07-17",
