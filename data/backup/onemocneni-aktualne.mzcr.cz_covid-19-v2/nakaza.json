@@ -1,5 +1,5 @@
 {
-    "modified": "2020-07-26T17:30:06+02:00",
+    "modified": "2020-07-27T00:30:05+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -794,118 +794,123 @@
         },
         {
             "datum": "2020-07-03",
-            "prirustkovy_pocet_nakazenych": 141,
-            "kumulativni_pocet_nakazenych": 12319
+            "prirustkovy_pocet_nakazenych": 139,
+            "kumulativni_pocet_nakazenych": 12317
         },
         {
             "datum": "2020-07-04",
             "prirustkovy_pocet_nakazenych": 121,
-            "kumulativni_pocet_nakazenych": 12440
+            "kumulativni_pocet_nakazenych": 12438
         },
         {
             "datum": "2020-07-05",
             "prirustkovy_pocet_nakazenych": 75,
-            "kumulativni_pocet_nakazenych": 12515
+            "kumulativni_pocet_nakazenych": 12513
         },
         {
             "datum": "2020-07-06",
             "prirustkovy_pocet_nakazenych": 51,
-            "kumulativni_pocet_nakazenych": 12566
+            "kumulativni_pocet_nakazenych": 12564
         },
         {
             "datum": "2020-07-07",
             "prirustkovy_pocet_nakazenych": 119,
-            "kumulativni_pocet_nakazenych": 12685
+            "kumulativni_pocet_nakazenych": 12683
         },
         {
             "datum": "2020-07-08",
             "prirustkovy_pocet_nakazenych": 129,
-            "kumulativni_pocet_nakazenych": 12814
+            "kumulativni_pocet_nakazenych": 12812
         },
         {
             "datum": "2020-07-09",
             "prirustkovy_pocet_nakazenych": 105,
-            "kumulativni_pocet_nakazenych": 12919
+            "kumulativni_pocet_nakazenych": 12917
         },
         {
             "datum": "2020-07-10",
             "prirustkovy_pocet_nakazenych": 143,
-            "kumulativni_pocet_nakazenych": 13062
+            "kumulativni_pocet_nakazenych": 13060
         },
         {
             "datum": "2020-07-11",
             "prirustkovy_pocet_nakazenych": 53,
-            "kumulativni_pocet_nakazenych": 13115
+            "kumulativni_pocet_nakazenych": 13113
         },
         {
             "datum": "2020-07-12",
             "prirustkovy_pocet_nakazenych": 59,
-            "kumulativni_pocet_nakazenych": 13174
+            "kumulativni_pocet_nakazenych": 13172
         },
         {
             "datum": "2020-07-13",
             "prirustkovy_pocet_nakazenych": 64,
-            "kumulativni_pocet_nakazenych": 13238
+            "kumulativni_pocet_nakazenych": 13236
         },
         {
             "datum": "2020-07-14",
             "prirustkovy_pocet_nakazenych": 103,
-            "kumulativni_pocet_nakazenych": 13341
+            "kumulativni_pocet_nakazenych": 13339
         },
         {
             "datum": "2020-07-15",
             "prirustkovy_pocet_nakazenych": 134,
-            "kumulativni_pocet_nakazenych": 13475
+            "kumulativni_pocet_nakazenych": 13473
         },
         {
             "datum": "2020-07-16",
             "prirustkovy_pocet_nakazenych": 137,
-            "kumulativni_pocet_nakazenych": 13612
+            "kumulativni_pocet_nakazenych": 13610
         },
         {
             "datum": "2020-07-17",
             "prirustkovy_pocet_nakazenych": 129,
-            "kumulativni_pocet_nakazenych": 13741
+            "kumulativni_pocet_nakazenych": 13739
         },
         {
             "datum": "2020-07-18",
             "prirustkovy_pocet_nakazenych": 113,
-            "kumulativni_pocet_nakazenych": 13854
+            "kumulativni_pocet_nakazenych": 13852
         },
         {
             "datum": "2020-07-19",
             "prirustkovy_pocet_nakazenych": 90,
-            "kumulativni_pocet_nakazenych": 13944
+            "kumulativni_pocet_nakazenych": 13942
         },
         {
             "datum": "2020-07-20",
             "prirustkovy_pocet_nakazenych": 169,
-            "kumulativni_pocet_nakazenych": 14113
+            "kumulativni_pocet_nakazenych": 14111
         },
         {
             "datum": "2020-07-21",
             "prirustkovy_pocet_nakazenych": 206,
-            "kumulativni_pocet_nakazenych": 14319
+            "kumulativni_pocet_nakazenych": 14317
         },
         {
             "datum": "2020-07-22",
             "prirustkovy_pocet_nakazenych": 246,
-            "kumulativni_pocet_nakazenych": 14565
+            "kumulativni_pocet_nakazenych": 14563
         },
         {
             "datum": "2020-07-23",
             "prirustkovy_pocet_nakazenych": 235,
-            "kumulativni_pocet_nakazenych": 14800
+            "kumulativni_pocet_nakazenych": 14798
         },
         {
             "datum": "2020-07-24",
-            "prirustkovy_pocet_nakazenych": 281,
-            "kumulativni_pocet_nakazenych": 15081
+            "prirustkovy_pocet_nakazenych": 280,
+            "kumulativni_pocet_nakazenych": 15078
         },
         {
             "datum": "2020-07-25",
             "prirustkovy_pocet_nakazenych": 131,
-            "kumulativni_pocet_nakazenych": 15212
+            "kumulativni_pocet_nakazenych": 15209
+        },
+        {
+            "datum": "2020-07-26",
+            "prirustkovy_pocet_nakazenych": 115,
+            "kumulativni_pocet_nakazenych": 15324
         }
     ]
 }
