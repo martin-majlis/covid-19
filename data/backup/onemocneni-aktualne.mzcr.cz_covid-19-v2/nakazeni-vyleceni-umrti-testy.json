@@ -1,5 +1,5 @@
 {
-    "modified": "2020-07-28T17:32:12+02:00",
+    "modified": "2020-07-29T00:31:27+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -1258,29 +1258,36 @@
         {
             "datum": "2020-07-24",
             "kumulativni_pocet_nakazenych": 15097,
-            "kumulativni_pocet_vylecenych": 11291,
+            "kumulativni_pocet_vylecenych": 11292,
             "kumulativni_pocet_umrti": 368,
             "kumulativni_pocet_testu": 656888
         },
         {
             "datum": "2020-07-25",
             "kumulativni_pocet_nakazenych": 15229,
-            "kumulativni_pocet_vylecenych": 11294,
+            "kumulativni_pocet_vylecenych": 11295,
             "kumulativni_pocet_umrti": 370,
             "kumulativni_pocet_testu": 660225
         },
         {
             "datum": "2020-07-26",
             "kumulativni_pocet_nakazenych": 15344,
-            "kumulativni_pocet_vylecenych": 11305,
+            "kumulativni_pocet_vylecenych": 11306,
             "kumulativni_pocet_umrti": 370,
             "kumulativni_pocet_testu": 661953
         },
         {
             "datum": "2020-07-27",
             "kumulativni_pocet_nakazenych": 15539,
-            "kumulativni_pocet_vylecenych": 11335,
+            "kumulativni_pocet_vylecenych": 11339,
             "kumulativni_pocet_umrti": 372,
+            "kumulativni_pocet_testu": 668117
+        },
+        {
+            "datum": "2020-07-28",
+            "kumulativni_pocet_nakazenych": 15799,
+            "kumulativni_pocet_vylecenych": 11371,
+            "kumulativni_pocet_umrti": 373,
             "kumulativni_pocet_testu": 668117
         }
     ]
