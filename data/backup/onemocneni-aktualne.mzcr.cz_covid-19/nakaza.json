@@ -1,5 +1,5 @@
 {
-    "modified": "2020-07-29T17:30:04+02:00",
+    "modified": "2020-07-30T00:30:05+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -921,6 +921,11 @@
             "datum": "2020-07-28",
             "pocetDen": 275,
             "pocetCelkem": 15815
+        },
+        {
+            "datum": "2020-07-29",
+            "pocetDen": 278,
+            "pocetCelkem": 16093
         }
     ]
 }
