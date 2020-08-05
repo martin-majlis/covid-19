@@ -1,5 +1,5 @@
 {
-    "modified": "2020-08-04T17:32:26+02:00",
+    "modified": "2020-08-05T17:32:40+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -909,48 +909,53 @@
         },
         {
             "datum": "26.07.2020",
-            "testy-den": 1770,
-            "testy-celkem": 661995
+            "testy-den": 1772,
+            "testy-celkem": 661997
         },
         {
             "datum": "27.07.2020",
-            "testy-den": 6514,
-            "testy-celkem": 668509
+            "testy-den": 6516,
+            "testy-celkem": 668513
         },
         {
             "datum": "28.07.2020",
-            "testy-den": 7809,
-            "testy-celkem": 676318
+            "testy-den": 7817,
+            "testy-celkem": 676330
         },
         {
             "datum": "29.07.2020",
-            "testy-den": 7295,
-            "testy-celkem": 683613
+            "testy-den": 7300,
+            "testy-celkem": 683630
         },
         {
             "datum": "30.07.2020",
-            "testy-den": 7516,
-            "testy-celkem": 691129
+            "testy-den": 7528,
+            "testy-celkem": 691158
         },
         {
             "datum": "31.07.2020",
-            "testy-den": 8110,
-            "testy-celkem": 699239
+            "testy-den": 8118,
+            "testy-celkem": 699276
         },
         {
             "datum": "01.08.2020",
-            "testy-den": 4651,
-            "testy-celkem": 703890
+            "testy-den": 4653,
+            "testy-celkem": 703929
         },
         {
             "datum": "02.08.2020",
             "testy-den": 2635,
-            "testy-celkem": 706525
+            "testy-celkem": 706564
         },
         {
             "datum": "03.08.2020",
-            "testy-den": 7235,
-            "testy-celkem": 713760
+            "testy-den": 7399,
+            "testy-celkem": 713963
+        },
+        {
+            "datum": "04.08.2020",
+            "testy-den": 8040,
+            "testy-celkem": 722003
         }
     ]
 }
