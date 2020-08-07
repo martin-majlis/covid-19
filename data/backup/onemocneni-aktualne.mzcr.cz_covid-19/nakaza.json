@@ -1,5 +1,5 @@
 {
-    "modified": "2020-08-07T05:00:15+02:00",
+    "modified": "2020-08-07T17:30:06+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -914,58 +914,58 @@
         },
         {
             "datum": "2020-07-27",
-            "pocetDen": 195,
-            "pocetCelkem": 15531
+            "pocetDen": 194,
+            "pocetCelkem": 15530
         },
         {
             "datum": "2020-07-28",
             "pocetDen": 276,
-            "pocetCelkem": 15807
+            "pocetCelkem": 15806
         },
         {
             "datum": "2020-07-29",
-            "pocetDen": 274,
-            "pocetCelkem": 16081
+            "pocetDen": 273,
+            "pocetCelkem": 16079
         },
         {
             "datum": "2020-07-30",
-            "pocetDen": 250,
-            "pocetCelkem": 16331
+            "pocetDen": 249,
+            "pocetCelkem": 16328
         },
         {
             "datum": "2020-07-31",
             "pocetDen": 231,
-            "pocetCelkem": 16562
+            "pocetCelkem": 16559
         },
         {
             "datum": "2020-08-01",
             "pocetDen": 124,
-            "pocetCelkem": 16686
+            "pocetCelkem": 16683
         },
         {
             "datum": "2020-08-02",
             "pocetDen": 101,
-            "pocetCelkem": 16787
+            "pocetCelkem": 16784
         },
         {
             "datum": "2020-08-03",
             "pocetDen": 209,
-            "pocetCelkem": 16996
+            "pocetCelkem": 16993
         },
         {
             "datum": "2020-08-04",
             "pocetDen": 289,
-            "pocetCelkem": 17285
+            "pocetCelkem": 17282
         },
         {
             "datum": "2020-08-05",
-            "pocetDen": 240,
-            "pocetCelkem": 17525
+            "pocetDen": 241,
+            "pocetCelkem": 17523
         },
         {
             "datum": "2020-08-06",
             "pocetDen": 215,
-            "pocetCelkem": 17740
+            "pocetCelkem": 17738
         }
     ]
 }
