@@ -1,5 +1,5 @@
 {
-    "modified": "2020-08-13T01:00:05+02:00",
+    "modified": "2020-08-13T18:00:05+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -929,73 +929,73 @@
         },
         {
             "datum": "2020-07-30",
-            "pocetDen": 250,
-            "pocetCelkem": 16328
+            "pocetDen": 251,
+            "pocetCelkem": 16329
         },
         {
             "datum": "2020-07-31",
             "pocetDen": 231,
-            "pocetCelkem": 16559
+            "pocetCelkem": 16560
         },
         {
             "datum": "2020-08-01",
             "pocetDen": 123,
-            "pocetCelkem": 16682
+            "pocetCelkem": 16683
         },
         {
             "datum": "2020-08-02",
             "pocetDen": 101,
-            "pocetCelkem": 16783
+            "pocetCelkem": 16784
         },
         {
             "datum": "2020-08-03",
             "pocetDen": 209,
-            "pocetCelkem": 16992
+            "pocetCelkem": 16993
         },
         {
             "datum": "2020-08-04",
-            "pocetDen": 289,
-            "pocetCelkem": 17281
+            "pocetDen": 287,
+            "pocetCelkem": 17280
         },
         {
             "datum": "2020-08-05",
             "pocetDen": 240,
-            "pocetCelkem": 17521
+            "pocetCelkem": 17520
         },
         {
             "datum": "2020-08-06",
             "pocetDen": 214,
-            "pocetCelkem": 17735
+            "pocetCelkem": 17734
         },
         {
             "datum": "2020-08-07",
             "pocetDen": 323,
-            "pocetCelkem": 18058
+            "pocetCelkem": 18057
         },
         {
             "datum": "2020-08-08",
             "pocetDen": 175,
-            "pocetCelkem": 18233
+            "pocetCelkem": 18232
         },
         {
             "datum": "2020-08-09",
             "pocetDen": 122,
-            "pocetCelkem": 18355
+            "pocetCelkem": 18354
         },
         {
             "datum": "2020-08-10",
             "pocetDen": 140,
-            "pocetCelkem": 18495
+            "pocetCelkem": 18494
         },
         {
             "datum": "2020-08-11",
-            "pocetDen": 288,
-            "pocetCelkem": 18783
+            "pocetDen": 287,
+            "pocetCelkem": 18781
         },
         {
             "datum": "2020-08-12",
-            "pocetDen": 292,
-            "pocetCelkem": 19075
+            "pocetDen": 290,
+            "pocetCelkem": 19071
         }
     ]
 }
