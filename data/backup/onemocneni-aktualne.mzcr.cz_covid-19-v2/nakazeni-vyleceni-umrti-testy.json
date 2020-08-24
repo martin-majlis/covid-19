@@ -1,5 +1,5 @@
 {
-    "modified": "2020-08-24T01:02:33+02:00",
+    "modified": "2020-08-24T18:00:08+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -1446,28 +1446,28 @@
         },
         {
             "datum": "2020-08-20",
-            "kumulativni_pocet_nakazenych": 21046,
+            "kumulativni_pocet_nakazenych": 21045,
             "kumulativni_pocet_vylecenych": 15941,
             "kumulativni_pocet_umrti": 408,
             "kumulativni_pocet_testu": 826240
         },
         {
             "datum": "2020-08-21",
-            "kumulativni_pocet_nakazenych": 21551,
+            "kumulativni_pocet_nakazenych": 21550,
             "kumulativni_pocet_vylecenych": 16092,
             "kumulativni_pocet_umrti": 411,
             "kumulativni_pocet_testu": 835603
         },
         {
             "datum": "2020-08-22",
-            "kumulativni_pocet_nakazenych": 21788,
+            "kumulativni_pocet_nakazenych": 21786,
             "kumulativni_pocet_vylecenych": 16110,
             "kumulativni_pocet_umrti": 411,
             "kumulativni_pocet_testu": 840008
         },
         {
             "datum": "2020-08-23",
-            "kumulativni_pocet_nakazenych": 21923,
+            "kumulativni_pocet_nakazenych": 21921,
             "kumulativni_pocet_vylecenych": 16124,
             "kumulativni_pocet_umrti": 412,
             "kumulativni_pocet_testu": 840008
