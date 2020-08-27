@@ -1,5 +1,5 @@
 {
-    "modified": "2020-08-26T18:04:12+02:00",
+    "modified": "2020-08-27T18:04:29+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -914,153 +914,158 @@
         },
         {
             "datum": "27.07.2020",
-            "testy-den": 6519,
-            "testy-celkem": 668520
+            "testy-den": 6520,
+            "testy-celkem": 668521
         },
         {
             "datum": "28.07.2020",
             "testy-den": 7836,
-            "testy-celkem": 676356
+            "testy-celkem": 676357
         },
         {
             "datum": "29.07.2020",
             "testy-den": 7388,
-            "testy-celkem": 683744
+            "testy-celkem": 683745
         },
         {
             "datum": "30.07.2020",
             "testy-den": 7581,
-            "testy-celkem": 691325
+            "testy-celkem": 691326
         },
         {
             "datum": "31.07.2020",
             "testy-den": 8145,
-            "testy-celkem": 699470
+            "testy-celkem": 699471
         },
         {
             "datum": "01.08.2020",
-            "testy-den": 4688,
-            "testy-celkem": 704158
+            "testy-den": 4690,
+            "testy-celkem": 704161
         },
         {
             "datum": "02.08.2020",
             "testy-den": 2646,
-            "testy-celkem": 706804
+            "testy-celkem": 706807
         },
         {
             "datum": "03.08.2020",
             "testy-den": 7675,
-            "testy-celkem": 714479
+            "testy-celkem": 714482
         },
         {
             "datum": "04.08.2020",
-            "testy-den": 8335,
-            "testy-celkem": 722814
+            "testy-den": 8336,
+            "testy-celkem": 722818
         },
         {
             "datum": "05.08.2020",
-            "testy-den": 6873,
-            "testy-celkem": 729687
+            "testy-den": 6875,
+            "testy-celkem": 729693
         },
         {
             "datum": "06.08.2020",
             "testy-den": 7303,
-            "testy-celkem": 736990
+            "testy-celkem": 736996
         },
         {
             "datum": "07.08.2020",
-            "testy-den": 9141,
-            "testy-celkem": 746131
+            "testy-den": 9143,
+            "testy-celkem": 746139
         },
         {
             "datum": "08.08.2020",
             "testy-den": 5456,
-            "testy-celkem": 751587
+            "testy-celkem": 751595
         },
         {
             "datum": "09.08.2020",
             "testy-den": 2859,
-            "testy-celkem": 754446
+            "testy-celkem": 754454
         },
         {
             "datum": "10.08.2020",
             "testy-den": 6305,
-            "testy-celkem": 760751
+            "testy-celkem": 760759
         },
         {
             "datum": "11.08.2020",
-            "testy-den": 8290,
-            "testy-celkem": 769041
+            "testy-den": 8294,
+            "testy-celkem": 769053
         },
         {
             "datum": "12.08.2020",
             "testy-den": 7741,
-            "testy-celkem": 776782
+            "testy-celkem": 776794
         },
         {
             "datum": "13.08.2020",
-            "testy-den": 7170,
-            "testy-celkem": 783952
+            "testy-den": 7171,
+            "testy-celkem": 783965
         },
         {
             "datum": "14.08.2020",
             "testy-den": 7762,
-            "testy-celkem": 791714
+            "testy-celkem": 791727
         },
         {
             "datum": "15.08.2020",
-            "testy-den": 4776,
-            "testy-celkem": 796490
+            "testy-den": 4929,
+            "testy-celkem": 796656
         },
         {
             "datum": "16.08.2020",
-            "testy-den": 2741,
-            "testy-celkem": 799231
+            "testy-den": 2872,
+            "testy-celkem": 799528
         },
         {
             "datum": "17.08.2020",
-            "testy-den": 6980,
-            "testy-celkem": 806211
+            "testy-den": 7164,
+            "testy-celkem": 806692
         },
         {
             "datum": "18.08.2020",
-            "testy-den": 7362,
-            "testy-celkem": 813573
+            "testy-den": 7568,
+            "testy-celkem": 814260
         },
         {
             "datum": "19.08.2020",
-            "testy-den": 7368,
-            "testy-celkem": 820941
+            "testy-den": 7387,
+            "testy-celkem": 821647
         },
         {
             "datum": "20.08.2020",
-            "testy-den": 8019,
-            "testy-celkem": 828960
+            "testy-den": 8063,
+            "testy-celkem": 829710
         },
         {
             "datum": "21.08.2020",
-            "testy-den": 9602,
-            "testy-celkem": 838562
+            "testy-den": 9610,
+            "testy-celkem": 839320
         },
         {
             "datum": "22.08.2020",
-            "testy-den": 4806,
-            "testy-celkem": 843368
+            "testy-den": 4879,
+            "testy-celkem": 844199
         },
         {
             "datum": "23.08.2020",
-            "testy-den": 2213,
-            "testy-celkem": 845581
+            "testy-den": 2272,
+            "testy-celkem": 846471
         },
         {
             "datum": "24.08.2020",
-            "testy-den": 7289,
-            "testy-celkem": 852870
+            "testy-den": 7301,
+            "testy-celkem": 853772
         },
         {
             "datum": "25.08.2020",
-            "testy-den": 8522,
-            "testy-celkem": 861392
+            "testy-den": 8746,
+            "testy-celkem": 862518
+        },
+        {
+            "datum": "26.08.2020",
+            "testy-den": 8615,
+            "testy-celkem": 871133
         }
     ]
 }
