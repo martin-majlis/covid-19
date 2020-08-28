@@ -1,16 +1,16 @@
 {
-    "modified": "2020-06-15T11:06:41+02:00",
+    "modified": "2020-08-28T11:13:46+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
             "pomucka": "Brýle",
             "kraj": "Hlavní město Praha",
-            "pocet": 15648
+            "pocet": 17770
         },
         {
             "pomucka": "Brýle",
             "kraj": "Středočeský kraj",
-            "pocet": 2925
+            "pocet": 3175
         },
         {
             "pomucka": "Brýle",
@@ -215,12 +215,12 @@
         {
             "pomucka": "Respirátory",
             "kraj": "Hlavní město Praha",
-            "pocet": 3610084
+            "pocet": 3974564
         },
         {
             "pomucka": "Respirátory",
             "kraj": "Středočeský kraj",
-            "pocet": 458075
+            "pocet": 533075
         },
         {
             "pomucka": "Respirátory",
@@ -285,12 +285,12 @@
         {
             "pomucka": "Odběrové sady",
             "kraj": "Hlavní město Praha",
-            "pocet": 294830
+            "pocet": 301390
         },
         {
             "pomucka": "Odběrové sady",
             "kraj": "Středočeský kraj",
-            "pocet": 35320
+            "pocet": 36720
         },
         {
             "pomucka": "Odběrové sady",
@@ -355,12 +355,12 @@
         {
             "pomucka": "Rukavice",
             "kraj": "Hlavní město Praha",
-            "pocet": 2821104
+            "pocet": 2998304
         },
         {
             "pomucka": "Rukavice",
             "kraj": "Středočeský kraj",
-            "pocet": 657122
+            "pocet": 699522
         },
         {
             "pomucka": "Rukavice",
@@ -565,12 +565,12 @@
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Hlavní město Praha",
-            "pocet": 527005
+            "pocet": 548225
         },
         {
             "pomucka": "Ochranné oděvy",
             "kraj": "Středočeský kraj",
-            "pocet": 26618
+            "pocet": 27118
         },
         {
             "pomucka": "Ochranné oděvy",
@@ -710,7 +710,7 @@
         {
             "pomucka": "Polomasky",
             "kraj": "Středočeský kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Polomasky",
@@ -725,17 +725,17 @@
         {
             "pomucka": "Polomasky",
             "kraj": "Karlovarský kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Polomasky",
             "kraj": "Ústecký kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Polomasky",
             "kraj": "Liberecký kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Polomasky",
@@ -745,12 +745,12 @@
         {
             "pomucka": "Polomasky",
             "kraj": "Pardubický kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Polomasky",
             "kraj": "Kraj Vysočina",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Polomasky",
@@ -765,7 +765,7 @@
         {
             "pomucka": "Polomasky",
             "kraj": "Zlínský kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Polomasky",
@@ -780,7 +780,7 @@
         {
             "pomucka": "Filtry k polomaskám",
             "kraj": "Středočeský kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Filtry k polomaskám",
@@ -795,17 +795,17 @@
         {
             "pomucka": "Filtry k polomaskám",
             "kraj": "Karlovarský kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Filtry k polomaskám",
             "kraj": "Ústecký kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Filtry k polomaskám",
             "kraj": "Liberecký kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Filtry k polomaskám",
@@ -815,12 +815,12 @@
         {
             "pomucka": "Filtry k polomaskám",
             "kraj": "Pardubický kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Filtry k polomaskám",
             "kraj": "Kraj Vysočina",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Filtry k polomaskám",
@@ -835,7 +835,7 @@
         {
             "pomucka": "Filtry k polomaskám",
             "kraj": "Zlínský kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Filtry k polomaskám",
@@ -1130,67 +1130,67 @@
         {
             "pomucka": "Ostatní",
             "kraj": "Středočeský kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Ostatní",
             "kraj": "Jihočeský kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Ostatní",
             "kraj": "Plzeňský kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Ostatní",
             "kraj": "Karlovarský kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Ostatní",
             "kraj": "Ústecký kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Ostatní",
             "kraj": "Liberecký kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Ostatní",
             "kraj": "Královéhradecký kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Ostatní",
             "kraj": "Pardubický kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Ostatní",
             "kraj": "Kraj Vysočina",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Ostatní",
             "kraj": "Jihomoravský kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Ostatní",
             "kraj": "Olomoucký kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Ostatní",
             "kraj": "Zlínský kraj",
-            "pocet": 0
+            "pocet": ""
         },
         {
             "pomucka": "Ostatní",
             "kraj": "Moravskoslezský kraj",
-            "pocet": 0
+            "pocet": ""
         }
     ]
 }
