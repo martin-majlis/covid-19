@@ -1,5 +1,5 @@
 {
-    "modified": "2020-08-30T01:04:26+02:00",
+    "modified": "2020-08-30T18:04:44+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -105951,7 +105951,7 @@
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0806",
             "kumulativni_pocet_nakazenych": 919,
-            "kumulativni_pocet_vylecenych": 802,
+            "kumulativni_pocet_vylecenych": 803,
             "kumulativni_pocet_umrti": 37
         },
         {
@@ -105959,7 +105959,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 4365,
-            "kumulativni_pocet_vylecenych": 3369,
+            "kumulativni_pocet_vylecenych": 3370,
             "kumulativni_pocet_umrti": 117
         },
         {
@@ -106567,7 +106567,7 @@
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0806",
             "kumulativni_pocet_nakazenych": 924,
-            "kumulativni_pocet_vylecenych": 813,
+            "kumulativni_pocet_vylecenych": 814,
             "kumulativni_pocet_umrti": 37
         },
         {
@@ -106575,7 +106575,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 4490,
-            "kumulativni_pocet_vylecenych": 3403,
+            "kumulativni_pocet_vylecenych": 3404,
             "kumulativni_pocet_umrti": 117
         },
         {
@@ -107183,7 +107183,7 @@
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0806",
             "kumulativni_pocet_nakazenych": 941,
-            "kumulativni_pocet_vylecenych": 819,
+            "kumulativni_pocet_vylecenych": 820,
             "kumulativni_pocet_umrti": 37
         },
         {
@@ -107191,7 +107191,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 4570,
-            "kumulativni_pocet_vylecenych": 3424,
+            "kumulativni_pocet_vylecenych": 3425,
             "kumulativni_pocet_umrti": 117
         },
         {
@@ -107622,7 +107622,7 @@
             "datum": "2020-08-22",
             "kraj_nuts_kod": "CZ063",
             "okres_lau_kod": "CZ0635",
-            "kumulativni_pocet_nakazenych": 100,
+            "kumulativni_pocet_nakazenych": 102,
             "kumulativni_pocet_vylecenych": 72,
             "kumulativni_pocet_umrti": 0
         },
@@ -107799,7 +107799,7 @@
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0806",
             "kumulativni_pocet_nakazenych": 948,
-            "kumulativni_pocet_vylecenych": 822,
+            "kumulativni_pocet_vylecenych": 823,
             "kumulativni_pocet_umrti": 37
         }
     ]
