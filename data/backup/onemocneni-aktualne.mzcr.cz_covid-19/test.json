@@ -1,5 +1,5 @@
 {
-    "modified": "2020-09-04T18:05:36+02:00",
+    "modified": "2020-09-05T18:05:42+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -1054,58 +1054,63 @@
         },
         {
             "datum": "24.08.2020",
-            "testy-den": 7380,
-            "testy-celkem": 854996
+            "testy-den": 7383,
+            "testy-celkem": 854999
         },
         {
             "datum": "25.08.2020",
             "testy-den": 8756,
-            "testy-celkem": 863752
+            "testy-celkem": 863755
         },
         {
             "datum": "26.08.2020",
             "testy-den": 8853,
-            "testy-celkem": 872605
+            "testy-celkem": 872608
         },
         {
             "datum": "27.08.2020",
             "testy-den": 9188,
-            "testy-celkem": 881793
+            "testy-celkem": 881796
         },
         {
             "datum": "28.08.2020",
             "testy-den": 10764,
-            "testy-celkem": 892557
+            "testy-celkem": 892560
         },
         {
             "datum": "29.08.2020",
             "testy-den": 6566,
-            "testy-celkem": 899123
+            "testy-celkem": 899126
         },
         {
             "datum": "30.08.2020",
             "testy-den": 3944,
-            "testy-celkem": 903067
+            "testy-celkem": 903070
         },
         {
             "datum": "31.08.2020",
             "testy-den": 9341,
-            "testy-celkem": 912408
+            "testy-celkem": 912411
         },
         {
             "datum": "01.09.2020",
-            "testy-den": 11071,
-            "testy-celkem": 923479
+            "testy-den": 11099,
+            "testy-celkem": 923510
         },
         {
             "datum": "02.09.2020",
-            "testy-den": 11687,
-            "testy-celkem": 935166
+            "testy-den": 11708,
+            "testy-celkem": 935218
         },
         {
             "datum": "03.09.2020",
-            "testy-den": 10798,
-            "testy-celkem": 945964
+            "testy-den": 11035,
+            "testy-celkem": 946253
+        },
+        {
+            "datum": "04.09.2020",
+            "testy-den": 12549,
+            "testy-celkem": 958802
         }
     ]
 }
