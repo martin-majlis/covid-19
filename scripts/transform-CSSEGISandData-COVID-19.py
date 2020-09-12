@@ -110,11 +110,19 @@ nuts_reader = csv.DictReader(nuts_data)
 # skip header
 next(nuts_reader)
 
-nuts_mapping = defaultdict(dict)  # type: Dict[str, Dict[str, str]]
+# use defaultdict of defaultdict to make it more robust
+nuts_mapping = defaultdict(lambda: defaultdict(str))  # type: Dict[str, Dict[str, str]]
 nuts_mapping.update({
     rec[COLUMN_CODE]: rec
     for rec in nuts_reader
 })
+# 2020-09-02: They have introduced NUT3 - CZ999
+nuts_mapping['CZ999'] = {
+    COLUMN_CODE: 'CZ999',
+    COLUMN_NUTS3: '???',
+    COLUMN_LATITUDE: 0.0,
+    COLUMN_LONGITUDE: 0.0,
+}
 
 # GENERATE FINAL REPORTS
 
