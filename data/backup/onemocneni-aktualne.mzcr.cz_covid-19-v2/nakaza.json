@@ -1,5 +1,5 @@
 {
-    "modified": "2020-09-13T01:00:05+02:00",
+    "modified": "2020-09-13T18:00:06+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -1109,22 +1109,22 @@
         },
         {
             "datum": "2020-09-04",
-            "prirustkovy_pocet_nakazenych": 796,
-            "kumulativni_pocet_nakazenych": 27233
+            "prirustkovy_pocet_nakazenych": 797,
+            "kumulativni_pocet_nakazenych": 27234
         },
         {
             "datum": "2020-09-05",
             "prirustkovy_pocet_nakazenych": 507,
-            "kumulativni_pocet_nakazenych": 27740
+            "kumulativni_pocet_nakazenych": 27741
         },
         {
             "datum": "2020-09-06",
             "prirustkovy_pocet_nakazenych": 410,
-            "kumulativni_pocet_nakazenych": 28150
+            "kumulativni_pocet_nakazenych": 28151
         },
         {
             "datum": "2020-09-07",
-            "prirustkovy_pocet_nakazenych": 560,
+            "prirustkovy_pocet_nakazenych": 559,
             "kumulativni_pocet_nakazenych": 28710
         },
         {
@@ -1134,23 +1134,23 @@
         },
         {
             "datum": "2020-09-09",
-            "prirustkovy_pocet_nakazenych": 1160,
-            "kumulativni_pocet_nakazenych": 31032
+            "prirustkovy_pocet_nakazenych": 1159,
+            "kumulativni_pocet_nakazenych": 31031
         },
         {
             "datum": "2020-09-10",
             "prirustkovy_pocet_nakazenych": 1381,
-            "kumulativni_pocet_nakazenych": 32413
+            "kumulativni_pocet_nakazenych": 32412
         },
         {
             "datum": "2020-09-11",
             "prirustkovy_pocet_nakazenych": 1447,
-            "kumulativni_pocet_nakazenych": 33860
+            "kumulativni_pocet_nakazenych": 33859
         },
         {
             "datum": "2020-09-12",
-            "prirustkovy_pocet_nakazenych": 1541,
-            "kumulativni_pocet_nakazenych": 35401
+            "prirustkovy_pocet_nakazenych": 1539,
+            "kumulativni_pocet_nakazenych": 35398
         }
     ]
 }
