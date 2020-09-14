@@ -1,5 +1,5 @@
 {
-    "modified": "2020-09-14T01:06:52+02:00",
+    "modified": "2020-09-14T18:07:57+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -27111,7 +27111,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1456,
-            "kumulativni_pocet_vylecenych": 512,
+            "kumulativni_pocet_vylecenych": 513,
             "kumulativni_pocet_umrti": 71
         },
         {
@@ -27727,7 +27727,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1495,
-            "kumulativni_pocet_vylecenych": 582,
+            "kumulativni_pocet_vylecenych": 583,
             "kumulativni_pocet_umrti": 71
         },
         {
@@ -28343,7 +28343,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1517,
-            "kumulativni_pocet_vylecenych": 679,
+            "kumulativni_pocet_vylecenych": 680,
             "kumulativni_pocet_umrti": 71
         },
         {
@@ -28959,7 +28959,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1539,
-            "kumulativni_pocet_vylecenych": 767,
+            "kumulativni_pocet_vylecenych": 768,
             "kumulativni_pocet_umrti": 72
         },
         {
@@ -29575,7 +29575,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1567,
-            "kumulativni_pocet_vylecenych": 797,
+            "kumulativni_pocet_vylecenych": 798,
             "kumulativni_pocet_umrti": 74
         },
         {
@@ -30191,7 +30191,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1580,
-            "kumulativni_pocet_vylecenych": 837,
+            "kumulativni_pocet_vylecenych": 838,
             "kumulativni_pocet_umrti": 75
         },
         {
@@ -30807,7 +30807,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1623,
-            "kumulativni_pocet_vylecenych": 879,
+            "kumulativni_pocet_vylecenych": 880,
             "kumulativni_pocet_umrti": 78
         },
         {
@@ -31423,7 +31423,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1632,
-            "kumulativni_pocet_vylecenych": 946,
+            "kumulativni_pocet_vylecenych": 947,
             "kumulativni_pocet_umrti": 78
         },
         {
@@ -32039,7 +32039,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1646,
-            "kumulativni_pocet_vylecenych": 1000,
+            "kumulativni_pocet_vylecenych": 1001,
             "kumulativni_pocet_umrti": 78
         },
         {
@@ -32655,7 +32655,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1648,
-            "kumulativni_pocet_vylecenych": 1032,
+            "kumulativni_pocet_vylecenych": 1033,
             "kumulativni_pocet_umrti": 81
         },
         {
@@ -33271,7 +33271,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1662,
-            "kumulativni_pocet_vylecenych": 1079,
+            "kumulativni_pocet_vylecenych": 1080,
             "kumulativni_pocet_umrti": 83
         },
         {
@@ -33887,7 +33887,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1676,
-            "kumulativni_pocet_vylecenych": 1104,
+            "kumulativni_pocet_vylecenych": 1105,
             "kumulativni_pocet_umrti": 85
         },
         {
@@ -34503,7 +34503,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1677,
-            "kumulativni_pocet_vylecenych": 1114,
+            "kumulativni_pocet_vylecenych": 1115,
             "kumulativni_pocet_umrti": 85
         },
         {
@@ -35119,7 +35119,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1681,
-            "kumulativni_pocet_vylecenych": 1151,
+            "kumulativni_pocet_vylecenych": 1152,
             "kumulativni_pocet_umrti": 85
         },
         {
@@ -35735,7 +35735,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1690,
-            "kumulativni_pocet_vylecenych": 1172,
+            "kumulativni_pocet_vylecenych": 1173,
             "kumulativni_pocet_umrti": 85
         },
         {
@@ -36351,7 +36351,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1700,
-            "kumulativni_pocet_vylecenych": 1196,
+            "kumulativni_pocet_vylecenych": 1197,
             "kumulativni_pocet_umrti": 86
         },
         {
@@ -36967,7 +36967,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1722,
-            "kumulativni_pocet_vylecenych": 1237,
+            "kumulativni_pocet_vylecenych": 1238,
             "kumulativni_pocet_umrti": 87
         },
         {
@@ -37583,7 +37583,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1734,
-            "kumulativni_pocet_vylecenych": 1266,
+            "kumulativni_pocet_vylecenych": 1267,
             "kumulativni_pocet_umrti": 88
         },
         {
@@ -38199,7 +38199,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1736,
-            "kumulativni_pocet_vylecenych": 1272,
+            "kumulativni_pocet_vylecenych": 1273,
             "kumulativni_pocet_umrti": 88
         },
         {
@@ -38815,7 +38815,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1737,
-            "kumulativni_pocet_vylecenych": 1301,
+            "kumulativni_pocet_vylecenych": 1302,
             "kumulativni_pocet_umrti": 89
         },
         {
@@ -39431,7 +39431,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1744,
-            "kumulativni_pocet_vylecenych": 1328,
+            "kumulativni_pocet_vylecenych": 1329,
             "kumulativni_pocet_umrti": 90
         },
         {
@@ -40047,7 +40047,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1759,
-            "kumulativni_pocet_vylecenych": 1361,
+            "kumulativni_pocet_vylecenych": 1362,
             "kumulativni_pocet_umrti": 90
         },
         {
@@ -40663,7 +40663,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1769,
-            "kumulativni_pocet_vylecenych": 1393,
+            "kumulativni_pocet_vylecenych": 1394,
             "kumulativni_pocet_umrti": 90
         },
         {
@@ -41279,7 +41279,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1783,
-            "kumulativni_pocet_vylecenych": 1415,
+            "kumulativni_pocet_vylecenych": 1416,
             "kumulativni_pocet_umrti": 90
         },
         {
@@ -41895,7 +41895,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1797,
-            "kumulativni_pocet_vylecenych": 1432,
+            "kumulativni_pocet_vylecenych": 1433,
             "kumulativni_pocet_umrti": 90
         },
         {
@@ -42511,7 +42511,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1809,
-            "kumulativni_pocet_vylecenych": 1447,
+            "kumulativni_pocet_vylecenych": 1448,
             "kumulativni_pocet_umrti": 91
         },
         {
@@ -43127,7 +43127,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1818,
-            "kumulativni_pocet_vylecenych": 1457,
+            "kumulativni_pocet_vylecenych": 1458,
             "kumulativni_pocet_umrti": 92
         },
         {
@@ -43743,7 +43743,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1830,
-            "kumulativni_pocet_vylecenych": 1469,
+            "kumulativni_pocet_vylecenych": 1470,
             "kumulativni_pocet_umrti": 92
         },
         {
@@ -44359,7 +44359,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1836,
-            "kumulativni_pocet_vylecenych": 1485,
+            "kumulativni_pocet_vylecenych": 1486,
             "kumulativni_pocet_umrti": 92
         },
         {
@@ -44975,7 +44975,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1857,
-            "kumulativni_pocet_vylecenych": 1503,
+            "kumulativni_pocet_vylecenych": 1504,
             "kumulativni_pocet_umrti": 92
         },
         {
@@ -45591,7 +45591,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1870,
-            "kumulativni_pocet_vylecenych": 1522,
+            "kumulativni_pocet_vylecenych": 1523,
             "kumulativni_pocet_umrti": 93
         },
         {
@@ -46207,7 +46207,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1885,
-            "kumulativni_pocet_vylecenych": 1536,
+            "kumulativni_pocet_vylecenych": 1537,
             "kumulativni_pocet_umrti": 93
         },
         {
@@ -46823,7 +46823,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1900,
-            "kumulativni_pocet_vylecenych": 1544,
+            "kumulativni_pocet_vylecenych": 1545,
             "kumulativni_pocet_umrti": 94
         },
         {
@@ -47439,7 +47439,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1913,
-            "kumulativni_pocet_vylecenych": 1547,
+            "kumulativni_pocet_vylecenych": 1548,
             "kumulativni_pocet_umrti": 94
         },
         {
@@ -48055,7 +48055,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1937,
-            "kumulativni_pocet_vylecenych": 1565,
+            "kumulativni_pocet_vylecenych": 1566,
             "kumulativni_pocet_umrti": 94
         },
         {
@@ -48671,7 +48671,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1947,
-            "kumulativni_pocet_vylecenych": 1574,
+            "kumulativni_pocet_vylecenych": 1575,
             "kumulativni_pocet_umrti": 94
         },
         {
@@ -49287,7 +49287,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1962,
-            "kumulativni_pocet_vylecenych": 1589,
+            "kumulativni_pocet_vylecenych": 1590,
             "kumulativni_pocet_umrti": 94
         },
         {
@@ -49903,7 +49903,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1964,
-            "kumulativni_pocet_vylecenych": 1605,
+            "kumulativni_pocet_vylecenych": 1606,
             "kumulativni_pocet_umrti": 94
         },
         {
@@ -50519,7 +50519,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1986,
-            "kumulativni_pocet_vylecenych": 1615,
+            "kumulativni_pocet_vylecenych": 1616,
             "kumulativni_pocet_umrti": 94
         },
         {
@@ -51135,7 +51135,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1989,
-            "kumulativni_pocet_vylecenych": 1625,
+            "kumulativni_pocet_vylecenych": 1626,
             "kumulativni_pocet_umrti": 94
         },
         {
@@ -51751,7 +51751,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1993,
-            "kumulativni_pocet_vylecenych": 1629,
+            "kumulativni_pocet_vylecenych": 1630,
             "kumulativni_pocet_umrti": 94
         },
         {
@@ -52367,7 +52367,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1996,
-            "kumulativni_pocet_vylecenych": 1642,
+            "kumulativni_pocet_vylecenych": 1643,
             "kumulativni_pocet_umrti": 94
         },
         {
@@ -52983,7 +52983,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 1999,
-            "kumulativni_pocet_vylecenych": 1659,
+            "kumulativni_pocet_vylecenych": 1660,
             "kumulativni_pocet_umrti": 94
         },
         {
@@ -53599,7 +53599,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2007,
-            "kumulativni_pocet_vylecenych": 1675,
+            "kumulativni_pocet_vylecenych": 1676,
             "kumulativni_pocet_umrti": 94
         },
         {
@@ -54215,7 +54215,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2019,
-            "kumulativni_pocet_vylecenych": 1684,
+            "kumulativni_pocet_vylecenych": 1685,
             "kumulativni_pocet_umrti": 95
         },
         {
@@ -54831,7 +54831,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2029,
-            "kumulativni_pocet_vylecenych": 1696,
+            "kumulativni_pocet_vylecenych": 1697,
             "kumulativni_pocet_umrti": 95
         },
         {
@@ -55447,7 +55447,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2037,
-            "kumulativni_pocet_vylecenych": 1707,
+            "kumulativni_pocet_vylecenych": 1708,
             "kumulativni_pocet_umrti": 95
         },
         {
@@ -56063,7 +56063,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2045,
-            "kumulativni_pocet_vylecenych": 1712,
+            "kumulativni_pocet_vylecenych": 1713,
             "kumulativni_pocet_umrti": 95
         },
         {
@@ -56679,7 +56679,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2056,
-            "kumulativni_pocet_vylecenych": 1754,
+            "kumulativni_pocet_vylecenych": 1755,
             "kumulativni_pocet_umrti": 96
         },
         {
@@ -57295,7 +57295,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2071,
-            "kumulativni_pocet_vylecenych": 1770,
+            "kumulativni_pocet_vylecenych": 1771,
             "kumulativni_pocet_umrti": 96
         },
         {
@@ -57911,7 +57911,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2095,
-            "kumulativni_pocet_vylecenych": 1788,
+            "kumulativni_pocet_vylecenych": 1789,
             "kumulativni_pocet_umrti": 96
         },
         {
@@ -58527,7 +58527,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2110,
-            "kumulativni_pocet_vylecenych": 1805,
+            "kumulativni_pocet_vylecenych": 1806,
             "kumulativni_pocet_umrti": 97
         },
         {
@@ -59143,7 +59143,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2115,
-            "kumulativni_pocet_vylecenych": 1825,
+            "kumulativni_pocet_vylecenych": 1826,
             "kumulativni_pocet_umrti": 97
         },
         {
@@ -59759,7 +59759,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2117,
-            "kumulativni_pocet_vylecenych": 1830,
+            "kumulativni_pocet_vylecenych": 1831,
             "kumulativni_pocet_umrti": 97
         },
         {
@@ -60375,7 +60375,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2123,
-            "kumulativni_pocet_vylecenych": 1838,
+            "kumulativni_pocet_vylecenych": 1839,
             "kumulativni_pocet_umrti": 97
         },
         {
@@ -60991,7 +60991,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2136,
-            "kumulativni_pocet_vylecenych": 1850,
+            "kumulativni_pocet_vylecenych": 1851,
             "kumulativni_pocet_umrti": 97
         },
         {
@@ -61607,7 +61607,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2142,
-            "kumulativni_pocet_vylecenych": 1858,
+            "kumulativni_pocet_vylecenych": 1859,
             "kumulativni_pocet_umrti": 97
         },
         {
@@ -62223,7 +62223,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2156,
-            "kumulativni_pocet_vylecenych": 1878,
+            "kumulativni_pocet_vylecenych": 1879,
             "kumulativni_pocet_umrti": 97
         },
         {
@@ -62839,7 +62839,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2168,
-            "kumulativni_pocet_vylecenych": 1891,
+            "kumulativni_pocet_vylecenych": 1892,
             "kumulativni_pocet_umrti": 98
         },
         {
@@ -63455,7 +63455,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2185,
-            "kumulativni_pocet_vylecenych": 1905,
+            "kumulativni_pocet_vylecenych": 1906,
             "kumulativni_pocet_umrti": 98
         },
         {
@@ -64071,7 +64071,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2203,
-            "kumulativni_pocet_vylecenych": 1913,
+            "kumulativni_pocet_vylecenych": 1914,
             "kumulativni_pocet_umrti": 98
         },
         {
@@ -64687,7 +64687,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2217,
-            "kumulativni_pocet_vylecenych": 1918,
+            "kumulativni_pocet_vylecenych": 1919,
             "kumulativni_pocet_umrti": 98
         },
         {
@@ -65303,7 +65303,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2230,
-            "kumulativni_pocet_vylecenych": 1932,
+            "kumulativni_pocet_vylecenych": 1933,
             "kumulativni_pocet_umrti": 98
         },
         {
@@ -65919,7 +65919,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2242,
-            "kumulativni_pocet_vylecenych": 1944,
+            "kumulativni_pocet_vylecenych": 1945,
             "kumulativni_pocet_umrti": 98
         },
         {
@@ -66535,7 +66535,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2254,
-            "kumulativni_pocet_vylecenych": 1954,
+            "kumulativni_pocet_vylecenych": 1955,
             "kumulativni_pocet_umrti": 98
         },
         {
@@ -67151,7 +67151,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2277,
-            "kumulativni_pocet_vylecenych": 1968,
+            "kumulativni_pocet_vylecenych": 1969,
             "kumulativni_pocet_umrti": 99
         },
         {
@@ -67767,7 +67767,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2298,
-            "kumulativni_pocet_vylecenych": 1972,
+            "kumulativni_pocet_vylecenych": 1973,
             "kumulativni_pocet_umrti": 99
         },
         {
@@ -68383,7 +68383,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2302,
-            "kumulativni_pocet_vylecenych": 1975,
+            "kumulativni_pocet_vylecenych": 1976,
             "kumulativni_pocet_umrti": 100
         },
         {
@@ -68999,7 +68999,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2311,
-            "kumulativni_pocet_vylecenych": 1978,
+            "kumulativni_pocet_vylecenych": 1979,
             "kumulativni_pocet_umrti": 101
         },
         {
@@ -69615,7 +69615,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2319,
-            "kumulativni_pocet_vylecenych": 1987,
+            "kumulativni_pocet_vylecenych": 1988,
             "kumulativni_pocet_umrti": 101
         },
         {
@@ -70231,7 +70231,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2338,
-            "kumulativni_pocet_vylecenych": 1992,
+            "kumulativni_pocet_vylecenych": 1993,
             "kumulativni_pocet_umrti": 101
         },
         {
@@ -70847,7 +70847,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2357,
-            "kumulativni_pocet_vylecenych": 2007,
+            "kumulativni_pocet_vylecenych": 2008,
             "kumulativni_pocet_umrti": 104
         },
         {
@@ -71463,7 +71463,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2372,
-            "kumulativni_pocet_vylecenych": 2021,
+            "kumulativni_pocet_vylecenych": 2022,
             "kumulativni_pocet_umrti": 104
         },
         {
@@ -72079,7 +72079,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2384,
-            "kumulativni_pocet_vylecenych": 2038,
+            "kumulativni_pocet_vylecenych": 2039,
             "kumulativni_pocet_umrti": 104
         },
         {
@@ -72695,7 +72695,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2394,
-            "kumulativni_pocet_vylecenych": 2045,
+            "kumulativni_pocet_vylecenych": 2046,
             "kumulativni_pocet_umrti": 104
         },
         {
@@ -73311,7 +73311,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2402,
-            "kumulativni_pocet_vylecenych": 2052,
+            "kumulativni_pocet_vylecenych": 2053,
             "kumulativni_pocet_umrti": 104
         },
         {
@@ -73927,7 +73927,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2405,
-            "kumulativni_pocet_vylecenych": 2061,
+            "kumulativni_pocet_vylecenych": 2062,
             "kumulativni_pocet_umrti": 104
         },
         {
@@ -74543,7 +74543,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2414,
-            "kumulativni_pocet_vylecenych": 2079,
+            "kumulativni_pocet_vylecenych": 2080,
             "kumulativni_pocet_umrti": 104
         },
         {
@@ -75159,7 +75159,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2422,
-            "kumulativni_pocet_vylecenych": 2099,
+            "kumulativni_pocet_vylecenych": 2100,
             "kumulativni_pocet_umrti": 104
         },
         {
@@ -75775,7 +75775,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2438,
-            "kumulativni_pocet_vylecenych": 2114,
+            "kumulativni_pocet_vylecenych": 2115,
             "kumulativni_pocet_umrti": 105
         },
         {
@@ -76391,7 +76391,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2449,
-            "kumulativni_pocet_vylecenych": 2130,
+            "kumulativni_pocet_vylecenych": 2131,
             "kumulativni_pocet_umrti": 105
         },
         {
@@ -77007,7 +77007,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2450,
-            "kumulativni_pocet_vylecenych": 2141,
+            "kumulativni_pocet_vylecenych": 2142,
             "kumulativni_pocet_umrti": 106
         },
         {
@@ -77623,7 +77623,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2458,
-            "kumulativni_pocet_vylecenych": 2150,
+            "kumulativni_pocet_vylecenych": 2151,
             "kumulativni_pocet_umrti": 108
         },
         {
@@ -78239,7 +78239,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2467,
-            "kumulativni_pocet_vylecenych": 2154,
+            "kumulativni_pocet_vylecenych": 2155,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -78855,7 +78855,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2472,
-            "kumulativni_pocet_vylecenych": 2175,
+            "kumulativni_pocet_vylecenych": 2176,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -79471,7 +79471,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2483,
-            "kumulativni_pocet_vylecenych": 2229,
+            "kumulativni_pocet_vylecenych": 2230,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -80087,7 +80087,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2498,
-            "kumulativni_pocet_vylecenych": 2247,
+            "kumulativni_pocet_vylecenych": 2248,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -80703,7 +80703,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2513,
-            "kumulativni_pocet_vylecenych": 2261,
+            "kumulativni_pocet_vylecenych": 2262,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -81319,7 +81319,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2520,
-            "kumulativni_pocet_vylecenych": 2269,
+            "kumulativni_pocet_vylecenych": 2270,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -81935,7 +81935,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2526,
-            "kumulativni_pocet_vylecenych": 2272,
+            "kumulativni_pocet_vylecenych": 2273,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -82551,7 +82551,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2538,
-            "kumulativni_pocet_vylecenych": 2288,
+            "kumulativni_pocet_vylecenych": 2289,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -83167,7 +83167,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2552,
-            "kumulativni_pocet_vylecenych": 2297,
+            "kumulativni_pocet_vylecenych": 2298,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -83783,7 +83783,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2566,
-            "kumulativni_pocet_vylecenych": 2304,
+            "kumulativni_pocet_vylecenych": 2305,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -84399,7 +84399,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2586,
-            "kumulativni_pocet_vylecenych": 2325,
+            "kumulativni_pocet_vylecenych": 2326,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -85015,7 +85015,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2597,
-            "kumulativni_pocet_vylecenych": 2338,
+            "kumulativni_pocet_vylecenych": 2339,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -85631,7 +85631,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2613,
-            "kumulativni_pocet_vylecenych": 2342,
+            "kumulativni_pocet_vylecenych": 2343,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -86247,7 +86247,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2639,
-            "kumulativni_pocet_vylecenych": 2349,
+            "kumulativni_pocet_vylecenych": 2350,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -86863,7 +86863,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2663,
-            "kumulativni_pocet_vylecenych": 2353,
+            "kumulativni_pocet_vylecenych": 2354,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -87439,7 +87439,7 @@
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
             "kumulativni_pocet_nakazenych": 665,
-            "kumulativni_pocet_vylecenych": 485,
+            "kumulativni_pocet_vylecenych": 484,
             "kumulativni_pocet_umrti": 11
         },
         {
@@ -87479,7 +87479,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2725,
-            "kumulativni_pocet_vylecenych": 2368,
+            "kumulativni_pocet_vylecenych": 2369,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -88055,7 +88055,7 @@
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
             "kumulativni_pocet_nakazenych": 678,
-            "kumulativni_pocet_vylecenych": 505,
+            "kumulativni_pocet_vylecenych": 504,
             "kumulativni_pocet_umrti": 11
         },
         {
@@ -88095,7 +88095,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2779,
-            "kumulativni_pocet_vylecenych": 2379,
+            "kumulativni_pocet_vylecenych": 2380,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -88671,7 +88671,7 @@
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
             "kumulativni_pocet_nakazenych": 700,
-            "kumulativni_pocet_vylecenych": 517,
+            "kumulativni_pocet_vylecenych": 516,
             "kumulativni_pocet_umrti": 12
         },
         {
@@ -88711,7 +88711,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2829,
-            "kumulativni_pocet_vylecenych": 2390,
+            "kumulativni_pocet_vylecenych": 2391,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -89287,7 +89287,7 @@
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
             "kumulativni_pocet_nakazenych": 714,
-            "kumulativni_pocet_vylecenych": 523,
+            "kumulativni_pocet_vylecenych": 522,
             "kumulativni_pocet_umrti": 12
         },
         {
@@ -89327,7 +89327,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2911,
-            "kumulativni_pocet_vylecenych": 2402,
+            "kumulativni_pocet_vylecenych": 2403,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -89903,7 +89903,7 @@
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
             "kumulativni_pocet_nakazenych": 721,
-            "kumulativni_pocet_vylecenych": 530,
+            "kumulativni_pocet_vylecenych": 529,
             "kumulativni_pocet_umrti": 12
         },
         {
@@ -89943,7 +89943,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2950,
-            "kumulativni_pocet_vylecenych": 2407,
+            "kumulativni_pocet_vylecenych": 2408,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -90519,7 +90519,7 @@
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
             "kumulativni_pocet_nakazenych": 733,
-            "kumulativni_pocet_vylecenych": 540,
+            "kumulativni_pocet_vylecenych": 539,
             "kumulativni_pocet_umrti": 12
         },
         {
@@ -90559,7 +90559,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 2984,
-            "kumulativni_pocet_vylecenych": 2414,
+            "kumulativni_pocet_vylecenych": 2415,
             "kumulativni_pocet_umrti": 109
         },
         {
@@ -91135,7 +91135,7 @@
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
             "kumulativni_pocet_nakazenych": 737,
-            "kumulativni_pocet_vylecenych": 549,
+            "kumulativni_pocet_vylecenych": 548,
             "kumulativni_pocet_umrti": 12
         },
         {
@@ -91175,7 +91175,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 3029,
-            "kumulativni_pocet_vylecenych": 2430,
+            "kumulativni_pocet_vylecenych": 2431,
             "kumulativni_pocet_umrti": 110
         },
         {
@@ -91751,7 +91751,7 @@
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
             "kumulativni_pocet_nakazenych": 754,
-            "kumulativni_pocet_vylecenych": 556,
+            "kumulativni_pocet_vylecenych": 555,
             "kumulativni_pocet_umrti": 12
         },
         {
@@ -91791,7 +91791,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 3091,
-            "kumulativni_pocet_vylecenych": 2444,
+            "kumulativni_pocet_vylecenych": 2445,
             "kumulativni_pocet_umrti": 110
         },
         {
@@ -92367,7 +92367,7 @@
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
             "kumulativni_pocet_nakazenych": 766,
-            "kumulativni_pocet_vylecenych": 559,
+            "kumulativni_pocet_vylecenych": 558,
             "kumulativni_pocet_umrti": 12
         },
         {
@@ -92407,7 +92407,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 3158,
-            "kumulativni_pocet_vylecenych": 2465,
+            "kumulativni_pocet_vylecenych": 2466,
             "kumulativni_pocet_umrti": 110
         },
         {
@@ -92983,7 +92983,7 @@
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
             "kumulativni_pocet_nakazenych": 775,
-            "kumulativni_pocet_vylecenych": 566,
+            "kumulativni_pocet_vylecenych": 565,
             "kumulativni_pocet_umrti": 13
         },
         {
@@ -93023,7 +93023,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 3204,
-            "kumulativni_pocet_vylecenych": 2483,
+            "kumulativni_pocet_vylecenych": 2484,
             "kumulativni_pocet_umrti": 112
         },
         {
@@ -93599,7 +93599,7 @@
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
             "kumulativni_pocet_nakazenych": 789,
-            "kumulativni_pocet_vylecenych": 580,
+            "kumulativni_pocet_vylecenych": 579,
             "kumulativni_pocet_umrti": 13
         },
         {
@@ -93639,7 +93639,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 3256,
-            "kumulativni_pocet_vylecenych": 2497,
+            "kumulativni_pocet_vylecenych": 2498,
             "kumulativni_pocet_umrti": 112
         },
         {
@@ -94215,7 +94215,7 @@
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
             "kumulativni_pocet_nakazenych": 808,
-            "kumulativni_pocet_vylecenych": 588,
+            "kumulativni_pocet_vylecenych": 587,
             "kumulativni_pocet_umrti": 14
         },
         {
@@ -94255,7 +94255,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 3288,
-            "kumulativni_pocet_vylecenych": 2513,
+            "kumulativni_pocet_vylecenych": 2514,
             "kumulativni_pocet_umrti": 112
         },
         {
@@ -94871,7 +94871,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 3314,
-            "kumulativni_pocet_vylecenych": 2532,
+            "kumulativni_pocet_vylecenych": 2533,
             "kumulativni_pocet_umrti": 112
         },
         {
@@ -95487,7 +95487,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 3356,
-            "kumulativni_pocet_vylecenych": 2579,
+            "kumulativni_pocet_vylecenych": 2580,
             "kumulativni_pocet_umrti": 113
         },
         {
@@ -96103,7 +96103,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 3434,
-            "kumulativni_pocet_vylecenych": 2627,
+            "kumulativni_pocet_vylecenych": 2628,
             "kumulativni_pocet_umrti": 113
         },
         {
@@ -96719,7 +96719,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 3471,
-            "kumulativni_pocet_vylecenych": 2666,
+            "kumulativni_pocet_vylecenych": 2667,
             "kumulativni_pocet_umrti": 113
         },
         {
@@ -97335,7 +97335,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 3522,
-            "kumulativni_pocet_vylecenych": 2737,
+            "kumulativni_pocet_vylecenych": 2738,
             "kumulativni_pocet_umrti": 113
         },
         {
@@ -97951,7 +97951,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 3594,
-            "kumulativni_pocet_vylecenych": 2811,
+            "kumulativni_pocet_vylecenych": 2812,
             "kumulativni_pocet_umrti": 113
         },
         {
@@ -98567,7 +98567,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 3639,
-            "kumulativni_pocet_vylecenych": 2857,
+            "kumulativni_pocet_vylecenych": 2858,
             "kumulativni_pocet_umrti": 113
         },
         {
@@ -99183,7 +99183,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 3671,
-            "kumulativni_pocet_vylecenych": 2875,
+            "kumulativni_pocet_vylecenych": 2876,
             "kumulativni_pocet_umrti": 113
         },
         {
@@ -99799,7 +99799,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 3721,
-            "kumulativni_pocet_vylecenych": 2958,
+            "kumulativni_pocet_vylecenych": 2959,
             "kumulativni_pocet_umrti": 113
         },
         {
@@ -100415,7 +100415,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 3804,
-            "kumulativni_pocet_vylecenych": 3009,
+            "kumulativni_pocet_vylecenych": 3010,
             "kumulativni_pocet_umrti": 113
         },
         {
@@ -101031,7 +101031,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 3885,
-            "kumulativni_pocet_vylecenych": 3046,
+            "kumulativni_pocet_vylecenych": 3047,
             "kumulativni_pocet_umrti": 113
         },
         {
@@ -101606,7 +101606,7 @@
             "datum": "2020-08-12",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1077,
+            "kumulativni_pocet_nakazenych": 1076,
             "kumulativni_pocet_vylecenych": 754,
             "kumulativni_pocet_umrti": 16
         },
@@ -101614,7 +101614,7 @@
             "datum": "2020-08-12",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2368,
+            "kumulativni_pocet_nakazenych": 2369,
             "kumulativni_pocet_vylecenych": 2246,
             "kumulativni_pocet_umrti": 16
         },
@@ -101647,7 +101647,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 3974,
-            "kumulativni_pocet_vylecenych": 3091,
+            "kumulativni_pocet_vylecenych": 3092,
             "kumulativni_pocet_umrti": 113
         },
         {
@@ -102222,7 +102222,7 @@
             "datum": "2020-08-13",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1094,
+            "kumulativni_pocet_nakazenych": 1093,
             "kumulativni_pocet_vylecenych": 768,
             "kumulativni_pocet_umrti": 16
         },
@@ -102230,7 +102230,7 @@
             "datum": "2020-08-13",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2373,
+            "kumulativni_pocet_nakazenych": 2374,
             "kumulativni_pocet_vylecenych": 2260,
             "kumulativni_pocet_umrti": 16
         },
@@ -102263,7 +102263,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 4052,
-            "kumulativni_pocet_vylecenych": 3151,
+            "kumulativni_pocet_vylecenych": 3152,
             "kumulativni_pocet_umrti": 113
         },
         {
@@ -102823,7 +102823,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 220,
-            "kumulativni_pocet_vylecenych": 177,
+            "kumulativni_pocet_vylecenych": 178,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -102838,7 +102838,7 @@
             "datum": "2020-08-14",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1099,
+            "kumulativni_pocet_nakazenych": 1098,
             "kumulativni_pocet_vylecenych": 779,
             "kumulativni_pocet_umrti": 16
         },
@@ -102846,7 +102846,7 @@
             "datum": "2020-08-14",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2376,
+            "kumulativni_pocet_nakazenych": 2377,
             "kumulativni_pocet_vylecenych": 2268,
             "kumulativni_pocet_umrti": 17
         },
@@ -102879,7 +102879,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 4095,
-            "kumulativni_pocet_vylecenych": 3178,
+            "kumulativni_pocet_vylecenych": 3180,
             "kumulativni_pocet_umrti": 113
         },
         {
@@ -103439,7 +103439,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 221,
-            "kumulativni_pocet_vylecenych": 177,
+            "kumulativni_pocet_vylecenych": 178,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -103454,7 +103454,7 @@
             "datum": "2020-08-15",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1111,
+            "kumulativni_pocet_nakazenych": 1110,
             "kumulativni_pocet_vylecenych": 799,
             "kumulativni_pocet_umrti": 16
         },
@@ -103462,7 +103462,7 @@
             "datum": "2020-08-15",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2380,
+            "kumulativni_pocet_nakazenych": 2381,
             "kumulativni_pocet_vylecenych": 2280,
             "kumulativni_pocet_umrti": 18
         },
@@ -103495,7 +103495,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 4134,
-            "kumulativni_pocet_vylecenych": 3214,
+            "kumulativni_pocet_vylecenych": 3216,
             "kumulativni_pocet_umrti": 114
         },
         {
@@ -104055,7 +104055,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 221,
-            "kumulativni_pocet_vylecenych": 177,
+            "kumulativni_pocet_vylecenych": 178,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -104070,7 +104070,7 @@
             "datum": "2020-08-16",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1114,
+            "kumulativni_pocet_nakazenych": 1113,
             "kumulativni_pocet_vylecenych": 810,
             "kumulativni_pocet_umrti": 17
         },
@@ -104078,7 +104078,7 @@
             "datum": "2020-08-16",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2381,
+            "kumulativni_pocet_nakazenych": 2382,
             "kumulativni_pocet_vylecenych": 2280,
             "kumulativni_pocet_umrti": 18
         },
@@ -104111,7 +104111,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 4181,
-            "kumulativni_pocet_vylecenych": 3279,
+            "kumulativni_pocet_vylecenych": 3281,
             "kumulativni_pocet_umrti": 114
         },
         {
@@ -104671,7 +104671,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 223,
-            "kumulativni_pocet_vylecenych": 177,
+            "kumulativni_pocet_vylecenych": 178,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -104686,7 +104686,7 @@
             "datum": "2020-08-17",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1128,
+            "kumulativni_pocet_nakazenych": 1127,
             "kumulativni_pocet_vylecenych": 829,
             "kumulativni_pocet_umrti": 17
         },
@@ -104694,7 +104694,7 @@
             "datum": "2020-08-17",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2385,
+            "kumulativni_pocet_nakazenych": 2386,
             "kumulativni_pocet_vylecenych": 2290,
             "kumulativni_pocet_umrti": 18
         },
@@ -104727,7 +104727,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 4247,
-            "kumulativni_pocet_vylecenych": 3336,
+            "kumulativni_pocet_vylecenych": 3338,
             "kumulativni_pocet_umrti": 114
         },
         {
@@ -105287,7 +105287,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 224,
-            "kumulativni_pocet_vylecenych": 180,
+            "kumulativni_pocet_vylecenych": 181,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -105302,7 +105302,7 @@
             "datum": "2020-08-18",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1132,
+            "kumulativni_pocet_nakazenych": 1131,
             "kumulativni_pocet_vylecenych": 854,
             "kumulativni_pocet_umrti": 17
         },
@@ -105310,7 +105310,7 @@
             "datum": "2020-08-18",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2387,
+            "kumulativni_pocet_nakazenych": 2388,
             "kumulativni_pocet_vylecenych": 2307,
             "kumulativni_pocet_umrti": 18
         },
@@ -105343,7 +105343,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 4328,
-            "kumulativni_pocet_vylecenych": 3401,
+            "kumulativni_pocet_vylecenych": 3403,
             "kumulativni_pocet_umrti": 116
         },
         {
@@ -105903,7 +105903,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 227,
-            "kumulativni_pocet_vylecenych": 182,
+            "kumulativni_pocet_vylecenych": 183,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -105918,7 +105918,7 @@
             "datum": "2020-08-19",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1140,
+            "kumulativni_pocet_nakazenych": 1139,
             "kumulativni_pocet_vylecenych": 907,
             "kumulativni_pocet_umrti": 17
         },
@@ -105926,7 +105926,7 @@
             "datum": "2020-08-19",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2395,
+            "kumulativni_pocet_nakazenych": 2396,
             "kumulativni_pocet_vylecenych": 2315,
             "kumulativni_pocet_umrti": 18
         },
@@ -105959,7 +105959,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 4373,
-            "kumulativni_pocet_vylecenych": 3448,
+            "kumulativni_pocet_vylecenych": 3450,
             "kumulativni_pocet_umrti": 117
         },
         {
@@ -106519,7 +106519,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 229,
-            "kumulativni_pocet_vylecenych": 182,
+            "kumulativni_pocet_vylecenych": 183,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -106534,7 +106534,7 @@
             "datum": "2020-08-20",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1141,
+            "kumulativni_pocet_nakazenych": 1140,
             "kumulativni_pocet_vylecenych": 943,
             "kumulativni_pocet_umrti": 17
         },
@@ -106542,7 +106542,7 @@
             "datum": "2020-08-20",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2399,
+            "kumulativni_pocet_nakazenych": 2400,
             "kumulativni_pocet_vylecenych": 2325,
             "kumulativni_pocet_umrti": 18
         },
@@ -106575,7 +106575,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 4501,
-            "kumulativni_pocet_vylecenych": 3501,
+            "kumulativni_pocet_vylecenych": 3503,
             "kumulativni_pocet_umrti": 117
         },
         {
@@ -107135,7 +107135,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 232,
-            "kumulativni_pocet_vylecenych": 185,
+            "kumulativni_pocet_vylecenych": 186,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -107150,7 +107150,7 @@
             "datum": "2020-08-21",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1157,
+            "kumulativni_pocet_nakazenych": 1156,
             "kumulativni_pocet_vylecenych": 957,
             "kumulativni_pocet_umrti": 17
         },
@@ -107158,7 +107158,7 @@
             "datum": "2020-08-21",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2407,
+            "kumulativni_pocet_nakazenych": 2408,
             "kumulativni_pocet_vylecenych": 2331,
             "kumulativni_pocet_umrti": 18
         },
@@ -107191,7 +107191,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 4584,
-            "kumulativni_pocet_vylecenych": 3544,
+            "kumulativni_pocet_vylecenych": 3546,
             "kumulativni_pocet_umrti": 117
         },
         {
@@ -107751,7 +107751,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 232,
-            "kumulativni_pocet_vylecenych": 185,
+            "kumulativni_pocet_vylecenych": 186,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -107766,7 +107766,7 @@
             "datum": "2020-08-22",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1160,
+            "kumulativni_pocet_nakazenych": 1159,
             "kumulativni_pocet_vylecenych": 995,
             "kumulativni_pocet_umrti": 17
         },
@@ -107774,7 +107774,7 @@
             "datum": "2020-08-22",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2410,
+            "kumulativni_pocet_nakazenych": 2411,
             "kumulativni_pocet_vylecenych": 2333,
             "kumulativni_pocet_umrti": 18
         },
@@ -107807,7 +107807,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 4617,
-            "kumulativni_pocet_vylecenych": 3573,
+            "kumulativni_pocet_vylecenych": 3575,
             "kumulativni_pocet_umrti": 119
         },
         {
@@ -108367,7 +108367,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 232,
-            "kumulativni_pocet_vylecenych": 187,
+            "kumulativni_pocet_vylecenych": 188,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -108382,7 +108382,7 @@
             "datum": "2020-08-23",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1162,
+            "kumulativni_pocet_nakazenych": 1161,
             "kumulativni_pocet_vylecenych": 1007,
             "kumulativni_pocet_umrti": 17
         },
@@ -108390,7 +108390,7 @@
             "datum": "2020-08-23",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2415,
+            "kumulativni_pocet_nakazenych": 2416,
             "kumulativni_pocet_vylecenych": 2333,
             "kumulativni_pocet_umrti": 18
         },
@@ -108423,7 +108423,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 4675,
-            "kumulativni_pocet_vylecenych": 3646,
+            "kumulativni_pocet_vylecenych": 3648,
             "kumulativni_pocet_umrti": 119
         },
         {
@@ -108983,7 +108983,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 239,
-            "kumulativni_pocet_vylecenych": 196,
+            "kumulativni_pocet_vylecenych": 197,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -108998,7 +108998,7 @@
             "datum": "2020-08-24",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1170,
+            "kumulativni_pocet_nakazenych": 1169,
             "kumulativni_pocet_vylecenych": 1034,
             "kumulativni_pocet_umrti": 17
         },
@@ -109006,7 +109006,7 @@
             "datum": "2020-08-24",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2419,
+            "kumulativni_pocet_nakazenych": 2420,
             "kumulativni_pocet_vylecenych": 2337,
             "kumulativni_pocet_umrti": 18
         },
@@ -109039,7 +109039,7 @@
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
             "kumulativni_pocet_nakazenych": 4742,
-            "kumulativni_pocet_vylecenych": 3709,
+            "kumulativni_pocet_vylecenych": 3711,
             "kumulativni_pocet_umrti": 119
         },
         {
@@ -109599,7 +109599,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 242,
-            "kumulativni_pocet_vylecenych": 206,
+            "kumulativni_pocet_vylecenych": 207,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -109614,7 +109614,7 @@
             "datum": "2020-08-25",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1175,
+            "kumulativni_pocet_nakazenych": 1174,
             "kumulativni_pocet_vylecenych": 1046,
             "kumulativni_pocet_umrti": 17
         },
@@ -109622,7 +109622,7 @@
             "datum": "2020-08-25",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2424,
+            "kumulativni_pocet_nakazenych": 2425,
             "kumulativni_pocet_vylecenych": 2341,
             "kumulativni_pocet_umrti": 19
         },
@@ -109654,8 +109654,8 @@
             "datum": "2020-08-26",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
-            "kumulativni_pocet_nakazenych": 4846,
-            "kumulativni_pocet_vylecenych": 3791,
+            "kumulativni_pocet_nakazenych": 4847,
+            "kumulativni_pocet_vylecenych": 3793,
             "kumulativni_pocet_umrti": 120
         },
         {
@@ -110215,7 +110215,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 253,
-            "kumulativni_pocet_vylecenych": 211,
+            "kumulativni_pocet_vylecenych": 212,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -110230,7 +110230,7 @@
             "datum": "2020-08-26",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1178,
+            "kumulativni_pocet_nakazenych": 1177,
             "kumulativni_pocet_vylecenych": 1074,
             "kumulativni_pocet_umrti": 17
         },
@@ -110238,8 +110238,8 @@
             "datum": "2020-08-26",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2432,
-            "kumulativni_pocet_vylecenych": 2348,
+            "kumulativni_pocet_nakazenych": 2433,
+            "kumulativni_pocet_vylecenych": 2349,
             "kumulativni_pocet_umrti": 19
         },
         {
@@ -110270,8 +110270,8 @@
             "datum": "2020-08-27",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
-            "kumulativni_pocet_nakazenych": 4938,
-            "kumulativni_pocet_vylecenych": 3865,
+            "kumulativni_pocet_nakazenych": 4940,
+            "kumulativni_pocet_vylecenych": 3867,
             "kumulativni_pocet_umrti": 120
         },
         {
@@ -110831,7 +110831,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 257,
-            "kumulativni_pocet_vylecenych": 211,
+            "kumulativni_pocet_vylecenych": 212,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -110846,7 +110846,7 @@
             "datum": "2020-08-27",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1179,
+            "kumulativni_pocet_nakazenych": 1178,
             "kumulativni_pocet_vylecenych": 1077,
             "kumulativni_pocet_umrti": 17
         },
@@ -110854,8 +110854,8 @@
             "datum": "2020-08-27",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2434,
-            "kumulativni_pocet_vylecenych": 2352,
+            "kumulativni_pocet_nakazenych": 2435,
+            "kumulativni_pocet_vylecenych": 2353,
             "kumulativni_pocet_umrti": 19
         },
         {
@@ -110886,8 +110886,8 @@
             "datum": "2020-08-28",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
-            "kumulativni_pocet_nakazenych": 5069,
-            "kumulativni_pocet_vylecenych": 3926,
+            "kumulativni_pocet_nakazenych": 5071,
+            "kumulativni_pocet_vylecenych": 3928,
             "kumulativni_pocet_umrti": 120
         },
         {
@@ -111318,7 +111318,7 @@
             "datum": "2020-08-28",
             "kraj_nuts_kod": "CZ063",
             "okres_lau_kod": "CZ0635",
-            "kumulativni_pocet_nakazenych": 125,
+            "kumulativni_pocet_nakazenych": 126,
             "kumulativni_pocet_vylecenych": 75,
             "kumulativni_pocet_umrti": 0
         },
@@ -111447,7 +111447,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 261,
-            "kumulativni_pocet_vylecenych": 212,
+            "kumulativni_pocet_vylecenych": 213,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -111462,7 +111462,7 @@
             "datum": "2020-08-28",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1195,
+            "kumulativni_pocet_nakazenych": 1194,
             "kumulativni_pocet_vylecenych": 1085,
             "kumulativni_pocet_umrti": 17
         },
@@ -111470,8 +111470,8 @@
             "datum": "2020-08-28",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2435,
-            "kumulativni_pocet_vylecenych": 2356,
+            "kumulativni_pocet_nakazenych": 2436,
+            "kumulativni_pocet_vylecenych": 2357,
             "kumulativni_pocet_umrti": 19
         },
         {
@@ -111502,8 +111502,8 @@
             "datum": "2020-08-29",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
-            "kumulativni_pocet_nakazenych": 5126,
-            "kumulativni_pocet_vylecenych": 3970,
+            "kumulativni_pocet_nakazenych": 5128,
+            "kumulativni_pocet_vylecenych": 3972,
             "kumulativni_pocet_umrti": 120
         },
         {
@@ -111934,7 +111934,7 @@
             "datum": "2020-08-29",
             "kraj_nuts_kod": "CZ063",
             "okres_lau_kod": "CZ0635",
-            "kumulativni_pocet_nakazenych": 126,
+            "kumulativni_pocet_nakazenych": 128,
             "kumulativni_pocet_vylecenych": 76,
             "kumulativni_pocet_umrti": 0
         },
@@ -112063,7 +112063,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 270,
-            "kumulativni_pocet_vylecenych": 212,
+            "kumulativni_pocet_vylecenych": 213,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -112078,7 +112078,7 @@
             "datum": "2020-08-29",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1204,
+            "kumulativni_pocet_nakazenych": 1203,
             "kumulativni_pocet_vylecenych": 1096,
             "kumulativni_pocet_umrti": 17
         },
@@ -112086,8 +112086,8 @@
             "datum": "2020-08-29",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2439,
-            "kumulativni_pocet_vylecenych": 2358,
+            "kumulativni_pocet_nakazenych": 2440,
+            "kumulativni_pocet_vylecenych": 2359,
             "kumulativni_pocet_umrti": 19
         },
         {
@@ -112118,8 +112118,8 @@
             "datum": "2020-08-30",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
-            "kumulativni_pocet_nakazenych": 5252,
-            "kumulativni_pocet_vylecenych": 4016,
+            "kumulativni_pocet_nakazenych": 5254,
+            "kumulativni_pocet_vylecenych": 4019,
             "kumulativni_pocet_umrti": 121
         },
         {
@@ -112550,7 +112550,7 @@
             "datum": "2020-08-30",
             "kraj_nuts_kod": "CZ063",
             "okres_lau_kod": "CZ0635",
-            "kumulativni_pocet_nakazenych": 127,
+            "kumulativni_pocet_nakazenych": 129,
             "kumulativni_pocet_vylecenych": 79,
             "kumulativni_pocet_umrti": 0
         },
@@ -112679,7 +112679,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 270,
-            "kumulativni_pocet_vylecenych": 214,
+            "kumulativni_pocet_vylecenych": 215,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -112694,7 +112694,7 @@
             "datum": "2020-08-30",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1207,
+            "kumulativni_pocet_nakazenych": 1206,
             "kumulativni_pocet_vylecenych": 1096,
             "kumulativni_pocet_umrti": 17
         },
@@ -112702,8 +112702,8 @@
             "datum": "2020-08-30",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2444,
-            "kumulativni_pocet_vylecenych": 2360,
+            "kumulativni_pocet_nakazenych": 2445,
+            "kumulativni_pocet_vylecenych": 2361,
             "kumulativni_pocet_umrti": 19
         },
         {
@@ -112734,8 +112734,8 @@
             "datum": "2020-08-31",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
-            "kumulativni_pocet_nakazenych": 5305,
-            "kumulativni_pocet_vylecenych": 4086,
+            "kumulativni_pocet_nakazenych": 5307,
+            "kumulativni_pocet_vylecenych": 4088,
             "kumulativni_pocet_umrti": 122
         },
         {
@@ -113031,7 +113031,7 @@
             "kraj_nuts_kod": "CZ051",
             "okres_lau_kod": "CZ0511",
             "kumulativni_pocet_nakazenych": 54,
-            "kumulativni_pocet_vylecenych": 42,
+            "kumulativni_pocet_vylecenych": 43,
             "kumulativni_pocet_umrti": 0
         },
         {
@@ -113103,7 +113103,7 @@
             "kraj_nuts_kod": "CZ053",
             "okres_lau_kod": "CZ0531",
             "kumulativni_pocet_nakazenych": 192,
-            "kumulativni_pocet_vylecenych": 140,
+            "kumulativni_pocet_vylecenych": 141,
             "kumulativni_pocet_umrti": 1
         },
         {
@@ -113166,7 +113166,7 @@
             "datum": "2020-08-31",
             "kraj_nuts_kod": "CZ063",
             "okres_lau_kod": "CZ0635",
-            "kumulativni_pocet_nakazenych": 129,
+            "kumulativni_pocet_nakazenych": 131,
             "kumulativni_pocet_vylecenych": 81,
             "kumulativni_pocet_umrti": 0
         },
@@ -113295,7 +113295,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 275,
-            "kumulativni_pocet_vylecenych": 218,
+            "kumulativni_pocet_vylecenych": 219,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -113310,7 +113310,7 @@
             "datum": "2020-08-31",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1220,
+            "kumulativni_pocet_nakazenych": 1219,
             "kumulativni_pocet_vylecenych": 1112,
             "kumulativni_pocet_umrti": 17
         },
@@ -113318,8 +113318,8 @@
             "datum": "2020-08-31",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2446,
-            "kumulativni_pocet_vylecenych": 2363,
+            "kumulativni_pocet_nakazenych": 2447,
+            "kumulativni_pocet_vylecenych": 2364,
             "kumulativni_pocet_umrti": 19
         },
         {
@@ -113350,8 +113350,8 @@
             "datum": "2020-09-01",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
-            "kumulativni_pocet_nakazenych": 5422,
-            "kumulativni_pocet_vylecenych": 4179,
+            "kumulativni_pocet_nakazenych": 5423,
+            "kumulativni_pocet_vylecenych": 4180,
             "kumulativni_pocet_umrti": 122
         },
         {
@@ -113526,7 +113526,7 @@
             "datum": "2020-09-01",
             "kraj_nuts_kod": "CZ032",
             "okres_lau_kod": "CZ0323",
-            "kumulativni_pocet_nakazenych": 300,
+            "kumulativni_pocet_nakazenych": 301,
             "kumulativni_pocet_vylecenych": 197,
             "kumulativni_pocet_umrti": 3
         },
@@ -113647,7 +113647,7 @@
             "kraj_nuts_kod": "CZ051",
             "okres_lau_kod": "CZ0511",
             "kumulativni_pocet_nakazenych": 57,
-            "kumulativni_pocet_vylecenych": 43,
+            "kumulativni_pocet_vylecenych": 44,
             "kumulativni_pocet_umrti": 0
         },
         {
@@ -113719,7 +113719,7 @@
             "kraj_nuts_kod": "CZ053",
             "okres_lau_kod": "CZ0531",
             "kumulativni_pocet_nakazenych": 195,
-            "kumulativni_pocet_vylecenych": 141,
+            "kumulativni_pocet_vylecenych": 142,
             "kumulativni_pocet_umrti": 1
         },
         {
@@ -113782,7 +113782,7 @@
             "datum": "2020-09-01",
             "kraj_nuts_kod": "CZ063",
             "okres_lau_kod": "CZ0635",
-            "kumulativni_pocet_nakazenych": 139,
+            "kumulativni_pocet_nakazenych": 141,
             "kumulativni_pocet_vylecenych": 81,
             "kumulativni_pocet_umrti": 0
         },
@@ -113911,7 +113911,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 279,
-            "kumulativni_pocet_vylecenych": 219,
+            "kumulativni_pocet_vylecenych": 220,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -113926,7 +113926,7 @@
             "datum": "2020-09-01",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1226,
+            "kumulativni_pocet_nakazenych": 1225,
             "kumulativni_pocet_vylecenych": 1113,
             "kumulativni_pocet_umrti": 17
         },
@@ -113934,8 +113934,8 @@
             "datum": "2020-09-01",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2449,
-            "kumulativni_pocet_vylecenych": 2365,
+            "kumulativni_pocet_nakazenych": 2450,
+            "kumulativni_pocet_vylecenych": 2366,
             "kumulativni_pocet_umrti": 19
         },
         {
@@ -113966,8 +113966,8 @@
             "datum": "2020-09-02",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
-            "kumulativni_pocet_nakazenych": 5559,
-            "kumulativni_pocet_vylecenych": 4262,
+            "kumulativni_pocet_nakazenych": 5560,
+            "kumulativni_pocet_vylecenych": 4263,
             "kumulativni_pocet_umrti": 122
         },
         {
@@ -114142,7 +114142,7 @@
             "datum": "2020-09-02",
             "kraj_nuts_kod": "CZ032",
             "okres_lau_kod": "CZ0323",
-            "kumulativni_pocet_nakazenych": 323,
+            "kumulativni_pocet_nakazenych": 324,
             "kumulativni_pocet_vylecenych": 202,
             "kumulativni_pocet_umrti": 3
         },
@@ -114263,7 +114263,7 @@
             "kraj_nuts_kod": "CZ051",
             "okres_lau_kod": "CZ0511",
             "kumulativni_pocet_nakazenych": 61,
-            "kumulativni_pocet_vylecenych": 43,
+            "kumulativni_pocet_vylecenych": 44,
             "kumulativni_pocet_umrti": 0
         },
         {
@@ -114335,7 +114335,7 @@
             "kraj_nuts_kod": "CZ053",
             "okres_lau_kod": "CZ0531",
             "kumulativni_pocet_nakazenych": 198,
-            "kumulativni_pocet_vylecenych": 142,
+            "kumulativni_pocet_vylecenych": 143,
             "kumulativni_pocet_umrti": 1
         },
         {
@@ -114398,7 +114398,7 @@
             "datum": "2020-09-02",
             "kraj_nuts_kod": "CZ063",
             "okres_lau_kod": "CZ0635",
-            "kumulativni_pocet_nakazenych": 146,
+            "kumulativni_pocet_nakazenych": 148,
             "kumulativni_pocet_vylecenych": 82,
             "kumulativni_pocet_umrti": 0
         },
@@ -114527,7 +114527,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 283,
-            "kumulativni_pocet_vylecenych": 222,
+            "kumulativni_pocet_vylecenych": 223,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -114542,7 +114542,7 @@
             "datum": "2020-09-02",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1233,
+            "kumulativni_pocet_nakazenych": 1232,
             "kumulativni_pocet_vylecenych": 1125,
             "kumulativni_pocet_umrti": 17
         },
@@ -114550,8 +114550,8 @@
             "datum": "2020-09-02",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2461,
-            "kumulativni_pocet_vylecenych": 2373,
+            "kumulativni_pocet_nakazenych": 2462,
+            "kumulativni_pocet_vylecenych": 2374,
             "kumulativni_pocet_umrti": 19
         },
         {
@@ -114582,8 +114582,8 @@
             "datum": "2020-09-03",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
-            "kumulativni_pocet_nakazenych": 5734,
-            "kumulativni_pocet_vylecenych": 4347,
+            "kumulativni_pocet_nakazenych": 5736,
+            "kumulativni_pocet_vylecenych": 4348,
             "kumulativni_pocet_umrti": 122
         },
         {
@@ -114606,7 +114606,7 @@
             "datum": "2020-09-03",
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ0203",
-            "kumulativni_pocet_nakazenych": 332,
+            "kumulativni_pocet_nakazenych": 333,
             "kumulativni_pocet_vylecenych": 224,
             "kumulativni_pocet_umrti": 6
         },
@@ -114662,7 +114662,7 @@
             "datum": "2020-09-03",
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ020A",
-            "kumulativni_pocet_nakazenych": 464,
+            "kumulativni_pocet_nakazenych": 463,
             "kumulativni_pocet_vylecenych": 380,
             "kumulativni_pocet_umrti": 5
         },
@@ -114758,7 +114758,7 @@
             "datum": "2020-09-03",
             "kraj_nuts_kod": "CZ032",
             "okres_lau_kod": "CZ0323",
-            "kumulativni_pocet_nakazenych": 336,
+            "kumulativni_pocet_nakazenych": 337,
             "kumulativni_pocet_vylecenych": 211,
             "kumulativni_pocet_umrti": 3
         },
@@ -114879,7 +114879,7 @@
             "kraj_nuts_kod": "CZ051",
             "okres_lau_kod": "CZ0511",
             "kumulativni_pocet_nakazenych": 62,
-            "kumulativni_pocet_vylecenych": 43,
+            "kumulativni_pocet_vylecenych": 44,
             "kumulativni_pocet_umrti": 0
         },
         {
@@ -114951,7 +114951,7 @@
             "kraj_nuts_kod": "CZ053",
             "okres_lau_kod": "CZ0531",
             "kumulativni_pocet_nakazenych": 203,
-            "kumulativni_pocet_vylecenych": 146,
+            "kumulativni_pocet_vylecenych": 147,
             "kumulativni_pocet_umrti": 1
         },
         {
@@ -115014,7 +115014,7 @@
             "datum": "2020-09-03",
             "kraj_nuts_kod": "CZ063",
             "okres_lau_kod": "CZ0635",
-            "kumulativni_pocet_nakazenych": 149,
+            "kumulativni_pocet_nakazenych": 151,
             "kumulativni_pocet_vylecenych": 88,
             "kumulativni_pocet_umrti": 0
         },
@@ -115143,7 +115143,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 291,
-            "kumulativni_pocet_vylecenych": 222,
+            "kumulativni_pocet_vylecenych": 223,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -115158,7 +115158,7 @@
             "datum": "2020-09-03",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1242,
+            "kumulativni_pocet_nakazenych": 1241,
             "kumulativni_pocet_vylecenych": 1131,
             "kumulativni_pocet_umrti": 17
         },
@@ -115166,8 +115166,8 @@
             "datum": "2020-09-03",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2464,
-            "kumulativni_pocet_vylecenych": 2382,
+            "kumulativni_pocet_nakazenych": 2465,
+            "kumulativni_pocet_vylecenych": 2383,
             "kumulativni_pocet_umrti": 19
         },
         {
@@ -115198,8 +115198,8 @@
             "datum": "2020-09-04",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
-            "kumulativni_pocet_nakazenych": 5918,
-            "kumulativni_pocet_vylecenych": 4399,
+            "kumulativni_pocet_nakazenych": 5922,
+            "kumulativni_pocet_vylecenych": 4435,
             "kumulativni_pocet_umrti": 123
         },
         {
@@ -115215,14 +115215,14 @@
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ0202",
             "kumulativni_pocet_nakazenych": 240,
-            "kumulativni_pocet_vylecenych": 157,
+            "kumulativni_pocet_vylecenych": 158,
             "kumulativni_pocet_umrti": 1
         },
         {
             "datum": "2020-09-04",
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ0203",
-            "kumulativni_pocet_nakazenych": 371,
+            "kumulativni_pocet_nakazenych": 372,
             "kumulativni_pocet_vylecenych": 227,
             "kumulativni_pocet_umrti": 6
         },
@@ -115278,7 +115278,7 @@
             "datum": "2020-09-04",
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ020A",
-            "kumulativni_pocet_nakazenych": 477,
+            "kumulativni_pocet_nakazenych": 476,
             "kumulativni_pocet_vylecenych": 382,
             "kumulativni_pocet_umrti": 5
         },
@@ -115303,7 +115303,7 @@
             "kraj_nuts_kod": "CZ031",
             "okres_lau_kod": "CZ0311",
             "kumulativni_pocet_nakazenych": 216,
-            "kumulativni_pocet_vylecenych": 108,
+            "kumulativni_pocet_vylecenych": 109,
             "kumulativni_pocet_umrti": 0
         },
         {
@@ -115374,7 +115374,7 @@
             "datum": "2020-09-04",
             "kraj_nuts_kod": "CZ032",
             "okres_lau_kod": "CZ0323",
-            "kumulativni_pocet_nakazenych": 343,
+            "kumulativni_pocet_nakazenych": 344,
             "kumulativni_pocet_vylecenych": 222,
             "kumulativni_pocet_umrti": 3
         },
@@ -115495,7 +115495,7 @@
             "kraj_nuts_kod": "CZ051",
             "okres_lau_kod": "CZ0511",
             "kumulativni_pocet_nakazenych": 62,
-            "kumulativni_pocet_vylecenych": 43,
+            "kumulativni_pocet_vylecenych": 44,
             "kumulativni_pocet_umrti": 0
         },
         {
@@ -115567,7 +115567,7 @@
             "kraj_nuts_kod": "CZ053",
             "okres_lau_kod": "CZ0531",
             "kumulativni_pocet_nakazenych": 210,
-            "kumulativni_pocet_vylecenych": 146,
+            "kumulativni_pocet_vylecenych": 147,
             "kumulativni_pocet_umrti": 1
         },
         {
@@ -115630,7 +115630,7 @@
             "datum": "2020-09-04",
             "kraj_nuts_kod": "CZ063",
             "okres_lau_kod": "CZ0635",
-            "kumulativni_pocet_nakazenych": 151,
+            "kumulativni_pocet_nakazenych": 153,
             "kumulativni_pocet_vylecenych": 92,
             "kumulativni_pocet_umrti": 0
         },
@@ -115638,7 +115638,7 @@
             "datum": "2020-09-04",
             "kraj_nuts_kod": "CZ064",
             "okres_lau_kod": "CZ0641",
-            "kumulativni_pocet_nakazenych": 122,
+            "kumulativni_pocet_nakazenych": 121,
             "kumulativni_pocet_vylecenych": 52,
             "kumulativni_pocet_umrti": 0
         },
@@ -115654,7 +115654,7 @@
             "datum": "2020-09-04",
             "kraj_nuts_kod": "CZ064",
             "okres_lau_kod": "CZ0643",
-            "kumulativni_pocet_nakazenych": 265,
+            "kumulativni_pocet_nakazenych": 266,
             "kumulativni_pocet_vylecenych": 174,
             "kumulativni_pocet_umrti": 3
         },
@@ -115759,7 +115759,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 294,
-            "kumulativni_pocet_vylecenych": 224,
+            "kumulativni_pocet_vylecenych": 225,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -115774,7 +115774,7 @@
             "datum": "2020-09-04",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1248,
+            "kumulativni_pocet_nakazenych": 1247,
             "kumulativni_pocet_vylecenych": 1133,
             "kumulativni_pocet_umrti": 17
         },
@@ -115782,8 +115782,8 @@
             "datum": "2020-09-04",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2468,
-            "kumulativni_pocet_vylecenych": 2386,
+            "kumulativni_pocet_nakazenych": 2469,
+            "kumulativni_pocet_vylecenych": 2387,
             "kumulativni_pocet_umrti": 19
         },
         {
@@ -115814,9 +115814,9 @@
             "datum": "2020-09-05",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
-            "kumulativni_pocet_nakazenych": 6033,
-            "kumulativni_pocet_vylecenych": 4423,
-            "kumulativni_pocet_umrti": 125
+            "kumulativni_pocet_nakazenych": 6041,
+            "kumulativni_pocet_vylecenych": 4497,
+            "kumulativni_pocet_umrti": 126
         },
         {
             "datum": "2020-09-05",
@@ -115831,14 +115831,14 @@
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ0202",
             "kumulativni_pocet_nakazenych": 253,
-            "kumulativni_pocet_vylecenych": 158,
+            "kumulativni_pocet_vylecenych": 159,
             "kumulativni_pocet_umrti": 1
         },
         {
             "datum": "2020-09-05",
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ0203",
-            "kumulativni_pocet_nakazenych": 383,
+            "kumulativni_pocet_nakazenych": 384,
             "kumulativni_pocet_vylecenych": 227,
             "kumulativni_pocet_umrti": 6
         },
@@ -115846,7 +115846,7 @@
             "datum": "2020-09-05",
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ0204",
-            "kumulativni_pocet_nakazenych": 276,
+            "kumulativni_pocet_nakazenych": 275,
             "kumulativni_pocet_vylecenych": 190,
             "kumulativni_pocet_umrti": 1
         },
@@ -115886,7 +115886,7 @@
             "datum": "2020-09-05",
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ0209",
-            "kumulativni_pocet_nakazenych": 596,
+            "kumulativni_pocet_nakazenych": 597,
             "kumulativni_pocet_vylecenych": 441,
             "kumulativni_pocet_umrti": 4
         },
@@ -115894,7 +115894,7 @@
             "datum": "2020-09-05",
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ020A",
-            "kumulativni_pocet_nakazenych": 492,
+            "kumulativni_pocet_nakazenych": 491,
             "kumulativni_pocet_vylecenych": 382,
             "kumulativni_pocet_umrti": 5
         },
@@ -115919,7 +115919,7 @@
             "kraj_nuts_kod": "CZ031",
             "okres_lau_kod": "CZ0311",
             "kumulativni_pocet_nakazenych": 223,
-            "kumulativni_pocet_vylecenych": 108,
+            "kumulativni_pocet_vylecenych": 109,
             "kumulativni_pocet_umrti": 0
         },
         {
@@ -115990,7 +115990,7 @@
             "datum": "2020-09-05",
             "kraj_nuts_kod": "CZ032",
             "okres_lau_kod": "CZ0323",
-            "kumulativni_pocet_nakazenych": 357,
+            "kumulativni_pocet_nakazenych": 358,
             "kumulativni_pocet_vylecenych": 228,
             "kumulativni_pocet_umrti": 3
         },
@@ -116039,7 +116039,7 @@
             "kraj_nuts_kod": "CZ041",
             "okres_lau_kod": "CZ0412",
             "kumulativni_pocet_nakazenych": 151,
-            "kumulativni_pocet_vylecenych": 105,
+            "kumulativni_pocet_vylecenych": 106,
             "kumulativni_pocet_umrti": 3
         },
         {
@@ -116111,7 +116111,7 @@
             "kraj_nuts_kod": "CZ051",
             "okres_lau_kod": "CZ0511",
             "kumulativni_pocet_nakazenych": 63,
-            "kumulativni_pocet_vylecenych": 43,
+            "kumulativni_pocet_vylecenych": 44,
             "kumulativni_pocet_umrti": 0
         },
         {
@@ -116183,7 +116183,7 @@
             "kraj_nuts_kod": "CZ053",
             "okres_lau_kod": "CZ0531",
             "kumulativni_pocet_nakazenych": 219,
-            "kumulativni_pocet_vylecenych": 146,
+            "kumulativni_pocet_vylecenych": 147,
             "kumulativni_pocet_umrti": 1
         },
         {
@@ -116246,7 +116246,7 @@
             "datum": "2020-09-05",
             "kraj_nuts_kod": "CZ063",
             "okres_lau_kod": "CZ0635",
-            "kumulativni_pocet_nakazenych": 151,
+            "kumulativni_pocet_nakazenych": 155,
             "kumulativni_pocet_vylecenych": 103,
             "kumulativni_pocet_umrti": 0
         },
@@ -116254,7 +116254,7 @@
             "datum": "2020-09-05",
             "kraj_nuts_kod": "CZ064",
             "okres_lau_kod": "CZ0641",
-            "kumulativni_pocet_nakazenych": 128,
+            "kumulativni_pocet_nakazenych": 127,
             "kumulativni_pocet_vylecenych": 53,
             "kumulativni_pocet_umrti": 0
         },
@@ -116270,7 +116270,7 @@
             "datum": "2020-09-05",
             "kraj_nuts_kod": "CZ064",
             "okres_lau_kod": "CZ0643",
-            "kumulativni_pocet_nakazenych": 275,
+            "kumulativni_pocet_nakazenych": 276,
             "kumulativni_pocet_vylecenych": 176,
             "kumulativni_pocet_umrti": 3
         },
@@ -116288,7 +116288,7 @@
             "okres_lau_kod": "CZ0645",
             "kumulativni_pocet_nakazenych": 346,
             "kumulativni_pocet_vylecenych": 119,
-            "kumulativni_pocet_umrti": 3
+            "kumulativni_pocet_umrti": 4
         },
         {
             "datum": "2020-09-05",
@@ -116375,7 +116375,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 298,
-            "kumulativni_pocet_vylecenych": 224,
+            "kumulativni_pocet_vylecenych": 225,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -116390,7 +116390,7 @@
             "datum": "2020-09-05",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1256,
+            "kumulativni_pocet_nakazenych": 1255,
             "kumulativni_pocet_vylecenych": 1144,
             "kumulativni_pocet_umrti": 17
         },
@@ -116398,8 +116398,8 @@
             "datum": "2020-09-05",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2474,
-            "kumulativni_pocet_vylecenych": 2389,
+            "kumulativni_pocet_nakazenych": 2475,
+            "kumulativni_pocet_vylecenych": 2390,
             "kumulativni_pocet_umrti": 19
         },
         {
@@ -116430,9 +116430,9 @@
             "datum": "2020-09-06",
             "kraj_nuts_kod": "CZ010",
             "okres_lau_kod": "CZ0100",
-            "kumulativni_pocet_nakazenych": 6185,
-            "kumulativni_pocet_vylecenych": 4443,
-            "kumulativni_pocet_umrti": 125
+            "kumulativni_pocet_nakazenych": 6197,
+            "kumulativni_pocet_vylecenych": 4537,
+            "kumulativni_pocet_umrti": 126
         },
         {
             "datum": "2020-09-06",
@@ -116447,14 +116447,14 @@
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ0202",
             "kumulativni_pocet_nakazenych": 254,
-            "kumulativni_pocet_vylecenych": 159,
+            "kumulativni_pocet_vylecenych": 160,
             "kumulativni_pocet_umrti": 1
         },
         {
             "datum": "2020-09-06",
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ0203",
-            "kumulativni_pocet_nakazenych": 388,
+            "kumulativni_pocet_nakazenych": 389,
             "kumulativni_pocet_vylecenych": 229,
             "kumulativni_pocet_umrti": 6
         },
@@ -116510,7 +116510,7 @@
             "datum": "2020-09-06",
             "kraj_nuts_kod": "CZ020",
             "okres_lau_kod": "CZ020A",
-            "kumulativni_pocet_nakazenych": 499,
+            "kumulativni_pocet_nakazenych": 498,
             "kumulativni_pocet_vylecenych": 384,
             "kumulativni_pocet_umrti": 5
         },
@@ -116535,7 +116535,7 @@
             "kraj_nuts_kod": "CZ031",
             "okres_lau_kod": "CZ0311",
             "kumulativni_pocet_nakazenych": 225,
-            "kumulativni_pocet_vylecenych": 110,
+            "kumulativni_pocet_vylecenych": 111,
             "kumulativni_pocet_umrti": 0
         },
         {
@@ -116606,7 +116606,7 @@
             "datum": "2020-09-06",
             "kraj_nuts_kod": "CZ032",
             "okres_lau_kod": "CZ0323",
-            "kumulativni_pocet_nakazenych": 357,
+            "kumulativni_pocet_nakazenych": 358,
             "kumulativni_pocet_vylecenych": 229,
             "kumulativni_pocet_umrti": 3
         },
@@ -116655,7 +116655,7 @@
             "kraj_nuts_kod": "CZ041",
             "okres_lau_kod": "CZ0412",
             "kumulativni_pocet_nakazenych": 152,
-            "kumulativni_pocet_vylecenych": 105,
+            "kumulativni_pocet_vylecenych": 106,
             "kumulativni_pocet_umrti": 3
         },
         {
@@ -116727,7 +116727,7 @@
             "kraj_nuts_kod": "CZ051",
             "okres_lau_kod": "CZ0511",
             "kumulativni_pocet_nakazenych": 64,
-            "kumulativni_pocet_vylecenych": 43,
+            "kumulativni_pocet_vylecenych": 44,
             "kumulativni_pocet_umrti": 0
         },
         {
@@ -116743,7 +116743,7 @@
             "kraj_nuts_kod": "CZ051",
             "okres_lau_kod": "CZ0513",
             "kumulativni_pocet_nakazenych": 301,
-            "kumulativni_pocet_vylecenych": 210,
+            "kumulativni_pocet_vylecenych": 211,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -116799,7 +116799,7 @@
             "kraj_nuts_kod": "CZ053",
             "okres_lau_kod": "CZ0531",
             "kumulativni_pocet_nakazenych": 222,
-            "kumulativni_pocet_vylecenych": 146,
+            "kumulativni_pocet_vylecenych": 147,
             "kumulativni_pocet_umrti": 1
         },
         {
@@ -116862,7 +116862,7 @@
             "datum": "2020-09-06",
             "kraj_nuts_kod": "CZ063",
             "okres_lau_kod": "CZ0635",
-            "kumulativni_pocet_nakazenych": 154,
+            "kumulativni_pocet_nakazenych": 158,
             "kumulativni_pocet_vylecenych": 107,
             "kumulativni_pocet_umrti": 0
         },
@@ -116870,7 +116870,7 @@
             "datum": "2020-09-06",
             "kraj_nuts_kod": "CZ064",
             "okres_lau_kod": "CZ0641",
-            "kumulativni_pocet_nakazenych": 129,
+            "kumulativni_pocet_nakazenych": 128,
             "kumulativni_pocet_vylecenych": 53,
             "kumulativni_pocet_umrti": 0
         },
@@ -116886,7 +116886,7 @@
             "datum": "2020-09-06",
             "kraj_nuts_kod": "CZ064",
             "okres_lau_kod": "CZ0643",
-            "kumulativni_pocet_nakazenych": 280,
+            "kumulativni_pocet_nakazenych": 281,
             "kumulativni_pocet_vylecenych": 176,
             "kumulativni_pocet_umrti": 3
         },
@@ -116904,7 +116904,7 @@
             "okres_lau_kod": "CZ0645",
             "kumulativni_pocet_nakazenych": 346,
             "kumulativni_pocet_vylecenych": 119,
-            "kumulativni_pocet_umrti": 3
+            "kumulativni_pocet_umrti": 4
         },
         {
             "datum": "2020-09-06",
@@ -116991,7 +116991,7 @@
             "kraj_nuts_kod": "CZ072",
             "okres_lau_kod": "CZ0724",
             "kumulativni_pocet_nakazenych": 298,
-            "kumulativni_pocet_vylecenych": 225,
+            "kumulativni_pocet_vylecenych": 226,
             "kumulativni_pocet_umrti": 2
         },
         {
@@ -117006,7 +117006,7 @@
             "datum": "2020-09-06",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0802",
-            "kumulativni_pocet_nakazenych": 1259,
+            "kumulativni_pocet_nakazenych": 1258,
             "kumulativni_pocet_vylecenych": 1144,
             "kumulativni_pocet_umrti": 17
         },
@@ -117014,8 +117014,8 @@
             "datum": "2020-09-06",
             "kraj_nuts_kod": "CZ080",
             "okres_lau_kod": "CZ0803",
-            "kumulativni_pocet_nakazenych": 2476,
-            "kumulativni_pocet_vylecenych": 2393,
+            "kumulativni_pocet_nakazenych": 2477,
+            "kumulativni_pocet_vylecenych": 2394,
             "kumulativni_pocet_umrti": 19
         },
         {
