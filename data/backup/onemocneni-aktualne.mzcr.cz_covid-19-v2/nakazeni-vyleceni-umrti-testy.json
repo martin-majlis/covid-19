@@ -1,5 +1,5 @@
 {
-    "modified": "2020-09-17T01:05:28+02:00",
+    "modified": "2020-09-17T17:57:45+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -1600,44 +1600,44 @@
         },
         {
             "datum": "2020-09-11",
-            "kumulativni_pocet_nakazenych": 33854,
+            "kumulativni_pocet_nakazenych": 33853,
             "kumulativni_pocet_vylecenych": 21783,
             "kumulativni_pocet_umrti": 456,
             "kumulativni_pocet_testu": 1050776
         },
         {
             "datum": "2020-09-12",
-            "kumulativni_pocet_nakazenych": 35392,
+            "kumulativni_pocet_nakazenych": 35391,
             "kumulativni_pocet_vylecenych": 22049,
             "kumulativni_pocet_umrti": 462,
             "kumulativni_pocet_testu": 1063820
         },
         {
             "datum": "2020-09-13",
-            "kumulativni_pocet_nakazenych": 36183,
+            "kumulativni_pocet_nakazenych": 36182,
             "kumulativni_pocet_vylecenych": 22291,
             "kumulativni_pocet_umrti": 465,
             "kumulativni_pocet_testu": 1070911
         },
         {
             "datum": "2020-09-14",
-            "kumulativni_pocet_nakazenych": 37218,
+            "kumulativni_pocet_nakazenych": 37217,
             "kumulativni_pocet_vylecenych": 22641,
             "kumulativni_pocet_umrti": 470,
             "kumulativni_pocet_testu": 1087644
         },
         {
             "datum": "2020-09-15",
-            "kumulativni_pocet_nakazenych": 38893,
+            "kumulativni_pocet_nakazenych": 38892,
             "kumulativni_pocet_vylecenych": 22837,
             "kumulativni_pocet_umrti": 478,
             "kumulativni_pocet_testu": 1104893
         },
         {
             "datum": "2020-09-16",
-            "kumulativni_pocet_nakazenych": 41032,
+            "kumulativni_pocet_nakazenych": 41029,
             "kumulativni_pocet_vylecenych": 22928,
-            "kumulativni_pocet_umrti": 482,
+            "kumulativni_pocet_umrti": 485,
             "kumulativni_pocet_testu": 1104893
         }
     ]

@@ -1,5 +1,5 @@
 {
-    "modified": "2020-09-17T01:05:28+02:00",
+    "modified": "2020-09-17T17:57:45+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -1600,44 +1600,44 @@
         },
         {
             "datum": "2020-09-11",
-            "kumulovany_pocet_nakazenych": 33854,
+            "kumulovany_pocet_nakazenych": 33853,
             "kumulovany_pocet_vylecenych": 21783,
             "kumulovany_pocet_umrti": 456,
             "kumulovany_pocet_provedenych_testu": 1050776
         },
         {
             "datum": "2020-09-12",
-            "kumulovany_pocet_nakazenych": 35392,
+            "kumulovany_pocet_nakazenych": 35391,
             "kumulovany_pocet_vylecenych": 22049,
             "kumulovany_pocet_umrti": 462,
             "kumulovany_pocet_provedenych_testu": 1063820
         },
         {
             "datum": "2020-09-13",
-            "kumulovany_pocet_nakazenych": 36183,
+            "kumulovany_pocet_nakazenych": 36182,
             "kumulovany_pocet_vylecenych": 22291,
             "kumulovany_pocet_umrti": 465,
             "kumulovany_pocet_provedenych_testu": 1070911
         },
         {
             "datum": "2020-09-14",
-            "kumulovany_pocet_nakazenych": 37218,
+            "kumulovany_pocet_nakazenych": 37217,
             "kumulovany_pocet_vylecenych": 22641,
             "kumulovany_pocet_umrti": 470,
             "kumulovany_pocet_provedenych_testu": 1087644
         },
         {
             "datum": "2020-09-15",
-            "kumulovany_pocet_nakazenych": 38893,
+            "kumulovany_pocet_nakazenych": 38892,
             "kumulovany_pocet_vylecenych": 22837,
             "kumulovany_pocet_umrti": 478,
             "kumulovany_pocet_provedenych_testu": 1104893
         },
         {
             "datum": "2020-09-16",
-            "kumulovany_pocet_nakazenych": 41032,
+            "kumulovany_pocet_nakazenych": 41029,
             "kumulovany_pocet_vylecenych": 22928,
-            "kumulovany_pocet_umrti": 482,
+            "kumulovany_pocet_umrti": 485,
             "kumulovany_pocet_provedenych_testu": 1104893
         }
     ]
