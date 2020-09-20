@@ -1,5 +1,5 @@
 {
-    "modified": "2020-09-20T01:00:06+02:00",
+    "modified": "2020-09-20T17:55:05+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -1184,8 +1184,8 @@
         },
         {
             "datum": "2020-09-19",
-            "prirustkovy_pocet_nakazenych": 2046,
-            "kumulativni_pocet_nakazenych": 48306
+            "prirustkovy_pocet_nakazenych": 2044,
+            "kumulativni_pocet_nakazenych": 48304
         }
     ]
 }
