@@ -1,5 +1,5 @@
 {
-    "modified": "2020-09-29T17:55:15+02:00",
+    "modified": "2020-09-29T18:11:01+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -1054,52 +1054,52 @@
         },
         {
             "datum": "2020-08-24",
-            "prirustkovy_pocet_nakazenych": 258,
-            "kumulativni_pocet_nakazenych": 22173
+            "prirustkovy_pocet_nakazenych": 259,
+            "kumulativni_pocet_nakazenych": 22174
         },
         {
             "datum": "2020-08-25",
             "prirustkovy_pocet_nakazenych": 364,
-            "kumulativni_pocet_nakazenych": 22537
+            "kumulativni_pocet_nakazenych": 22538
         },
         {
             "datum": "2020-08-26",
             "prirustkovy_pocet_nakazenych": 394,
-            "kumulativni_pocet_nakazenych": 22931
+            "kumulativni_pocet_nakazenych": 22932
         },
         {
             "datum": "2020-08-27",
             "prirustkovy_pocet_nakazenych": 350,
-            "kumulativni_pocet_nakazenych": 23281
+            "kumulativni_pocet_nakazenych": 23282
         },
         {
             "datum": "2020-08-28",
             "prirustkovy_pocet_nakazenych": 484,
-            "kumulativni_pocet_nakazenych": 23765
+            "kumulativni_pocet_nakazenych": 23766
         },
         {
             "datum": "2020-08-29",
             "prirustkovy_pocet_nakazenych": 320,
-            "kumulativni_pocet_nakazenych": 24085
+            "kumulativni_pocet_nakazenych": 24086
         },
         {
             "datum": "2020-08-30",
             "prirustkovy_pocet_nakazenych": 274,
-            "kumulativni_pocet_nakazenych": 24359
+            "kumulativni_pocet_nakazenych": 24360
         },
         {
             "datum": "2020-08-31",
             "prirustkovy_pocet_nakazenych": 256,
-            "kumulativni_pocet_nakazenych": 24615
+            "kumulativni_pocet_nakazenych": 24616
         },
         {
             "datum": "2020-09-01",
             "prirustkovy_pocet_nakazenych": 499,
-            "kumulativni_pocet_nakazenych": 25114
+            "kumulativni_pocet_nakazenych": 25115
         },
         {
             "datum": "2020-09-02",
-            "prirustkovy_pocet_nakazenych": 646,
+            "prirustkovy_pocet_nakazenych": 645,
             "kumulativni_pocet_nakazenych": 25760
         },
         {
@@ -1139,12 +1139,12 @@
         },
         {
             "datum": "2020-09-10",
-            "prirustkovy_pocet_nakazenych": 1381,
-            "kumulativni_pocet_nakazenych": 32410
+            "prirustkovy_pocet_nakazenych": 1382,
+            "kumulativni_pocet_nakazenych": 32411
         },
         {
             "datum": "2020-09-11",
-            "prirustkovy_pocet_nakazenych": 1444,
+            "prirustkovy_pocet_nakazenych": 1443,
             "kumulativni_pocet_nakazenych": 33854
         },
         {
@@ -1199,38 +1199,38 @@
         },
         {
             "datum": "2020-09-22",
-            "prirustkovy_pocet_nakazenych": 2390,
-            "kumulativni_pocet_nakazenych": 53148
+            "prirustkovy_pocet_nakazenych": 2388,
+            "kumulativni_pocet_nakazenych": 53146
         },
         {
             "datum": "2020-09-23",
             "prirustkovy_pocet_nakazenych": 2305,
-            "kumulativni_pocet_nakazenych": 55453
+            "kumulativni_pocet_nakazenych": 55451
         },
         {
             "datum": "2020-09-24",
-            "prirustkovy_pocet_nakazenych": 2911,
-            "kumulativni_pocet_nakazenych": 58364
+            "prirustkovy_pocet_nakazenych": 2910,
+            "kumulativni_pocet_nakazenych": 58361
         },
         {
             "datum": "2020-09-25",
             "prirustkovy_pocet_nakazenych": 2944,
-            "kumulativni_pocet_nakazenych": 61308
+            "kumulativni_pocet_nakazenych": 61305
         },
         {
             "datum": "2020-09-26",
-            "prirustkovy_pocet_nakazenych": 1982,
-            "kumulativni_pocet_nakazenych": 63290
+            "prirustkovy_pocet_nakazenych": 1983,
+            "kumulativni_pocet_nakazenych": 63288
         },
         {
             "datum": "2020-09-27",
-            "prirustkovy_pocet_nakazenych": 1306,
-            "kumulativni_pocet_nakazenych": 64596
+            "prirustkovy_pocet_nakazenych": 1305,
+            "kumulativni_pocet_nakazenych": 64593
         },
         {
             "datum": "2020-09-28",
-            "prirustkovy_pocet_nakazenych": 1287,
-            "kumulativni_pocet_nakazenych": 65883
+            "prirustkovy_pocet_nakazenych": 1285,
+            "kumulativni_pocet_nakazenych": 65878
         }
     ]
 }
