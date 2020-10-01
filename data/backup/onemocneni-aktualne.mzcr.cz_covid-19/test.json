@@ -1,5 +1,5 @@
 {
-    "modified": "2020-09-30T18:10:50+02:00",
+    "modified": "2020-10-01T18:10:48+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -1214,28 +1214,33 @@
         },
         {
             "datum": "25.09.2020",
-            "testy-den": 22890,
-            "testy-celkem": 1310348
+            "testy-den": 22903,
+            "testy-celkem": 1310361
         },
         {
             "datum": "26.09.2020",
-            "testy-den": 15350,
-            "testy-celkem": 1325698
+            "testy-den": 15382,
+            "testy-celkem": 1325743
         },
         {
             "datum": "27.09.2020",
-            "testy-den": 10433,
-            "testy-celkem": 1336131
+            "testy-den": 10445,
+            "testy-celkem": 1336188
         },
         {
             "datum": "28.09.2020",
-            "testy-den": 12174,
-            "testy-celkem": 1348305
+            "testy-den": 12205,
+            "testy-celkem": 1348393
         },
         {
             "datum": "29.09.2020",
-            "testy-den": 17302,
-            "testy-celkem": 1365607
+            "testy-den": 18056,
+            "testy-celkem": 1366449
+        },
+        {
+            "datum": "30.09.2020",
+            "testy-den": 19696,
+            "testy-celkem": 1386145
         }
     ]
 }
