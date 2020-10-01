@@ -1,5 +1,5 @@
 {
-    "modified": "2020-09-30T18:10:51+02:00",
+    "modified": "2020-10-01T01:10:42+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -1729,6 +1729,13 @@
             "kumulovany_pocet_nakazenych": 67839,
             "kumulovany_pocet_vylecenych": 33183,
             "kumulovany_pocet_umrti": 647,
+            "kumulovany_pocet_provedenych_testu": 1365607
+        },
+        {
+            "datum": "2020-09-30",
+            "kumulovany_pocet_nakazenych": 68919,
+            "kumulovany_pocet_vylecenych": 33443,
+            "kumulovany_pocet_umrti": 655,
             "kumulovany_pocet_provedenych_testu": 1365607
         }
     ]
