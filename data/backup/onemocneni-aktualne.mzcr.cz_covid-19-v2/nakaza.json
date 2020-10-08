@@ -1,5 +1,5 @@
 {
-    "modified": "2020-10-08T01:00:20+02:00",
+    "modified": "2020-10-08T18:00:21+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -1264,18 +1264,18 @@
         },
         {
             "datum": "2020-10-05",
-            "prirustkovy_pocet_nakazenych": 3118,
-            "kumulativni_pocet_nakazenych": 85563
+            "prirustkovy_pocet_nakazenych": 3119,
+            "kumulativni_pocet_nakazenych": 85564
         },
         {
             "datum": "2020-10-06",
-            "prirustkovy_pocet_nakazenych": 4457,
-            "kumulativni_pocet_nakazenych": 90020
+            "prirustkovy_pocet_nakazenych": 4458,
+            "kumulativni_pocet_nakazenych": 90022
         },
         {
             "datum": "2020-10-07",
-            "prirustkovy_pocet_nakazenych": 5335,
-            "kumulativni_pocet_nakazenych": 95355
+            "prirustkovy_pocet_nakazenych": 5337,
+            "kumulativni_pocet_nakazenych": 95359
         }
     ]
 }
