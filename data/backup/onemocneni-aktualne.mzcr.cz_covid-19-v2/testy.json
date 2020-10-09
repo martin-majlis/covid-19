@@ -1,5 +1,5 @@
 {
-    "modified": "2020-10-08T18:01:02+02:00",
+    "modified": "2020-10-09T18:01:01+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -1234,48 +1234,53 @@
         },
         {
             "datum": "2020-09-29",
-            "prirustkovy_pocet_testu": 18284,
-            "kumulativni_pocet_testu": 1366971
+            "prirustkovy_pocet_testu": 18287,
+            "kumulativni_pocet_testu": 1366974
         },
         {
             "datum": "2020-09-30",
             "prirustkovy_pocet_testu": 21077,
-            "kumulativni_pocet_testu": 1388048
+            "kumulativni_pocet_testu": 1388051
         },
         {
             "datum": "2020-10-01",
             "prirustkovy_pocet_testu": 23897,
-            "kumulativni_pocet_testu": 1411945
+            "kumulativni_pocet_testu": 1411948
         },
         {
             "datum": "2020-10-02",
             "prirustkovy_pocet_testu": 23629,
-            "kumulativni_pocet_testu": 1435574
+            "kumulativni_pocet_testu": 1435577
         },
         {
             "datum": "2020-10-03",
             "prirustkovy_pocet_testu": 15201,
-            "kumulativni_pocet_testu": 1450775
+            "kumulativni_pocet_testu": 1450778
         },
         {
             "datum": "2020-10-04",
             "prirustkovy_pocet_testu": 7752,
-            "kumulativni_pocet_testu": 1458527
+            "kumulativni_pocet_testu": 1458530
         },
         {
             "datum": "2020-10-05",
-            "prirustkovy_pocet_testu": 17679,
-            "kumulativni_pocet_testu": 1476206
+            "prirustkovy_pocet_testu": 17714,
+            "kumulativni_pocet_testu": 1476244
         },
         {
             "datum": "2020-10-06",
-            "prirustkovy_pocet_testu": 22643,
-            "kumulativni_pocet_testu": 1498849
+            "prirustkovy_pocet_testu": 22897,
+            "kumulativni_pocet_testu": 1499141
         },
         {
             "datum": "2020-10-07",
-            "prirustkovy_pocet_testu": 17063,
-            "kumulativni_pocet_testu": 1515912
+            "prirustkovy_pocet_testu": 23506,
+            "kumulativni_pocet_testu": 1522647
+        },
+        {
+            "datum": "2020-10-08",
+            "prirustkovy_pocet_testu": 17188,
+            "kumulativni_pocet_testu": 1539835
         }
     ]
 }
