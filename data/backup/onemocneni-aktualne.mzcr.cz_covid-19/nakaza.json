@@ -1,5 +1,5 @@
 {
-    "modified": "2020-10-12T01:00:22+02:00",
+    "modified": "2020-10-12T18:00:24+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -1284,18 +1284,18 @@
         },
         {
             "datum": "2020-10-09",
-            "pocetDen": 8615,
-            "pocetCelkem": 109370
+            "pocetDen": 8616,
+            "pocetCelkem": 109371
         },
         {
             "datum": "2020-10-10",
             "pocetDen": 4636,
-            "pocetCelkem": 114006
+            "pocetCelkem": 114007
         },
         {
             "datum": "2020-10-11",
             "pocetDen": 3104,
-            "pocetCelkem": 117110
+            "pocetCelkem": 117111
         }
     ]
 }
