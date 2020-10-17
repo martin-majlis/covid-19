@@ -1,5 +1,5 @@
 {
-    "modified": "2020-10-15T01:00:29+02:00",
+    "modified": "2020-10-17T01:00:28+02:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -1289,28 +1289,38 @@
         },
         {
             "datum": "2020-10-10",
-            "prirustkovy_pocet_nakazenych": 4635,
-            "kumulativni_pocet_nakazenych": 114007
+            "prirustkovy_pocet_nakazenych": 4636,
+            "kumulativni_pocet_nakazenych": 114008
         },
         {
             "datum": "2020-10-11",
             "prirustkovy_pocet_nakazenych": 3104,
-            "kumulativni_pocet_nakazenych": 117111
+            "kumulativni_pocet_nakazenych": 117112
         },
         {
             "datum": "2020-10-12",
-            "prirustkovy_pocet_nakazenych": 4310,
+            "prirustkovy_pocet_nakazenych": 4309,
             "kumulativni_pocet_nakazenych": 121421
         },
         {
             "datum": "2020-10-13",
-            "prirustkovy_pocet_nakazenych": 8325,
-            "kumulativni_pocet_nakazenych": 129746
+            "prirustkovy_pocet_nakazenych": 8324,
+            "kumulativni_pocet_nakazenych": 129745
         },
         {
             "datum": "2020-10-14",
             "prirustkovy_pocet_nakazenych": 9544,
-            "kumulativni_pocet_nakazenych": 139290
+            "kumulativni_pocet_nakazenych": 139289
+        },
+        {
+            "datum": "2020-10-15",
+            "prirustkovy_pocet_nakazenych": 9718,
+            "kumulativni_pocet_nakazenych": 149007
+        },
+        {
+            "datum": "2020-10-16",
+            "prirustkovy_pocet_nakazenych": 11105,
+            "kumulativni_pocet_nakazenych": 160112
         }
     ]
 }
