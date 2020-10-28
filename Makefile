@@ -22,7 +22,7 @@ DIR_DERIVED_MZCR=$(DIR_DATA_DERIVED)/onemocneni-aktualne.mzcr.cz_covid-19/
 
 install: install-python-requirements
 
-download=$(PYTHON) -c "from scripts.utils import download; download('$1', '$2', 0)"
+download=$(PYTHON) -c "from scripts.utils import download; download('$1', '$2', 0); import time; time.sleep(5);"
 
 install-python-requirements:
 	$(PYTHON) -m pip install -r scripts/requirements.txt
