@@ -1,5 +1,5 @@
 {
-    "modified": "2020-10-17T01:01:11+02:00",
+    "modified": "2020-10-28T01:02:03+01:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -698,1157 +698,1234 @@
         {
             "datum": "2020-05-05",
             "kumulovany_pocet_nakazenych": 7909,
-            "kumulovany_pocet_vylecenych": 5601,
+            "kumulovany_pocet_vylecenych": 5600,
             "kumulovany_pocet_umrti": 262,
             "kumulovany_pocet_provedenych_testu": 283273
         },
         {
             "datum": "2020-05-06",
-            "kumulovany_pocet_nakazenych": 7987,
+            "kumulovany_pocet_nakazenych": 7988,
             "kumulovany_pocet_vylecenych": 5779,
             "kumulovany_pocet_umrti": 265,
             "kumulovany_pocet_provedenych_testu": 291325
         },
         {
             "datum": "2020-05-07",
-            "kumulovany_pocet_nakazenych": 8044,
+            "kumulovany_pocet_nakazenych": 8045,
             "kumulovany_pocet_vylecenych": 5947,
             "kumulovany_pocet_umrti": 269,
             "kumulovany_pocet_provedenych_testu": 298924
         },
         {
             "datum": "2020-05-08",
-            "kumulovany_pocet_nakazenych": 8090,
+            "kumulovany_pocet_nakazenych": 8091,
             "kumulovany_pocet_vylecenych": 6017,
             "kumulovany_pocet_umrti": 274,
             "kumulovany_pocet_provedenych_testu": 303434
         },
         {
             "datum": "2020-05-09",
-            "kumulovany_pocet_nakazenych": 8108,
+            "kumulovany_pocet_nakazenych": 8109,
             "kumulovany_pocet_vylecenych": 6090,
             "kumulovany_pocet_umrti": 277,
             "kumulovany_pocet_provedenych_testu": 307222
         },
         {
             "datum": "2020-05-10",
-            "kumulovany_pocet_nakazenych": 8136,
+            "kumulovany_pocet_nakazenych": 8137,
             "kumulovany_pocet_vylecenych": 6142,
             "kumulovany_pocet_umrti": 280,
             "kumulovany_pocet_provedenych_testu": 311274
         },
         {
             "datum": "2020-05-11",
-            "kumulovany_pocet_nakazenych": 8189,
+            "kumulovany_pocet_nakazenych": 8190,
             "kumulovany_pocet_vylecenych": 6271,
             "kumulovany_pocet_umrti": 282,
             "kumulovany_pocet_provedenych_testu": 319083
         },
         {
             "datum": "2020-05-12",
-            "kumulovany_pocet_nakazenych": 8234,
+            "kumulovany_pocet_nakazenych": 8235,
             "kumulovany_pocet_vylecenych": 6361,
             "kumulovany_pocet_umrti": 285,
             "kumulovany_pocet_provedenych_testu": 327838
         },
         {
             "datum": "2020-05-13",
-            "kumulovany_pocet_nakazenych": 8283,
+            "kumulovany_pocet_nakazenych": 8285,
             "kumulovany_pocet_vylecenych": 6496,
             "kumulovany_pocet_umrti": 289,
             "kumulovany_pocet_provedenych_testu": 335525
         },
         {
             "datum": "2020-05-14",
-            "kumulovany_pocet_nakazenych": 8365,
+            "kumulovany_pocet_nakazenych": 8367,
             "kumulovany_pocet_vylecenych": 6591,
             "kumulovany_pocet_umrti": 292,
             "kumulovany_pocet_provedenych_testu": 342427
         },
         {
             "datum": "2020-05-15",
-            "kumulovany_pocet_nakazenych": 8420,
+            "kumulovany_pocet_nakazenych": 8422,
             "kumulovany_pocet_vylecenych": 6671,
             "kumulovany_pocet_umrti": 294,
             "kumulovany_pocet_provedenych_testu": 349217
         },
         {
             "datum": "2020-05-16",
-            "kumulovany_pocet_nakazenych": 8470,
+            "kumulovany_pocet_nakazenych": 8472,
             "kumulovany_pocet_vylecenych": 6713,
             "kumulovany_pocet_umrti": 295,
             "kumulovany_pocet_provedenych_testu": 353414
         },
         {
             "datum": "2020-05-17",
-            "kumulovany_pocet_nakazenych": 8490,
+            "kumulovany_pocet_nakazenych": 8492,
             "kumulovany_pocet_vylecenych": 6761,
             "kumulovany_pocet_umrti": 297,
             "kumulovany_pocet_provedenych_testu": 356967
         },
         {
             "datum": "2020-05-18",
-            "kumulovany_pocet_nakazenych": 8601,
+            "kumulovany_pocet_nakazenych": 8603,
             "kumulovany_pocet_vylecenych": 6851,
             "kumulovany_pocet_umrti": 300,
             "kumulovany_pocet_provedenych_testu": 364425
         },
         {
             "datum": "2020-05-19",
-            "kumulovany_pocet_nakazenych": 8663,
+            "kumulovany_pocet_nakazenych": 8665,
             "kumulovany_pocet_vylecenych": 6903,
             "kumulovany_pocet_umrti": 302,
             "kumulovany_pocet_provedenych_testu": 372761
         },
         {
             "datum": "2020-05-20",
-            "kumulovany_pocet_nakazenych": 8737,
+            "kumulovany_pocet_nakazenych": 8739,
             "kumulovany_pocet_vylecenych": 6990,
             "kumulovany_pocet_umrti": 307,
             "kumulovany_pocet_provedenych_testu": 380279
         },
         {
             "datum": "2020-05-21",
-            "kumulovany_pocet_nakazenych": 8770,
+            "kumulovany_pocet_nakazenych": 8772,
             "kumulovany_pocet_vylecenych": 7078,
             "kumulovany_pocet_umrti": 310,
             "kumulovany_pocet_provedenych_testu": 387569
         },
         {
             "datum": "2020-05-22",
-            "kumulovany_pocet_nakazenych": 8829,
+            "kumulovany_pocet_nakazenych": 8831,
             "kumulovany_pocet_vylecenych": 7138,
             "kumulovany_pocet_umrti": 312,
             "kumulovany_pocet_provedenych_testu": 395317
         },
         {
             "datum": "2020-05-23",
-            "kumulovany_pocet_nakazenych": 8906,
+            "kumulovany_pocet_nakazenych": 8908,
             "kumulovany_pocet_vylecenych": 7177,
             "kumulovany_pocet_umrti": 313,
             "kumulovany_pocet_provedenych_testu": 400376
         },
         {
             "datum": "2020-05-24",
-            "kumulovany_pocet_nakazenych": 8971,
+            "kumulovany_pocet_nakazenych": 8973,
             "kumulovany_pocet_vylecenych": 7207,
             "kumulovany_pocet_umrti": 314,
             "kumulovany_pocet_provedenych_testu": 404225
         },
         {
             "datum": "2020-05-25",
-            "kumulovany_pocet_nakazenych": 9018,
+            "kumulovany_pocet_nakazenych": 9020,
             "kumulovany_pocet_vylecenych": 7291,
             "kumulovany_pocet_umrti": 315,
             "kumulovany_pocet_provedenych_testu": 411733
         },
         {
             "datum": "2020-05-26",
-            "kumulovany_pocet_nakazenych": 9066,
+            "kumulovany_pocet_nakazenych": 9068,
             "kumulovany_pocet_vylecenych": 7366,
             "kumulovany_pocet_umrti": 316,
             "kumulovany_pocet_provedenych_testu": 418974
         },
         {
             "datum": "2020-05-27",
-            "kumulovany_pocet_nakazenych": 9103,
+            "kumulovany_pocet_nakazenych": 9105,
             "kumulovany_pocet_vylecenych": 7447,
             "kumulovany_pocet_umrti": 316,
             "kumulovany_pocet_provedenych_testu": 425820
         },
         {
             "datum": "2020-05-28",
-            "kumulovany_pocet_nakazenych": 9157,
+            "kumulovany_pocet_nakazenych": 9159,
             "kumulovany_pocet_vylecenych": 7493,
             "kumulovany_pocet_umrti": 318,
             "kumulovany_pocet_provedenych_testu": 431833
         },
         {
             "datum": "2020-05-29",
-            "kumulovany_pocet_nakazenych": 9213,
+            "kumulovany_pocet_nakazenych": 9215,
             "kumulovany_pocet_vylecenych": 7555,
             "kumulovany_pocet_umrti": 318,
             "kumulovany_pocet_provedenych_testu": 437946
         },
         {
             "datum": "2020-05-30",
-            "kumulovany_pocet_nakazenych": 9247,
+            "kumulovany_pocet_nakazenych": 9249,
             "kumulovany_pocet_vylecenych": 7592,
             "kumulovany_pocet_umrti": 318,
             "kumulovany_pocet_provedenych_testu": 441494
         },
         {
             "datum": "2020-05-31",
-            "kumulovany_pocet_nakazenych": 9285,
+            "kumulovany_pocet_nakazenych": 9287,
             "kumulovany_pocet_vylecenych": 7611,
             "kumulovany_pocet_umrti": 318,
             "kumulovany_pocet_provedenych_testu": 443635
         },
         {
             "datum": "2020-06-01",
-            "kumulovany_pocet_nakazenych": 9319,
+            "kumulovany_pocet_nakazenych": 9321,
             "kumulovany_pocet_vylecenych": 7683,
             "kumulovany_pocet_umrti": 320,
             "kumulovany_pocet_provedenych_testu": 449356
         },
         {
             "datum": "2020-06-02",
-            "kumulovany_pocet_nakazenych": 9381,
+            "kumulovany_pocet_nakazenych": 9383,
             "kumulovany_pocet_vylecenych": 7753,
             "kumulovany_pocet_umrti": 321,
             "kumulovany_pocet_provedenych_testu": 455834
         },
         {
             "datum": "2020-06-03",
-            "kumulovany_pocet_nakazenych": 9455,
+            "kumulovany_pocet_nakazenych": 9457,
             "kumulovany_pocet_vylecenych": 7829,
             "kumulovany_pocet_umrti": 322,
             "kumulovany_pocet_provedenych_testu": 461147
         },
         {
             "datum": "2020-06-04",
-            "kumulovany_pocet_nakazenych": 9512,
+            "kumulovany_pocet_nakazenych": 9515,
             "kumulovany_pocet_vylecenych": 7880,
             "kumulovany_pocet_umrti": 325,
             "kumulovany_pocet_provedenych_testu": 466158
         },
         {
             "datum": "2020-06-05",
-            "kumulovany_pocet_nakazenych": 9547,
+            "kumulovany_pocet_nakazenych": 9550,
             "kumulovany_pocet_vylecenych": 7946,
             "kumulovany_pocet_umrti": 325,
             "kumulovany_pocet_provedenych_testu": 470331
         },
         {
             "datum": "2020-06-06",
-            "kumulovany_pocet_nakazenych": 9585,
+            "kumulovany_pocet_nakazenych": 9588,
             "kumulovany_pocet_vylecenych": 7966,
             "kumulovany_pocet_umrti": 325,
             "kumulovany_pocet_provedenych_testu": 472481
         },
         {
             "datum": "2020-06-07",
-            "kumulovany_pocet_nakazenych": 9646,
+            "kumulovany_pocet_nakazenych": 9649,
             "kumulovany_pocet_vylecenych": 7987,
             "kumulovany_pocet_umrti": 326,
             "kumulovany_pocet_provedenych_testu": 474608
         },
         {
             "datum": "2020-06-08",
-            "kumulovany_pocet_nakazenych": 9715,
+            "kumulovany_pocet_nakazenych": 9718,
             "kumulovany_pocet_vylecenych": 8037,
             "kumulovany_pocet_umrti": 326,
             "kumulovany_pocet_provedenych_testu": 479292
         },
         {
             "datum": "2020-06-09",
-            "kumulovany_pocet_nakazenych": 9769,
+            "kumulovany_pocet_nakazenych": 9772,
             "kumulovany_pocet_vylecenych": 8072,
             "kumulovany_pocet_umrti": 327,
             "kumulovany_pocet_provedenych_testu": 483844
         },
         {
             "datum": "2020-06-10",
-            "kumulovany_pocet_nakazenych": 9842,
+            "kumulovany_pocet_nakazenych": 9845,
             "kumulovany_pocet_vylecenych": 8144,
             "kumulovany_pocet_umrti": 328,
             "kumulovany_pocet_provedenych_testu": 487912
         },
         {
             "datum": "2020-06-11",
-            "kumulovany_pocet_nakazenych": 9904,
+            "kumulovany_pocet_nakazenych": 9907,
             "kumulovany_pocet_vylecenych": 8185,
             "kumulovany_pocet_umrti": 329,
             "kumulovany_pocet_provedenych_testu": 491651
         },
         {
             "datum": "2020-06-12",
-            "kumulovany_pocet_nakazenych": 9956,
+            "kumulovany_pocet_nakazenych": 9959,
             "kumulovany_pocet_vylecenych": 8240,
             "kumulovany_pocet_umrti": 330,
             "kumulovany_pocet_provedenych_testu": 495377
         },
         {
             "datum": "2020-06-13",
-            "kumulovany_pocet_nakazenych": 10009,
+            "kumulovany_pocet_nakazenych": 10012,
             "kumulovany_pocet_vylecenych": 8260,
             "kumulovany_pocet_umrti": 330,
             "kumulovany_pocet_provedenych_testu": 497029
         },
         {
             "datum": "2020-06-14",
-            "kumulovany_pocet_nakazenych": 10042,
+            "kumulovany_pocet_nakazenych": 10045,
             "kumulovany_pocet_vylecenych": 8271,
             "kumulovany_pocet_umrti": 331,
             "kumulovany_pocet_provedenych_testu": 498150
         },
         {
             "datum": "2020-06-15",
-            "kumulovany_pocet_nakazenych": 10082,
+            "kumulovany_pocet_nakazenych": 10085,
             "kumulovany_pocet_vylecenych": 8311,
             "kumulovany_pocet_umrti": 332,
             "kumulovany_pocet_provedenych_testu": 501823
         },
         {
             "datum": "2020-06-16",
-            "kumulovany_pocet_nakazenych": 10129,
+            "kumulovany_pocet_nakazenych": 10132,
             "kumulovany_pocet_vylecenych": 8364,
             "kumulovany_pocet_umrti": 333,
             "kumulovany_pocet_provedenych_testu": 505846
         },
         {
             "datum": "2020-06-17",
-            "kumulovany_pocet_nakazenych": 10180,
+            "kumulovany_pocet_nakazenych": 10183,
             "kumulovany_pocet_vylecenych": 8419,
             "kumulovany_pocet_umrti": 334,
             "kumulovany_pocet_provedenych_testu": 509882
         },
         {
             "datum": "2020-06-18",
-            "kumulovany_pocet_nakazenych": 10298,
+            "kumulovany_pocet_nakazenych": 10301,
             "kumulovany_pocet_vylecenych": 8469,
             "kumulovany_pocet_umrti": 336,
             "kumulovany_pocet_provedenych_testu": 514285
         },
         {
             "datum": "2020-06-19",
-            "kumulovany_pocet_nakazenych": 10424,
+            "kumulovany_pocet_nakazenych": 10427,
             "kumulovany_pocet_vylecenych": 8522,
             "kumulovany_pocet_umrti": 337,
             "kumulovany_pocet_provedenych_testu": 517859
         },
         {
             "datum": "2020-06-20",
-            "kumulovany_pocet_nakazenych": 10466,
+            "kumulovany_pocet_nakazenych": 10469,
             "kumulovany_pocet_vylecenych": 8536,
             "kumulovany_pocet_umrti": 338,
             "kumulovany_pocet_provedenych_testu": 519558
         },
         {
             "datum": "2020-06-21",
-            "kumulovany_pocet_nakazenych": 10516,
+            "kumulovany_pocet_nakazenych": 10519,
             "kumulovany_pocet_vylecenych": 8553,
             "kumulovany_pocet_umrti": 339,
             "kumulovany_pocet_provedenych_testu": 520871
         },
         {
             "datum": "2020-06-22",
-            "kumulovany_pocet_nakazenych": 10580,
+            "kumulovany_pocet_nakazenych": 10583,
             "kumulovany_pocet_vylecenych": 8607,
             "kumulovany_pocet_umrti": 340,
             "kumulovany_pocet_provedenych_testu": 524781
         },
         {
             "datum": "2020-06-23",
-            "kumulovany_pocet_nakazenych": 10669,
+            "kumulovany_pocet_nakazenych": 10672,
             "kumulovany_pocet_vylecenych": 8658,
             "kumulovany_pocet_umrti": 340,
             "kumulovany_pocet_provedenych_testu": 529348
         },
         {
             "datum": "2020-06-24",
-            "kumulovany_pocet_nakazenych": 10796,
+            "kumulovany_pocet_nakazenych": 10799,
             "kumulovany_pocet_vylecenych": 8736,
             "kumulovany_pocet_umrti": 344,
             "kumulovany_pocet_provedenych_testu": 533635
         },
         {
             "datum": "2020-06-25",
-            "kumulovany_pocet_nakazenych": 10889,
+            "kumulovany_pocet_nakazenych": 10892,
             "kumulovany_pocet_vylecenych": 8818,
             "kumulovany_pocet_umrti": 344,
             "kumulovany_pocet_provedenych_testu": 537682
         },
         {
             "datum": "2020-06-26",
-            "kumulovany_pocet_nakazenych": 11057,
+            "kumulovany_pocet_nakazenych": 11060,
             "kumulovany_pocet_vylecenych": 8893,
             "kumulovany_pocet_umrti": 345,
             "kumulovany_pocet_provedenych_testu": 542215
         },
         {
             "datum": "2020-06-27",
-            "kumulovany_pocet_nakazenych": 11317,
+            "kumulovany_pocet_nakazenych": 11320,
             "kumulovany_pocet_vylecenych": 8913,
             "kumulovany_pocet_umrti": 346,
             "kumulovany_pocet_provedenych_testu": 544769
         },
         {
             "datum": "2020-06-28",
-            "kumulovany_pocet_nakazenych": 11622,
+            "kumulovany_pocet_nakazenych": 11625,
             "kumulovany_pocet_vylecenych": 8930,
             "kumulovany_pocet_umrti": 346,
             "kumulovany_pocet_provedenych_testu": 547192
         },
         {
             "datum": "2020-06-29",
-            "kumulovany_pocet_nakazenych": 11823,
+            "kumulovany_pocet_nakazenych": 11826,
             "kumulovany_pocet_vylecenych": 8981,
             "kumulovany_pocet_umrti": 346,
             "kumulovany_pocet_provedenych_testu": 551677
         },
         {
             "datum": "2020-06-30",
-            "kumulovany_pocet_nakazenych": 11972,
+            "kumulovany_pocet_nakazenych": 11975,
             "kumulovany_pocet_vylecenych": 9038,
             "kumulovany_pocet_umrti": 347,
             "kumulovany_pocet_provedenych_testu": 556089
         },
         {
             "datum": "2020-07-01",
-            "kumulovany_pocet_nakazenych": 12063,
+            "kumulovany_pocet_nakazenych": 12066,
             "kumulovany_pocet_vylecenych": 9157,
             "kumulovany_pocet_umrti": 347,
             "kumulovany_pocet_provedenych_testu": 560682
         },
         {
             "datum": "2020-07-02",
-            "kumulovany_pocet_nakazenych": 12195,
+            "kumulovany_pocet_nakazenych": 12198,
             "kumulovany_pocet_vylecenych": 9246,
             "kumulovany_pocet_umrti": 348,
             "kumulovany_pocet_provedenych_testu": 565347
         },
         {
             "datum": "2020-07-03",
-            "kumulovany_pocet_nakazenych": 12334,
+            "kumulovany_pocet_nakazenych": 12337,
             "kumulovany_pocet_vylecenych": 9330,
             "kumulovany_pocet_umrti": 348,
             "kumulovany_pocet_provedenych_testu": 570456
         },
         {
             "datum": "2020-07-04",
-            "kumulovany_pocet_nakazenych": 12455,
+            "kumulovany_pocet_nakazenych": 12458,
             "kumulovany_pocet_vylecenych": 9372,
             "kumulovany_pocet_umrti": 350,
             "kumulovany_pocet_provedenych_testu": 572143
         },
         {
             "datum": "2020-07-05",
-            "kumulovany_pocet_nakazenych": 12530,
+            "kumulovany_pocet_nakazenych": 12533,
             "kumulovany_pocet_vylecenych": 9398,
             "kumulovany_pocet_umrti": 352,
             "kumulovany_pocet_provedenych_testu": 573667
         },
         {
             "datum": "2020-07-06",
-            "kumulovany_pocet_nakazenych": 12581,
+            "kumulovany_pocet_nakazenych": 12584,
             "kumulovany_pocet_vylecenych": 9435,
             "kumulovany_pocet_umrti": 353,
             "kumulovany_pocet_provedenych_testu": 575381
         },
         {
             "datum": "2020-07-07",
-            "kumulovany_pocet_nakazenych": 12699,
+            "kumulovany_pocet_nakazenych": 12702,
             "kumulovany_pocet_vylecenych": 9535,
             "kumulovany_pocet_umrti": 353,
             "kumulovany_pocet_provedenych_testu": 579540
         },
         {
             "datum": "2020-07-08",
-            "kumulovany_pocet_nakazenych": 12828,
+            "kumulovany_pocet_nakazenych": 12831,
             "kumulovany_pocet_vylecenych": 9771,
             "kumulovany_pocet_umrti": 353,
             "kumulovany_pocet_provedenych_testu": 584946
         },
         {
             "datum": "2020-07-09",
-            "kumulovany_pocet_nakazenych": 12933,
+            "kumulovany_pocet_nakazenych": 12936,
             "kumulovany_pocet_vylecenych": 9902,
             "kumulovany_pocet_umrti": 354,
             "kumulovany_pocet_provedenych_testu": 589628
         },
         {
             "datum": "2020-07-10",
-            "kumulovany_pocet_nakazenych": 13074,
+            "kumulovany_pocet_nakazenych": 13077,
             "kumulovany_pocet_vylecenych": 10048,
             "kumulovany_pocet_umrti": 354,
             "kumulovany_pocet_provedenych_testu": 594961
         },
         {
             "datum": "2020-07-11",
-            "kumulovany_pocet_nakazenych": 13127,
+            "kumulovany_pocet_nakazenych": 13130,
             "kumulovany_pocet_vylecenych": 10186,
             "kumulovany_pocet_umrti": 354,
             "kumulovany_pocet_provedenych_testu": 597282
         },
         {
             "datum": "2020-07-12",
-            "kumulovany_pocet_nakazenych": 13186,
+            "kumulovany_pocet_nakazenych": 13189,
             "kumulovany_pocet_vylecenych": 10360,
             "kumulovany_pocet_umrti": 355,
             "kumulovany_pocet_provedenych_testu": 599069
         },
         {
             "datum": "2020-07-13",
-            "kumulovany_pocet_nakazenych": 13250,
+            "kumulovany_pocet_nakazenych": 13253,
             "kumulovany_pocet_vylecenych": 10625,
             "kumulovany_pocet_umrti": 356,
             "kumulovany_pocet_provedenych_testu": 603493
         },
         {
             "datum": "2020-07-14",
-            "kumulovany_pocet_nakazenych": 13353,
+            "kumulovany_pocet_nakazenych": 13356,
             "kumulovany_pocet_vylecenych": 10780,
             "kumulovany_pocet_umrti": 358,
             "kumulovany_pocet_provedenych_testu": 608295
         },
         {
             "datum": "2020-07-15",
-            "kumulovany_pocet_nakazenych": 13487,
+            "kumulovany_pocet_nakazenych": 13490,
             "kumulovany_pocet_vylecenych": 10891,
             "kumulovany_pocet_umrti": 358,
             "kumulovany_pocet_provedenych_testu": 612989
         },
         {
             "datum": "2020-07-16",
-            "kumulovany_pocet_nakazenych": 13624,
+            "kumulovany_pocet_nakazenych": 13627,
             "kumulovany_pocet_vylecenych": 11021,
             "kumulovany_pocet_umrti": 358,
             "kumulovany_pocet_provedenych_testu": 617719
         },
         {
             "datum": "2020-07-17",
-            "kumulovany_pocet_nakazenych": 13752,
+            "kumulovany_pocet_nakazenych": 13755,
             "kumulovany_pocet_vylecenych": 11196,
             "kumulovany_pocet_umrti": 360,
             "kumulovany_pocet_provedenych_testu": 622446
         },
         {
             "datum": "2020-07-18",
-            "kumulovany_pocet_nakazenych": 13864,
+            "kumulovany_pocet_nakazenych": 13867,
             "kumulovany_pocet_vylecenych": 11267,
             "kumulovany_pocet_umrti": 360,
             "kumulovany_pocet_provedenych_testu": 624780
         },
         {
             "datum": "2020-07-19",
-            "kumulovany_pocet_nakazenych": 13955,
+            "kumulovany_pocet_nakazenych": 13958,
             "kumulovany_pocet_vylecenych": 11313,
             "kumulovany_pocet_umrti": 361,
             "kumulovany_pocet_provedenych_testu": 626610
         },
         {
             "datum": "2020-07-20",
-            "kumulovany_pocet_nakazenych": 14124,
+            "kumulovany_pocet_nakazenych": 14127,
             "kumulovany_pocet_vylecenych": 11426,
             "kumulovany_pocet_umrti": 361,
             "kumulovany_pocet_provedenych_testu": 632395
         },
         {
             "datum": "2020-07-21",
-            "kumulovany_pocet_nakazenych": 14331,
+            "kumulovany_pocet_nakazenych": 14334,
             "kumulovany_pocet_vylecenych": 11531,
             "kumulovany_pocet_umrti": 363,
             "kumulovany_pocet_provedenych_testu": 638484
         },
         {
             "datum": "2020-07-22",
-            "kumulovany_pocet_nakazenych": 14576,
+            "kumulovany_pocet_nakazenych": 14579,
             "kumulovany_pocet_vylecenych": 11633,
             "kumulovany_pocet_umrti": 365,
             "kumulovany_pocet_provedenych_testu": 645093
         },
         {
             "datum": "2020-07-23",
-            "kumulovany_pocet_nakazenych": 14807,
+            "kumulovany_pocet_nakazenych": 14810,
             "kumulovany_pocet_vylecenych": 11718,
             "kumulovany_pocet_umrti": 366,
             "kumulovany_pocet_provedenych_testu": 650650
         },
         {
             "datum": "2020-07-24",
-            "kumulovany_pocet_nakazenych": 15085,
+            "kumulovany_pocet_nakazenych": 15088,
             "kumulovany_pocet_vylecenych": 11792,
             "kumulovany_pocet_umrti": 369,
             "kumulovany_pocet_provedenych_testu": 656888
         },
         {
             "datum": "2020-07-25",
-            "kumulovany_pocet_nakazenych": 15217,
+            "kumulovany_pocet_nakazenych": 15220,
             "kumulovany_pocet_vylecenych": 11849,
             "kumulovany_pocet_umrti": 371,
             "kumulovany_pocet_provedenych_testu": 660225
         },
         {
             "datum": "2020-07-26",
-            "kumulovany_pocet_nakazenych": 15331,
+            "kumulovany_pocet_nakazenych": 15334,
             "kumulovany_pocet_vylecenych": 11903,
             "kumulovany_pocet_umrti": 372,
             "kumulovany_pocet_provedenych_testu": 662006
         },
         {
             "datum": "2020-07-27",
-            "kumulovany_pocet_nakazenych": 15525,
+            "kumulovany_pocet_nakazenych": 15528,
             "kumulovany_pocet_vylecenych": 12022,
             "kumulovany_pocet_umrti": 374,
             "kumulovany_pocet_provedenych_testu": 668533
         },
         {
             "datum": "2020-07-28",
-            "kumulovany_pocet_nakazenych": 15802,
+            "kumulovany_pocet_nakazenych": 15805,
             "kumulovany_pocet_vylecenych": 12128,
             "kumulovany_pocet_umrti": 376,
             "kumulovany_pocet_provedenych_testu": 676410
         },
         {
             "datum": "2020-07-29",
-            "kumulovany_pocet_nakazenych": 16076,
+            "kumulovany_pocet_nakazenych": 16079,
             "kumulovany_pocet_vylecenych": 12243,
             "kumulovany_pocet_umrti": 378,
             "kumulovany_pocet_provedenych_testu": 683902
         },
         {
             "datum": "2020-07-30",
-            "kumulovany_pocet_nakazenych": 16329,
+            "kumulovany_pocet_nakazenych": 16333,
             "kumulovany_pocet_vylecenych": 12385,
             "kumulovany_pocet_umrti": 380,
             "kumulovany_pocet_provedenych_testu": 691512
         },
         {
             "datum": "2020-07-31",
-            "kumulovany_pocet_nakazenych": 16560,
+            "kumulovany_pocet_nakazenych": 16564,
             "kumulovany_pocet_vylecenych": 12561,
             "kumulovany_pocet_umrti": 382,
             "kumulovany_pocet_provedenych_testu": 699690
         },
         {
             "datum": "2020-08-01",
-            "kumulovany_pocet_nakazenych": 16683,
+            "kumulovany_pocet_nakazenych": 16687,
             "kumulovany_pocet_vylecenych": 12632,
             "kumulovany_pocet_umrti": 384,
             "kumulovany_pocet_provedenych_testu": 704393
         },
         {
             "datum": "2020-08-02",
-            "kumulovany_pocet_nakazenych": 16784,
+            "kumulovany_pocet_nakazenych": 16788,
             "kumulovany_pocet_vylecenych": 12717,
             "kumulovany_pocet_umrti": 386,
             "kumulovany_pocet_provedenych_testu": 707040
         },
         {
             "datum": "2020-08-03",
-            "kumulovany_pocet_nakazenych": 16992,
+            "kumulovany_pocet_nakazenych": 16996,
             "kumulovany_pocet_vylecenych": 12927,
             "kumulovany_pocet_umrti": 388,
             "kumulovany_pocet_provedenych_testu": 714759
         },
         {
             "datum": "2020-08-04",
-            "kumulovany_pocet_nakazenych": 17279,
+            "kumulovany_pocet_nakazenych": 17283,
             "kumulovany_pocet_vylecenych": 13141,
             "kumulovany_pocet_umrti": 390,
             "kumulovany_pocet_provedenych_testu": 723152
         },
         {
             "datum": "2020-08-05",
-            "kumulovany_pocet_nakazenych": 17519,
+            "kumulovany_pocet_nakazenych": 17523,
             "kumulovany_pocet_vylecenych": 13324,
             "kumulovany_pocet_umrti": 391,
             "kumulovany_pocet_provedenych_testu": 730078
         },
         {
             "datum": "2020-08-06",
-            "kumulovany_pocet_nakazenych": 17734,
+            "kumulovany_pocet_nakazenych": 17738,
             "kumulovany_pocet_vylecenych": 13539,
             "kumulovany_pocet_umrti": 392,
             "kumulovany_pocet_provedenych_testu": 737427
         },
         {
             "datum": "2020-08-07",
-            "kumulovany_pocet_nakazenych": 18057,
+            "kumulovany_pocet_nakazenych": 18061,
             "kumulovany_pocet_vylecenych": 13790,
             "kumulovany_pocet_umrti": 392,
             "kumulovany_pocet_provedenych_testu": 746613
         },
         {
             "datum": "2020-08-08",
-            "kumulovany_pocet_nakazenych": 18230,
+            "kumulovany_pocet_nakazenych": 18234,
             "kumulovany_pocet_vylecenych": 13902,
             "kumulovany_pocet_umrti": 392,
             "kumulovany_pocet_provedenych_testu": 752101
         },
         {
             "datum": "2020-08-09",
-            "kumulovany_pocet_nakazenych": 18352,
+            "kumulovany_pocet_nakazenych": 18356,
             "kumulovany_pocet_vylecenych": 13958,
             "kumulovany_pocet_umrti": 393,
             "kumulovany_pocet_provedenych_testu": 755016
         },
         {
             "datum": "2020-08-10",
-            "kumulovany_pocet_nakazenych": 18492,
+            "kumulovany_pocet_nakazenych": 18496,
             "kumulovany_pocet_vylecenych": 14249,
             "kumulovany_pocet_umrti": 393,
             "kumulovany_pocet_provedenych_testu": 761466
         },
         {
             "datum": "2020-08-11",
-            "kumulovany_pocet_nakazenych": 18780,
+            "kumulovany_pocet_nakazenych": 18784,
             "kumulovany_pocet_vylecenych": 14495,
             "kumulovany_pocet_umrti": 395,
             "kumulovany_pocet_provedenych_testu": 769920
         },
         {
             "datum": "2020-08-12",
-            "kumulovany_pocet_nakazenych": 19069,
+            "kumulovany_pocet_nakazenych": 19073,
             "kumulovany_pocet_vylecenych": 14718,
             "kumulovany_pocet_umrti": 395,
             "kumulovany_pocet_provedenych_testu": 777678
         },
         {
             "datum": "2020-08-13",
-            "kumulovany_pocet_nakazenych": 19398,
+            "kumulovany_pocet_nakazenych": 19402,
             "kumulovany_pocet_vylecenych": 14932,
             "kumulovany_pocet_umrti": 396,
             "kumulovany_pocet_provedenych_testu": 784871
         },
         {
             "datum": "2020-08-14",
-            "kumulovany_pocet_nakazenych": 19689,
+            "kumulovany_pocet_nakazenych": 19693,
             "kumulovany_pocet_vylecenych": 15160,
             "kumulovany_pocet_umrti": 398,
             "kumulovany_pocet_provedenych_testu": 792664
         },
         {
             "datum": "2020-08-15",
-            "kumulovany_pocet_nakazenych": 19886,
+            "kumulovany_pocet_nakazenych": 19890,
             "kumulovany_pocet_vylecenych": 15261,
             "kumulovany_pocet_umrti": 400,
             "kumulovany_pocet_provedenych_testu": 797606
         },
         {
             "datum": "2020-08-16",
-            "kumulovany_pocet_nakazenych": 20007,
+            "kumulovany_pocet_nakazenych": 20011,
             "kumulovany_pocet_vylecenych": 15335,
             "kumulovany_pocet_umrti": 402,
             "kumulovany_pocet_provedenych_testu": 800478
         },
         {
             "datum": "2020-08-17",
-            "kumulovany_pocet_nakazenych": 20198,
+            "kumulovany_pocet_nakazenych": 20202,
             "kumulovany_pocet_vylecenych": 15602,
             "kumulovany_pocet_umrti": 406,
             "kumulovany_pocet_provedenych_testu": 807670
         },
         {
             "datum": "2020-08-18",
-            "kumulovany_pocet_nakazenych": 20479,
+            "kumulovany_pocet_nakazenych": 20483,
             "kumulovany_pocet_vylecenych": 15866,
             "kumulovany_pocet_umrti": 406,
             "kumulovany_pocet_provedenych_testu": 815269
         },
         {
             "datum": "2020-08-19",
-            "kumulovany_pocet_nakazenych": 20792,
+            "kumulovany_pocet_nakazenych": 20796,
             "kumulovany_pocet_vylecenych": 16126,
             "kumulovany_pocet_umrti": 409,
             "kumulovany_pocet_provedenych_testu": 822815
         },
         {
             "datum": "2020-08-20",
-            "kumulovany_pocet_nakazenych": 21038,
+            "kumulovany_pocet_nakazenych": 21042,
             "kumulovany_pocet_vylecenych": 16352,
             "kumulovany_pocet_umrti": 412,
             "kumulovany_pocet_provedenych_testu": 831033
         },
         {
             "datum": "2020-08-21",
-            "kumulovany_pocet_nakazenych": 21542,
+            "kumulovany_pocet_nakazenych": 21546,
             "kumulovany_pocet_vylecenych": 16597,
             "kumulovany_pocet_umrti": 415,
             "kumulovany_pocet_provedenych_testu": 840715
         },
         {
             "datum": "2020-08-22",
-            "kumulovany_pocet_nakazenych": 21776,
+            "kumulovany_pocet_nakazenych": 21780,
             "kumulovany_pocet_vylecenych": 16711,
             "kumulovany_pocet_umrti": 415,
             "kumulovany_pocet_provedenych_testu": 845828
         },
         {
             "datum": "2020-08-23",
-            "kumulovany_pocet_nakazenych": 21912,
+            "kumulovany_pocet_nakazenych": 21916,
             "kumulovany_pocet_vylecenych": 16793,
             "kumulovany_pocet_umrti": 418,
             "kumulovany_pocet_provedenych_testu": 848225
         },
         {
             "datum": "2020-08-24",
-            "kumulovany_pocet_nakazenych": 22171,
+            "kumulovany_pocet_nakazenych": 22175,
             "kumulovany_pocet_vylecenych": 17062,
             "kumulovany_pocet_umrti": 419,
             "kumulovany_pocet_provedenych_testu": 855621
         },
         {
             "datum": "2020-08-25",
-            "kumulovany_pocet_nakazenych": 22535,
+            "kumulovany_pocet_nakazenych": 22539,
             "kumulovany_pocet_vylecenych": 17323,
             "kumulovany_pocet_umrti": 421,
             "kumulovany_pocet_provedenych_testu": 864378
         },
         {
             "datum": "2020-08-26",
-            "kumulovany_pocet_nakazenych": 22929,
-            "kumulovany_pocet_vylecenych": 17586,
+            "kumulovany_pocet_nakazenych": 22933,
+            "kumulovany_pocet_vylecenych": 17585,
             "kumulovany_pocet_umrti": 422,
             "kumulovany_pocet_provedenych_testu": 873232
         },
         {
             "datum": "2020-08-27",
-            "kumulovany_pocet_nakazenych": 23279,
-            "kumulovany_pocet_vylecenych": 17894,
+            "kumulovany_pocet_nakazenych": 23283,
+            "kumulovany_pocet_vylecenych": 17893,
             "kumulovany_pocet_umrti": 422,
             "kumulovany_pocet_provedenych_testu": 882425
         },
         {
             "datum": "2020-08-28",
-            "kumulovany_pocet_nakazenych": 23764,
-            "kumulovany_pocet_vylecenych": 18143,
+            "kumulovany_pocet_nakazenych": 23768,
+            "kumulovany_pocet_vylecenych": 18142,
             "kumulovany_pocet_umrti": 422,
             "kumulovany_pocet_provedenych_testu": 893215
         },
         {
             "datum": "2020-08-29",
-            "kumulovany_pocet_nakazenych": 24084,
-            "kumulovany_pocet_vylecenych": 18262,
+            "kumulovany_pocet_nakazenych": 24088,
+            "kumulovany_pocet_vylecenych": 18261,
             "kumulovany_pocet_umrti": 425,
             "kumulovany_pocet_provedenych_testu": 899783
         },
         {
             "datum": "2020-08-30",
-            "kumulovany_pocet_nakazenych": 24358,
-            "kumulovany_pocet_vylecenych": 18348,
+            "kumulovany_pocet_nakazenych": 24362,
+            "kumulovany_pocet_vylecenych": 18347,
             "kumulovany_pocet_umrti": 426,
             "kumulovany_pocet_provedenych_testu": 903727
         },
         {
             "datum": "2020-08-31",
-            "kumulovany_pocet_nakazenych": 24614,
-            "kumulovany_pocet_vylecenych": 18657,
+            "kumulovany_pocet_nakazenych": 24618,
+            "kumulovany_pocet_vylecenych": 18658,
             "kumulovany_pocet_umrti": 427,
             "kumulovany_pocet_provedenych_testu": 913080
         },
         {
             "datum": "2020-09-01",
-            "kumulovany_pocet_nakazenych": 25113,
+            "kumulovany_pocet_nakazenych": 25117,
             "kumulovany_pocet_vylecenych": 18932,
             "kumulovany_pocet_umrti": 428,
             "kumulovany_pocet_provedenych_testu": 924205
         },
         {
             "datum": "2020-09-02",
-            "kumulovany_pocet_nakazenych": 25758,
+            "kumulovany_pocet_nakazenych": 25762,
             "kumulovany_pocet_vylecenych": 19237,
             "kumulovany_pocet_umrti": 428,
             "kumulovany_pocet_provedenych_testu": 936003
         },
         {
             "datum": "2020-09-03",
-            "kumulovany_pocet_nakazenych": 26434,
-            "kumulovany_pocet_vylecenych": 19577,
+            "kumulovany_pocet_nakazenych": 26437,
+            "kumulovany_pocet_vylecenych": 19578,
             "kumulovany_pocet_umrti": 431,
             "kumulovany_pocet_provedenych_testu": 947540
         },
         {
             "datum": "2020-09-04",
-            "kumulovany_pocet_nakazenych": 27231,
-            "kumulovany_pocet_vylecenych": 19897,
+            "kumulovany_pocet_nakazenych": 27234,
+            "kumulovany_pocet_vylecenych": 19902,
             "kumulovany_pocet_umrti": 434,
             "kumulovany_pocet_provedenych_testu": 961150
         },
         {
             "datum": "2020-09-05",
-            "kumulovany_pocet_nakazenych": 27736,
-            "kumulovany_pocet_vylecenych": 20051,
+            "kumulovany_pocet_nakazenych": 27739,
+            "kumulovany_pocet_vylecenych": 20057,
             "kumulovany_pocet_umrti": 439,
             "kumulovany_pocet_provedenych_testu": 968616
         },
         {
             "datum": "2020-09-06",
-            "kumulovany_pocet_nakazenych": 28146,
-            "kumulovany_pocet_vylecenych": 20163,
+            "kumulovany_pocet_nakazenych": 28149,
+            "kumulovany_pocet_vylecenych": 20169,
             "kumulovany_pocet_umrti": 442,
             "kumulovany_pocet_provedenych_testu": 973151
         },
         {
             "datum": "2020-09-07",
-            "kumulovany_pocet_nakazenych": 28707,
-            "kumulovany_pocet_vylecenych": 20551,
+            "kumulovany_pocet_nakazenych": 28710,
+            "kumulovany_pocet_vylecenych": 20566,
             "kumulovany_pocet_umrti": 444,
             "kumulovany_pocet_provedenych_testu": 984728
         },
         {
             "datum": "2020-09-08",
-            "kumulovany_pocet_nakazenych": 29868,
-            "kumulovany_pocet_vylecenych": 20867,
+            "kumulovany_pocet_nakazenych": 29871,
+            "kumulovany_pocet_vylecenych": 20884,
             "kumulovany_pocet_umrti": 449,
             "kumulovany_pocet_provedenych_testu": 1000823
         },
         {
             "datum": "2020-09-09",
-            "kumulovany_pocet_nakazenych": 31026,
-            "kumulovany_pocet_vylecenych": 21243,
+            "kumulovany_pocet_nakazenych": 31029,
+            "kumulovany_pocet_vylecenych": 21261,
             "kumulovany_pocet_umrti": 452,
             "kumulovany_pocet_provedenych_testu": 1016297
         },
         {
             "datum": "2020-09-10",
-            "kumulovany_pocet_nakazenych": 32408,
-            "kumulovany_pocet_vylecenych": 21772,
+            "kumulovany_pocet_nakazenych": 32411,
+            "kumulovany_pocet_vylecenych": 21792,
             "kumulovany_pocet_umrti": 457,
             "kumulovany_pocet_provedenych_testu": 1032595
         },
         {
             "datum": "2020-09-11",
-            "kumulovany_pocet_nakazenych": 33851,
-            "kumulovany_pocet_vylecenych": 22605,
+            "kumulovany_pocet_nakazenych": 33854,
+            "kumulovany_pocet_vylecenych": 22629,
             "kumulovany_pocet_umrti": 460,
             "kumulovany_pocet_provedenych_testu": 1051787
         },
         {
             "datum": "2020-09-12",
-            "kumulovany_pocet_nakazenych": 35388,
-            "kumulovany_pocet_vylecenych": 23285,
+            "kumulovany_pocet_nakazenych": 35391,
+            "kumulovany_pocet_vylecenych": 23324,
             "kumulovany_pocet_umrti": 466,
             "kumulovany_pocet_provedenych_testu": 1064844
         },
         {
             "datum": "2020-09-13",
-            "kumulovany_pocet_nakazenych": 36179,
-            "kumulovany_pocet_vylecenych": 23942,
+            "kumulovany_pocet_nakazenych": 36182,
+            "kumulovany_pocet_vylecenych": 23992,
             "kumulovany_pocet_umrti": 471,
             "kumulovany_pocet_provedenych_testu": 1071934
         },
         {
             "datum": "2020-09-14",
-            "kumulovany_pocet_nakazenych": 37207,
-            "kumulovany_pocet_vylecenych": 24881,
+            "kumulovany_pocet_nakazenych": 37210,
+            "kumulovany_pocet_vylecenych": 24954,
             "kumulovany_pocet_umrti": 477,
             "kumulovany_pocet_provedenych_testu": 1089427
         },
         {
             "datum": "2020-09-15",
-            "kumulovany_pocet_nakazenych": 38880,
-            "kumulovany_pocet_vylecenych": 25388,
+            "kumulovany_pocet_nakazenych": 38883,
+            "kumulovany_pocet_vylecenych": 25476,
             "kumulovany_pocet_umrti": 487,
             "kumulovany_pocet_provedenych_testu": 1109730
         },
         {
             "datum": "2020-09-16",
-            "kumulovany_pocet_nakazenych": 41013,
-            "kumulovany_pocet_vylecenych": 25717,
+            "kumulovany_pocet_nakazenych": 41016,
+            "kumulovany_pocet_vylecenych": 25810,
             "kumulovany_pocet_umrti": 494,
             "kumulovany_pocet_provedenych_testu": 1130190
         },
         {
             "datum": "2020-09-17",
-            "kumulovany_pocet_nakazenych": 44138,
-            "kumulovany_pocet_vylecenych": 26503,
+            "kumulovany_pocet_nakazenych": 44141,
+            "kumulovany_pocet_vylecenych": 26627,
             "kumulovany_pocet_umrti": 501,
             "kumulovany_pocet_provedenych_testu": 1153618
         },
         {
             "datum": "2020-09-18",
-            "kumulovany_pocet_nakazenych": 46246,
-            "kumulovany_pocet_vylecenych": 27461,
+            "kumulovany_pocet_nakazenych": 46249,
+            "kumulovany_pocet_vylecenych": 27620,
             "kumulovany_pocet_umrti": 513,
             "kumulovany_pocet_provedenych_testu": 1175188
         },
         {
             "datum": "2020-09-19",
-            "kumulovany_pocet_nakazenych": 48291,
-            "kumulovany_pocet_vylecenych": 28422,
+            "kumulovany_pocet_nakazenych": 48295,
+            "kumulovany_pocet_vylecenych": 28624,
             "kumulovany_pocet_umrti": 521,
             "kumulovany_pocet_provedenych_testu": 1190238
         },
         {
             "datum": "2020-09-20",
-            "kumulovany_pocet_nakazenych": 49276,
-            "kumulovany_pocet_vylecenych": 29530,
+            "kumulovany_pocet_nakazenych": 49279,
+            "kumulovany_pocet_vylecenych": 29776,
             "kumulovany_pocet_umrti": 527,
             "kumulovany_pocet_provedenych_testu": 1200417
         },
         {
             "datum": "2020-09-21",
-            "kumulovany_pocet_nakazenych": 50752,
-            "kumulovany_pocet_vylecenych": 30992,
+            "kumulovany_pocet_nakazenych": 50755,
+            "kumulovany_pocet_vylecenych": 31286,
             "kumulovany_pocet_umrti": 542,
             "kumulovany_pocet_provedenych_testu": 1219822
         },
         {
             "datum": "2020-09-22",
-            "kumulovany_pocet_nakazenych": 53140,
-            "kumulovany_pocet_vylecenych": 31868,
+            "kumulovany_pocet_nakazenych": 53143,
+            "kumulovany_pocet_vylecenych": 32201,
             "kumulovany_pocet_umrti": 552,
             "kumulovany_pocet_provedenych_testu": 1242203
         },
         {
             "datum": "2020-09-23",
-            "kumulovany_pocet_nakazenych": 55447,
-            "kumulovany_pocet_vylecenych": 32563,
-            "kumulovany_pocet_umrti": 573,
+            "kumulovany_pocet_nakazenych": 55449,
+            "kumulovany_pocet_vylecenych": 32923,
+            "kumulovany_pocet_umrti": 574,
             "kumulovany_pocet_provedenych_testu": 1264576
         },
         {
             "datum": "2020-09-24",
-            "kumulovany_pocet_nakazenych": 58354,
-            "kumulovany_pocet_vylecenych": 33904,
-            "kumulovany_pocet_umrti": 583,
+            "kumulovany_pocet_nakazenych": 58357,
+            "kumulovany_pocet_vylecenych": 34329,
+            "kumulovany_pocet_umrti": 584,
             "kumulovany_pocet_provedenych_testu": 1287723
         },
         {
             "datum": "2020-09-25",
-            "kumulovany_pocet_nakazenych": 61301,
-            "kumulovany_pocet_vylecenych": 35633,
-            "kumulovany_pocet_umrti": 593,
+            "kumulovany_pocet_nakazenych": 61304,
+            "kumulovany_pocet_vylecenych": 36098,
+            "kumulovany_pocet_umrti": 594,
             "kumulovany_pocet_provedenych_testu": 1310847
         },
         {
             "datum": "2020-09-26",
-            "kumulovany_pocet_nakazenych": 63282,
-            "kumulovany_pocet_vylecenych": 37098,
-            "kumulovany_pocet_umrti": 609,
+            "kumulovany_pocet_nakazenych": 63285,
+            "kumulovany_pocet_vylecenych": 37624,
+            "kumulovany_pocet_umrti": 610,
             "kumulovany_pocet_provedenych_testu": 1326232
         },
         {
             "datum": "2020-09-27",
-            "kumulovany_pocet_nakazenych": 64586,
-            "kumulovany_pocet_vylecenych": 38941,
-            "kumulovany_pocet_umrti": 625,
+            "kumulovany_pocet_nakazenych": 64589,
+            "kumulovany_pocet_vylecenych": 39561,
+            "kumulovany_pocet_umrti": 626,
             "kumulovany_pocet_provedenych_testu": 1336692
         },
         {
             "datum": "2020-09-28",
-            "kumulovany_pocet_nakazenych": 65870,
-            "kumulovany_pocet_vylecenych": 40683,
-            "kumulovany_pocet_umrti": 636,
+            "kumulovany_pocet_nakazenych": 65873,
+            "kumulovany_pocet_vylecenych": 41349,
+            "kumulovany_pocet_umrti": 637,
             "kumulovany_pocet_provedenych_testu": 1348910
         },
         {
             "datum": "2020-09-29",
-            "kumulovany_pocet_nakazenych": 67833,
-            "kumulovany_pocet_vylecenych": 42193,
-            "kumulovany_pocet_umrti": 656,
+            "kumulovany_pocet_nakazenych": 67836,
+            "kumulovany_pocet_vylecenych": 42902,
+            "kumulovany_pocet_umrti": 658,
             "kumulovany_pocet_provedenych_testu": 1367213
         },
         {
             "datum": "2020-09-30",
-            "kumulovany_pocet_nakazenych": 70759,
-            "kumulovany_pocet_vylecenych": 43261,
-            "kumulovany_pocet_umrti": 671,
+            "kumulovany_pocet_nakazenych": 70762,
+            "kumulovany_pocet_vylecenych": 44013,
+            "kumulovany_pocet_umrti": 674,
             "kumulovany_pocet_provedenych_testu": 1388293
         },
         {
             "datum": "2020-10-01",
-            "kumulovany_pocet_nakazenych": 74255,
-            "kumulovany_pocet_vylecenych": 44893,
-            "kumulovany_pocet_umrti": 698,
+            "kumulovany_pocet_nakazenych": 74258,
+            "kumulovany_pocet_vylecenych": 45705,
+            "kumulovany_pocet_umrti": 703,
             "kumulovany_pocet_provedenych_testu": 1412199
         },
         {
             "datum": "2020-10-02",
-            "kumulovany_pocet_nakazenych": 78049,
-            "kumulovany_pocet_vylecenych": 46919,
-            "kumulovany_pocet_umrti": 719,
+            "kumulovany_pocet_nakazenych": 78052,
+            "kumulovany_pocet_vylecenych": 47820,
+            "kumulovany_pocet_umrti": 724,
             "kumulovany_pocet_provedenych_testu": 1435829
         },
         {
             "datum": "2020-10-03",
-            "kumulovany_pocet_nakazenych": 80604,
-            "kumulovany_pocet_vylecenych": 48747,
-            "kumulovany_pocet_umrti": 732,
+            "kumulovany_pocet_nakazenych": 80607,
+            "kumulovany_pocet_vylecenych": 49733,
+            "kumulovany_pocet_umrti": 737,
             "kumulovany_pocet_provedenych_testu": 1451030
         },
         {
             "datum": "2020-10-04",
-            "kumulovany_pocet_nakazenych": 82444,
-            "kumulovany_pocet_vylecenych": 50627,
-            "kumulovany_pocet_umrti": 764,
+            "kumulovany_pocet_nakazenych": 82447,
+            "kumulovany_pocet_vylecenych": 51726,
+            "kumulovany_pocet_umrti": 769,
             "kumulovany_pocet_provedenych_testu": 1458796
         },
         {
             "datum": "2020-10-05",
-            "kumulovany_pocet_nakazenych": 85562,
-            "kumulovany_pocet_vylecenych": 53138,
-            "kumulovany_pocet_umrti": 791,
+            "kumulovany_pocet_nakazenych": 85565,
+            "kumulovany_pocet_vylecenych": 54383,
+            "kumulovany_pocet_umrti": 797,
             "kumulovany_pocet_provedenych_testu": 1476512
         },
         {
             "datum": "2020-10-06",
-            "kumulovany_pocet_nakazenych": 90022,
-            "kumulovany_pocet_vylecenych": 54807,
-            "kumulovany_pocet_umrti": 821,
-            "kumulovany_pocet_provedenych_testu": 1499499
+            "kumulovany_pocet_nakazenych": 90025,
+            "kumulovany_pocet_vylecenych": 56114,
+            "kumulovany_pocet_umrti": 831,
+            "kumulovany_pocet_provedenych_testu": 1499500
         },
         {
             "datum": "2020-10-07",
-            "kumulovany_pocet_nakazenych": 95361,
-            "kumulovany_pocet_vylecenych": 56015,
-            "kumulovany_pocet_umrti": 866,
-            "kumulovany_pocet_provedenych_testu": 1523463
+            "kumulovany_pocet_nakazenych": 95363,
+            "kumulovany_pocet_vylecenych": 57344,
+            "kumulovany_pocet_umrti": 880,
+            "kumulovany_pocet_provedenych_testu": 1523511
         },
         {
             "datum": "2020-10-08",
-            "kumulovany_pocet_nakazenych": 100755,
-            "kumulovany_pocet_vylecenych": 57194,
-            "kumulovany_pocet_umrti": 891,
-            "kumulovany_pocet_provedenych_testu": 1548514
+            "kumulovany_pocet_nakazenych": 100757,
+            "kumulovany_pocet_vylecenych": 58563,
+            "kumulovany_pocet_umrti": 906,
+            "kumulovany_pocet_provedenych_testu": 1548569
         },
         {
             "datum": "2020-10-09",
-            "kumulovany_pocet_nakazenych": 109372,
-            "kumulovany_pocet_vylecenych": 59173,
-            "kumulovany_pocet_umrti": 950,
-            "kumulovany_pocet_provedenych_testu": 1576067
+            "kumulovany_pocet_nakazenych": 109373,
+            "kumulovany_pocet_vylecenych": 60636,
+            "kumulovany_pocet_umrti": 966,
+            "kumulovany_pocet_provedenych_testu": 1576303
         },
         {
             "datum": "2020-10-10",
-            "kumulovany_pocet_nakazenych": 114008,
-            "kumulovany_pocet_vylecenych": 61533,
-            "kumulovany_pocet_umrti": 999,
-            "kumulovany_pocet_provedenych_testu": 1594128
+            "kumulovany_pocet_nakazenych": 114009,
+            "kumulovany_pocet_vylecenych": 63143,
+            "kumulovany_pocet_umrti": 1017,
+            "kumulovany_pocet_provedenych_testu": 1594372
         },
         {
             "datum": "2020-10-11",
-            "kumulovany_pocet_nakazenych": 117112,
-            "kumulovany_pocet_vylecenych": 64147,
-            "kumulovany_pocet_umrti": 1039,
-            "kumulovany_pocet_provedenych_testu": 1605607
+            "kumulovany_pocet_nakazenych": 117113,
+            "kumulovany_pocet_vylecenych": 65694,
+            "kumulovany_pocet_umrti": 1059,
+            "kumulovany_pocet_provedenych_testu": 1605874
         },
         {
             "datum": "2020-10-12",
-            "kumulovany_pocet_nakazenych": 121421,
-            "kumulovany_pocet_vylecenych": 64798,
-            "kumulovany_pocet_umrti": 1102,
-            "kumulovany_pocet_provedenych_testu": 1627568
+            "kumulovany_pocet_nakazenych": 121422,
+            "kumulovany_pocet_vylecenych": 68933,
+            "kumulovany_pocet_umrti": 1127,
+            "kumulovany_pocet_provedenych_testu": 1627903
         },
         {
             "datum": "2020-10-13",
-            "kumulovany_pocet_nakazenych": 129745,
-            "kumulovany_pocet_vylecenych": 65077,
-            "kumulovany_pocet_umrti": 1150,
-            "kumulovany_pocet_provedenych_testu": 1658588
+            "kumulovany_pocet_nakazenych": 129746,
+            "kumulovany_pocet_vylecenych": 70990,
+            "kumulovany_pocet_umrti": 1175,
+            "kumulovany_pocet_provedenych_testu": 1659483
         },
         {
             "datum": "2020-10-14",
-            "kumulovany_pocet_nakazenych": 139289,
-            "kumulovany_pocet_vylecenych": 65460,
-            "kumulovany_pocet_umrti": 1210,
-            "kumulovany_pocet_provedenych_testu": 1693233
+            "kumulovany_pocet_nakazenych": 139290,
+            "kumulovany_pocet_vylecenych": 72500,
+            "kumulovany_pocet_umrti": 1238,
+            "kumulovany_pocet_provedenych_testu": 1694318
         },
         {
             "datum": "2020-10-15",
-            "kumulovany_pocet_nakazenych": 149007,
-            "kumulovany_pocet_vylecenych": 65883,
-            "kumulovany_pocet_umrti": 1258,
-            "kumulovany_pocet_provedenych_testu": 1726678
+            "kumulovany_pocet_nakazenych": 149012,
+            "kumulovany_pocet_vylecenych": 75370,
+            "kumulovany_pocet_umrti": 1291,
+            "kumulovany_pocet_provedenych_testu": 1729113
         },
         {
             "datum": "2020-10-16",
-            "kumulovany_pocet_nakazenych": 160112,
-            "kumulovany_pocet_vylecenych": 66093,
-            "kumulovany_pocet_umrti": 1283,
-            "kumulovany_pocet_provedenych_testu": 1726678
+            "kumulovany_pocet_nakazenych": 160116,
+            "kumulovany_pocet_vylecenych": 79775,
+            "kumulovany_pocet_umrti": 1366,
+            "kumulovany_pocet_provedenych_testu": 1767832
+        },
+        {
+            "datum": "2020-10-17",
+            "kumulovany_pocet_nakazenych": 168828,
+            "kumulovany_pocet_vylecenych": 83826,
+            "kumulovany_pocet_umrti": 1444,
+            "kumulovany_pocet_provedenych_testu": 1797108
+        },
+        {
+            "datum": "2020-10-18",
+            "kumulovany_pocet_nakazenych": 173887,
+            "kumulovany_pocet_vylecenych": 88380,
+            "kumulovany_pocet_umrti": 1520,
+            "kumulovany_pocet_provedenych_testu": 1814347
+        },
+        {
+            "datum": "2020-10-19",
+            "kumulovany_pocet_nakazenych": 181963,
+            "kumulovany_pocet_vylecenych": 93489,
+            "kumulovany_pocet_umrti": 1622,
+            "kumulovany_pocet_provedenych_testu": 1845462
+        },
+        {
+            "datum": "2020-10-20",
+            "kumulovany_pocet_nakazenych": 193947,
+            "kumulovany_pocet_vylecenych": 97317,
+            "kumulovany_pocet_umrti": 1719,
+            "kumulovany_pocet_provedenych_testu": 1886015
+        },
+        {
+            "datum": "2020-10-21",
+            "kumulovany_pocet_nakazenych": 208915,
+            "kumulovany_pocet_vylecenych": 100094,
+            "kumulovany_pocet_umrti": 1843,
+            "kumulovany_pocet_provedenych_testu": 1931192
+        },
+        {
+            "datum": "2020-10-22",
+            "kumulovany_pocet_nakazenych": 223071,
+            "kumulovany_pocet_vylecenych": 103647,
+            "kumulovany_pocet_umrti": 1951,
+            "kumulovany_pocet_provedenych_testu": 1977582
+        },
+        {
+            "datum": "2020-10-23",
+            "kumulovany_pocet_nakazenych": 238325,
+            "kumulovany_pocet_vylecenych": 110219,
+            "kumulovany_pocet_umrti": 2063,
+            "kumulovany_pocet_provedenych_testu": 2022805
+        },
+        {
+            "datum": "2020-10-24",
+            "kumulovany_pocet_nakazenych": 250796,
+            "kumulovany_pocet_vylecenych": 110641,
+            "kumulovany_pocet_umrti": 2185,
+            "kumulovany_pocet_provedenych_testu": 2061995
+        },
+        {
+            "datum": "2020-10-25",
+            "kumulovany_pocet_nakazenych": 258097,
+            "kumulovany_pocet_vylecenych": 110924,
+            "kumulovany_pocet_umrti": 2310,
+            "kumulovany_pocet_provedenych_testu": 2083370
+        },
+        {
+            "datum": "2020-10-26",
+            "kumulovany_pocet_nakazenych": 268370,
+            "kumulovany_pocet_vylecenych": 111301,
+            "kumulovany_pocet_umrti": 2449,
+            "kumulovany_pocet_provedenych_testu": 2118316
+        },
+        {
+            "datum": "2020-10-27",
+            "kumulovany_pocet_nakazenych": 284033,
+            "kumulovany_pocet_vylecenych": 111443,
+            "kumulovany_pocet_umrti": 2547,
+            "kumulovany_pocet_provedenych_testu": 2118316
         }
     ]
 }
