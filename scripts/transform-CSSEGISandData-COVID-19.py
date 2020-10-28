@@ -13,11 +13,15 @@ from typing import Dict
 from datetime import date
 from typing import IO
 from typing import List
-
+from typing import Optional
+from typing import Tuple
+from hashlib import md5
 import requests
 
 
-def download(url: str, path: str, cache_lifetime=3600) -> IO:
+def download(url: str, path: Optional[str] = None, cache_lifetime=3600) -> IO:
+    if not path:
+        path = '/tmp/' + md5(url.encode()).hexdigest()
     if not os.path.exists(path) or os.path.getmtime(path) < time.time() - cache_lifetime:
         response = requests.get(url, allow_redirects=True)
         print(f"Downloading {url} into {path}")
@@ -63,34 +67,50 @@ COLUMN_SEX = 2
 COLUMN_REGION = 3
 
 
-# get data for Czech Republic
-czech_data = download(
-    url='https://onemocneni-aktualne.mzcr.cz/api/v1/covid-19/osoby.csv',
-    path='/tmp/osoby.csv',
+Counts = Dict[str, Dict[date, int]]
+
+
+def load_czech_data(url: str) -> Tuple[Counts, Counts, Counts, Counts]:
+    # aggregate statistics
+    by_nuts3 = defaultdict(lambda: defaultdict(int))  # type: Dict[str, Dict[date, int]]
+    by_age = defaultdict(lambda: defaultdict(int))  # type: Dict[str, Dict[date, int]]
+    by_sex = defaultdict(lambda: defaultdict(int))  # type: Dict[str, Dict[date, int]]
+    by_sex_age = defaultdict(lambda: defaultdict(int))  # type: Dict[str, Dict[date, int]]
+
+    czech_reader = csv.reader(download(url))
+    # skip header
+    next(czech_reader)
+    for line in czech_reader:
+        d = date.fromisoformat(line[COLUMN_DATE])
+        age = int(line[COLUMN_AGE])
+        sex = line[COLUMN_SEX]
+        nuts3 = line[COLUMN_REGION]
+
+        bucket = age2bucket(age)
+
+        # stats
+        by_nuts3[nuts3][d] += 1
+        by_age[bucket][d] += 1
+        by_sex[sex][d] += 1
+        by_sex_age[sex + ": " + bucket][d] += 1
+
+    return (
+        by_nuts3,
+        by_age,
+        by_sex,
+        by_sex_age,
+    )
+
+
+# load confirmed cases
+confirmed_by_nuts3, confirmed_by_age, confirmed_by_sex, confirmed_by_sex_age = load_czech_data(
+    url='https://onemocneni-aktualne.mzcr.cz/api/v1/covid-19/osoby.csv'
 )
 
-# aggregate statistics
-by_nuts3 = defaultdict(lambda: defaultdict(int))  # type: Dict[str, Dict[date, int]]
-by_age = defaultdict(lambda: defaultdict(int))  # type: Dict[str, Dict[date, int]]
-by_sex = defaultdict(lambda: defaultdict(int))  # type: Dict[str, Dict[date, int]]
-by_sex_age = defaultdict(lambda: defaultdict(int))  # type: Dict[str, Dict[date, int]]
-
-czech_reader = csv.reader(czech_data)
-# skip header
-next(czech_reader)
-for line in czech_reader:
-    d = date.fromisoformat(line[COLUMN_DATE])
-    age = int(line[COLUMN_AGE])
-    sex = line[COLUMN_SEX]
-    nuts3 = line[COLUMN_REGION]
-
-    bucket = age2bucket(age)
-
-    # stats
-    by_nuts3[nuts3][d] += 1
-    by_age[bucket][d] += 1
-    by_sex[sex][d] += 1
-    by_sex_age[sex + ": " + bucket][d] += 1
+# load deaths
+deaths_by_nuts3, deaths_by_age, deaths_by_sex, deaths_by_sex_age = load_czech_data(
+    url='https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/umrti.csv'
+)
 
 
 # PROCESS NUTS DATA
@@ -147,7 +167,7 @@ HEADER_ISO = COMMON_HEADERS + [d.isoformat() for d in DATES]
 
 
 def raw_path(name: str) -> str:
-    return 'data/CSSEGISandData-COVID-19/time_series/time_series_covid19_confirmed_' + name + '.csv'
+    return 'data/CSSEGISandData-COVID-19/time_series/time_series_covid19_' + name + '.csv'
 
 
 def transform_raw(
@@ -184,10 +204,11 @@ def transform_raw(
                 })
     print(f"Raw transformation: {name} => {path}")
 
+# transform confimed cases
 
 transform_raw(
-    name='by_nut3',
-    data=by_nuts3,
+    name='confirmed_by_nut3',
+    data=confirmed_by_nuts3,
     header=lambda k: {
         'Province/State': nuts_mapping[k][COLUMN_NUTS3],
         'Country/Region': 'Czechia',
@@ -197,8 +218,8 @@ transform_raw(
 )
 
 transform_raw(
-    name='by_age',
-    data=by_age,
+    name='confirmed_by_age',
+    data=confirmed_by_age,
     header=lambda k: {
         'Province/State': k,
         'Country/Region': 'Czechia',
@@ -208,8 +229,8 @@ transform_raw(
 )
 
 transform_raw(
-    name='by_sex',
-    data=by_sex,
+    name='confirmed_by_sex',
+    data=confirmed_by_sex,
     header=lambda k: {
         'Province/State': k,
         'Country/Region': 'Czechia',
@@ -219,8 +240,8 @@ transform_raw(
 )
 
 transform_raw(
-    name='by_sex_age',
-    data=by_sex_age,
+    name='confirmed_by_sex_age',
+    data=confirmed_by_sex_age,
     header=lambda k: {
         'Province/State': k,
         'Country/Region': 'Czechia',
@@ -229,16 +250,63 @@ transform_raw(
     },
 )
 
-cssegi_data = download(
-    url='https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv',
-    path='/tmp/CSSEGISandData__COVID-19__time_series_covid19_confirmed_global.csv',
+# transform deaths
+
+transform_raw(
+    name='deaths_by_nut3',
+    data=deaths_by_nuts3,
+    header=lambda k: {
+        'Province/State': nuts_mapping[k][COLUMN_NUTS3],
+        'Country/Region': 'Czechia',
+        'Lat': nuts_mapping[k][COLUMN_LATITUDE],
+        'Long': nuts_mapping[k][COLUMN_LONGITUDE],
+    },
 )
 
-cssegi_reader = csv.DictReader(cssegi_data)
-# skip header
-next(cssegi_reader)
+transform_raw(
+    name='deaths_by_age',
+    data=deaths_by_age,
+    header=lambda k: {
+        'Province/State': k,
+        'Country/Region': 'Czechia',
+        'Lat': '',
+        'Long': '',
+    },
+)
 
-cssegi_records = [rec for rec in cssegi_reader]  # type: List[Dict[str, str]]
+transform_raw(
+    name='deaths_by_sex',
+    data=deaths_by_sex,
+    header=lambda k: {
+        'Province/State': k,
+        'Country/Region': 'Czechia',
+        'Lat': '',
+        'Long': '',
+    },
+)
+
+transform_raw(
+    name='deaths_by_sex_age',
+    data=deaths_by_sex_age,
+    header=lambda k: {
+        'Province/State': k,
+        'Country/Region': 'Czechia',
+        'Lat': '',
+        'Long': '',
+    },
+)
+
+
+def load_cssegi_data(url: str) -> List[Dict[str, str]]:
+    cssegi_reader = csv.DictReader(download(url))
+    # skip header
+    next(cssegi_reader)
+
+    return [rec for rec in cssegi_reader]
+
+
+confirmed_cssegi_records = load_cssegi_data('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv')
+deaths_cssegi_records = load_cssegi_data('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv')
 
 
 def combine_covidtrends(
@@ -251,7 +319,7 @@ def combine_covidtrends(
 
         raw_data = [rec for rec in raw_reader]  # type: List[Dict[str, str]]
 
-        path = f'data/derived/covidtrends/time_series_covid19_confirmed_{name}_'
+        path = f'data/derived/covidtrends/time_series_covid19_{name}_'
         with open(path + 'just_czechia.csv', 'w') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=HEADER, quoting=csv.QUOTE_ALL)
             writer.writeheader()
@@ -266,10 +334,11 @@ def combine_covidtrends(
             for rec in data:
                 writer.writerow(rec)
 
+# combine confimed cases
 
 combine_covidtrends(
-    name='by_nut3',
-    data=cssegi_records,
+    name='confirmed_by_nut3',
+    data=confirmed_cssegi_records,
     modifier=lambda rec: {
         **rec,
         **{
@@ -281,8 +350,8 @@ combine_covidtrends(
 
 
 combine_covidtrends(
-    name='by_age',
-    data=cssegi_records,
+    name='confirmed_by_age',
+    data=confirmed_cssegi_records,
     modifier=lambda rec: {
         **rec,
         **{
@@ -293,8 +362,8 @@ combine_covidtrends(
 )
 
 combine_covidtrends(
-    name='by_sex',
-    data=cssegi_records,
+    name='confirmed_by_sex',
+    data=confirmed_cssegi_records,
     modifier=lambda rec: {
         **rec,
         **{
@@ -305,8 +374,59 @@ combine_covidtrends(
 )
 
 combine_covidtrends(
-    name='by_sex_age',
-    data=cssegi_records,
+    name='confirmed_by_sex_age',
+    data=confirmed_cssegi_records,
+    modifier=lambda rec: {
+        **rec,
+        **{
+            'Province/State': ' ' + rec['Country/Region'],
+            'Country/Region': ' ' + rec['Province/State'],
+        },
+    },
+)
+
+# combine deaths
+
+combine_covidtrends(
+    name='deaths_by_nut3',
+    data=deaths_cssegi_records,
+    modifier=lambda rec: {
+        **rec,
+        **{
+            'Province/State': ' ' + rec['Country/Region'],
+            'Country/Region': ' ' + rec['Province/State'],
+        },
+    },
+)
+
+
+combine_covidtrends(
+    name='deaths_by_age',
+    data=deaths_cssegi_records,
+    modifier=lambda rec: {
+        **rec,
+        **{
+            'Province/State': ' ' + rec['Country/Region'],
+            'Country/Region': ' ' + rec['Province/State'],
+        },
+    },
+)
+
+combine_covidtrends(
+    name='deaths_by_sex',
+    data=deaths_cssegi_records,
+    modifier=lambda rec: {
+        **rec,
+        **{
+            'Province/State': ' ' + rec['Country/Region'],
+            'Country/Region': ' ' + rec['Province/State'],
+        },
+    },
+)
+
+combine_covidtrends(
+    name='deaths_by_sex_age',
+    data=deaths_cssegi_records,
     modifier=lambda rec: {
         **rec,
         **{
