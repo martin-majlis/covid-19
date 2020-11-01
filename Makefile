@@ -103,12 +103,12 @@ update-data:
 	echo "BEGIN UPDATE - "`date` && \
 	$(GIT) pull && \
 	$(MAKE) download && \
-	$(GIT) commit -a -m "Automatic data update - download - $(shell date --rfc-3339=seconds -u)" && \
+	$(GIT) commit -a -q -m "Automatic data update - download - $(shell date --rfc-3339=seconds -u)" && \
 	$(GIT) push && \
 	$(MAKE) sort && \
-	$(GIT) commit -a -m "Automatic data update - sort - $(shell date --rfc-3339=seconds -u)" && \
+	$(GIT) commit -a -q -m "Automatic data update - sort - $(shell date --rfc-3339=seconds -u)" && \
 	$(GIT) push && \
 	$(MAKE) transform && \
-	$(GIT) commit -a -m "Automatic data update - transform - $(shell date --rfc-3339=seconds -u)" && \
+	$(GIT) commit -a -q -m "Automatic data update - transform - $(shell date --rfc-3339=seconds -u)" && \
 	$(GIT) push && \
 	echo "END UPDATE - "`date`
