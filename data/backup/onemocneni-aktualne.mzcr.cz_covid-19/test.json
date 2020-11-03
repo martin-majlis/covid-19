@@ -1,5 +1,5 @@
 {
-    "modified": "2020-11-02T18:02:51+01:00",
+    "modified": "2020-11-03T18:02:56+01:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -1339,68 +1339,73 @@
         },
         {
             "datum": "20.10.2020",
-            "testy-den": 40553,
-            "testy-celkem": 1886015
+            "testy-den": 40554,
+            "testy-celkem": 1886016
         },
         {
             "datum": "21.10.2020",
             "testy-den": 45182,
-            "testy-celkem": 1931197
+            "testy-celkem": 1931198
         },
         {
             "datum": "22.10.2020",
-            "testy-den": 46390,
-            "testy-celkem": 1977587
+            "testy-den": 46391,
+            "testy-celkem": 1977589
         },
         {
             "datum": "23.10.2020",
             "testy-den": 45229,
-            "testy-celkem": 2022816
+            "testy-celkem": 2022818
         },
         {
             "datum": "24.10.2020",
             "testy-den": 39190,
-            "testy-celkem": 2062006
+            "testy-celkem": 2062008
         },
         {
             "datum": "25.10.2020",
             "testy-den": 21561,
-            "testy-celkem": 2083567
+            "testy-celkem": 2083569
         },
         {
             "datum": "26.10.2020",
             "testy-den": 35401,
-            "testy-celkem": 2118968
+            "testy-celkem": 2118970
         },
         {
             "datum": "27.10.2020",
             "testy-den": 47455,
-            "testy-celkem": 2166423
+            "testy-celkem": 2166425
         },
         {
             "datum": "28.10.2020",
             "testy-den": 39847,
-            "testy-celkem": 2206270
+            "testy-celkem": 2206272
         },
         {
             "datum": "29.10.2020",
-            "testy-den": 39915,
+            "testy-den": 39913,
             "testy-celkem": 2246185
         },
         {
             "datum": "30.10.2020",
-            "testy-den": 45672,
-            "testy-celkem": 2291857
+            "testy-den": 45738,
+            "testy-celkem": 2291923
         },
         {
             "datum": "31.10.2020",
-            "testy-den": 35894,
-            "testy-celkem": 2327751
+            "testy-den": 35919,
+            "testy-celkem": 2327842
         },
         {
             "datum": "01.11.2020",
-            "testy-den": 20411,
-            "testy-celkem": 2348162
+            "testy-den": 20412,
+            "testy-celkem": 2348254
+        },
+        {
+            "datum": "02.11.2020",
+            "testy-den": 30874,
+            "testy-celkem": 2379128
         }
     ]
 }
