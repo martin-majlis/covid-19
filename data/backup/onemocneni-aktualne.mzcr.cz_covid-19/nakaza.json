@@ -1,5 +1,5 @@
 {
-    "modified": "2020-11-03T18:01:06+01:00",
+    "modified": "2020-11-04T01:01:04+01:00",
     "source": "https:\/\/onemocneni-aktualne.mzcr.cz\/",
     "data": [
         {
@@ -1319,93 +1319,98 @@
         },
         {
             "datum": "2020-10-16",
-            "pocetDen": 11104,
-            "pocetCelkem": 160122
+            "pocetDen": 11105,
+            "pocetCelkem": 160123
         },
         {
             "datum": "2020-10-17",
             "pocetDen": 8713,
-            "pocetCelkem": 168835
+            "pocetCelkem": 168836
         },
         {
             "datum": "2020-10-18",
             "pocetDen": 5060,
-            "pocetCelkem": 173895
+            "pocetCelkem": 173896
         },
         {
             "datum": "2020-10-19",
             "pocetDen": 8076,
-            "pocetCelkem": 181971
+            "pocetCelkem": 181972
         },
         {
             "datum": "2020-10-20",
             "pocetDen": 11984,
-            "pocetCelkem": 193955
+            "pocetCelkem": 193956
         },
         {
             "datum": "2020-10-21",
             "pocetDen": 14969,
-            "pocetCelkem": 208924
+            "pocetCelkem": 208925
         },
         {
             "datum": "2020-10-22",
             "pocetDen": 14156,
-            "pocetCelkem": 223080
+            "pocetCelkem": 223081
         },
         {
             "datum": "2020-10-23",
             "pocetDen": 15253,
-            "pocetCelkem": 238333
+            "pocetCelkem": 238334
         },
         {
             "datum": "2020-10-24",
             "pocetDen": 12471,
-            "pocetCelkem": 250804
+            "pocetCelkem": 250805
         },
         {
             "datum": "2020-10-25",
             "pocetDen": 7301,
-            "pocetCelkem": 258105
+            "pocetCelkem": 258106
         },
         {
             "datum": "2020-10-26",
             "pocetDen": 10273,
-            "pocetCelkem": 268378
+            "pocetCelkem": 268379
         },
         {
             "datum": "2020-10-27",
             "pocetDen": 15664,
-            "pocetCelkem": 284042
+            "pocetCelkem": 284043
         },
         {
             "datum": "2020-10-28",
             "pocetDen": 12978,
-            "pocetCelkem": 297020
+            "pocetCelkem": 297021
         },
         {
             "datum": "2020-10-29",
             "pocetDen": 13051,
-            "pocetCelkem": 310071
+            "pocetCelkem": 310072
         },
         {
             "datum": "2020-10-30",
             "pocetDen": 13606,
-            "pocetCelkem": 323677
+            "pocetCelkem": 323678
         },
         {
             "datum": "2020-10-31",
             "pocetDen": 11428,
-            "pocetCelkem": 335105
+            "pocetCelkem": 335106
         },
         {
             "datum": "2020-11-01",
             "pocetDen": 6551,
-            "pocetCelkem": 341656
+            "pocetCelkem": 341657
         },
         {
             "datum": "2020-11-02",
             "pocetDen": 9240,
-            "pocetCelkem": 350896
+            "pocetCelkem": 350897
+        },
+        {
+            "datum": "2020-11-03",
+            "pocetDen": 12088,
+            "pocetCelkem": 362985
         }
     ]
 }
