@@ -102,13 +102,19 @@ transform: transform-CSSEGISandData-COVID transform-oa-mzcr-covid
 update-data:
 	echo "BEGIN UPDATE - "`date` && \
 	$(GIT) pull && \
+	echo "DOWNLOADING - "`date` && \
 	$(MAKE) download && \
+	$(GIT) status && \
 	$(GIT) commit -a -q -m "Automatic data update - download - $(shell date --rfc-3339=seconds -u)" && \
 	$(GIT) push && \
+	echo "SORTING - "`date` && \
 	$(MAKE) sort && \
+	$(GIT) status && \
 	$(GIT) commit -a -q -m "Automatic data update - sort - $(shell date --rfc-3339=seconds -u)" && \
 	$(GIT) push && \
+	echo "TRANSFORMING - "`date` && \
 	$(MAKE) transform && \
+	$(GIT) status && \
 	$(GIT) commit -a -q -m "Automatic data update - transform - $(shell date --rfc-3339=seconds -u)" && \
 	$(GIT) push && \
 	echo "END UPDATE - "`date`
