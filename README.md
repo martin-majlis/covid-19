@@ -1,21 +1,6 @@
 # COVID-19
 
-## Postup
+Tento repozitář se již nepoužíva. 
 
-1. Ziskej NUTS data
-    1. [Klasifikace CZ-NUTS](https://www.czso.cz/csu/czso/klasifikace-uzemnich-statistickych-jednotek-cz-nuts)
-    2. Prekonvertovat PDF na [CSV](data/support/nuts-raw.csv)
-    3. Pridat souradnice [CSV](data/support/nuts-enriched.csv) pomoci `make nuts-enrichment`
-
-2. Transformuj data
-    1. Pouzij [skript](scripts/transform-CSSEGISandData-COVID-19.py)
-    1. Data v [CSSEGIS](data/CSSEGISandData-COVID-19/time_series) formatu pro CR
-    2. Data v [covidtrends](data/derived/covidtrends) formatu pro CR
-
-3. Zobraz data:
-    1. https://martin.majlis.cz/covidtrends/
-
-## Data
-
-* https://github.com/CSSEGISandData/COVID-19/
-* https://onemocneni-aktualne.mzcr.cz/api/v1/covid-19
+* Zdrojové kody a historie je dostupná na GitLabu - [https://gitlab.com/martin.majlis/covid-19](https://gitlab.com/martin.majlis/covid-19). 
+* Web [https://martin.majlis.cz/covidtrends/](https://martin.majlis.cz/covidtrends/) načítá data z [https://covid-19-data.mysleniprozivot.cz/](https://covid-19-data.mysleniprozivot.cz/) kvůli CORS hlavičkám na GitLabu.
